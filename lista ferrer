@@ -1,0 +1,171 @@
+#EXTM3U tvg-shift=0
+#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal de las Estrellas HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Foro TV HD" tvg-name="Foro TV HD" tvg-logo="foro-tv-hd.gif" tvg-shift=0 group-title="Nacionales MX",Foro TV HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="canal-5-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal 5 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="azteca-7.gif" tvg-shift=0 group-title="Nacionales MX",Azteca 7
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT01MyZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="gala-tv.gif" tvg-shift=0 group-title="Nacionales MX",Gala TV
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT01NyZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="once-tv.gif" tvg-shift=0 group-title="Nacionales MX",Canal 11
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02MSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="el-trece.gif" tvg-shift=0 group-title="Nacionales MX",El Trece HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="proyecto-40.gif" tvg-shift=0 group-title="Nacionales MX",Proyecto 40
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Canal Caracol de Colombia" tvg-name="Canal Caracol de Colombia" tvg-shift=-5 group-title="Nacionales CO",Caracol
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="fox.gif" tvg-shift=0 group-title="Series",Fox HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="sony-hd.gif" tvg-shift=0 group-title="Series",Sony HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="warner-hd.gif" tvg-shift=0 group-title="Series",Warner HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05MyZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="universal-hd.gif" tvg-shift=0 group-title="Series",Universal HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05NyZsYW49MiZyb3dzPTIwJnNlc3M24wM2d4OWNrZmd1aTgy&f=.m3u8
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="fx-hd.gif" tvg-shift=0 group-title="Series",FX HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="ae.gif" tvg-shift=-5 group-title="Series",A&E HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="axn-hd.gif" tvg-shift=0 group-title="Series",AXN HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="TruTV HD" tvg-name="Tru TVHD" tvg-logo="trutv-hd.gif" tvg-shift=0 group-title="Realities",Tru TV HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="comedy-central-hd.gif" tvg-shift=0 group-title="Comedia",Comedy Central HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="bbc-entertainment.gif" tvg-shift=0 group-title="Series",BBC Entertainment
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="e-entertainment-television.gif" tvg-shift=0 group-title="Series",E! Entertainment Television
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="syfy.gif" tvg-shift=0 group-title="Series",SyFy
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="investigacion-discovery.gif" tvg-shift=0 group-title="Series",Investigación Discovery
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="tnt-series.gif" tvg-shift=0 group-title="Series",TNT Series
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="el-gourmet.gif" tvg-shift=0 group-title="Realities",El Gourmet
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="fox-life.gif" tvg-shift=0 group-title="Realities",Fox Life
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Casa Club" tvg-name="Casa Club" tvg-logo="fox-life.gif" tvg-shift=0 group-title="Realities",Casa Club
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="distrito-comedia.gif" tvg-shift=0 group-title="Comedia",Distrito Comedia
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="tbs.gif" tvg-shift=0 group-title="Comedia",TBS
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="tlnovelas.gif" tvg-shift=0 group-title="Telenovelas",TLnovelas
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="discovery-kids.gif" tvg-shift=0 group-title="Dibujos Animados",Discovery Kids
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.gif" tvg-shift=0 group-title="Dibujos Animados",CBeebies
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="disney-jr.gif" tvg-shift=0 group-title="Dibujos Animados",Disney Junior
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="nick-jr.gif" tvg-shift=0 group-title="Dibujos Animados",Nick Jr.
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="" tvg-shift=-5 group-title="Dibujos Animados",Nicktoons
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="disney-channel.gif" tvg-shift=0 group-title="Dibujos Animados",Disney Channel
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="nick-hd.gif" tvg-shift=0 group-title="Dibujos Animados",Nick HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="cartoon-network.gif" tvg-shift=0 group-title="Dibujos Animados",Cartoon Network
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="disney-xd.gif" tvg-shift=0 group-title="Dibujos Animados",Disney XD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.gif" tvg-shift=0 group-title="Dibujos Animados",Boomerang
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="tiin.gif" tvg-shift=0 group-title="Dibujos Animados",Tiin
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.gif" tvg-shift=0 group-title="Dibujos Animados",Tooncast
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="HD Theater" tvg-name="HD Theater" tvg-logo="hd-theater.gif" tvg-shift=0 group-title="Documentales",HD Theater
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history-hd.gif" tvg-shift=0 group-title="Documentales",History HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="history-hd.gif" tvg-shift=0 group-title="Documentales",National Geographic
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="discovery-world-hd.gif" tvg-shift=0 group-title="Documentales",Discovery World HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="discovery-channel.gif" tvg-shift=0 group-title="Documentales",Discovery Channel
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="animal-planet.gif" tvg-shift=0 group-title="Documentales",Animal Planet
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="home-and-health.gif" tvg-shift=0 group-title="Documentales",Home and Health
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="lifetime.gif" tvg-shift=0 group-title="Documentales",Lifetime
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="discovery-science.gif" tvg-shift=0 group-title="Documentales",Discovery Science
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="discovery-civilization.gif" tvg-shift=0 group-title="Documentales",Discovery Civilization
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="discovery-turbo.gif" tvg-shift=0 group-title="Documentales",Discovery Turbo
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="wobi-tv.gif" tvg-shift=0 group-title="Documentales",Wobi TV
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="fox-1-hd.gif" tvg-shift=0 group-title="Cine",Fox 1 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="fox-action-hd.gif" tvg-shift=0 group-title="Cine",Fox Action HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="fox-movies-hd.gif" tvg-shift=0 group-title="Cine",Fox Movies HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="fox-cinema.gif" tvg-shift=0 group-title="Cine",Fox Cinéma
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Family" tvg-name="Fox Family" tvg-logo="fox-family-e.gif" tvg-shift=0 group-title="Cine",Fox Family
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="fox-classics.gif" tvg-shift=0 group-title="Cine",Fox Classics
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="cinecanal-hd.gif" tvg-shift=0 group-title="Cine",Cinecanal
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="cinecanal-hd.gif" tvg-shift=0 group-title="Cine",Cinecanal HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="tnt-hd.gif" tvg-shift=0 group-title="Cine",TNT HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="golden-hd.gif" tvg-shift=0 group-title="Cine",Golden HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="the-film-zone-hd.gif" tvg-shift=0 group-title="Cine",The Film Zone HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="De Película HD" tvg-name="De Película HD" tvg-logo="de-pelicula-hd.gif" tvg-shift=0 group-title="Cine",De Película HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="amc-hd.gif" tvg-shift=0 group-title="Cine",AMC HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="space-hd.gif" tvg-shift=0 group-title="Cine",Space HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="cinemax-w.gif" tvg-shift=0 group-title="Cine",Cinemax
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="golden-edge.gif" tvg-shift=0 group-title="Cine",Golden Edge
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="studio-universal.gif" tvg-shift=0 group-title="Cine",Studio Universal
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="isat.gif" tvg-shift=0 group-title="Cine",I.Sat
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="tcm.gif" tvg-shift=0 group-title="Cine",TCM
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="espn-hd.gif" tvg-shift=0 group-title="Deportes",ESPN HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.gif" tvg-shift=0 group-title="Deportes",ESPN
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="espn-2.gif" tvg-shift=0 group-title="Deportes",ESPN 2
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="espn-3.gif" tvg-shift=0 group-title="Deportes",ESPN 3 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="Fox Sports HD" tvg-logo="fox-sports-hd.gif" tvg-shift=0 group-title="Deportes",Fox Sports HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="fox-sports-2-hd.gif" tvg-shift=0 group-title="Deportes",Fox Sports 2 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="mtv-live-hd.gif" tvg-shift=0 group-title="Música",MTV Live HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="telehit-hd.gif" tvg-shift=0 group-title="Música",Telehit HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="vh1-hd.gif" tvg-shift=0 group-title="Música",VH1 HD
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.gif" tvg-shift=0 group-title="Música",MTV
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="ritmoson-latino.gif" tvg-shift=0 group-title="Música",Ritmoson Latino
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.gif" tvg-shift=0 group-title="Música",Bandamax
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-shift=-5 group-title="Música",MTV Hits
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
