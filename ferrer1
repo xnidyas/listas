@@ -1,5 +1,5 @@
 #EXTM3U tvg-shift=0
-#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal de las Estrellas HD ferrer1
+#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal de las EstrellasHD http://bit.ly/1ecjAEQ
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
 #EXTINF:-1 tvg-id="Foro TV HD" tvg-name="Foro TV HD" tvg-logo="foro-tv-hd.gif" tvg-shift=0 group-title="Nacionales MX",Foro TV HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
