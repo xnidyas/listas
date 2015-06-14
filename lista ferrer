@@ -167,5 +167,5 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDImb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.gif" tvg-shift=0 group-title="Música",Bandamax
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-shift=-5 group-title="Música",MTV Hits
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-shift=-5 group-title="Música",MTV Hits ferrer
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
