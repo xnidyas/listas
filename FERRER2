@@ -36,18 +36,6 @@ http://e387.enterprise.fastwebserver.de/live?channelId=354&uid=2632&deviceUser=x
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="CINECANAL", Cinecanal + HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1 group-title="SHOWTIME", SHOWTIME HD
-http://142.4.216.60:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:-1 group-title="SHOWTIME", SHOWTIME HD WEST
-http://31.220.41.103:80/LiveEdge/ShowtimeWestUS/chunklist_w514349824_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
-#EXTINF:-1 group-title="SHOWTIME", SHOWTIME HD EAST
-http://31.220.41.107:80/LiveEdge/ShowtimeShowcaseEastUS/chunklist_w558093061_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
-#EXTINF:-1 group-title="SHOWTIME", SHOWTIME EXTREME USA
-http://31.220.41.103:80/LiveEdge/ShowtimeExtremeEastUS/chunklist_w597992924_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
-#EXTINF:-1 group-title="SHOWTIME", SHOWTIME BEYOND
-http://31.220.41.107/LiveEdge/ShowtimeBeyondEastUS/chunklist_w1863492743_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
-#EXTINF:-1 group-title="SHOWTIME", SHOWTIME NEXT
-http://31.220.2.220:80/LiveEdge/ShowtimeNextUS/chunklist_w973847094_b1000000.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
 #EXTINF:-1 group-title="HBO",HBO2 1
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1 group-title="HBO",HB0 1
