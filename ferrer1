@@ -1,30 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal de las EstrellasHD http://bit.ly/1ecjAEQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Foro TV HD" tvg-name="Foro TV HD" tvg-logo="foro-tv-hd.gif" tvg-shift=0 group-title="Nacionales MX",Foro TV HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Canal 5 HD" tvg-name="Canal 5 HD" tvg-logo="canal-5-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal 5 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="azteca-7.gif" tvg-shift=0 group-title="Nacionales MX",Azteca 7
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT01MyZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Gala TV" tvg-name="Gala TV" tvg-logo="gala-tv.gif" tvg-shift=0 group-title="Nacionales MX",Gala TV
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT01NyZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="once-tv.gif" tvg-shift=0 group-title="Nacionales MX",Canal 11
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02MSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="el-trece.gif" tvg-shift=0 group-title="Nacionales MX",El Trece HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="proyecto-40.gif" tvg-shift=0 group-title="Nacionales MX",Proyecto 40
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Canal Caracol de Colombia" tvg-name="Canal Caracol de Colombia" tvg-shift=-5 group-title="Nacionales CO",Caracol
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="fox.gif" tvg-shift=0 group-title="Series",Fox HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="sony-hd.gif" tvg-shift=0 group-title="Series",Sony HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="warner-hd.gif" tvg-shift=0 group-title="Series",Warner HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05MyZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="universal-hd.gif" tvg-shift=0 group-title="Series",Universal HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05NyZsYW49MiZyb3dzPTIwJnNlc3M24wM2d4OWNrZmd1aTgy&f=.m3u8
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="fx-hd.gif" tvg-shift=0 group-title="Series",FX HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="ae.gif" tvg-shift=-5 group-title="Series",A&E HD
