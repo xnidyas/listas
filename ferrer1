@@ -754,4 +754,7 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTMmb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WARNER HD wOTM
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+#EXTINF:-1 group-title=”LINK PASTEBIN”,--------------------PASTEBIN------------------
+http://pastebin.com/raw?i=DrRsNJGW
+
 
