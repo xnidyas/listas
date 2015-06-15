@@ -164,18 +164,10 @@ rtmp://live-edge01.telecentro.net.ar:1935/live/13hd-180
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA",beIN SPORTS en Español HD
 http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
-#EXTINF:-1 group-title="COPA AMERICA",Bolivia TV
-rtmp://212-133.livestream.com:8080/livestreamiphone/10468276_3485826_938b9ce5_1_198@123363
-#EXTINF:-1 group-title="COPA AMERICA",Bolivia TV
-rtsp://212-133.livestream.com:8080/livestreamiphone/10468276_3485826_938b9ce5_1_198@123363
 #EXTINF:-1 group-title="COPA AMERICA",Canal Azteca Mexico
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1 group-title="COPA AMERICA",Channel 3 Thailand
 rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch41 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
-#EXTINF:-1 group-title="COPA AMERICA",Channel 3HD Thailand
-rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch43 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
-#EXTINF:-1 group-title="COPA AMERICA",Kompas Tv Indonesia
-rtmp://$OPT:rtmp-raw=rtmp://202.137.11.52/jakarta playpath=offair.sdp swfUrl=http://www.kompas.tv/live/new/js/player.swf pageUrl=http://www.kompas.tv/live/
 #EXTINF:-1 group-title="COPA AMERICA",GAZZETTA TV Italy
 http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="COPA AMERICA",Premier Sports UK
