@@ -137,29 +137,16 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05MyZsY
 rtmp://cdn.totalplay.tv/stream playpath=z00099.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
 #EXTINF:-1 group-title="movies", UNIVERSAL HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05NyZsYW49MiZyb3dzPTIwJnNlc3Npb249Ymh6aDM2MXFhOGZmemYy&f=.m3u8
-#EXTINF:-1 group-title="movies",UNIVERSAL LATINO HD
 #EXTINF:-1 group-title="movies", Film4
-http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
-#EXTINF:-1 group-title="movies", Horror Channel
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
-#EXTINF:-1 group-title="movies", CLUB TERROR
-rtmp://198.255.0.18:443/live?Nq0rIwCJKPUpIR2cj2n51ahSdqw3nMes playpath=live_club_terror swfUrl=http://vaughnlive.tv/4300023705/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/club_terror
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8
 #EXTINF:-1 group-title="movies", RT Documentary HD
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="movies", DE PELICULA HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="movies", I.Sat
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1 group-title="movies", TCM
+#EXTINF:-1 group-title="movies", ESPN HD YEAAAA
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1 group-title="movies", HOLLYWOOD
-http://2.136.169.59:8088/udp/239.0.0.16:8208
-#EXTINF:-1 group-title="movies", HOLLYWOOD HD
-http://81.37.13.81:4022/udp/239.0.5.76:8208?ffPreset=ultrafast
-#EXTINF:-1 group-title="movies", MOVIE MIX
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
-#EXTINF:-1 group-title="movies", MOVIES 4 MEN
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
 #EXTINF:-1 group-title="movies", PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="movies", CBS ACTION
