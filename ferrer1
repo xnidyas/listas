@@ -1,4 +1,4 @@
-#EXTM3U tvg-shift=0
+#EXTM3U 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="canal-2-hd.gif" tvg-shift=0 group-title="Nacionales MX",Canal de las EstrellasHD http://bit.ly/1ecjAEQ
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
 #EXTINF:-1 tvg-id="Foro TV HD" tvg-name="Foro TV HD" tvg-logo="foro-tv-hd.gif" tvg-shift=0 group-title="Nacionales MX",Foro TV HD
@@ -15,8 +15,6 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02MSZsY
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
 #EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="proyecto-40.gif" tvg-shift=0 group-title="Nacionales MX",Proyecto 40
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02OSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
-#EXTINF:-1 tvg-id="Canal Caracol de Colombia" tvg-name="Canal Caracol de Colombia" tvg-shift=-5 group-title="Nacionales CO",Caracol
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="fox.gif" tvg-shift=0 group-title="Series",Fox HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT04NSZsYW49MiZyb3dzPTIwJnNlc3Npb249M24wM2d4OWNrZmd1aTgy&f=.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony HD" tvg-logo="sony-hd.gif" tvg-shift=0 group-title="Series",Sony HD
@@ -26,735 +24,738 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05MyZsY
 #EXTINF:-1 tvg-id="Universal HD" tvg-name="Universal HD" tvg-logo="universal-hd.gif" tvg-shift=0 group-title="Series",Universal HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05NyZsYW49MiZyb3dzPTIwJnNlc3M24wM2d4OWNrZmd1aTgy&f=.m3u8
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="fx-hd.gif" tvg-shift=0 group-title="Series",FX HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
+#EXTINF:-1 tvg-id="Canal Caracol de Colombia" tvg-name="Canal Caracol de Colombia" tvg-shift=-5 group-title="Nacionales CO",Caracol
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="ae.gif" tvg-shift=-5 group-title="Series",A&E HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="axn-hd.gif" tvg-shift=0 group-title="Series",AXN HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="TruTV HD" tvg-name="Tru TVHD" tvg-logo="trutv-hd.gif" tvg-shift=0 group-title="Realities",Tru TV HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="comedy-central-hd.gif" tvg-shift=0 group-title="Comedia",Comedy Central HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="bbc-entertainment.gif" tvg-shift=0 group-title="Series",BBC Entertainment
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="e-entertainment-television.gif" tvg-shift=0 group-title="Series",E! Entertainment Television
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="syfy.gif" tvg-shift=0 group-title="Series",SyFy
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="investigacion-discovery.gif" tvg-shift=0 group-title="Series",Investigación Discovery
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="tnt-series.gif" tvg-shift=0 group-title="Series",TNT Series
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="el-gourmet.gif" tvg-shift=0 group-title="Realities",El Gourmet
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="fox-life.gif" tvg-shift=0 group-title="Realities",Fox Life
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Casa Club" tvg-name="Casa Club" tvg-logo="fox-life.gif" tvg-shift=0 group-title="Realities",Casa Club
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="distrito-comedia.gif" tvg-shift=0 group-title="Comedia",Distrito Comedia
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="tbs.gif" tvg-shift=0 group-title="Comedia",TBS
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="tlnovelas.gif" tvg-shift=0 group-title="Telenovelas",TLnovelas
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="discovery-kids.gif" tvg-shift=0 group-title="Dibujos Animados",Discovery Kids
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.gif" tvg-shift=0 group-title="Dibujos Animados",CBeebies
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="disney-jr.gif" tvg-shift=0 group-title="Dibujos Animados",Disney Junior
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="nick-jr.gif" tvg-shift=0 group-title="Dibujos Animados",Nick Jr.
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="" tvg-shift=-5 group-title="Dibujos Animados",Nicktoons
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="disney-channel.gif" tvg-shift=0 group-title="Dibujos Animados",Disney Channel
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="nick-hd.gif" tvg-shift=0 group-title="Dibujos Animados",Nick HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="cartoon-network.gif" tvg-shift=0 group-title="Dibujos Animados",Cartoon Network
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="disney-xd.gif" tvg-shift=0 group-title="Dibujos Animados",Disney XD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.gif" tvg-shift=0 group-title="Dibujos Animados",Boomerang
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="tiin.gif" tvg-shift=0 group-title="Dibujos Animados",Tiin
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.gif" tvg-shift=0 group-title="Dibujos Animados",Tooncast
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="HD Theater" tvg-name="HD Theater" tvg-logo="hd-theater.gif" tvg-shift=0 group-title="Documentales",HD Theater
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="history-hd.gif" tvg-shift=0 group-title="Documentales",History HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="history-hd.gif" tvg-shift=0 group-title="Documentales",National Geographic
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="discovery-world-hd.gif" tvg-shift=0 group-title="Documentales",Discovery World HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="discovery-channel.gif" tvg-shift=0 group-title="Documentales",Discovery Channel
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="animal-planet.gif" tvg-shift=0 group-title="Documentales",Animal Planet
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="home-and-health.gif" tvg-shift=0 group-title="Documentales",Home and Health
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="lifetime.gif" tvg-shift=0 group-title="Documentales",Lifetime
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="discovery-science.gif" tvg-shift=0 group-title="Documentales",Discovery Science
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="discovery-civilization.gif" tvg-shift=0 group-title="Documentales",Discovery Civilization
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="discovery-turbo.gif" tvg-shift=0 group-title="Documentales",Discovery Turbo
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="WOBI TV" tvg-name="WOBI TV" tvg-logo="wobi-tv.gif" tvg-shift=0 group-title="Documentales",Wobi TV
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="fox-1-hd.gif" tvg-shift=0 group-title="Cine",Fox 1 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Action HD" tvg-name="Fox Action HD" tvg-logo="fox-action-hd.gif" tvg-shift=0 group-title="Cine",Fox Action HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="fox-movies-hd.gif" tvg-shift=0 group-title="Cine",Fox Movies HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Cinéma" tvg-name="Fox Cinéma" tvg-logo="fox-cinema.gif" tvg-shift=0 group-title="Cine",Fox Cinéma
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Family" tvg-name="Fox Family" tvg-logo="fox-family-e.gif" tvg-shift=0 group-title="Cine",Fox Family
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="fox-classics.gif" tvg-shift=0 group-title="Cine",Fox Classics
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="cinecanal-hd.gif" tvg-shift=0 group-title="Cine",Cinecanal
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="cinecanal-hd.gif" tvg-shift=0 group-title="Cine",Cinecanal HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="tnt-hd.gif" tvg-shift=0 group-title="Cine",TNT HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Golden HD" tvg-name="Golden HD" tvg-logo="golden-hd.gif" tvg-shift=0 group-title="Cine",Golden HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="the-film-zone-hd.gif" tvg-shift=0 group-title="Cine",The Film Zone HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="De Película HD" tvg-name="De Película HD" tvg-logo="de-pelicula-hd.gif" tvg-shift=0 group-title="Cine",De Película HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="amc-hd.gif" tvg-shift=0 group-title="Cine",AMC HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="space-hd.gif" tvg-shift=0 group-title="Cine",Space HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="cinemax-w.gif" tvg-shift=0 group-title="Cine",Cinemax
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="golden-edge.gif" tvg-shift=0 group-title="Cine",Golden Edge
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="studio-universal.gif" tvg-shift=0 group-title="Cine",Studio Universal
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="isat.gif" tvg-shift=0 group-title="Cine",I.Sat
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="tcm.gif" tvg-shift=0 group-title="Cine",TCM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="espn-hd.gif" tvg-shift=0 group-title="Deportes",ESPN HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="espn.gif" tvg-shift=0 group-title="Deportes",ESPN
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="espn-2.gif" tvg-shift=0 group-title="Deportes",ESPN 2
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="espn-3.gif" tvg-shift=0 group-title="Deportes",ESPN 3 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="Fox Sports HD" tvg-logo="fox-sports-hd.gif" tvg-shift=0 group-title="Deportes",Fox Sports HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="fox-sports-2-hd.gif" tvg-shift=0 group-title="Deportes",Fox Sports 2 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="mtv-live-hd.gif" tvg-shift=0 group-title="Música",MTV Live HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Telehit HD" tvg-name="Telehit HD" tvg-logo="telehit-hd.gif" tvg-shift=0 group-title="Música",Telehit HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="VH1 HD" tvg-name="VH1 HD" tvg-logo="vh1-hd.gif" tvg-shift=0 group-title="Música",VH1 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.gif" tvg-shift=0 group-title="Música",MTV
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="ritmoson-latino.gif" tvg-shift=0 group-title="Música",Ritmoson Latino
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.gif" tvg-shift=0 group-title="Música",Bandamax
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-shift=-5 group-title="Música",MTV Hits http://bit.ly/1ecjAEQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTM3U
 #EXTINF:-1 group-title=”ferrercode”,MTV 0MzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANALH 0NzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,bbc xMzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,foxlife NOP xNzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”, no funciona xOzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xO zImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xO zIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,amc zMzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”, space NOP zNzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,no funciona zOzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,boomerAN yMzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NATGEO NOP yNzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PROYECTO40 NOP wNzI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MUSICA 0MzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,HMX 0NzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,HYH NOP xMzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISTRITO COMEDIA xNzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xOzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”, SPACE NOP zMzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,UNIVERSAL STUDIO zNzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TIIN yMzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,LIFTINE OK yNzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESTRELLA 5 NOP wMzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TELEVISA NOPwNzM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TVE 0MjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MX 0NjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”, U OK xMjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,GLITS xNjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xOjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FILMZONE zMjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,EDGE zNjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CARTOON NETW yMjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ANIMAL PLANET yNjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PROYECTO 40 wMjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANAL 11 wNjQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN 0MDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,RITMOSO 0NDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXCINEMA 0ODg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,A&e bufer xMDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FX OK xNDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xODg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,zMDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TOTAL PLAY zNDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE zODg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NICK R yMDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,HISTORY yNDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TURBO yODg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANAL7 MX wMDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOROTV wNDg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX SINSOMP wODg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRUTV OK xMTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ID OK xNTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xOTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TNT HD zMTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CINEMAXzNTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN3 MX zOTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NICK HD-SD yMTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY TH yNTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WOOBI yOTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA7 wMTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA7 wNTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WARNER B wOTY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN2 0MTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BANDAMAX 0NTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXCLASIC 0OTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AXN OK xMTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xOTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CINECANAL ENG zMTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CINECANAL zNTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN BAD zOTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISNEY CH yMTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NATGEO OK yNTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TLC yOTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRECE HD wMTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANAL 5MX wNTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SONY OK wOTI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TDN 0NjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX xMjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,GLITS xNjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xOjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DEPEICULA zMjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AMC zNjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISNEY XD OK yMjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,H&H yNjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NO FUNCA yOjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRECE HD wNjU
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjUcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MILENIO 0MTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TOTAL PLAY 0NTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MUSICA 0OTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,COMEDIA C HD xMTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TNT SERIES xNTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xOTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,GOLDEN zMTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BUFFER zNTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXSPORTS 1080 zOTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NICKELODEON 1080yMTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY BUFFER yNTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX1 BUFER yOTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRECE HD BUFER wMTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,GALATV 1080 wNTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TNT HD 1080 wOTg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTgcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MILENIO 0MTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,total play 0NTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,cinecanal xMTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,tnt serie xNTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,golden zMTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,tnt zNTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,foxsport mala zOTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,fox1 yOTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,EL 13HD wMTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,televisa wNTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,universa wOTk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,VH1 0Mzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZCORA 0Nzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,studio malac xMzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,tbs xNzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,foxcinema mala zMzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,isat zNzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,toocast malac yMzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,discovery mala yNzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,canal 5 mx wMzk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN BUFER 0MDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,RITMOSO 0NDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,E&A HD xMDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FX HD xNDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX MOVIHD zMDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX CLASISCHD zNDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NICK JR MALO yMDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,HISTORY HD yNDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TURBO HD yODY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA 7** wMDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOROTVHD wNDY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXHD wODY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXSPORT 0MDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,VH HD 0NDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZCORAZON 0ODA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,universalhd xMDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CINECANAL xNDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xODA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX1 OK zMDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX CINEMA MALA zNDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,zODA ISAT
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CREBIES R yMDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BOOMERANG yNDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SCI OK yODA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MEGACINE5 wNDA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX2HD 0MDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MTV 0NDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA7HD MALO 0ODE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FX HD xMDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SYFY MALO xNDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xODE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXFAMIY OK zNDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TCM OK zODE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISNEY JR yMDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY TH OK yNDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY CIVI yODE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZCORAZON MALA wMDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANAL 5 TELE wNDE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOROTV wODE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODEmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODEcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXSPORT2HD 0MDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MTV 0NDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRECEHD MX 0ODI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FXHD xMDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXACCIONHD zMDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXFAMILYHD zNDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TCM HD zODI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISNEY yMDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DICOVERY TH yNDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CIVILIZACION yODI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA NOTICIAS wMDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TELEVISAHD wNDI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FORMULA wODI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXSPORT2 OK 0MDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MTV 0NDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FX HD OK xMDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SYFY OK xNDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PTE xODQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,zMDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOX ACTION OK zNDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TCM OK zODQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TCM2 OK yMDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY TH OK yNDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SCI CIVILIZACION yODQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZCORAZON wMDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MEXICO wNDQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOROTV wODQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MTVHD 0MzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,HMX HD 0NzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BBc xMzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,fox life xNzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,amc zMzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,amc2 LENTO zNzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,boomeram yMzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,national geo yNzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,proyecto40 wNzA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TVE  0MjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BLOOMBERG 0NjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,unicable xMjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Glits xNjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,filmezone HD zMjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,edge1 zNjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,carton network OK yMjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,animal planet yNjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,proyecto40 wMjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,canal11 wNjI
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjIcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN2 0MTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BANDAMAXHD 0NTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXCINEMA 0OTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,axn xMTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,cinecanal zMTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,cinecanAl2 zNTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPNHDOK zOTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISNEYCHANEL yMTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NAT WILD yNTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TLC yOTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BIMBO wMTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TELEVISA2 wNTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SONY HD wOTA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTAcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TELEVISA3 xMjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FILEME ZONE S zMjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TVOFERT2 zNjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CARTON NETWORK yMjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ANIMAL PLANET SL yNjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,PROYECTO40 wMjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANAL ONECE2 wNjM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXCLASIC 0OTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRUHTV xMTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”, TNT zMTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CINEMAX X2 zNTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN3 H zOTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NICKE HD1080 yMTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY WORLD yNTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WOOBI yOTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA DEPORTES wMTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA DEPORTES2 wNTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WARNER HD wOTQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MILENIO 0MTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TOTALPLAY 0NTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,MUSICA 0OTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,comedia centra xMTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Golden hd1 zMTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TNt ok zNTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Fox sport ok zOTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,nick OK yMTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,discovery ok yNTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,fox 1 OK yOTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,azteca7 OK=> wMTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,gala tv=> wNTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Universal OK=> wOTc
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTccmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Nick sd 0NjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,fox xMjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,glitz xNjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,De peliculas zMjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,amc zNjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,disney xd ferrer yMjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,hyh ferrer yNjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,azteca trece ferrer wNjY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNjYcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TELEHIT 0MzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,GARAGETV 0NzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,E! xMzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISTRITO CO xNzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,pte xOzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,SPACE 1080 zMzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,STUDIO UNIVERSAL zNzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,tIIN yMzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,LIFETIME yNzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TELEVISA 5 1080 wMzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CANAL28 MX wNzQ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNzQcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN2 => 0MDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,BANDAMAX 0NDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXCINEMA=> 0ODk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00ODkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AXN OK=> xMDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,cinecanal + => zMDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,cinecanal es => zNDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN US zODk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Disney ch => yMDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,Natgeo=> yNDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,belleza=> yODk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,trece_hd => wMDk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,sony => wODk
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wODkcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,FOXCLASIC=> 0OTM (TM,Dk)
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TRUTV =>xMTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ID =>xNTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DKIDS =>xOTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,TNTHD => zMTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,CINEMAX => zNTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,ESPN3 zOTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,NICK HD yMTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,DISCOVERY W=> yNTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WOOBI =>yOTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA7 OK=> wMTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,AZTECA7  wNTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”ferrercode”,WARNER HD wOTM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTNuMDNneDlja2ZndWk4Mg==&f=.m3u8 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wOTMcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8 
 #EXTINF:-1 group-title=”LINK PASTEBIN”,--------------------PASTEBIN------------------
 http://pastebin.com/raw?i=DrRsNJGW
+
 
 
