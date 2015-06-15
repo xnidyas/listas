@@ -149,15 +149,6 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzgmb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="movies", PELICULAS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="movies", CBS ACTION
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
-#EXTINF:-1 group-title="movies", CBS REALITY
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
-#EXTINF:-1 group-title="movies", CINE CHILENO
-rtmp://149.11.34.6/live playpath=sesioncontinuatv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?35 live=1 pageUrl=http://lasteles.com/es/directo/SESI%C3%93N-CONT%C3%8DNUA-TV/
-#EXTINF:-1 group-title="movies", FUNNY MOVIES FRENCH
-http://Funny-IPTV.serveexchange.com:8000/live/roultab/Dz-sat-Test/1.ts
-#EXTINF:-1 group-title="movies",Silk Movie Hollywood
 #EXTINF:-1 group-title="HD SPORTS",, [COLOR yellow]-----SPORTS/DEPORTES-----[/COLOR]
 #EXTINF:-1 group-title="FUTBOL", GOL TV
 http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8?
