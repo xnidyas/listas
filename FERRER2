@@ -786,7 +786,7 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMmb
 #EXTINF:-1 group-title="kids", NICK HD
 http://android-hd.izletv.mobi/org13/nickelodeon_me/chunks.m3u8
 #EXTINF:-1 group-title="kids", NICKELODEON HD LATINO
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", CARTOON NETWORK 1
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 group-title="kids", CARTOON NETWORK 2
