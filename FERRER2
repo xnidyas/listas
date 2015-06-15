@@ -152,82 +152,10 @@ http://87.248.160.8/edge/smil:boet/playlist.m3u8
 http://bit.do/3vJd
 #EXTINF:-1 group-title="HD SPORTS",FIGTHER
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOETZ/bw480000/variant.m3u8?version=2
-#EXTINF:-1 group-title="HD SPORTS",Euro Sport Channel 
-rtmp://137.63.71.18:443/liverepeater/2778Eurox pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=21?19?13 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-#EXTINF:-1 group-title="HD SPORTS", NFL Network
-http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg timeout=10
-#EXTINF:-1 group-title="HD SPORTS", DIRECTV NFL
-http://31.220.40.108/LiveEdge/NFLNetworkUS/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
-#EXTINF:-1 group-title="HD SPORTS", MLB
-http://31.220.40.108/LiveEdge/MLBNetworkHD/playlist.m3u8?token=b98c3d86a1c06cf3f73e333b621410eb
-#EXTINF:-1 group-title="HD SPORTS", MOTOR SPORT USA 1
-http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2&busffer=3600000000000&ffpreset=ultrafast
-#EXTINF:-1 group-title="HD SPORTS", MOTOR SPORTS USA
-http://103.18.40.132:8080/
-#EXTINF:-1 group-title="HD SPORTS", MOTO SPORTS HD
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=02
-#EXTINF:-1 group-title="HD SPORTS", FORMULA 1
-mms://100automoto.tv/100livesport
-#EXTINF:-1 group-title="HD SPORTS", FORMULA 1
-rtmp://formula1fms35geolivefs.fplive.net:1935/formula1fms35geolive-live/formula1_1
-#EXTINF:-1 group-title="HD SPORTS", MERCEDCES CHANNEL
-mms://100automoto.tv/channel_mercedes
-#EXTINF:-1 group-title="HD SPORTS", PORSCHE CHANNEL
-mms://100automoto.tv/channel_porsche
-#EXTINF:-1 group-title="HD SPORTS",AutoSport TV mms
-mms://100automoto.tv/100livesport
-#EXTINF:-1 group-title="HD SPORTS",BMW CHANNEL Italia mms
-mms://100automoto.tv/bmw
-#EXTINF:-1 group-title="HD SPORTS",PAC-12 Anistorpic
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="HD SPORTS",PAC 12 Arizona HD 
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="HD SPORTS",PAC 12 Bay Area HD
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="HD SPORTS" ,PAC 12 Los Angeles HD ( 1080 )
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 group-title="HD SPORTS",PAC 12 Mountain HD ( 1080 ) 
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="HD SPORTS",PAC 12 National HD ( 1080 )
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="HD SPORTS",PAC 12 Oregon HD ( 1080 )
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 group-title="HD SPORTS", SKY SPORTS 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
-#EXTINF:-1 group-title="HD SPORTS", SKY SPORTS 4
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
-#EXTINF:-1 group-title="HD SPORTS", SKY SPORTS 3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
-#EXTINF:-1 group-title="HD SPORTS", SKY SPORTS 2
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
-#EXTINF:-1 group-title="HD SPORTS", SKY SPORTS 1
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
-#EXTINF:-1 group-title="HD SPORTS", BT SPORTS
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
-#EXTINF:-1 group-title="HD SPORTS", Big Ten Network HD (720)
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1 group-title="HD SPORTS",Sports TV
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?husham.com
-#EXTINF:-1 group-title="HD SPORTS",Rai Sport 2
-mmsh://212.162.68.163:80/raisport2
-#EXTINF:-1 group-title="HD SPORTS", RTP1
-http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
-#EXTINF:-1 group-title="HD SPORTS", RTP2
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 group-title="FUTBOL",Anistorpic
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="HD SPORTS",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
 #EXTINF:-1 group-title="HD SPORTS",AMERICA SPORTS
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="HD SPORTS",Antena 3 Sports 720 HD
+#EXTINF:-1 group-title="HD SPORTS",Antena 3 Sports 720HD YEAH
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
-#EXTINF:-1,BRASIL-TV Pocos - Sports
-rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
-#EXTINF:-1 group-title="HD SPORTS", MBC SPORTS
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
 #EXTINF:-1 group-title="COPA AMERICA", [COLOR green] --COPA AMERICA--[/COLOR]  
 http://www.youtube.com/user/hmemar22
 #EXTINF:-1 group-title="COPA AMERICA",13 Argentina telecentro
@@ -242,7 +170,6 @@ rtmp://212-133.livestream.com:8080/livestreamiphone/10468276_3485826_938b9ce5_1_
 rtsp://212-133.livestream.com:8080/livestreamiphone/10468276_3485826_938b9ce5_1_198@123363
 #EXTINF:-1 group-title="COPA AMERICA",Canal Azteca Mexico
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1 group-title="COPA AMERICA",Caracol HD
 #EXTINF:-1 group-title="COPA AMERICA",Channel 3 Thailand
 rtmp://$OPT:rtmp-raw=rtmp://58.97.57.152/live playpath=ch41 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 #EXTINF:-1 group-title="COPA AMERICA",Channel 3HD Thailand
@@ -255,10 +182,6 @@ http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-
 acestream://596321d2ed8c57ac2c604359b1af9cc3c4b32426
 #EXTINF:-1 group-title="COPA AMERICA",Rede Globo Brasile
 rtmp://62.210.83.154:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDE1IDU6MzY6NTAgQU0maGFzaF92YWx1ZT1CQUw1Z2M2QTZlODRZbGpBaDJNbk1RPT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds/1.php?c=bobonews445a&vw=100%&vh=100%
-#EXTINF:-1 group-title="COPA AMERICA",SCTV Hai vietnam
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="COPA AMERICA",Sport 5 Israel
-http://194.90.120.149:1935/cellcom_CelSport5HDPublish/_definst_/smil:CelSport5HD_pub_group.smil/chun.m3u8
 #EXTINF:-1 group-title="COPA AMERICA",TDN Univisión
 http://167.114.33.68:7273/transco74/869-UDEP/playlist.m3u8
 #EXTINF:-1 group-title="COPA AMERICA",Telefuturo Paraguay
@@ -422,8 +345,6 @@ rtmp://podi.hopper.pw:443/live/live_chespirito_mania
 #EXTINF:-1group-title="latino", TELEFE ARG
 http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
 #EXTINF:-1 group-title="discovery/doc",[COLOR yellow]---DOCUMENTARIES---[/COLOR]
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1 group-title="discovery/doc", HORSE & COUNTRY HD
 #EXTINF:-1 group-title="discovery/doc", DISCOVERY ENG
 http://142.4.216.60:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
 #EXTINF:-1 group-title="discovery/doc",Discovery Theater HD LATINO ojo=>mbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
@@ -434,26 +355,18 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?versio
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", DISCOVERY WORLD HD
 http://edge.ailetv.net/org7/discoveryworld_me/playlist.m3u8
-#EXTINF:-1 group-title="discovery/doc", DISCOVERY WORLD RUS 
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_DISCOVERYWORLD/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc",Discovery en Español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="discovery/doc",DISCOVERY I.D.
 http://142.4.216.60:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:-1 group-title="discovery/doc", DISCOVERY SCIENCE HD
-http://142.4.216.60:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
 #EXTINF:-1 group-title="discovery/doc", DISCOVERY SCIENCE LATINO
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
-#EXTINF:-1 group-title="discovery/doc", DISCOVERY SCIENCE RUS2
-http://46.61.226.18/hls/CH_C05_DISCOVERYSCIENCEHD/bw3000000/variant.m3u8?version=2
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", DISCOVERY CIVILIZATION LATINO
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
-#EXTINF:-1 group-title="discovery/doc", DISCOVERY CIVILIZATION BRAZIL
-http://62.210.89.38:1935/liverepeat/discivil377/discivil377/live.m3u8?BRASILIPTV
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", DISCOVERY INVESTIGATION
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", DISCOVERY TURBO
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc",CRIME INVESTIGATION
 http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8?model=Qpjle6Iumd
 #EXTINF:-1 group-title="discovery/doc", HISTORY LATINO
@@ -462,40 +375,18 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDUmb
 http://142.4.216.60:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
 #EXTINF:-1 group-title="discovery/doc", HISTORY SPA
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="discovery/doc", HISTORY
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD2500.m3u8
-#EXTINF:-1 group-title="discovery/doc", HISTORY RUS
-http://46.61.226.18/hls/CH_C05_HDHISTORY/bw3000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc", NAT GEO SPA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
-#EXTINF:-1 group-title="discovery/doc", NAT GEO ENG
-http://142.4.216.60:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
-#EXTINF:-1 group-title="discovery/doc",National Geographic RUS/ENG
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:-1 group-title="discovery/doc", NGEO ABUDABI
-http://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream/playlist.m3u8
-#EXTINF:-1 group-title="discovery/doc",National Geographic RUS
-http://46.61.226.18/hls/CH_C04_NGCHD/bw3000000/variant.m3u8?version=2
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", NAT GEO WILD LATINO
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", NAT GEO WILD SPA
 http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="discovery/doc", NAT GEO WILD RUS/ENG AUDIO
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc", ANIMAL PLANET SPA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", ANIMAL PLANET HD
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc", TRAVEL CHANNEL MEXICO
 http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
-#EXTINF:-1 group-title="discovery/doc", TRAVEL CHANNEL ENG
-http://142.4.216.60:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
-#EXTINF:-1 group-title="discovery/doc", TRAVEL TV
-rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1 group-title="discovery/doc", TRAVEL CHANNEL ENG/RUS
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_TRAVELCHANNELHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="discovery/doc", TRAVEL CHANNEL RUS
-http://46.61.226.18/hls/CH_C02_TRAVELCHANNELHD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc", INDAGANDO TV
 http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="discovery/doc", HGTV
@@ -509,7 +400,7 @@ http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
 #EXTINF:-1 group-title="discovery/doc", LIFETIME ojo => mbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc", TLC
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc",Home and Health
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
 #EXTINF:-1 group-title="discovery/doc",LIFE DESIGN
@@ -535,28 +426,28 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_OCEANTV/variant.m3u8?version=2
 #EXTINF:-1 group-title="discovery/doc",CIELO
 #EXTINF:-1 group-title="kids",[COLOR pink]---KIDS CHANNELS---[/COLOR]
 http://www.youtube.com/user/hmemar22
-#EXTINF:-1 group-title="kids", DISCOVERY KIDS ojo => mbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+#EXTINF:-1 group-title="kids", DISCOVERY KIDS ojo => 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids",DISNEY XD HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids",DISNEY XD SD argentina
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="kids", DISNEY JR udp
 http://193.107.99.111:5555/udp/224.20.20.234:1234
 #EXTINF:-1 group-title="kids", DISNEY JR
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", DISNEY CHANNEL LATINO ojo =>mbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", DISNEY CHANNEL
 rtmp://stream.connectcast.tv/live playpath=mp4:CC-F91655E4-277C-E23A-B447-5E1B21E83E21-31816 swfUrl=http://connectcast.tv/jwplayer/v6.12/jwplayer.flash.swf live=1 pageUrl=http://connectcast.tv/hoaney
 #EXTINF:-1 group-title="kids", CBEEBIES
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", NICK JR
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", NICK HD
 http://bit.do/4UPQ
 #EXTINF:-1 group-title="kids", NICK HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", NICK HD
 http://android-hd.izletv.mobi/org13/nickelodeon_me/chunks.m3u8
 #EXTINF:-1 group-title="kids", NICKELODEON HD LATINO
@@ -565,18 +456,18 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjYmb
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 group-title="kids", CARTOON NETWORK 2
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:-1 group-title="kids", CARTOON NETWORK
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+#EXTINF:-1 group-title="kids", CARTOON NETWORK 
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", CARTOON NETWORK ENG
 http://bit.do/2Y6r
 #EXTINF:-1 group-title="kids", CARTOON NETWORK ENG 2
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 group-title="kids", BOOMERANG
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", TOONCAST
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", TIIN
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPTVxM2hlOGZwdTduMmxndA==&f=.m3u8
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="kids", SESAME STREET
 http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
 #EXTINF:-1 group-title="kids", MEGA KIDS
@@ -589,12 +480,6 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 rtmp://podi.hopper.pw:443/live/live_mega_simpson
 #EXTINF:-1 group-title="USA", [COLOR blue]USA CHANNELS[/COLOR]
 http://www.youtube.com/user/hmemar22?husham.com
-#EXTINF:-1 group-title="USA",TELEMUNDO
-rtmp://162.252.80.188/app playpath=chivass_69s-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf live=1 pageUrl=https://streamup.com/rooms/chivass_69s-Channel/plugins/video/show?autoplayAudio=true
-#EXTINF:-1 group-title="USA", UNIVISION2
-rtmp://199.168.116.16:1935/app/extremouns-channel
-#EXTINF:-1 group-title="USA", ESTRELLA TV
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 group-title="USA", SYFY LATINO
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="USA", Mega TV HD
@@ -603,15 +488,6 @@ http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 group-title="USA", GLOBO TV
 http://noscdn1.connectedviews.com:1935/live/sporttvlivehd.stream/livestream.m3u8
-#EXTINF:-1 group-title="USA", MIAMI 10
-http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/578000/prog.m3u8
-#EXTINF:-1 group-title="USA", CHANNEL 4 USA
-#EXTINF:-1 group-title="USA", CHANNEL 5 
-rtmp://159.16.243.10/live/canal5/canal5
-#EXTINF:-1 group-title="USA", CANAL 5
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00OSZsYW49MiZyb3dzPTIwJnNlc3Npb249Ymh6aDM2MXFhOGZmemYy&f=.m3u8
-#EXTINF:-1 group-title="USA", FLORIDA CHANNEL
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
 #EXTINF:-1 group-title="USA", TNT SERIES
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title="USA", TNT USA
@@ -657,56 +533,10 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODImb
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="USA", GLITZ
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1 group-title="USA", SPIKE TV
-http://142.4.216.60:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:-1 #EXTINF:-1 group-title="USA", REC TV
-http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
-#EXTINF:-1 group-title="USA",CarolCablesTV (Florida)
-mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
-#EXTINF:-1 group-title="USA",Channel 6 - City of Austin
-rtmp://oflash.dfw.swagit.com/live/austintx/live-1?husham.com
-#EXTINF:-1 group-title="USA",City of Boston TV English
-rtmp://streaming.cityofboston.gov/live/cable
-#EXTINF:-1 group-title="USA",Ebru TV
-http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="USA", HSN
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?husham.com playpath=mp4:420p500kB31
-#EXTINF:-1 group-title="USA", University of California TV
-rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?husham.com
-#EXTINF:-1 group-title="USA",Rai Scuola
-mmsh://212.162.68.163:80/rai_scuola
-#EXTINF:-1 group-title="news", [COLOR yellow]---NEWS---[/COLOR]
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1 group-title="news", WEATHER NATION
-http://kalsegsec-a.akamaihd.net:80/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_all.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="news", RT ESPAÑOL
 http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/master.m3u8
 #EXTINF:-1 group-title="news", CNN International
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1 group-title="news", CNN News Live
-rtmp://a.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/?husham.com
-#EXTINF:-1 group-title="news", BBC World News
-rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/?husham.com
-#EXTINF:-1 group-title="news",  Russia Today (480)  
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8?Vd?u#bt!25
-#EXTINF:-1 tvg-logo="RussiaToday.png" group-title="news",  Russia Today (720)
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
-#EXTINF:-1 group-title="news", Al Jazeera (English).
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
-#EXTINF:-1 group-title="news", Stock News
-rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
-#EXTINF:-1 group-title="news", CCTV news
-http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
-#EXTINF:-1 group-title="news", i24 News (English)
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
-#EXTINF:-1,HSN
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
-#EXTINF:-1 group-title="news",Bussnews news
-rtmp://d.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/bloombug/?husham.com
-#EXTINF:-1 group-title="news", CBC news (canada)
-rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
-#EXTINF:-1 group-title="news", FRANCE 24
-http://u.to/KiUjCw
 #EXTINF:-1 group-title="MUSIC", [COLOR yellow]Music Channels below[/COLOR]
 http://www.youtube.com/user/hmemar22?husham.com
 #EXTINF:-1 group-title="MUSIC", BET
