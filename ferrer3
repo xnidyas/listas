@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Totalplay SD
+#EXTINF:-1,Totalplay SD (http://bit.ly/1L9zFIX)
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1,Canal de las Estrellas SD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
