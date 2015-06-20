@@ -210,3 +210,707 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDQmb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 ‪#‎EXTINF‬:-1,The Walking Dead ACA TERMINA
 serie:http://www.seriesadicto.com/the-walking-dead.html
+
+#EXTM3U
+
+#EXTINF:-1 #EXTINF:-1,[COLOR blue] ****** [/COLOR] [COLOR GREEN]  IPTV mejorada *http://bit.ly/1FXVUuJ*[/COLOR] [COLOR blue]****** [/COLOR]
+http:// 
+#EXTINF:-1group-title="CANALES HD",AZTECA NOTICIAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
+
+
+#EXTINF:-1 ,AZTECA SIETE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTgmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
+
+#EXTINF:-1 ,AZTECA TRECE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
+
+
+#EXTINF:-1 ,AZTECA SIETE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,AZTECA TRECE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,PROYECTO 40
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL 5
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,FORO TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL 5
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTUwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,AZTECA SIETE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,GALAVISION
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,ONCE TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTYyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,AZTECA TRECE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTY2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,PROYECTO 40
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTcwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL 28
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTc0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,FOX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTg2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,SONY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,WARNER HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTk0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+
+#EXTINF:-1 ,UNIVERSAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTk4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,FX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,A&E
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AXN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TRU TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,COMEDY CENTRAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,UNICABLE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,BBC ENTRETAINMENT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,E!
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,SYFY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+
+#EXTINF:-1 ,ID
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TNT SERIES
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GOURMET
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GLITZ
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX LIFE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISTRITO COMEDIA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TBS VERYFUNNY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CASA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CASA 
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TELENOVELAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY KIDS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,CBEEBIES
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISNEY JR
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NICK JR
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NICKELODEON
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CARTOON NETWORK
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISNEY XD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,BOOMERANG 
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TIIN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TOONCAST
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+
+#EXTINF:-1 ,DISCOVERY THEATER
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,HISTORY CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NATGEO WILD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI1MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,ANIMAL PLANET
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY H&H
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NATGEO
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,LIFETIME
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY SCI
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY CIVILIZATION
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TLC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX1 HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX ACTION
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX MOVIE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CINECANAL+
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TNT HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FILM ZONE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DEPELICULA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AMC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,SPACE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CINEMA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,FOX FAMILY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CLASSIC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,CINECANAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CINEMAX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TNT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN EDGE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AMC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,SPACE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ISAT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN COMPACT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS 2
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS 5
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN 2
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQxMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,MILENIO TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQxOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TVE INTERNACIONAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,MTV LIVE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TELEHIT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,VH1 HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,MTV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,RITMOSON
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,BANDAMAX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ1MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TOTAL PLAY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AYM SPORTS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CINEMA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CLASSIC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,UNO M
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1group-title="CANALES SD",AZTECA NOTICIAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
+
+
+#EXTINF:-1 ,AZTECA SIETE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTgmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
+
+#EXTINF:-1 ,AZTECA TRECE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
+
+
+#EXTINF:-1 ,AZTECA SIETE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,AZTECA TRECE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,PROYECTO 40
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL 5
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,FORO TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL 5
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTUwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,AZTECA SIETE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,GALAVISION
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,ONCE TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTYyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,AZTECA TRECE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTY2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,PROYECTO 40
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTcwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,CANAL 28
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTc0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+
+
+
+
+#EXTINF:-1 ,FOX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTg1JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,SONY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTg5JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,WARNER HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkzJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTk3JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
+
+
+#EXTINF:-1 ,FX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,A&E
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AXN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TRU TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,COMEDY CENTRAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,UNICABLE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEyMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,BBC ENTRETAINMENT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,E!
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,SYFY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+
+#EXTINF:-1 ,ID
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TNT SERIES
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GOURMET
+
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GLITZ
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX LIFE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISTRITO COMEDIA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TBS VERYFUNNY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CASA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CASA 
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TELENOVELAS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY KIDS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,CBEEBIES
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISNEY JR
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NICK JR
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NICK hd
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NICKELODEON (NICK)
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,CARTOON NETWORK
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISNEY XD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,BOOMERANG 
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TIIN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TOONCAST
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY THEATER
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,HISTORY CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI1NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,ANIMAL PLANET
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY H&H
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,NATGEO
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,LIFETIME
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,DISCOVERY SCI
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY CIVILIZATION
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TLC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,WOBI
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,FOX 1 HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX ACTION
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX MOVIE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CINECANAL+
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TNT HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FILM ZONE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,DEPELICULA HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AMC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,SPACE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CINEMA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,FOX FAMILY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CLASSIC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,CINECANAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,CINEMAX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,TNT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,GOLDEN EDGE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AMC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,SPACE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ISAT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TCM
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,ESPN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN COMPACT
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS 2
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS 5
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,ESPN 2
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,MILENIO TV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQxOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TVE INTERNACIONAL
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,MTV LIVE
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TELEHIT HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,VH1 HD
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,MTV
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,RITMOSON
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+
+#EXTINF:-1 ,BANDAMAX
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,TOTAL PLAY
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,AYM SPORTS
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CINEMA
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,FOX CLASSIC
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
+#EXTINF:-1 ,UNO M
+http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
+
