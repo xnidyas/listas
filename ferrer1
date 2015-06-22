@@ -718,10 +718,11 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTQmb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
 #EXTINF:-1 group-title=”ferrercode”,ISAT zODA 
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
+
+#EXTINF:-1 group-title=”ferrercode”,ESTE ES (http://bit.ly/1ecjAEQ)
 #EXTINF:-1 group-title=”ferrercode”,urf
 http://bit.ly/1BetoZg
-#EXTINF:-1 group-title=”LINK PASTEBIN”,--------------------PASTEBIN------------------
-http://pastebin.com/raw?i=DrRsNJGW
+#EXTINF:-1 group-title=”LINK PASTEBIN”,--------------------PASTEBIN----http://pastebin.com/raw?i=DrRsNJGW---
 http://bit.ly/1G6J0ts IPTV COATZA AUTO ALIMENTDO
 urf auto actualizado http://toastedurf.electricbump.science/lista/TP.m3u es igual a
 
