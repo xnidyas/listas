@@ -89,28 +89,13 @@ rtmp://k3.usastreams.com:1935/canal42/canal42
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8?
 #EXTINF:-1 group-title="CABLE2",EXTREMADURA TV (Esp)
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 group-title="CABLE2",EXA TV
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="CABLE2",EXA TV (PONTE EXA)
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="CABLE2",El Trece
+#EXTINF:-1 group-title="CABLE2",El Trece arge
 http://live-edge01.telecentro.net.ar:1935/live/13hd-360/playlist.m3u8?
-#EXTINF:-1 group-title="CABLE2",Club HD 720P
-http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1 group-title="CABLE2",UNIVERSAL MOVIES
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?=-1
-#EXTINF:-1 group-title="CABLE2",UNLOVE TV-(Musica)
-rtmp://149.11.34.6/live playpath=unlovechannel.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?171 live=1 pageUrl=http://lasteles.com/es/directo/UNLOVE-TV/video/Unlove-TV/7313
-#EXTINF:-1 group-title="CABLE2",UNIVERSAL HD
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=98&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 group-title="CABLE2",1HD
-http://109.239.142.62:1935/live/livestream3/playlist.m3u8
 #EXTINF:-1 group-title="CABLE2",40 HD (Latino)
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1 group-title="CABLE2",A24
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="CABLE2",Univision (opcion 1)
-http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8?
 
 #EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“LATAM”,[COLOR yellow]» »LATAM««[/COLOR]
@@ -120,24 +105,14 @@ http://0.0.0.0:1234
 mms://streaming.uanl.mx/canal53bandaancha/
 #EXTINF:-1 group-title="LATAM",MEXIQUENSE MEXICO
 http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ /broadcast1/mexiquense.m3u8
-#EXTINF:-1 group-title="LATAM",MILENIO CENTRO MEXICO LATAM
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-#EXTINF:-1 group-title="LATAM",MULTIMEDIOS TV MEXICO LATAM
-http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
-#EXTINF:-1 group-title="LATAM",MULTIMEDIOS TV MEXICO LATAM OPTION 2
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
 #EXTINF:-1 group-title="LATAM",TELEMAR CAMPECHE MEXICO
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
-#EXTINF:-1 group-title="LATAM",SEXENIO TV MEXICO LATAM
-http://200.76.77.237/LIVE/H01/CANAL148/PROFILE03.m3u8?
 #EXTINF:-1 group-title="LATAM",SERTV PANAMA LATAM
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1 group-title="LATAM",TELEMETRO CANAL 13 PANAMA
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1 group-title="LATAM",CANAL 13 PARAGUAY LATAM
 http://70.36.100.38:1935/live/canal13_lq.stream/playlist.m3u8
-#EXTINF:-1 group-title="LATAM",FRECUENCIA LATINA HD CANAL 2 LIMA PERU LATAM
-http://flatina1live-live.hls.adaptive.level3.net/hls-live/flatina1live-live/_definst_/live.m3u8
 #EXTINF:-1 group-title="LATAM",AMERICA CANAL 4 LIMA PERU LATAM
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 
@@ -153,64 +128,28 @@ http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 mms://wms.dominiocreativo.com/agapetv
 #EXTINF:-1 group-title="paises",Canal 33 El Salvador
 http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8?
-#EXTINF:-1 group-title="paises",La 5
-http://bstream.universostream.net:8000/live/angeluccio/1meseok/984.ts
-#EXTINF:-1 group-title="paises",LA 7
-http://bstream.universostream.net:8000/live/angeluccio/1meseok/1092.ts
 #EXTINF:-1 group-title="paises",La Sexta
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8?
-#EXTINF:-1 group-title="paises",LA SEXTA HD (Esp)
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 group-title="paises",LA VALLENATA
-http://7309.live.streamtheworld.com/VALLENATA_PRISAAAC?uuid=cc007c83-ba7c-45ba-a609-e3353fd5f334
 #EXTINF:-1 group-title="paises",Antena 3
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?
-#EXTINF:-1 group-title="paises",ANTENA 3 HD(FULL HD)
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1 group-title="paises",ANTENA 3 SD (Esp)
 http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
 #EXTINF:-1 group-title="paises",Antena Latina
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1 group-title="paises",Aprende
-http://dl-dgtve.puntoti.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1 group-title="paises",Amazing Facts TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+#EXTINF:-1 group-title="paises",LA VALLENATA
+http://7309.live.streamtheworld.com/VALLENATA_PRISAAAC?uuid=cc007c83-ba7c-45ba-a609-e3353fd5f334
 #EXTINF:-1 group-title="paises",America Internacional
 http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8?
 #EXTINF:-1 group-title="paises",América TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NO CLASIFICADO”,[COLOR yellow]» »NO CLASIFICADO« «[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 group-title="NO CLASIFICADO",MULTIMEDIOS TV MEXICO LATAM OPTION 2
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
-#EXTINF:-1 group-title="NO CLASIFICADO",MILENIO CENTRO MEXICO LATAM
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-#EXTINF:-1 group-title="NO CLASIFICADO",MIMUSICA MEXICO LATAM
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-
-#EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
-
-#EXTINF:-1 group-title="NUEVOS", TELEMUNDO
-http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
-#EXTINF:-1 group-title="NUEVOS", CNN ESPAÑOL
-http://187.247.255.139/Apple/CNNEspanol2500.m3u8
 #EXTINF:-1 group-title="NUEVOS", RT ESPAÑOL
 http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1 group-title="NUEVOS",HBO Family 
-http://192.99.4.70/hls/HBO_FAMILY.m3u8? 
-#EXTINF:-1 group-title="NUEVOS",HBO Plus 
-http://192.99.4.70/hls/HBO_PLUS.m3u8 
-#EXTINF:-1 group-title="NUEVOS",HBO 2 
-http://192.99.4.70/hls/HBO2.m3u8 
-#EXTINF:-1 group-title="NUEVOS",HBO Signature 
-http://192.99.4.70/hls/hbo_signature.m3u8
 #EXTINF:-1 group-title="NUEVOS",azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 #EXTINF:-1 group-title="NUEVOS",azteca 7HD X NAVI
@@ -223,28 +162,8 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8
 #EXTINF:-1 group-title="NUEVOS", canal 5 honduras
 http://162.212.176.83:8080/tvchd.stream.m3u8
-#EXTINF:-1 group-title="NUEVOS", bein sport ñ
-http://sedermaza.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
-#EXTINF:-1 group-title="NUEVOS", Bein Sport Ñ RROSO
-http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8
-#EXTINF:-1 group-title="NUEVOS", Bein Sport Ñ37800
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b378000.m3u8?
-#EXTINF:-1 group-title="NUEVOS",Univisión TDN
-http://167.114.33.68:7273/transco74/869-UDEP/playlist.m3u8
-#EXTINF:-1 group-title="NUEVOS",Discovery en Español
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u
 #EXTINF:-1 group-title="NUEVOS", hbo chile
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
-#EXTINF:-1 group-title="NUEVOS", NAT GEO
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on?monclovacaliente.m3u8
-#EXTINF:-1 group-title="NUEVOS", Gol TV TVGUIA
-http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
-#EXTINF:-1 group-title="NUEVOS",Bein Sports Espanol HD
-http://tvguia.gam@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/tvguia.ga.m3u8
-#EXTINF:-1 group-title="NUEVOS",Bein Sports Espanol SD
-http://tvguia.ga@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b1328000.m3u8
-#EXTINF:-1 group-title="NUEVOS", fox sport argent
-rtmp://lat2.cxnlive.com/live/canal-foxargentina.stream
 #EXTINF:-1 group-title=”nuevos”,AZTECA DEPORTES
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 #EXTINF:-1 group-title=”nuevos”,history 
