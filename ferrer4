@@ -59,14 +59,6 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=49&lan=2
 http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
 #EXTINF:-1 group-title="MUSIC",ME SUENA MEXICO LATAM
 http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?
-#EXTINF:-1 group-title="MUSIC",VEVO 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 group-title="MUSIC",VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 group-title="MUSIC",Vevo HD 2 720P
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“CABLE2”,[COLOR yellow]» »CABLE2« «[/COLOR]
@@ -75,8 +67,6 @@ http://0.0.0.0:1234
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:-1 group-title="CABLE2",Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
-#EXTINF:-1 group-title="CABLE2",Ingenio
-http://dl-dgtve.puntoti.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
 #EXTINF:-1 group-title="CABLE2",AZTECA 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 group-title="CABLE2",Alfa TV
@@ -85,14 +75,10 @@ rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
 #EXTINF:-1 group-title="CABLE2",MAGAZINE BUENOS AIRES ARGENTINA LATAM
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1 group-title="CABLE2",HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?
 #EXTINF:-1 group-title="CABLE2",Guate Visión
 http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8?
 #EXTINF:-1 group-title="CABLE2",GUATEVISION TV
 http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
-#EXTINF:-1 group-title="CABLE2",Hansel e Gretel E La Strega Della Foresta Nera (VOD)
-http://bstream.universostream.net:8000/movie/angeluccio/1meseok/1046.mkv
 #EXTINF:-1 group-title="CABLE2",Gotica tv (musica)
 rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://tvonlineapp.com/player/jwplayer/player.swf live=1 pageUrl=http://tvonlineapp.com/app/containerEmbed.php?p=11641
 #EXTINF:-1 group-title="CABLE2",Gala TV Cancun
@@ -103,8 +89,6 @@ rtmp://k3.usastreams.com:1935/canal42/canal42
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8?
 #EXTINF:-1 group-title="CABLE2",EXTREMADURA TV (Esp)
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 group-title="CABLE2",Estrella TV
-rtmp://66.55.92.168/app/turbomaxhds-channel
 #EXTINF:-1 group-title="CABLE2",EXA TV
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 group-title="CABLE2",EXA TV (PONTE EXA)
