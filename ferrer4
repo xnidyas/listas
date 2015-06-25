@@ -36,8 +36,6 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="SERIES",VMAS TV COLOMBIA LATAM**
 http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
-#EXTINF:-1 group-title="SERIES",TRU HD LATAM**
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=63&lan=2&rows=40&f=.m3u8
 #EXTINF:-1 group-title="SERIES",MAGAZINE BUENOS AIRES ARGENTINA LATAM**
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 
