@@ -1,916 +1,1900 @@
 #EXTM3U
 
-#EXTINF:-1 #EXTINF:-1,[COLOR blue] ****** [/COLOR] [COLOR green] CANALES IPTVCOATZA SD *http://bit.ly/1FXVUuJ*[/COLOR] [COLOR blue]****** [/COLOR]
+#EXTINF:-1 #EXTINF:-1,[COLOR blue] ***http://lmtsmartbox.com/canales/sd*** [/COLOR] [COLOR green] CANALES SD *http://bit.ly/1FXVUuJ*[/COLOR] [COLOR blue]****** [/COLOR]
 http:// 
-#EXTINF:-1, LIFETIME
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX LIFE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, SYFY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjUmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TBS
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, H&H Discovery
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, EL GOURMET
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, BBC ENTERTEIMENT
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CASA CLUB
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, COMEDY CENTRAL SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, COMEDY CENTRAL HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TLNOVELAS
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1,E! Entertainment
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, WORLD DISCOVERY HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISTRITO COMEDIA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TVE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, GLIZ
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NICK HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1 NICK HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NICK JR
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NICKTOON SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NICKTOON
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NICK
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1,BOOMERANG
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TIIN KIDS
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TOONCAST
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CARTOONN NETWORK
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISNE XD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISNEY JUNIOR
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISCOVERY KIDS
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CBEBIES
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINEMAX
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TNT SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TNT HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, AXN HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, AXN HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, AMC HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, AMC
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TNT SERIES
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINE TCM
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINE GOLDEN EGED SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, GOLDEN HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, GOLDEN HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FILM ZONE SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FILM ZONE hd 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, UNIVERSAL HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, UNIVERSAL HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT05OCZmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINE FX HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINE FX
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDUmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CSAT
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, SPACE SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, SPACE HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINECANAL+ HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINECANAL SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMTImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX1 HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX1 HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX CINEMA
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX MOVIES
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX MOVIES HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX FAMILY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX ACTION HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX ACTION  SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DE PELICULA HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, CINE DE PELICULA HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISCOVERY THEATER
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISCOVERY CIVILIZATION
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, INVESTIGATION DISCOVERY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTMmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, DISCOVERY CHANEL
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NATGEO WILD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, NAT GEO GRAPHIT
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, HISTORY
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, HISTORY HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, A&M
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, A&M HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TRU TV
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TRU TV HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, BIO LIFE TIME
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzMmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, MTV
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, MTV LIVE
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, MTV LIVE HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, MTV HITS
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, VH1 CLASSIC
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzcmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TELEHIT SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, TELEHIT HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MzQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, RITMOSON
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, VH1
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NDAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, VH1 HD 180
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, EXA TV
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, BANDAMAX
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00NTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ESPN HD SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTImbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ESPN SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ESPN HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT00MDYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ESPN 2 SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ESPN 3 SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTYmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, ESPN 3 HD  1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX SPORTS SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0zOTkmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX SPORTS HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTgmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX SPORTS  2 SD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDQmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-#EXTINF:-1, FOX SPORTS  2 HD 1080
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz0yMCZzZXNzaW9uPWJoemgzNjFxYThmZnpmMg==&f=.m3u8
-‪#‎EXTINF‬:-1,The Walking Dead ACA TERMINA
-serie:http://www.seriesadicto.com/the-walking-dead.html
-
-#EXTM3U
-
-#EXTINF:-1 #EXTINF:-1,[COLOR blue] ****** [/COLOR] [COLOR GREEN]  IPTV mejorada *http://bit.ly/1FXVUuJ*[/COLOR] [COLOR blue]****** [/COLOR]
-http:// 
-#EXTINF:-1group-title="CANALES HD",AZTECA NOTICIAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
-
-
-#EXTINF:-1 ,AZTECA SIETE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTgmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
-
-#EXTINF:-1 ,AZTECA TRECE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
-
-
-#EXTINF:-1 ,AZTECA SIETE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,AZTECA TRECE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,PROYECTO 40
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL 5
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,FORO TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL 5
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTUwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,AZTECA SIETE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,GALAVISION
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,ONCE TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTYyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,AZTECA TRECE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTY2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,PROYECTO 40
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTcwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL 28
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTc0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,FOX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTg2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,SONY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,WARNER HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTk0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-
-#EXTINF:-1 ,UNIVERSAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTk4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,FX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,A&E
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AXN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TRU TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,COMEDY CENTRAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,UNICABLE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,BBC ENTRETAINMENT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,E!
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,UNIVERSAL CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,SYFY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-
-#EXTINF:-1 ,ID
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TNT SERIES
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GOURMET
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GLITZ
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX LIFE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISTRITO COMEDIA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TBS VERYFUNNY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CASA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CASA 
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TELENOVELAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY KIDS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,CBEEBIES
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISNEY JR
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NICK JR
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISNEY CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NICKELODEON
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CARTOON NETWORK
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISNEY XD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,BOOMERANG 
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TIIN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TOONCAST
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-
-#EXTINF:-1 ,DISCOVERY THEATER
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,HISTORY CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NATGEO WILD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI1MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,ANIMAL PLANET
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISCOVERY H&H
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NATGEO
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,LIFETIME
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY SCI
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISCOVERY CIVILIZATION
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISCOVERY TURBO
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TLC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX1 HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX ACTION
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX MOVIE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CINECANAL+
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TNT HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GOLDEN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FILM ZONE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DEPELICULA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AMC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,SPACE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CINEMA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,FOX FAMILY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CLASSIC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,CINECANAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CINEMAX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TNT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GOLDEN EDGE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AMC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,SPACE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,STUDIO UNIVERSAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ISAT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN COMPACT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX SPORTS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX SPORTS 2
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX SPORTS 5
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN 2
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQxMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,MILENIO TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQxOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TVE INTERNACIONAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,MTV LIVE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzMCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TELEHIT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,VH1 HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,MTV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,RITMOSON
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0NiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,BANDAMAX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ1MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TOTAL PLAY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AYM SPORTS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CINEMA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CLASSIC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,UNO M
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1group-title="CANALES SD",AZTECA NOTICIAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
-
-
-#EXTINF:-1 ,AZTECA SIETE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTgmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
-
-#EXTINF:-1 ,AZTECA TRECE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkmc2Vzc2lvbj1vcTdsdnY4bGp5MGF1NHc=&f=.m3u8
-
-
-#EXTINF:-1 ,AZTECA SIETE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,AZTECA TRECE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,PROYECTO 40
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL 5
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL DE LAS ESTRELLAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,FORO TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL 5
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTUwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,AZTECA SIETE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,GALAVISION
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTU4JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,ONCE TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTYyJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,AZTECA TRECE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTY2JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,PROYECTO 40
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTcwJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,CANAL 28
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTc0JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-
-
-
-
-#EXTINF:-1 ,FOX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTg1JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,SONY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTg5JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,WARNER HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTkzJnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-#EXTINF:-1 ,UNIVERSAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTk3JnNlc3Npb249b3E3bHZ2OGxqeTBhdTR3&f=.m3u8
-
-
-#EXTINF:-1 ,FX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,A&E
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AXN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TRU TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,COMEDY CENTRAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTExNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,UNICABLE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEyMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,BBC ENTRETAINMENT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,E!
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,UNIVERSAL CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTEzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,SYFY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-
-#EXTINF:-1 ,ID
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TNT SERIES
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GOURMET
-
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GLITZ
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX LIFE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE2OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISTRITO COMEDIA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TBS VERYFUNNY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE3NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CASA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CASA 
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4MiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TELENOVELAS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE4NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY KIDS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,CBEEBIES
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTE5NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISNEY JR
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NICK JR
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISNEY CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIwOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NICK hd
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NICKELODEON (NICK)
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIxNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,CARTOON NETWORK
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISNEY XD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,BOOMERANG 
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TIIN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TOONCAST
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTIzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY THEATER
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,HISTORY CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI1NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,ANIMAL PLANET
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISCOVERY H&H
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI2NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,NATGEO
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,LIFETIME
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,DISCOVERY SCI
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI3NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISCOVERY CIVILIZATION
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DISCOVERY TURBO
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TLC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI4OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,WOBI
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,FOX 1 HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTI5NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX ACTION
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX MOVIE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CINECANAL+
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TNT HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GOLDEN HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMxNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FILM ZONE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,DEPELICULA HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AMC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,SPACE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CINEMA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTMzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,FOX FAMILY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CLASSIC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,CINECANAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM0OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,CINEMAX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,TNT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM1NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,GOLDEN EDGE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AMC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,SPACE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM2OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,STUDIO UNIVERSAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ISAT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM3NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TCM
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,ESPN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM4OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN COMPACT
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5MyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX SPORTS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTM5NyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX SPORTS 2
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwMSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX SPORTS 5
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwNSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,ESPN 2
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQwOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,MILENIO TV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQxOCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TVE INTERNACIONAL
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyMiZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,MTV LIVE
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQyOSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TELEHIT HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzMyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,VH1 HD
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQzNyZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,MTV
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0MSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,RITMOSON
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0NSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-
-#EXTINF:-1 ,BANDAMAX
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ0OSZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,TOTAL PLAY
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ1OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,AYM SPORTS
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ2NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CINEMA
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5MCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,FOX CLASSIC
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5NCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
-#EXTINF:-1 ,UNO M
-http://totalplayiptv.ddns.net:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmbGFuPTImcm93cz05OSZwcm9maWxlPTQ5OCZzZXNzaW9uPW9xN2x2djhsankwYXU0dw==&f=.m3u8
-
+#EXTM3U tvg-shift=0
+
+
+#EXTINF:-1,RCN Novelas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493 
+#EXTINF:-1,Caracol Internacional
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+
+#EXTINF:-1,CANAL CAPITAL
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanalcapitallive%2Famlst%3Alive%2Fmaster.m3u8
+#EXTINF:-1,TELE PACIFICO
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F12380713%2Fstreams%2Flive%2Fplaylist.m3u8
+#EXTINF:-1,CANAL TRECE
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanaltr3celive%2Famlst%3Alive%2Fmedia_uzizkgjk5_b750000.m3u8
+#EXTINF:-1,Cine Dinamita
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
+#EXTINF:-1,Cinecanal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
+#EXTINF:-1,CineLatino 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
+
+#EXTINF:-1,Paramount Channel Latinoamerica
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
+#EXTINF:-1,Mundo Fox
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F429
+#EXTINF:-1,SyFy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+#EXTINF:-1,Fox 1 HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F433
+#EXTINF:-1,Fox 1 HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F439 
+#EXTINF:-1,Fox Action HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F435
+#EXTINF:-1,Fox Action HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F437 
+#EXTINF:-1,Fox Movies HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F463 
+#EXTINF:-1,Fox CinÃ©ma
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F457 
+#EXTINF:-1,Fox Family
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F467
+#EXTINF:-1,Fox Comedy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F461
+#EXTINF:-1,HBO
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F385
+#EXTINF:-1,HBO2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F365
+#EXTINF:-1,HBO plus ESTE
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F453
+#EXTINF:-1,HBO plus OESTE
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F369
+#EXTINF:-1,HBO Family 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F449
+#EXTINF:-1,Max UP
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F469
+#EXTINF:-1,MAX
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F381
+#EXTINF:-1,Max Prime Este
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F377
+#EXTINF:-1,MaxPrime Oeste
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F379
+#EXTINF:-1,AMC
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F485
+#EXTINF:-1,Universal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F387
+#EXTINF:-1,Studio Universal
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F345
+
+#EXTINF:-1,I.Sat
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1703
+#EXTINF:1,Peliculas Mexicanas
+http://iphone-streaming.ustream.tv/ustreamVideo/18672607/streams/live/playlist.m3u8
+#EXTINF:-1,Sony HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2501 
+#EXTINF:-1,Warner HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2499
+
+#EXTINF:-1,FX HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F431
+#EXTINF:-1,Tru TVHD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F337
+#EXTINF:-1,A E 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F258
+#EXTINF:-1,E!
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F427
+#EXTINF:-1,AXN HD 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2493
+#EXTINF:-1,Cinemax
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F343
+#EXTINF:-1,Europa Europa
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1597
+#EXTINF:-1,Film & Arts
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1599
+#EXTINF:-1,The Film Zone HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1055
+#EXTINF:-1,TNT HD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F262
+#EXTINF:-1,TNT Series
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F331
+#EXTINF:-1,MultiPremier
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
+#EXTINF:-1,Golden Premier 1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1487
+#EXTINF:-1,Golden premier 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=
+#EXTINF:-1,Golden Multiplex
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1035
+#EXTINF:-1,Golden Edge 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1465
+#EXTINF:-1,Space
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2489
+#EXTINF:-1,TCM
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
+
+#EXTINF:-1,EL TRECE HD
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
+#EXTINF:-1,TV MAS
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F50.7.98.234%2Frtv%2Fvideortv
+#EXTINF:-1,Canal Once HD
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.oncetvmexicolive.tv%3A1935%2Flivepkgr2%2Fsmil%3Aint.smil%2Fplaylist.m3u8 
+         
+#EXTINF:-1,UnivisiÃ³n
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fpodi.hopper.pw%3A443%2Flive%2Flive
+#EXTINF:-1,Unicable
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F200.76.77.237%2FLIVE%2FH01%2FCANAL218%2FPROFILE03.m3u8%3F
+#EXTINF:-1,Unimas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+#EXTINF:-1,PASIONES
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F295
+
+#EXTINF:-1,LA 1
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F14420271%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
+
+#EXTINF:-1,Canal 5
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1479
+#EXTINF:-1,Proyecto 40
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F05i15qzql_1%40149710%2Fmaster.m3u8
+#EXTINF:-1,America TV Peru
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fooyalahd2-f.akamaihd.net%2Fi%2Fatv02_delivery%4025405%2Findex_564_av-p.m3u8
+#EXTINF:-1,PANAMERICANA
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fm.iblups.com%3A1935%2Flives%2Fptv1%2Fplaylist.m3u8
+#EXTINF:-1,BBC Entertainment
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1407
+#EXTINF:-1,El Gourmet
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1033 
+#EXTINF:-1,Glitz
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1473
+#EXTINF:-1,Comedy Central 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1037 
+#EXTINF:-1,Distrito Comedia
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1491 
+#EXTINF:-1,TBS
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F333 
+#EXTINF:-1,Disney Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F256
+#EXTINF:-1,Disney XD
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
+#EXTINF:-1,Nick
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1423 
+#EXTINF:-1,Cartoon Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421 
+#EXTINF:-1,Disney XD
+http://localhost:8899/live.m3u?
+#EXTINF:-1,Boomerang
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
+ #EXTINF:-1,Tooncast
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
+#EXTINF:-1,DRAGON BALL Z
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,History
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3704
+#EXTINF:-1,H2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F297
+#EXTINF:-1,Discovery Channel EspaÃ±ol
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3531
+#EXTINF:-1,Discovery Turbo
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F511
+#EXTINF:-1,InvestigaciÃ³n Discovery
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F455 
+#EXTINF:-1,TLC
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F327
+#EXTINF:-1,NatGeo
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F395
+#EXTINF:-1,NatGeo Wild
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F254
+#EXTINF:-1,Animal Planet
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F441
+#EXTINF:-1,Fox Life
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F425
+#EXTINF:-1,LIFETIME
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F423
+#EXTINF:-1,beInSports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
+
+
+#EXTINF:-1,Fox Sports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
+#EXTINF:-1,Fox Sports 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
+#EXTINF:-1,Fox Sports 3 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
+#EXTINF:-1,Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8? 
+#EXTINF:-1,ESPN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
+#EXTINF:-1,ESPN 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301 
+#EXTINF:-1,ESPN 3
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fgdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx%2FApple%2FESPN3HD2500.m3u8
+#EXTINF:-1,CMD
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,UFC Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
+#EXTINF:-1,F1 Latinoamerica 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1695
+#EXTINF:-1,PLANETA FUTBOL
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
+#EXTINF:-1,Planeta Futbol English Soccer
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
+#EXTINF:1,TDN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+
+ 
+#EXTINF:-1,VH1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483 
+#EXTINF:-1,MTV
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2491
+
+#EXTINF:-1,Concert Channel
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F479
+
+#EXTINF:-1,Bandamax
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467 
+#EXTINF:-1,K Music
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467 
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?=-1
+
+#EXTINF:-1,NTN 24
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
+#EXTINF:-1,CNN EspaÃ±ol
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
+
+#EXTINF:-1,RT en EspaÃ±ol
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8 CNNEspanol
+
+#EXTINF:-1,Azteca Noticias
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F200.76.77.237%2FLIVE%2FH01%2FCANAL2%2FPROFILE03.m3u8%3F
+
+#EXTINF:-1,RCN Novelas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493 
+#EXTINF:-1,Caracol Internacional
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+
+#EXTINF:-1,Mundo Fox
+http://localhost:8899/live.m3u8?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F429
+#EXTINF:-1,SyFy
+http://localhost:8899/live.m3u8?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+#EXTINF:-1,Sony HD
+http://localhost:8899/live.m3u8?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2501 
+#EXTINF:-1,Warner HD
+http://localhost:8899/live.m3u8?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2499
+
+#EXTINF:-1, tvg-id="418" tvg-name="ASTRO SuperSport" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1279.png" group-title="sports", ASTRO SuperSport
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2471
+  #EXTINF:-1, tvg-id="419" tvg-name="ASTRO SuperSport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1281.png" group-title="sports", ASTRO SuperSport 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2473
+  #EXTINF:-1, tvg-id="420" tvg-name="ASTRO SuperSport 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1283.png" group-title="sports", ASTRO SuperSport 3
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2475
+ #EXTINF:-1, tvg-id="405" tvg-name="Eurosport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1347.png" group-title="sports", Eurosport 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fesioslive6-i.akamaihd.net%2Fhls%2Flive%2F202874%2FAL_P_ESP1_INTER_ENG%2Fplaylist_1000.m3u8
+ #EXTINF:-1, tvg-id="406" tvg-name="Eurosport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1349.png" group-title="sports", Eurosport 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3578
+ #EXTINF:-1, tvg-id="407" tvg-name="MUTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/269.png" group-title="information", MUTV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F555
+ #EXTINF:-1, tvg-id="408" tvg-name="MSG" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1211.png" group-title="sports", MSG
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2351
+ #EXTINF:-1, tvg-id="409" tvg-name="BOXnation" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png" group-title="information", BOXnation
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2449
+ #EXTINF:-1, tvg-id="410" tvg-name="SKY Sports 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1269.png" group-title="sports", SKY Sports 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2459
+ #EXTINF:-1, tvg-id="411" tvg-name="SKY Sports 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1271.png" group-title="sports", SKY Sports 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2461
+ #EXTINF:-1, tvg-id="412" tvg-name="SKY Sports 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1273.png" group-title="sports", SKY Sports 3
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2469
+ #EXTINF:-1, tvg-id="413" tvg-name="SKY Sports 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1275.png" group-title="sports", SKY Sports 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2465
+ #EXTINF:-1, tvg-id="414" tvg-name="SKY Sports 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1277.png" group-title="sports", SKY Sports 5
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2467
+ #EXTINF:-1, tvg-id="415" tvg-name="SKY Sports F1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1267.png" group-title="sports", SKY Sports F1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2457
+ #EXTINF:-1, tvg-id="416" tvg-name="BT Sport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1287.png" group-title="sports", BT Sport 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2479
+ #EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1289.png" group-title="sports", BT Sport 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2481
+ #EXTINF:-1, tvg-id="140" tvg-name="ESPN US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/549.png" group-title="sports", ESPN US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F963
+ #EXTINF:-1, tvg-id="141" tvg-name="ESPNU" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/567.png" group-title="sports", ESPNU
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F979
+ #EXTINF:-1, tvg-id="142" tvg-name="ESPNews US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1213.png" group-title="sports", ESPNews US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2353
+ #EXTINF:-1, tvg-id="143" tvg-name="SKY Sports News" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/54.png" group-title="sports", SKY Sports News
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2101
+ #EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1215.png" group-title="sports", ESPN 2 US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2355
+ #EXTINF:-1, tvg-id="150" tvg-name="Fox Sports 1 US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/46.png" group-title="sports", Fox Sports 1 US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F190
+ #EXTINF:-1, tvg-id="151" tvg-name="Fox Sports 2 US" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/673.png" group-title="sports", Fox Sports 2 US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2381
+
+ #EXTINF:-1, tvg-id="301" tvg-name="HBO 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/28.png" group-title="cinema", HBO 2 East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F216
+ #EXTINF:-1, tvg-id="302" tvg-name="HBO Signature East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/545.png" group-title="cinema", HBO Signature East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F959
+ #EXTINF:-1, tvg-id="303" tvg-name="HBO West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/547.png" group-title="cinema", HBO West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F961
+ #EXTINF:-1, tvg-id="304" tvg-name="HBO 2 West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/665.png" group-title="cinema", HBO 2 West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1095
+ #EXTINF:-1, tvg-id="307" tvg-name="HBO Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/589.png" group-title="cinema", HBO Comedy East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1001
+ #EXTINF:-1, tvg-id="308" tvg-name="HBO Zone" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/551.png" group-title="cinema", HBO Zone
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F965
+ #EXTINF:-1, tvg-id="310" tvg-name="Cinemax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/539.png" group-title="cinema", Cinemax East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F953
+ #EXTINF:-1, tvg-id="311" tvg-name="Cinemax West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/541.png" group-title="cinema", Cinemax West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F955 #
+ #EXTINF:-1, tvg-id="313" tvg-name="ActionMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1199.png" group-title="cinema", ActionMax East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2337
+ #EXTINF:-1, tvg-id="316" tvg-name="ThrillerMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1297.png" group-title="cinema", ThrillerMax East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2533
+ #EXTINF:-1, tvg-id="318" tvg-name="Showtime East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/15.png" group-title="information", Showtime East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F218
+ #EXTINF:-1, tvg-id="319" tvg-name="Showtime West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/555.png" group-title="cinema", Showtime West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F969
+ #EXTINF:-1, tvg-id="320" tvg-name="Showtime 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/557.png" group-title="cinema", Showtime 2 East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F971
+ #EXTINF:-1, tvg-id="321" tvg-name="Showtime Showcase East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/659.png" group-title="cinema", Showtime Showcase East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1085
+ #EXTINF:-1, tvg-id="322" tvg-name="Showtime Extreme East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/559.png" group-title="cinema", Showtime Extreme East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F973
+ #EXTINF:-1, tvg-id="323" tvg-name="Showtime Beyond East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/561.png" group-title="cinema", Showtime Beyond East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F975
+ #EXTINF:-1, tvg-id="324" tvg-name="Showtime Next" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/667.png" group-title="cinema", Showtime Next
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1097
+ #EXTINF:-1, tvg-id="327" tvg-name="The Movie Channel East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/24.png" group-title="cinema", The Movie Channel East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F220
+ #EXTINF:-1, tvg-id="328" tvg-name="The Movie Channel Xtra East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/563.png" group-title="cinema", The Movie Channel Xtra East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1009
+ #EXTINF:-1, tvg-id="340" tvg-name="Encore East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/26.png" group-title="cinema", Encore East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F222
+ #EXTINF:-1, tvg-id="350" tvg-name="Starz East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/23.png" group-title="cinema", Starz East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F224
+ #EXTINF:-1, tvg-id="351" tvg-name="Starz West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/569.png" group-title="cinema", Starz West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F981
+ #EXTINF:-1, tvg-id="352" tvg-name="Starz Edge East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/571.png" group-title="cinema", Starz Edge East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F983
+ #EXTINF:-1, tvg-id="353" tvg-name="Starz Cinema East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/573.png" group-title="cinema", Starz Cinema East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F985
+ #EXTINF:-1, tvg-id="354" tvg-name="Starz Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/575.png" group-title="cinema", Starz Comedy East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F987
+ #EXTINF:-1, tvg-id="355" tvg-name="Starz In Black East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/577.png" group-title="cinema", Starz In Black East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F989
+ #EXTINF:-1, tvg-id="356" tvg-name="Starz Kids & Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/669.png" group-title="cinema", Starz Kids & Family East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1099
+ 
+ #EXTINF:-1, tvg-id="119" tvg-name="Discovery History" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1471.png" group-title="information", Discovery History
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3397
+ #EXTINF:-1, tvg-id="182" tvg-name="Discovery Channel USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/4.png" group-title="science", Discovery Channel USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F198
+ #EXTINF:-1, tvg-id="188" tvg-name="Discovery Turbo" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/56.png" group-title="information", Discovery Turbo
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F511
+ #EXTINF:-1, tvg-id="120" tvg-name="History" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/32.png" group-title="information", History
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F176
+ #EXTINF:-1, tvg-id="121" tvg-name="H2 USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/885.png" group-title="information", H2 USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1497
+ #EXTINF:-1, tvg-id="123" tvg-name="TLC" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/104.png" group-title="entertainments", TLC
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F503
+ #EXTINF:-1, tvg-id="152" tvg-name="MLB Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/40.png" group-title="sports", MLB Network
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F192  
+ #EXTINF:-1, tvg-id="186" tvg-name="National Geographic Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/897.png" group-title="information", National Geographic Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2819
+ #EXTINF:-1, tvg-id="191" tvg-name="Quest" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/775.png" group-title="information", Quest
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwpc.573d.edgecastcdn.net%2F00573D%2F287%2F287-0.m3u8
+ #EXTINF:-1, tvg-id="192" tvg-name="Investigation Discovery" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1217.png" group-title="information", Investigation Discovery
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2357
+ #EXTINF:-1, tvg-id="193" tvg-name="Science Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1295.png" group-title="science", Science Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2529
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-id="5" tvg-name="ABC Miami" tvg-logo="231.png" group-title="INFORMACIÃ“N", ABC Miami
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F409
+ 
+#EXTINF:-1, tvg-id="7" tvg-name="NBC Miami" tvg-logo="233.png" group-title="INFORMACIÃ“N", NBC Miami
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F411
+ 
+#EXTINF:-1, tvg-id="8" tvg-name="FOX Miami" tvg-logo="235.png" group-title="INFORMACIÃ“N", FOX Miami
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F413
+ 
+#EXTINF:-1, tvg-id="10" tvg-name="News 12 Long Island" tvg-logo="1035.png" group-title="INFORMACIÃ“N", News 12 Long Island
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4034
+ 
+#EXTINF:-1, tvg-id="11" tvg-name="News 12 Brooklyn" tvg-logo="1039.png" group-title="INFORMACIÃ“N", News 12 Brooklyn
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4037
+ 
+#EXTINF:-1, tvg-id="12" tvg-name="News 12 Bronx" tvg-logo="1037.png" group-title="INFORMACIÃ“N", News 12 Bronx
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4040
+ 
+#EXTINF:-1, tvg-id="13" tvg-name="News 12 Connecticut" tvg-logo="1041.png" group-title="INFORMACIÃ“N", News 12 Connecticut
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4043
+ 
+#EXTINF:-1, tvg-id="14" tvg-name="News 12 Hudson Valley" tvg-logo="1043.png" group-title="INFORMACIÃ“N", News 12 Hudson Valley
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4046
+ 
+#EXTINF:-1, tvg-id="15" tvg-name="News 12 New Jersey" tvg-logo="1045.png" group-title="INFORMACIÃ“N", News 12 New Jersey
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4049
+ 
+#EXTINF:-1, tvg-id="16" tvg-name="News 12 Westchester" tvg-logo="1047.png" group-title="INFORMACIÃ“N", News 12 Westchester
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4052
+ 
+#EXTINF:-1, tvg-id="77" tvg-name="PBS Wisconsin" tvg-logo="1494.png" group-title="INFORMACIÃ“N", PBS Wisconsin
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F128.104.144.134%2FWisconsinChannel%2Fmystream
+ 
+#EXTINF:-1, tvg-id="78" tvg-name="ITV" tvg-logo="759.png" group-title="INFORMACIÃ“N", ITV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2447
+ 
+#EXTINF:-1, tvg-id="79" tvg-name="ITV 2" tvg-logo="243.png" group-title="INFORMACIÃ“N", ITV 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F487
+ 
+#EXTINF:-1, tvg-id="80" tvg-name="ITV 3" tvg-logo="1399.png" group-title="INFORMACIÃ“N", ITV 3
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2835
+ 
+#EXTINF:-1, tvg-id="81" tvg-name="ITV 4" tvg-logo="1401.png" group-title="INFORMACIÃ“N", ITV 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2837
+ 
+#EXTINF:-1, tvg-id="82" tvg-name="TG 4" tvg-logo="1403.png" group-title="INFORMACIÃ“N", TG 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2839
+ 
+#EXTINF:-1, tvg-id="83" tvg-name="4 Seven" tvg-logo="" group-title="INFORMACIÃ“N", 4 Seven
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4270
+ 
+#EXTINF:-1, tvg-id="84" tvg-name="Channel 4" tvg-logo="1405.png" group-title="INFORMACIÃ“N", Channel 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2841
+ 
+#EXTINF:-1, tvg-id="85" tvg-name="Channel 5" tvg-logo="1407.png" group-title="INFORMACIÃ“N", Channel 5
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2843
+ 
+#EXTINF:-1, tvg-id="86" tvg-name="SKY Living" tvg-logo="1409.png" group-title="INFORMACIÃ“N", SKY Living
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2845
+ 
+#EXTINF:-1, tvg-id="87" tvg-name="Watch" tvg-logo="1411.png" group-title="INFORMACIÃ“N", Watch
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2847
+ 
+#EXTINF:-1, tvg-id="88" tvg-name="Gold" tvg-logo="1413.png" group-title="INFORMACIÃ“N", Gold
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2849
+ 
+#EXTINF:-1, tvg-id="89" tvg-name="Dave" tvg-logo="1415.png" group-title="INFORMACIÃ“N", Dave
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2851
+ 
+#EXTINF:-1, tvg-id="90" tvg-name="SKY One" tvg-logo="1417.png" group-title="INFORMACIÃ“N", SKY One
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2853
+ 
+#EXTINF:-1, tvg-id="91" tvg-name="SKY Atlantic" tvg-logo="1419.png" group-title="INFORMACIÃ“N", SKY Atlantic
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2855
+ 
+#EXTINF:-1, tvg-id="92" tvg-name="E4" tvg-logo="1421.png" group-title="INFORMACIÃ“N", E4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2857
+ 
+#EXTINF:-1, tvg-id="93" tvg-name="More 4" tvg-logo="1423.png" group-title="INFORMACIÃ“N", More 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2859
+ 
+#EXTINF:-1, tvg-id="94" tvg-name="Challenge" tvg-logo="" group-title="INFORMACIÃ“N", Challenge
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4247
+ 
+#EXTINF:-1, tvg-id="95" tvg-name="Irish TV" tvg-logo="" group-title="INFORMACIÃ“N", Irish TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4066
+ 
+#EXTINF:-1, tvg-id="96" tvg-name="Pick" tvg-logo="771.png" group-title="INFORMACIÃ“N", Pick
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2437
+ 
+#EXTINF:-1, tvg-id="97" tvg-name="5 Star" tvg-logo="1429.png" group-title="INFORMACIÃ“N", 5 Star
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2865
+ 
+#EXTINF:-1, tvg-id="98" tvg-name="RTE ONE" tvg-logo="777.png" group-title="INFORMACIÃ“N", RTE ONE
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2441
+ 
+#EXTINF:-1, tvg-id="99" tvg-name="RTE TWO" tvg-logo="779.png" group-title="INFORMACIÃ“N", RTE TWO
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2439
+ 
+#EXTINF:-1, tvg-id="100" tvg-name="BBC ONE" tvg-logo="801.png" group-title="INFORMACIÃ“N", BBC ONE
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2443
+ 
+#EXTINF:-1, tvg-id="101" tvg-name="BBC TWO" tvg-logo="1263.png" group-title="INFORMACIÃ“N", BBC TWO
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2445
+ 
+#EXTINF:-1, tvg-id="102" tvg-name="BBC Three" tvg-logo="1433.png" group-title="INFORMACIÃ“N", BBC Three
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2869
+ 
+#EXTINF:-1, tvg-id="103" tvg-name="BBC Four" tvg-logo="1435.png" group-title="INFORMACIÃ“N", BBC Four
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2871
+ 
+#EXTINF:-1, tvg-id="104" tvg-name="5 USA" tvg-logo="1431.png" group-title="INFORMACIÃ“N", 5 USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2867
+ 
+#EXTINF:-1, tvg-id="105" tvg-name="USA Network East" tvg-logo="20.png" group-title="PELÃCULAS", USA Network East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2579
+ 
+#EXTINF:-1, tvg-id="107" tvg-name="Comedy Central East" tvg-logo="34.png" group-title="ENTRETENIMIENTO", Comedy Central East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2575
+ 
+#EXTINF:-1, tvg-id="108" tvg-name="Lifetime East" tvg-logo="543.png" group-title="ENTRETENIMIENTO", Lifetime East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2581
+ 
+#EXTINF:-1, tvg-id="109" tvg-name="ITV Encore" tvg-logo="48.png" group-title="ENTRETENIMIENTO", ITV Encore
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F501
+ 
+#EXTINF:-1, tvg-id="110" tvg-name="Food Network East" tvg-logo="25.png" group-title="INFORMACIÃ“N", Food Network East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F172
+ 
+#EXTINF:-1, tvg-id="111" tvg-name="DIY Network USA" tvg-logo="45.png" group-title="INFORMACIÃ“N", DIY Network USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F174
+ 
+#EXTINF:-1, tvg-id="113" tvg-name="Good Food" tvg-logo="1265.png" group-title="CULTURALES", Good Food
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2587
+ 
+#EXTINF:-1, tvg-id="114" tvg-name="E!" tvg-logo="1203.png" group-title="ENTRETENIMIENTO", E!
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2341
+ 
+#EXTINF:-1, tvg-id="115" tvg-name="ITV Be" tvg-logo="" group-title="ENTRETENIMIENTO", ITV Be
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4252
+ 
+#EXTINF:-1, tvg-id="116" tvg-name="True Drama" tvg-logo="1437.png" group-title="INFORMACIÃ“N", True Drama
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2873
+ 
+#EXTINF:-1, tvg-id="117" tvg-name="Drama" tvg-logo="1439.png" group-title="INFORMACIÃ“N", Drama
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2875
+ 
+#EXTINF:-1, tvg-id="118" tvg-name="A&E East" tvg-logo="583.png" group-title="ENTRETENIMIENTO", A&E East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F995
+ 
+#EXTINF:-1, tvg-id="119" tvg-name="Discovery History" tvg-logo="1471.png" group-title="INFORMACIÃ“N", Discovery History
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3397
+ 
+#EXTINF:-1, tvg-id="120" tvg-name="History" tvg-logo="32.png" group-title="INFORMACIÃ“N", History
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F176
+ 
+#EXTINF:-1, tvg-id="121" tvg-name="H2 USA" tvg-logo="885.png" group-title="INFORMACIÃ“N", H2 USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1497
+ 
+#EXTINF:-1, tvg-id="123" tvg-name="TLC" tvg-logo="104.png" group-title="ENTRETENIMIENTO", TLC
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F503
+ 
+#EXTINF:-1, tvg-id="125" tvg-name="Alibi" tvg-logo="" group-title="INFORMACIÃ“N", Alibi
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4255
+ 
+#EXTINF:-1, tvg-id="126" tvg-name="Really" tvg-logo="50.png" group-title="ENTRETENIMIENTO", Really
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F505
+ 
+#EXTINF:-1, tvg-id="127" tvg-name="Oxygen" tvg-logo="33.png" group-title="ENTRETENIMIENTO", Oxygen
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F180
+ 
+#EXTINF:-1, tvg-id="128" tvg-name="WE TV" tvg-logo="30.png" group-title="ENTRETENIMIENTO", WE TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F182
+ 
+#EXTINF:-1, tvg-id="131" tvg-name="AMC East" tvg-logo="663.png" group-title="ENTRETENIMIENTO", AMC East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1093
+ 
+#EXTINF:-1, tvg-id="132" tvg-name="TCM US" tvg-logo="675.png" group-title="PELÃCULAS", TCM US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1105
+ 
+#EXTINF:-1, tvg-id="133" tvg-name="IFC East" tvg-logo="38.png" group-title="ENTRETENIMIENTO", IFC East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F164
+ 
+#EXTINF:-1, tvg-id="134" tvg-name="FOX" tvg-logo="247.png" group-title="INFORMACIÃ“N", FOX
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F491
+ 
+#EXTINF:-1, tvg-id="135" tvg-name="BBC America" tvg-logo="39.png" group-title="PELÃCULAS", BBC America
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F184
+ 
+#EXTINF:-1, tvg-id="136" tvg-name="FX East" tvg-logo="585.png" group-title="ENTRETENIMIENTO", FX East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F997
+ 
+#EXTINF:-1, tvg-id="138" tvg-name="TNT Drama" tvg-logo="565.png" group-title="ENTRETENIMIENTO", TNT Drama
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F977
+ 
+#EXTINF:-1, tvg-id="139" tvg-name="TBS East" tvg-logo="553.png" group-title="ENTRETENIMIENTO", TBS East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F967
+ 
+#EXTINF:-1, tvg-id="140" tvg-name="ESPN US" tvg-logo="549.png" group-title="DEPORTES", ESPN US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F963
+ 
+#EXTINF:-1, tvg-id="141" tvg-name="ESPNU" tvg-logo="567.png" group-title="DEPORTES", ESPNU
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F979
+ 
+#EXTINF:-1, tvg-id="142" tvg-name="ESPNews US" tvg-logo="1213.png" group-title="DEPORTES", ESPNews US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2353
+ 
+#EXTINF:-1, tvg-id="143" tvg-name="SKY Sports News" tvg-logo="54.png" group-title="DEPORTES", SKY Sports News
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2101
+ 
+#EXTINF:-1, tvg-id="144" tvg-name="ESPN 2 US" tvg-logo="1215.png" group-title="DEPORTES", ESPN 2 US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2355
+ 
+#EXTINF:-1, tvg-id="150" tvg-name="Fox Sports 1 US" tvg-logo="46.png" group-title="DEPORTES", Fox Sports 1 US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F190
+ 
+#EXTINF:-1, tvg-id="151" tvg-name="Fox Sports 2 US" tvg-logo="673.png" group-title="DEPORTES", Fox Sports 2 US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2381
+ 
+#EXTINF:-1, tvg-id="152" tvg-name="MLB Network" tvg-logo="40.png" group-title="DEPORTES", MLB Network
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F192
+ 
+#EXTINF:-1, tvg-id="153" tvg-name="NHL Network USA" tvg-logo="41.png" group-title="DEPORTES", NHL Network USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F194
+ 
+#EXTINF:-1, tvg-id="154" tvg-name="NFL Network" tvg-logo="591.png" group-title="DEPORTES", NFL Network
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1003
+ 
+#EXTINF:-1, tvg-id="155" tvg-name="NBA TV" tvg-logo="1207.png" group-title="DEPORTES", NBA TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2347
+ 
+#EXTINF:-1, tvg-id="156" tvg-name="UFC Network" tvg-logo="1299.png" group-title="DEPORTES", UFC Network
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2923
+ 
+#EXTINF:-1, tvg-id="158" tvg-name="CBS Sports Network" tvg-logo="1219.png" group-title="DEPORTES", CBS Sports Network
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2359
+ 
+#EXTINF:-1, tvg-id="170" tvg-name="Nickelodeon East" tvg-logo="973.png" group-title="INFANTILES", Nickelodeon East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1701
+ 
+#EXTINF:-1, tvg-id="172" tvg-name="Disney Channel East" tvg-logo="21.png" group-title="INFANTILES", Disney Channel East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F196
+ 
+#EXTINF:-1, tvg-id="179" tvg-name="Baby TV" tvg-logo="1091.png" group-title="INFANTILES", Baby TV
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fhlsstr03.svc.iptv.rt.ru%2Fhls%2FCH_BABYTV%2Fvariant.m3u8%3Fversion%3D2
+ 
+#EXTINF:-1, tvg-id="182" tvg-name="Discovery Channel USA" tvg-logo="4.png" group-title="CIENCIA Y TECNOLOGÃA", Discovery Channel USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F198
+ 
+#EXTINF:-1, tvg-id="186" tvg-name="National Geographic Channel" tvg-logo="897.png" group-title="INFORMACIÃ“N", National Geographic Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2819
+ 
+#EXTINF:-1, tvg-id="188" tvg-name="Discovery Turbo" tvg-logo="56.png" group-title="INFORMACIÃ“N", Discovery Turbo
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F511
+ 
+#EXTINF:-1, tvg-id="191" tvg-name="Dmax" tvg-logo="" group-title="INFORMACIÃ“N", Dmax
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4260
+ 
+#EXTINF:-1, tvg-id="192" tvg-name="Investigation Discovery" tvg-logo="1217.png" group-title="INFORMACIÃ“N", Investigation Discovery
+ http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729
+ 
+#EXTINF:-1, tvg-id="193" tvg-name="Science Channel" tvg-logo="1295.png" group-title="CIENCIA Y TECNOLOGÃA", Science Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2529
+ 
+#EXTINF:-1, tvg-id="197" tvg-name="RT Documentary" tvg-logo="899.png" group-title="INFORMACIÃ“N", RT Documentary
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch5_320p%2Fchunklist.m3u8
+ 
+#EXTINF:-1, tvg-id="198" tvg-name="Eden" tvg-logo="58.png" group-title="ENTRETENIMIENTO", Eden
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F513
+ 
+#EXTINF:-1, tvg-id="199" tvg-name="Yesterday" tvg-logo="64.png" group-title="INFORMACIÃ“N", Yesterday
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F519
+ 
+#EXTINF:-1, tvg-id="200" tvg-name="CNN US" tvg-logo="10.png" group-title="INFORMACIÃ“N", CNN US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3133
+ 
+#EXTINF:-1, tvg-id="201" tvg-name="CNN International" tvg-logo="1049.png" group-title="INFORMACIÃ“N", CNN International
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwpc.c1a9.edgecastcdn.net%2Fhls-live%2F20C1A9%2Fcnn%2Fls_satlink%2Fb_828.m3u8
+ 
+#EXTINF:-1, tvg-id="202" tvg-name="Bloomberg TV UK" tvg-logo="1089.png" group-title="INFORMACIÃ“N", Bloomberg TV UK
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fbtvuk-i.akamaihd.net%2Fhls%2Flive%2F203321%2Fbtvuk_ios%2FP1%2FM18K.m3u8
+ 
+#EXTINF:-1, tvg-id="203" tvg-name="Bloomberg TV US" tvg-logo="971.png" group-title="INFORMACIÃ“N", Bloomberg TV US
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fbtv-i.akamaihd.net%2Fhls%2Flive%2F202760%2Fbtvusa_ios%2FP1%2FM18K.m3u8
+ 
+#EXTINF:-1, tvg-id="204" tvg-name="ABC News" tvg-logo="1087.png" group-title="INFORMACIÃ“N", ABC News
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fabclive.abcnews.com%2Fi%2Fabc_live4%40136330%2Findex_1200_av-b.m3u8
+ 
+#EXTINF:-1, tvg-id="205" tvg-name="Fox News Channel" tvg-logo="22.png" group-title="INFORMACIÃ“N", Fox News Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F208
+ 
+#EXTINF:-1, tvg-id="206" tvg-name="CNBC Africa" tvg-logo="1463.png" group-title="ENTRETENIMIENTO", CNBC Africa
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fbrightcove03-f.akamaihd.net%2FCNBC_ANGLE1_3%40176778%3Fv%3D3.2.0%26fp%3DWIN
+ 
+#EXTINF:-1, tvg-id="207" tvg-name="CNBC World" tvg-logo="1461.png" group-title="INFORMACIÃ“N", CNBC World
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fwpc.c1a9.edgecastcdn.net%2Fhls-live%2F20C1A9%2Fcnbc_eu%2Fls_satlink%2Fb_828.m3u8
+ 
+#EXTINF:-1, tvg-id="208" tvg-name="CNBC US" tvg-logo="983.png" group-title="INFORMACIÃ“N", CNBC US
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2409
+ 
+#EXTINF:-1, tvg-id="209" tvg-name="MSNBC" tvg-logo="985.png" group-title="INFORMACIÃ“N", MSNBC
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1767
+ 
+#EXTINF:-1, tvg-id="210" tvg-name="RT International" tvg-logo="62.png" group-title="INFORMACIÃ“N", RT International
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch1_720p%2Fblizznow.m3u8
+ 
+#EXTINF:-1, tvg-id="211" tvg-name="BBC World News" tvg-logo="105.png" group-title="INFORMACIÃ“N", BBC World News
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fwpc.c1a9.edgecastcdn.net%2Fhls-live%2F20C1A9%2Fbbc_world%2Fls_satlink%2Fb_828.m3u8
+ 
+#EXTINF:-1, tvg-id="212" tvg-name="BBC News" tvg-logo="251.png" group-title="INFORMACIÃ“N", BBC News
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F495
+ 
+#EXTINF:-1, tvg-id="213" tvg-name="France 24" tvg-logo="419.png" group-title="INFORMACIÃ“N", France 24
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fhlsstr01.svc.iptv.rt.ru%2Fhls%2FCH_FRANCE24%2Fvariant.m3u8%3Fversion%3D2
+ 
+#EXTINF:-1, tvg-id="214" tvg-name="The Weather Channel" tvg-logo="12.png" group-title="INFORMACIÃ“N", The Weather Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F212
+ 
+#EXTINF:-1, tvg-id="215" tvg-name="Al Jazeera" tvg-logo="60.png" group-title="INFORMACIÃ“N", Al Jazeera
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Faljazeeraflashlivefs.fplive.net%3A1935%2Faljazeeraflashlive-live%2Faljazeera_eng_high
+ 
+#EXTINF:-1, tvg-id="216" tvg-name="SKY News" tvg-logo="249.png" group-title="INFORMACIÃ“N", SKY News
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F493
+ 
+#EXTINF:-1, tvg-id="217" tvg-name="Euronews" tvg-logo="1127.png" group-title="INFORMACIÃ“N", Euronews
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwpc.c1a9.edgecastcdn.net%2Fhls-live%2F20C1A9%2Feuronews_en%2Fls_satlink%2Fb_%2C264%2C528%2C828%2C.m3u8
+ 
+#EXTINF:-1, tvg-id="218" tvg-name="Deutsche Welle" tvg-logo="1097.png" group-title="INFORMACIÃ“N", Deutsche Welle
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.metafilegenerator.de%2FDWelle%2Ftv-europa%2Fios%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="219" tvg-name="NHK World" tvg-logo="733.png" group-title="INFORMACIÃ“N", NHK World
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fhlsstr01.svc.iptv.rt.ru%2Fhls%2FCH_NHK%2Fvariant.m3u8%3Fversion%3D2
+ 
+#EXTINF:-1, tvg-id="220" tvg-name="eNCA" tvg-logo="1465.png" group-title="INFORMACIÃ“N", eNCA
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fwpc.c1A9.edgecastcdn.net%2Fhls-live%2F20C1A9%2Fenca%2Fls_satlink%2Fb_528.m3u8
+ 
+#EXTINF:-1, tvg-id="226" tvg-name="Arirang TV" tvg-logo="921.png" group-title="INFORMACIÃ“N", Arirang TV
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fworldlive-ios.arirang.co.kr%2Farirang%2Farirangtvworldios.mp4.m3u8
+ 
+#EXTINF:-1, tvg-id="227" tvg-name="CBS Reality" tvg-logo="1261.png" group-title="ENTRETENIMIENTO", CBS Reality
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2435
+ 
+#EXTINF:-1, tvg-id="228" tvg-name="CBS Drama" tvg-logo="1257.png" group-title="ENTRETENIMIENTO", CBS Drama
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2431
+ 
+#EXTINF:-1, tvg-id="229" tvg-name="CBS Action" tvg-logo="1259.png" group-title="ENTRETENIMIENTO", CBS Action
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2433
+ 
+#EXTINF:-1, tvg-id="239" tvg-name="WGN America" tvg-logo="989.png" group-title="ENTRETENIMIENTO", WGN America
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1771
+ 
+#EXTINF:-1, tvg-id="240" tvg-name="FXX East" tvg-logo="1201.png" group-title="ENTRETENIMIENTO", FXX East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2339
+ 
+#EXTINF:-1, tvg-id="242" tvg-name="Tru TV East" tvg-logo="987.png" group-title="ENTRETENIMIENTO", Tru TV East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1769
+ 
+#EXTINF:-1, tvg-id="245" tvg-name="Ovation" tvg-logo="1209.png" group-title="ENTRETENIMIENTO", Ovation
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2349
+ 
+#EXTINF:-1, tvg-id="249" tvg-name="Crime + Investigation Network USA" tvg-logo="467.png" group-title="INFORMACIÃ“N", Crime + Investigation Network USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2343
+ 
+#EXTINF:-1, tvg-id="270" tvg-name="Music Videos 1" tvg-logo="279.png" group-title="INFORMACIÃ“N", Music Videos 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fvevoplaylist-live.hls.adaptive.level3.net%2Fvevo%2Fch1%2F05%2Fprog_index.m3u8
+ 
+#EXTINF:-1, tvg-id="271" tvg-name="Music Videos 2" tvg-logo="281.png" group-title="INFORMACIÃ“N", Music Videos 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fvevoplaylist-live.hls.adaptive.level3.net%2Fvevo%2Fch2%2F05%2Fprog_index.m3u8
+ 
+#EXTINF:-1, tvg-id="272" tvg-name="Music Videos 3" tvg-logo="283.png" group-title="INFORMACIÃ“N", Music Videos 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fvevoplaylist-live.hls.adaptive.level3.net%2Fvevo%2Fch3%2F05%2Fprog_index.m3u8
+ 
+#EXTINF:-1, tvg-id="273" tvg-name="Music Videos 4" tvg-logo="507.png" group-title="MÃšSICA", Music Videos 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Frtmp.infomaniak.ch%2Flivecast%2Fbeats_1%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="274" tvg-name="Music Videos 5" tvg-logo="289.png" group-title="MÃšSICA", Music Videos 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F109.239.142.62%2Flive%2Flivestream3
+ 
+#EXTINF:-1, tvg-id="275" tvg-name="Music Videos 6" tvg-logo="499.png" group-title="MÃšSICA", Music Videos 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F92.50.181.6%2Ftv%2F1280%2Findex.m3u8
+ 
+#EXTINF:-1, tvg-id="276" tvg-name="Music Videos 7" tvg-logo="501.png" group-title="MÃšSICA", Music Videos 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F92.50.181.6%2Ftv%2F1278%2Findex.m3u8
+ 
+#EXTINF:-1, tvg-id="277" tvg-name="Music Videos 8" tvg-logo="503.png" group-title="MÃšSICA", Music Videos 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F92.50.181.6%2Ftv%2F1279%2Findex.m3u8
+ 
+#EXTINF:-1, tvg-id="278" tvg-name="Music Videos 9" tvg-logo="505.png" group-title="MÃšSICA", Music Videos 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Ffms.105.net%3A1935%2Flive%2Frmc1
+ 
+#EXTINF:-1, tvg-id="279" tvg-name="Music Videos 10" tvg-logo="277.png" group-title="INFORMACIÃ“N", Music Videos 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Ftst.es.flash.glb.ipercast.net%2Ftst.es-live%2Flive
+ 
+#EXTINF:-1, tvg-id="280" tvg-name="Music Videos 11" tvg-logo="509.png" group-title="MÃšSICA", Music Videos 11
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fredir.atmcdn.pl%2Fhls%2Fmm%2Fmultimedia%2Flive%2Famazing%2Flive.livx%2Fplaylist.m3u8%3FsessionId%3DABA74CBC0702307FF0B559F938FC9B21.node1%26stream%3D2
+ 
+#EXTINF:-1, tvg-id="281" tvg-name="Music Videos 12" tvg-logo="511.png" group-title="MÃšSICA", Music Videos 12
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Feuropaplus.cdnvideo.ru%3A1935%2Feuropaplus-live%2Feptv_main.sdp
+ 
+#EXTINF:-1, tvg-id="283" tvg-name="Music Videos 14" tvg-logo="515.png" group-title="MÃšSICA", Music Videos 14
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Frrr.sz.xlcdn.com%2F%3Faccount%3DAATW%26file%3Dnowmusic%26type%3Dlive%26service%3Dwowza%26protocol%3Dhttp%26output%3Dplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="284" tvg-name="Music Videos 15" tvg-logo="517.png" group-title="MÃšSICA", Music Videos 15
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fstrfla13.streamakaci.com%3A1935%2Flc2new%2Flc2
+ 
+#EXTINF:-1, tvg-id="285" tvg-name="Music Videos 16" tvg-logo="519.png" group-title="MÃšSICA", Music Videos 16
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fhlsstr02.svc.iptv.rt.ru%2Fhls%2FCH_VH1CLASSIC%2Fvariant.m3u8
+ 
+#EXTINF:-1, tvg-id="286" tvg-name="Music Videos 17" tvg-logo="521.png" group-title="MÃšSICA", Music Videos 17
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Funeapple-i.akamaihd.net%2Fhls%2Flive%2F215955%2Fgrupoune_st44%40215955%2Fst44_index.m3u8
+ 
+#EXTINF:-1, tvg-id="287" tvg-name="Music Videos 18" tvg-logo="523.png" group-title="MÃšSICA", Music Videos 18
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fhls.novotelecom.ru%2Fstreaming%2Fmusboxtv%2Ftvrec%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="288" tvg-name="Music Videos 19" tvg-logo="525.png" group-title="MÃšSICA", Music Videos 19
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstream.smcloud.net%2Flive%2Fvox2%2Fstream1
+ 
+#EXTINF:-1, tvg-id="289" tvg-name="Music Videos 20" tvg-logo="527.png" group-title="MÃšSICA", Music Videos 20
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fhlsstr03.svc.iptv.rt.ru%2Fhls%2FCH_MCMTOP%2Fvariant.m3u8%3Fversion%3D2
+ 
+#EXTINF:-1, tvg-id="290" tvg-name="Music Videos 21" tvg-logo="529.png" group-title="MÃšSICA", Music Videos 21
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstream.smcloud.net%2Flive2%2Fpolo_party%2Fpolo_party_720p
+ 
+#EXTINF:-1, tvg-id="291" tvg-name="Music Videos 22" tvg-logo="531.png" group-title="MÃšSICA", Music Videos 22
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstream.smcloud.net%2Flive2%2Fvox%2Fvox_360p
+ 
+#EXTINF:-1, tvg-id="292" tvg-name="Music Videos 23" tvg-logo="533.png" group-title="MÃšSICA", Music Videos 23
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fstream.smcloud.net%2Flive2%2Feska_party%2Feska_party_720p
+ 
+#EXTINF:-1, tvg-id="293" tvg-name="Music Videos 24" tvg-logo="535.png" group-title="MÃšSICA", Music Videos 24
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstream.smcloud.net%2Flive2%2Feska_rock%2Feska_rock_720p
+ 
+#EXTINF:-1, tvg-id="294" tvg-name="Music Videos 25" tvg-logo="537.png" group-title="MÃšSICA", Music Videos 25
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstream.smcloud.net%2Flive2%2Fbest%2Fbest_720p
+ 
+#EXTINF:-1, tvg-id="295" tvg-name="Music Videos 26" tvg-logo="599.png" group-title="MÃšSICA", Music Videos 26
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fhls.novotelecom.ru%2Fstreaming%2Faone%2Ftvrec%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="296" tvg-name="Music Videos 27" tvg-logo="465.png" group-title="MÃšSICA", Music Videos 27
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F82.76.249.77%2Futvedge%2Futvmqlivehls%2Fchunklist.m3u8
+ 
+#EXTINF:-1, tvg-id="297" tvg-name="Music Videos 28" tvg-logo="643.png" group-title="MÃšSICA", Music Videos 28
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fwowza1.top-ix.org%2Fquartaretetv1%2Fformusicweb
+ 
+#EXTINF:-1, tvg-id="298" tvg-name="Music Videos 29" tvg-logo="711.png" group-title="MÃšSICA", Music Videos 29
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F63.237.48.3%2Fios%2FAAA_MUSIC%2FAAA_MUSIC.m3u8
+ 
+#EXTINF:-1, tvg-id="299" tvg-name="Music Videos 30" tvg-logo="713.png" group-title="MÃšSICA", Music Videos 30
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Frrr.sz.xlcdn.com%2F%3Faccount%3DAATW%26file%3Dclublandtv%26type%3Dlive%26service%3Dwowza%26protocol%3Dhttp%26output%3Dplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="300" tvg-name="HBO East" tvg-logo="587.png" group-title="PELÃCULAS", HBO East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F999
+ 
+#EXTINF:-1, tvg-id="301" tvg-name="HBO 2 East" tvg-logo="28.png" group-title="PELÃCULAS", HBO 2 East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F216
+ 
+#EXTINF:-1, tvg-id="302" tvg-name="HBO Signature East" tvg-logo="545.png" group-title="PELÃCULAS", HBO Signature East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F959
+ 
+#EXTINF:-1, tvg-id="303" tvg-name="HBO West" tvg-logo="547.png" group-title="PELÃCULAS", HBO West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F961
+ 
+#EXTINF:-1, tvg-id="304" tvg-name="HBO 2 West" tvg-logo="665.png" group-title="PELÃCULAS", HBO 2 West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1095
+ 
+#EXTINF:-1, tvg-id="307" tvg-name="HBO Comedy East" tvg-logo="589.png" group-title="PELÃCULAS", HBO Comedy East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1001
+ 
+#EXTINF:-1, tvg-id="308" tvg-name="HBO Zone" tvg-logo="551.png" group-title="PELÃCULAS", HBO Zone
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F965
+ 
+#EXTINF:-1, tvg-id="310" tvg-name="Cinemax East" tvg-logo="539.png" group-title="PELÃCULAS", Cinemax East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F953
+ 
+#EXTINF:-1, tvg-id="311" tvg-name="Cinemax West" tvg-logo="541.png" group-title="PELÃCULAS", Cinemax West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F955
+ 
+#EXTINF:-1, tvg-id="313" tvg-name="ActionMax East" tvg-logo="1199.png" group-title="PELÃCULAS", ActionMax East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2337
+ 
+#EXTINF:-1, tvg-id="316" tvg-name="ThrillerMax East" tvg-logo="1297.png" group-title="PELÃCULAS", ThrillerMax East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2533
+ 
+#EXTINF:-1, tvg-id="318" tvg-name="Showtime East" tvg-logo="15.png" group-title="INFORMACIÃ“N", Showtime East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F218
+ 
+#EXTINF:-1, tvg-id="319" tvg-name="Showtime West" tvg-logo="555.png" group-title="PELÃCULAS", Showtime West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F969
+ 
+#EXTINF:-1, tvg-id="320" tvg-name="Showtime 2 East" tvg-logo="557.png" group-title="PELÃCULAS", Showtime 2 East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F971
+ 
+#EXTINF:-1, tvg-id="321" tvg-name="Showtime Showcase East" tvg-logo="659.png" group-title="PELÃCULAS", Showtime Showcase East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1085
+ 
+#EXTINF:-1, tvg-id="322" tvg-name="Showtime Extreme East" tvg-logo="559.png" group-title="PELÃCULAS", Showtime Extreme East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F973
+ 
+#EXTINF:-1, tvg-id="323" tvg-name="Showtime Beyond East" tvg-logo="561.png" group-title="PELÃCULAS", Showtime Beyond East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F975
+ 
+#EXTINF:-1, tvg-id="324" tvg-name="Showtime Next" tvg-logo="667.png" group-title="PELÃCULAS", Showtime Next
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1097
+ 
+#EXTINF:-1, tvg-id="327" tvg-name="The Movie Channel East" tvg-logo="24.png" group-title="PELÃCULAS", The Movie Channel East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F220
+ 
+#EXTINF:-1, tvg-id="328" tvg-name="The Movie Channel Xtra East" tvg-logo="563.png" group-title="PELÃCULAS", The Movie Channel Xtra East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1009
+ 
+#EXTINF:-1, tvg-id="340" tvg-name="Encore East" tvg-logo="26.png" group-title="PELÃCULAS", Encore East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F222
+ 
+#EXTINF:-1, tvg-id="350" tvg-name="Starz East" tvg-logo="23.png" group-title="PELÃCULAS", Starz East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F224
+ 
+#EXTINF:-1, tvg-id="351" tvg-name="Starz West" tvg-logo="569.png" group-title="PELÃCULAS", Starz West
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F981
+ 
+#EXTINF:-1, tvg-id="352" tvg-name="Starz Edge East" tvg-logo="571.png" group-title="PELÃCULAS", Starz Edge East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F983
+ 
+#EXTINF:-1, tvg-id="353" tvg-name="Starz Cinema East" tvg-logo="573.png" group-title="PELÃCULAS", Starz Cinema East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F985
+ 
+#EXTINF:-1, tvg-id="354" tvg-name="Starz Comedy East" tvg-logo="575.png" group-title="PELÃCULAS", Starz Comedy East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F987
+ 
+#EXTINF:-1, tvg-id="355" tvg-name="Starz In Black East" tvg-logo="577.png" group-title="PELÃCULAS", Starz In Black East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F989
+ 
+#EXTINF:-1, tvg-id="356" tvg-name="Starz Kids & Family East" tvg-logo="669.png" group-title="PELÃCULAS", Starz Kids & Family East
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1099
+ 
+#EXTINF:-1, tvg-id="359" tvg-name="SKY Premiere" tvg-logo="66.png" group-title="PELÃCULAS", SKY Premiere
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F521
+ 
+#EXTINF:-1, tvg-id="361" tvg-name="SKY Modern Greats" tvg-logo="257.png" group-title="PELÃCULAS", SKY Modern Greats
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3301
+ 
+#EXTINF:-1, tvg-id="362" tvg-name="SKY Disney" tvg-logo="68.png" group-title="INFANTILES", SKY Disney
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F523
+ 
+#EXTINF:-1, tvg-id="363" tvg-name="SKY Family" tvg-logo="70.png" group-title="PELÃCULAS", SKY Family
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F525
+ 
+#EXTINF:-1, tvg-id="364" tvg-name="SKY Action & Adventure" tvg-logo="72.png" group-title="PELÃCULAS", SKY Action & Adventure
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F527
+ 
+#EXTINF:-1, tvg-id="365" tvg-name="SKY Comedy" tvg-logo="74.png" group-title="PELÃCULAS", SKY Comedy
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F529
+ 
+#EXTINF:-1, tvg-id="366" tvg-name="SKY Crime & Thriller" tvg-logo="76.png" group-title="PELÃCULAS", SKY Crime & Thriller
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F531
+ 
+#EXTINF:-1, tvg-id="367" tvg-name="SKY Movies Drama" tvg-logo="259.png" group-title="PELÃCULAS", SKY Movies Drama
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F545
+ 
+#EXTINF:-1, tvg-id="368" tvg-name="SKY Scifi & Horror" tvg-logo="78.png" group-title="PELÃCULAS", SKY Scifi & Horror
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F533
+ 
+#EXTINF:-1, tvg-id="369" tvg-name="SKY Select" tvg-logo="80.png" group-title="PELÃCULAS", SKY Select
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F535
+ 
+#EXTINF:-1, tvg-id="370" tvg-name="True Movies 1" tvg-logo="443.png" group-title="PELÃCULAS", True Movies 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2453
+ 
+#EXTINF:-1, tvg-id="371" tvg-name="True Movies 2" tvg-logo="261.png" group-title="PELÃCULAS", True Movies 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2455
+ 
+#EXTINF:-1, tvg-id="372" tvg-name="Movies 24" tvg-logo="263.png" group-title="PELÃCULAS", Movies 24
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F549
+ 
+#EXTINF:-1, tvg-id="373" tvg-name="Film 4" tvg-logo="253.png" group-title="PELÃCULAS", Film 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F497
+ 
+#EXTINF:-1, tvg-id="374" tvg-name="Palladia" tvg-logo="579.png" group-title="ENTRETENIMIENTO", Palladia
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F991
+ 
+#EXTINF:-1, tvg-id="377" tvg-name="Hallmark Movie Channel" tvg-logo="581.png" group-title="PELÃCULAS", Hallmark Movie Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1005
+ 
+#EXTINF:-1, tvg-id="386" tvg-name="Sony Movie Channel USA" tvg-logo="671.png" group-title="PELÃCULAS", Sony Movie Channel USA
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1101
+ 
+#EXTINF:-1, tvg-id="401" tvg-name="Golf Channel" tvg-logo="1205.png" group-title="DEPORTES", Golf Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2345
+ 
+#EXTINF:-1, tvg-id="402" tvg-name="Setanta Sports" tvg-logo="265.png" group-title="DEPORTES", Setanta Sports
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3580
+ 
+#EXTINF:-1, tvg-id="403" tvg-name="At The Races" tvg-logo="267.png" group-title="DEPORTES", At The Races
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F553
+ 
+#EXTINF:-1, tvg-id="404" tvg-name="Racing UK" tvg-logo="1285.png" group-title="DEPORTES", Racing UK
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2477
+ 
+#EXTINF:-1, tvg-id="405" tvg-name="Eurosport 1" tvg-logo="1347.png" group-title="DEPORTES", Eurosport 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4317
+ 
+#EXTINF:-1, tvg-id="406" tvg-name="Eurosport 2" tvg-logo="1349.png" group-title="DEPORTES", Eurosport 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4322
+ 
+#EXTINF:-1, tvg-id="407" tvg-name="MUTV" tvg-logo="269.png" group-title="INFORMACIÃ“N", MUTV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F555
+ 
+#EXTINF:-1, tvg-id="408" tvg-name="MSG" tvg-logo="1211.png" group-title="DEPORTES", MSG
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2351
+ 
+#EXTINF:-1, tvg-id="409" tvg-name="BOXnation" tvg-logo="781.png" group-title="INFORMACIÃ“N", BOXnation
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2449
+ 
+#EXTINF:-1, tvg-id="410" tvg-name="SKY Sports 1" tvg-logo="1269.png" group-title="DEPORTES", SKY Sports 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2459
+ 
+#EXTINF:-1, tvg-id="411" tvg-name="SKY Sports 2" tvg-logo="1271.png" group-title="DEPORTES", SKY Sports 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2461
+ 
+#EXTINF:-1, tvg-id="412" tvg-name="SKY Sports 3" tvg-logo="1273.png" group-title="DEPORTES", SKY Sports 3
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2469
+ 
+#EXTINF:-1, tvg-id="413" tvg-name="SKY Sports 4" tvg-logo="1275.png" group-title="DEPORTES", SKY Sports 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2465
+ 
+#EXTINF:-1, tvg-id="414" tvg-name="SKY Sports 5" tvg-logo="1277.png" group-title="DEPORTES", SKY Sports 5
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2467
+ 
+#EXTINF:-1, tvg-id="415" tvg-name="SKY Sports F1" tvg-logo="1267.png" group-title="DEPORTES", SKY Sports F1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2457
+ 
+#EXTINF:-1, tvg-id="416" tvg-name="BT Sport 1" tvg-logo="1287.png" group-title="DEPORTES", BT Sport 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2479
+ 
+#EXTINF:-1, tvg-id="417" tvg-name="BT Sport 2" tvg-logo="1289.png" group-title="DEPORTES", BT Sport 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2481
+ 
+#EXTINF:-1, tvg-id="418" tvg-name="ASTRO SuperSport" tvg-logo="1279.png" group-title="DEPORTES", ASTRO SuperSport
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2471
+ 
+#EXTINF:-1, tvg-id="419" tvg-name="ASTRO SuperSport 2" tvg-logo="1281.png" group-title="DEPORTES", ASTRO SuperSport 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2473
+ 
+#EXTINF:-1, tvg-id="420" tvg-name="ASTRO SuperSport 3" tvg-logo="1283.png" group-title="DEPORTES", ASTRO SuperSport 3
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2475
+ 
+#EXTINF:-1, tvg-id="435" tvg-name="Sport 1" tvg-logo="437.png" group-title="DEPORTES", Sport 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fbigten247.cdnak.bigtenhd.neulion.com%2Fnlds%2Fbtn2go%2Fbtnnetwork%2Fas%2Flive%2Fbtnnetwork_hd_3000.m3u8
+ 
+#EXTINF:-1, tvg-id="436" tvg-name="Sport 2" tvg-logo="287.png" group-title="DEPORTES", Sport 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fnlds187.cdnak.neulion.com%2Fnlds%2Fsportsnetnow%2Fsn_360%2Fas%2Flive%2Fsn_360_hd_ipad.m3u8
+ 
+#EXTINF:-1, tvg-id="437" tvg-name="Sport 3" tvg-logo="345.png" group-title="DEPORTES", Sport 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxrxs.net%2Fvideo%2Flive-p12moun-1164.m3u8
+ 
+#EXTINF:-1, tvg-id="438" tvg-name="Sport 4" tvg-logo="435.png" group-title="DEPORTES", Sport 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fwww.xrxs.net%2Fvideo%2Flive-p12baya-4728.m3u8
+ 
+#EXTINF:-1, tvg-id="439" tvg-name="Sport 5" tvg-logo="439.png" group-title="DEPORTES", Sport 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxrxs.net%2Fvideo%2Flive-p12oreg-4728.m3u8
+ 
+#EXTINF:-1, tvg-id="440" tvg-name="Sport 6" tvg-logo="441.png" group-title="DEPORTES", Sport 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fwww.xrxs.net%2Fvideo%2Flive-p12netw-4728.m3u8
+ 
+#EXTINF:-1, tvg-id="441" tvg-name="Sport 7" tvg-logo="661.png" group-title="DEPORTES", Sport 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Forigin.live.web.tv.streamprovider.net%2Fstreams%2Fa820629b8abc43c73c76b091086c138a_live_0_0%2Findex.m3u8
+ 
+#EXTINF:-1, tvg-id="442" tvg-name="Sport 8" tvg-logo="343.png" group-title="DEPORTES", Sport 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fstream.sportstv.com.tr%2Fsportstv%2FSportsTV3%2FHasBahCa.m3u8
+ 
+#EXTINF:-1, tvg-id="443" tvg-name="Sport 9" tvg-logo="82.png" group-title="DEPORTES", Sport 9
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3367
+ 
+#EXTINF:-1, tvg-id="444" tvg-name="Sport 10" tvg-logo="84.png" group-title="DEPORTES", Sport 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F87.248.160.8%2Fedge%2Fsmil%3Aboet%2FHasBahCa.m3u8
+ 
+#EXTINF:-1, tvg-id="445" tvg-name="Sport 11" tvg-logo="86.png" group-title="DEPORTES", Sport 11
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fcp39414.live.edgefcs.net%2Flive%2Fevent1%409756
+ 
+#EXTINF:-1, tvg-id="446" tvg-name="Sport 12" tvg-logo="275.png" group-title="DEPORTES", Sport 12
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fgoltv-stream.fubotv.com.global.prod.fastly.net%2FUT-Origin%2Fngrp%3AgolTV_all%2Fchunklist_b1096000.m3u8
+ 
+#EXTINF:-1, tvg-id="447" tvg-name="Sport 13" tvg-logo="273.png" group-title="DEPORTES", Sport 13
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fhls01-07.az.myvideo.az%2Fhls-live%2Flivepkgr%2Fntvfootball%2Fntvfootball%2Fntvfootball.m3u8%3Fseyirturk%3Dfb%3Asimpletvipadresleri3
+ 
+#EXTINF:-1, tvg-id="448" tvg-name="Sport 14" tvg-logo="645.png" group-title="DEPORTES", Sport 14
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fhlsstr02.svc.iptv.rt.ru%2Fhls%2FCH_EXTREMESPORTS%2Fvariant.m3u8%3Fversion%3D2
+ 
+#EXTINF:-1, tvg-id="449" tvg-name="Sport 15" tvg-logo="341.png" group-title="DEPORTES", Sport 15
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F118.97.167.19%2Fjhos%2Farena%2F%2FPlaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="450" tvg-name="Sport 16" tvg-logo="647.png" group-title="DEPORTES", Sport 16
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstreamer.a1.net%3A1935%2Frtmplive%2Fredundant%2Fchannels%2FSporttime%2FSporttimeTV%2Fmp4%3Achannel4_1200
+ 
+#EXTINF:-1, tvg-id="451" tvg-name="Sport 17" tvg-logo="649.png" group-title="DEPORTES", Sport 17
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstreamer.a1.net%3A1935%2Frtmplive%2Fredundant%2Fchannels%2FSporttime%2FSporttimeTV%2Fmp4%3Achannel5_1200
+ 
+#EXTINF:-1, tvg-id="452" tvg-name="Sport 18" tvg-logo="651.png" group-title="DEPORTES", Sport 18
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Flive2.dabang.pk%2Ftv%2Fsports1
+ 
+#EXTINF:-1, tvg-id="453" tvg-name="Sport 19" tvg-logo="653.png" group-title="DEPORTES", Sport 19
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstreamer.a1.net%3A1935%2Frtmplive%2Fredundant%2Fchannels%2FSporttime%2FSporttimeTV%2Fmp4%3Achannel2_1200
+ 
+#EXTINF:-1, tvg-id="454" tvg-name="Sport 20" tvg-logo="655.png" group-title="DEPORTES", Sport 20
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fmotorsport.hopto.org%3A8080%2F
+ 
+#EXTINF:-1, tvg-id="455" tvg-name="Ultimate Events & Sports" tvg-logo="1197.png" group-title="DEPORTES", Ultimate Events & Sports
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2905
+ 
+ 
+ 
+ 
+#EXTINF:-1, tvg-id="681" tvg-name="EspaÃ±a 1" tvg-logo="347.png" group-title="INFORMACIÃ“N", EspaÃ±a 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Frmtvlive-lh.akamaihd.net%2Fi%2Frmtv_1%40154306%2Findex_1250_av-b.m3u8%3Fsd%3D10%26rebase%3Don
+ 
+#EXTINF:-1, tvg-id="682" tvg-name="EspaÃ±a 2" tvg-logo="351.png" group-title="INFORMACIÃ“N", EspaÃ±a 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-andaluciatelevision.rtva.stream.flumotion.com%2Frtva%2Fandaluciatelevision-iphone-multi%2Fmain.m3u8
+ 
+#EXTINF:-1, tvg-id="683" tvg-name="EspaÃ±a 3" tvg-logo="349.png" group-title="INFORMACIÃ“N", EspaÃ±a 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcorporacionextremena-live.hls.adaptive.level3.net%2Fhls-live%2Fcorporacionextremena-channel02%2F_definst_%2Flive.m3u8
+ 
+#EXTINF:-1, tvg-id="684" tvg-name="EspaÃ±a 4" tvg-logo="1351.png" group-title="INFORMACIÃ“N", EspaÃ±a 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fantena3-aos1-apple-live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel02%2Fla_sexta_hd_1548K_1280x720_main.m3u8
+ 
+#EXTINF:-1, tvg-id="685" tvg-name="EspaÃ±a 5" tvg-logo="1353.png" group-title="INFORMACIÃ“N", EspaÃ±a 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fteledifusion.tv%2Fmijastv%2Fmijastvlive
+ 
+#EXTINF:-1, tvg-id="686" tvg-name="EspaÃ±a 6" tvg-logo="1355.png" group-title="INFORMACIÃ“N", EspaÃ±a 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F62.42.17.93%2Flive%2FLive
+ 
+#EXTINF:-1, tvg-id="687" tvg-name="EspaÃ±a 7" tvg-logo="1357.png" group-title="INFORMACIÃ“N", EspaÃ±a 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns724ste1010.multistream.net%2Ftgsietelive%2Famlst%3Atvgranada%2Fplaylist_b750000.m3u8
+ 
+#EXTINF:-1, tvg-id="688" tvg-name="EspaÃ±a 8" tvg-logo="1359.png" group-title="INFORMACIÃ“N", EspaÃ±a 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F15585029%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="689" tvg-name="EspaÃ±a 9" tvg-logo="1361.png" group-title="INFORMACIÃ“N", EspaÃ±a 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Faragontvlivefs.fplive.net%2Faragontvlive-live%2Fstream_normal_abt
+ 
+#EXTINF:-1, tvg-id="690" tvg-name="EspaÃ±a 10" tvg-logo="1363.png" group-title="INFORMACIÃ“N", EspaÃ±a 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F62.210.141.18%3A1935%2Fdirecto%2Flancelot.television
+ 
+#EXTINF:-1, tvg-id="691" tvg-name="EspaÃ±a 11" tvg-logo="1365.png" group-title="INFORMACIÃ“N", EspaÃ±a 11
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Ftvgirona.dnssw.net%2Flive%2FIcontouch
+ 
+#EXTINF:-1, tvg-id="692" tvg-name="EspaÃ±a 12" tvg-logo="1367.png" group-title="INFORMACIÃ“N", EspaÃ±a 12
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcls.todostreaming.eu%2Fazahara%2Flepevision%2Fchunklist.m3u8
+ 
+#EXTINF:-1, tvg-id="693" tvg-name="EspaÃ±a 13" tvg-logo="1369.png" group-title="INFORMACIÃ“N", EspaÃ±a 13
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fcdn.s3.eu.nice264.com%3A1935%2FniceLiveServer%2FNTV_livenatvmb_MB_478ext
+ 
+#EXTINF:-1, tvg-id="694" tvg-name="EspaÃ±a 14" tvg-logo="1371.png" group-title="INFORMACIÃ“N", EspaÃ±a 14
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F14420271%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="695" tvg-name="EspaÃ±a 15" tvg-logo="1373.png" group-title="INFORMACIÃ“N", EspaÃ±a 15
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphonelive.rtve.es%2FLA1_LV3_IPH%2FLA1_LV3_IPH.m3u8
+ 
+#EXTINF:-1, tvg-id="696" tvg-name="EspaÃ±a 16" tvg-logo="1556.png" group-title="INFORMACIÃ“N", EspaÃ±a 16
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fmdsios2-lh.akamaihd.net%2Fi%2Fmitele%2Fesmediaset_21%40168473%2Findex_0_av-p.m3u8%3Fsd%3D10%26rebase%3Don
+ 
+#EXTINF:-1, tvg-id="697" tvg-name="Paraguay 1" tvg-logo="" group-title="INFORMACIÃ“N", Paraguay 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F70.36.100.38%3A1935%2Flive%2Fcanal13_hq.stream
+ 
+#EXTINF:-1, tvg-id="698" tvg-name="Paraguay 2" tvg-logo="" group-title="INFORMACIÃ“N", Paraguay 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fmobileservertv03.desdeparaguay.com%2FTV%2Fparaguaytv
+ 
+#EXTINF:-1, tvg-id="699" tvg-name="Uruguay 1" tvg-logo="" group-title="INFORMACIÃ“N", Uruguay 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxcanaloncepuntadelestex.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="703" tvg-name="Guatemala 1" tvg-logo="1107.png" group-title="INFORMACIÃ“N", Guatemala 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F9556054%2Fstreams%2Flive%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="704" tvg-name="Guatemala 2" tvg-logo="1111.png" group-title="INFORMACIÃ“N", Guatemala 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fbravo967.sysvirtuales.com%2Flive%2Fstream1.sdp%2Fhasbahca.m3u8
+ 
+#EXTINF:-1, tvg-id="705" tvg-name="Guatemala 3" tvg-logo="1113.png" group-title="INFORMACIÃ“N", Guatemala 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fodna.octoshape.net%2Fc7z7k4j2%2Fcds%2Fch1_400k%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="706" tvg-name="Nicaragua 1" tvg-logo="955.png" group-title="INFORMACIÃ“N", Nicaragua 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F13870671%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="707" tvg-name="Nicaragua 2" tvg-logo="957.png" group-title="INFORMACIÃ“N", Nicaragua 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdn5.iviplanet.com%3A1935%2FTN8MBR%2Fsmil%3Atn8mbr.smil%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="708" tvg-name="Nicaragua 3" tvg-logo="1103.png" group-title="INFORMACIÃ“N", Nicaragua 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F162.244.81.181%3A1935%2Flive%2FStream1
+ 
+#EXTINF:-1, tvg-id="709" tvg-name="Nicaragua 4" tvg-logo="1109.png" group-title="INFORMACIÃ“N", Nicaragua 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2015
+ 
+#EXTINF:-1, tvg-id="710" tvg-name="Nicaragua 5" tvg-logo="1115.png" group-title="INFORMACIÃ“N", Nicaragua 5
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2013
+ 
+#EXTINF:-1, tvg-id="711" tvg-name="Costa Rica 1" tvg-logo="1099.png" group-title="INFORMACIÃ“N", Costa Rica 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Ftvuno1%2Ftvuno1
+ 
+#EXTINF:-1, tvg-id="712" tvg-name="Costa Rica 2" tvg-logo="1179.png" group-title="INFORMACIÃ“N", Costa Rica 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fx.x
+ 
+#EXTINF:-1, tvg-id="713" tvg-name="Costa Rica 3" tvg-logo="1181.png" group-title="INFORMACIÃ“N", Costa Rica 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F199.217.118.90%3A1935%2Fsmotv%2Fstream
+ 
+#EXTINF:-1, tvg-id="714" tvg-name="Costa Rica 4" tvg-logo="1183.png" group-title="INFORMACIÃ“N", Costa Rica 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Fcolosaltv1%2Fcolosaltv1
+ 
+#EXTINF:-1, tvg-id="715" tvg-name="Costa Rica 5" tvg-logo="1185.png" group-title="INFORMACIÃ“N", Costa Rica 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Fcana6%2Fcana6
+ 
+#EXTINF:-1, tvg-id="716" tvg-name="Costa Rica 6" tvg-logo="1187.png" group-title="INFORMACIÃ“N", Costa Rica 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Fcanal9%2Fcanal9
+ 
+#EXTINF:-1, tvg-id="717" tvg-name="Costa Rica 7" tvg-logo="1189.png" group-title="INFORMACIÃ“N", Costa Rica 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fstream01.cyberfuel.com%2FSinartCanal13%2Flivestream
+ 
+#EXTINF:-1, tvg-id="718" tvg-name="Costa Rica 8" tvg-logo="1191.png" group-title="INFORMACIÃ“N", Costa Rica 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Fcanal29%2Fcanal29
+ 
+#EXTINF:-1, tvg-id="719" tvg-name="Costa Rica 9" tvg-logo="1193.png" group-title="INFORMACIÃ“N", Costa Rica 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Ftv33%2Ftv33
+ 
+#EXTINF:-1, tvg-id="720" tvg-name="Costa Rica 10" tvg-logo="1195.png" group-title="INFORMACIÃ“N", Costa Rica 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fk3.usastreams.com%3A1935%2Fcanal42%2Fcanal42
+ 
+#EXTINF:-1, tvg-id="721" tvg-name="Ecuador 1" tvg-logo="1375.png" group-title="INFORMACIÃ“N", Ecuador 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F38.96.148.216%3A1935%2Flive%2Fcanelatv%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="722" tvg-name="Ecuador 2" tvg-logo="1377.png" group-title="INFORMACIÃ“N", Ecuador 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fenhd.co%3A1935%2Fecoteltv%2Fecoteltv
+ 
+#EXTINF:-1, tvg-id="723" tvg-name="Ecuador 3" tvg-logo="1379.png" group-title="INFORMACIÃ“N", Ecuador 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fecuastream.net%3A1935%2FUCSGHQ%2FUCSGHQ
+ 
+#EXTINF:-1, tvg-id="724" tvg-name="Panama 1" tvg-logo="317.png" group-title="INFORMACIÃ“N", Panama 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F19wqj1kgf_1%40136614%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="725" tvg-name="Panama 2" tvg-logo="1301.png" group-title="INFORMACIÃ“N", Panama 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Flive.rpctv.com%2Frpctv%2Ftm.smil%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="726" tvg-name="Panama 3" tvg-logo="1303.png" group-title="INFORMACIÃ“N", Panama 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Flive.telemetro.com%2Ftelemetro%2Ftm.smil%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="731" tvg-name="Mexico 1" tvg-logo="731.png" group-title="MEXICO", El Trece
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Findex_3_av-b.m3u8
+ 
+#EXTINF:-1, tvg-id="732" tvg-name="Mexico 2" tvg-logo="732.png" group-title="MEXICO", Canal 5
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1479
+ 
+#EXTINF:-1, tvg-id="733" tvg-name="Mexico 3" tvg-logo="733.png" group-title="MEXICO", Mexico 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="734" tvg-name="Mexico 4" tvg-logo="734.png" group-title="MEXICO", Once TV
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.oncetvmexicolive.tv%3A1935%2Flivepkgr2%2Fsmil%3Aint.smil%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="735" tvg-name="Mexico 5" tvg-logo="735.png" group-title="MEXICO", TV MAS
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F50.7.98.234%2Frtv%2Fvideortv
+ 
+#EXTINF:-1, tvg-id="736" tvg-name="Mexico 6" tvg-logo="736.png" group-title="MEXICO", EFEKTO TV
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fgrupomac-lh.akamaihd.net%2Fi%2F004rss0k8_1%40301782%2Findex_3_av-b.m3u8%3Fsd%3D10%26rebase%3Don
+ 
+#EXTINF:-1, tvg-id="737" tvg-name="Mexico 7" tvg-logo="737.png" group-title="MEXICO", Mexico 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F201.130.193.150%3A1935%2Fcodecsys%2Fsmil%3Aocho.smil%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="738" tvg-name="Mexico 8" tvg-logo="738.png" group-title="MEXICO", Mexico 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Fmtchlive%2Famlst%3Alive%2Fchunklist_b900000.m3u8
+ 
+#EXTINF:-1, tvg-id="739" tvg-name="Mexico 9" tvg-logo="739.png" group-title="MEXICO", Canal 40
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F05i15qzql_1%40149710%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="740" tvg-name="Mexico 10" tvg-logo="740.png" group-title="MEXICO", Mexico 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fbrightcove03-f.akamaihd.net%2Fmilenio_centro_512k%40101956
+ 
+#EXTINF:-1, tvg-id="741" tvg-name="El Salvador 1" tvg-logo="1329.png" group-title="INFORMACIÃ“N", El Salvador 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Fgenteve.c29.svlive%2Famlst%3Alive%2Fhuraivza_b750000.m3u8
+ 
+#EXTINF:-1, tvg-id="742" tvg-name="El Salvador 2" tvg-logo="1331.png" group-title="INFORMACIÃ“N", El Salvador 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F4811076%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="743" tvg-name="El Salvador 3" tvg-logo="1469.png" group-title="INFORMACIÃ“N", El Salvador 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fpanel.elsalvadordigital.com%3A1935%2Fcanal23%2Fcanal23
+ 
+#EXTINF:-1, tvg-id="744" tvg-name="El Salvador 4" tvg-logo="" group-title="INFORMACIÃ“N", El Salvador 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxgrupomegavisionx.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="745" tvg-name="Honduras 1" tvg-logo="1317.png" group-title="INFORMACIÃ“N", Honduras 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fm.aliasdns.info%3A8979%2Flive%2Fglobotv
+ 
+#EXTINF:-1, tvg-id="746" tvg-name="Honduras 2" tvg-logo="1319.png" group-title="INFORMACIÃ“N", Honduras 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fhd.worldkast.com%3A1935%2F8378%2F_definst_%2Fmp4%3A83781
+ 
+#EXTINF:-1, tvg-id="747" tvg-name="Honduras 3" tvg-logo="1321.png" group-title="INFORMACIÃ“N", Honduras 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F4.31.30.140%3A1935%2Flive%2Fhchtvdigital%2Fplaylist.m3u8%3Fwowzasessionid%3D1792561590
+ 
+#EXTINF:-1, tvg-id="748" tvg-name="Honduras 4" tvg-logo="1323.png" group-title="INFORMACIÃ“N", Honduras 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F4.31.30.140%3A1935%2Flive%2Fmundotv
+ 
+#EXTINF:-1, tvg-id="749" tvg-name="Honduras 5" tvg-logo="1327.png" group-title="INFORMACIÃ“N", Honduras 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F162.212.176.83%3A8080%2Fcanal6.stream.m3u8
+ 
+#EXTINF:-1, tvg-id="750" tvg-name="Honduras 6" tvg-logo="1467.png" group-title="INFORMACIÃ“N", Honduras 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F142kvpq0l_1%4067741%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="751" tvg-name="Colombia 1" tvg-logo="367.png" group-title="INFORMACIÃ“N", Colombia 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanalcapitallive%2Famlst%3Alive%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="752" tvg-name="Colombia 2" tvg-logo="365.png" group-title="INFORMACIÃ“N", Colombia 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F12380713%2Fstreams%2Flive%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="753" tvg-name="Colombia 3" tvg-logo="353.png" group-title="INFORMACIÃ“N", Colombia 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcaracoltvlivehds-lh.akamaihd.net%2Fi%2Fwowzalive_1%40126280%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="754" tvg-name="Colombia 4" tvg-logo="357.png" group-title="INFORMACIÃ“N", Colombia 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fxtelecafex.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="755" tvg-name="Colombia 5" tvg-logo="359.png" group-title="INFORMACIÃ“N", Colombia 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Ftelecaribelive%2Famlst%3Alive%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="756" tvg-name="Colombia 6" tvg-logo="355.png" group-title="INFORMACIÃ“N", Colombia 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Frtvclive%2Famlst%3Alive%2Fplaylist_b500000.m3u8
+ 
+#EXTINF:-1, tvg-id="757" tvg-name="Colombia 7" tvg-logo="363.png" group-title="INFORMACIÃ“N", Colombia 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanaltr3celive%2Flive-500%2FPAZ.m3u8
+ 
+#EXTINF:-1, tvg-id="758" tvg-name="Colombia 8" tvg-logo="361.png" group-title="INFORMACIÃ“N", Colombia 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F50.23.173.13%3A1935%2Flive%2Fcablenoticiastv_720p
+ 
+#EXTINF:-1, tvg-id="759" tvg-name="Colombia 9" tvg-logo="1173.png" group-title="INFORMACIÃ“N", Colombia 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fxcanalzoomtvx.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="760" tvg-name="Colombia 10" tvg-logo="1175.png" group-title="INFORMACIÃ“N", Colombia 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fxcanalutvx.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="761" tvg-name="Venezuela 1" tvg-logo="1137.png" group-title="INFORMACIÃ“N", Venezuela 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdn2.telesur.ultrabase.net%2Flivecf%2FtelesurLive%2Fchunklist.m3u8
+ 
+#EXTINF:-1, tvg-id="762" tvg-name="Venezuela 2" tvg-logo="1251.png" group-title="INFORMACIÃ“N", Venezuela 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fcast.streamingconnect.tv%3A1935%2Fvtvweb2%2Fvtvweb2
+ 
+#EXTINF:-1, tvg-id="763" tvg-name="Venezuela 3" tvg-logo="1253.png" group-title="INFORMACIÃ“N", Venezuela 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fedge.wms28.lorini.net%2Ftelearagua%2Ftelearagua1%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="764" tvg-name="Venezuela 4" tvg-logo="1255.png" group-title="INFORMACIÃ“N", Venezuela 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fdvyd5g1fkvmtn.cloudfront.net%2Ftvvenezuela%2Fngrp%3Alive_PC%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="765" tvg-name="Venezuela 5" tvg-logo="1305.png" group-title="INFORMACIÃ“N", Venezuela 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fxtvocanal23x.api.channel.livestream.com%2F3.0%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="766" tvg-name="Venezuela 6" tvg-logo="1307.png" group-title="INFORMACIÃ“N", Venezuela 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fedge.wms28.lorini.net%2Fcanalonce%2Fcanalonce
+ 
+#EXTINF:-1, tvg-id="767" tvg-name="Venezuela 7" tvg-logo="1309.png" group-title="INFORMACIÃ“N", Venezuela 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fcast.streamingconnect.tv%3A1935%2Fpdvsatvweb%2Fpdvsatvweb
+ 
+#EXTINF:-1, tvg-id="768" tvg-name="Venezuela 8" tvg-logo="1311.png" group-title="INFORMACIÃ“N", Venezuela 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fedge.wms28.lorini.net%2Fsomostv%2Fsomostv
+ 
+#EXTINF:-1, tvg-id="769" tvg-name="Venezuela 9" tvg-logo="1313.png" group-title="INFORMACIÃ“N", Venezuela 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge.wms28.lorini.net%2Fvaletv%2Fvaletv
+ 
+#EXTINF:-1, tvg-id="770" tvg-name="Venezuela 10" tvg-logo="1315.png" group-title="INFORMACIÃ“N", Venezuela 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fcast.streamingconnect.tv%3A1935%2Fantvweb%2Fantvweb
+ 
+#EXTINF:-1, tvg-id="771" tvg-name="Chile 1" tvg-logo="799.png" group-title="INFORMACIÃ“N", Chile 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fedge-11-mvstr.edge.mdstrm.com%2Flive%2Fsmil%3Adb6a38a0a2bffd96d01965c4d975b9fb%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="772" tvg-name="Chile 2" tvg-logo="959.png" group-title="INFORMACIÃ“N", Chile 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwow2.cl.digitalproserver.com%2Fc9%2F%2Fc9.smil%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="773" tvg-name="Chile 3" tvg-logo="961.png" group-title="INFORMACIÃ“N", Chile 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Ftvn-vod.mdstrm.com%2Fliveedge%2Ftvnelemental.smil%2Fchunklist_b981000.m3u8
+ 
+#EXTINF:-1, tvg-id="774" tvg-name="Chile 4" tvg-logo="1165.png" group-title="INFORMACIÃ“N", Chile 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwow2.cl.digitalproserver.com%2Fcampustv%2Fcampustvvivo%2Fcampustv.smil%2Fchunklist_w662421777_b848000.m3u8
+ 
+#EXTINF:-1, tvg-id="775" tvg-name="Chile 5" tvg-logo="1167.png" group-title="INFORMACIÃ“N", Chile 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fstreaming.elpinguino.com%3A1935%2Flive%2Fpinguinotv_360p%2Fsat.m3u8
+ 
+#EXTINF:-1, tvg-id="776" tvg-name="Chile 6" tvg-logo="1169.png" group-title="INFORMACIÃ“N", Chile 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwow1.dallas.digitalproserver.com%2Fredtv%2Fredtvvivo%2Flivestream3%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="777" tvg-name="Chile 7" tvg-logo="1245.png" group-title="INFORMACIÃ“N", Chile 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fflashmedia.aconcaguared.com%2Flive%2Flive_605537_nhAdU2RY
+ 
+#EXTINF:-1, tvg-id="781" tvg-name="Argentina 1" tvg-logo="1141.png" group-title="INFORMACIÃ“N", Argentina 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fstream.eltrecetv.com.ar%2Flive13%2F13tv%2F13tv1
+ 
+#EXTINF:-1, tvg-id="782" tvg-name="Argentina 2" tvg-logo="1143.png" group-title="INFORMACIÃ“N", Argentina 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Flive-edge01.telecentro.net.ar%2Flive%2Fsmil%3Atlx.smil%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="783" tvg-name="Argentina 3" tvg-logo="1145.png" group-title="INFORMACIÃ“N", Argentina 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fstream.mgzn.tv%2Flive%2Fmgzntv%2Fmgzntv
+ 
+#EXTINF:-1, tvg-id="784" tvg-name="Argentina 4" tvg-logo="1147.png" group-title="INFORMACIÃ“N", Argentina 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fc5n.stweb.tv%3A1935%2Fc5n%2Flive_media%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="785" tvg-name="Argentina 5" tvg-logo="1149.png" group-title="INFORMACIÃ“N", Argentina 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fstream.tn.com.ar%2Flive%2Ftnhd1
+ 
+#EXTINF:-1, tvg-id="786" tvg-name="Argentina 6" tvg-logo="1514.png" group-title="INFORMACIÃ“N", Argentina 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive-edge01.telecentro.net.ar%2Flive%2Famrchd-360%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="787" tvg-name="Argentina 7" tvg-logo="1517.png" group-title="INFORMACIÃ“N", Argentina 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive-edge01.telecentro.net.ar%2Flive%2Ftlfhd-360%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="788" tvg-name="Argentina 8" tvg-logo="1520.png" group-title="INFORMACIÃ“N", Argentina 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Flive-edge01.telecentro.net.ar%3A80%2Flive%2F26hd-360
+ 
+#EXTINF:-1, tvg-id="789" tvg-name="Argentina 9" tvg-logo="1547.png" group-title="INFORMACIÃ“N", Argentina 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive-edge01.telecentro.net.ar%3A1935%2Flive%2Ftvphd-360%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="791" tvg-name="Peru 1" tvg-logo="1157.png" group-title="INFORMACIÃ“N", Peru 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fooyalahd2-f.akamaihd.net%2Fi%2Fatv02_delivery%4025405%2Findex_564_av-p.m3u8
+ 
+#EXTINF:-1, tvg-id="792" tvg-name="Peru 2" tvg-logo="1159.png" group-title="INFORMACIÃ“N", Peru 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Flive.soltvperu.com%3A1935%2Fsoltv%2Fsoltv%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="793" tvg-name="Peru 3" tvg-logo="1161.png" group-title="INFORMACIÃ“N", Peru 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fwillax.mediastream.pe%2Fvv_willax%2Flivestream
+ 
+#EXTINF:-1, tvg-id="794" tvg-name="Peru 4" tvg-logo="1163.png" group-title="INFORMACIÃ“N", Peru 4
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F184.154.28.210%3A1935%2Frbcsatelital-hd%2Frbcsatelital-hd
+ 
+#EXTINF:-1, tvg-id="795" tvg-name="Peru 5" tvg-logo="1247.png" group-title="INFORMACIÃ“N", Peru 5
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fwowzacontrol.net%3A1935%2F8050%2F8050%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="796" tvg-name="Peru 6" tvg-logo="1249.png" group-title="INFORMACIÃ“N", Peru 6
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fedge-31-us.edge.mdstrm.com%2Flive%2Fsmil%3Ac23b8a0a21d215482b4c2703e47f675a%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="797" tvg-name="Peru 7" tvg-logo="1505.png" group-title="INFORMACIÃ“N", Peru 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fm.iblups.com%3A1935%2Flives%2Fptv1%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="798" tvg-name="Peru 8" tvg-logo="1508.png" group-title="INFORMACIÃ“N", Peru 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F222.8.213.121%3A1935%2Flive13%2Flivestream1.sdp%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="799" tvg-name="Peru 9" tvg-logo="1511.png" group-title="INFORMACIÃ“N", Peru 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Flive.mvdigital.net%3A1935%2Flive5%2Flivestream1.sdp%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="801" tvg-name="Dominican Republic 1" tvg-logo="309.png" group-title="INFORMACIÃ“N", Dominican Republic 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fmek4.mekstream.com%2Fteleantillas%2Flive3%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="802" tvg-name="Dominican Republic 2" tvg-logo="311.png" group-title="INFORMACIÃ“N", Dominican Republic 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1615
+ 
+#EXTINF:-1, tvg-id="803" tvg-name="Dominican Republic 3" tvg-logo="313.png" group-title="INFORMACIÃ“N", Dominican Republic 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fss7.domint.net%3A2048%2Fcvis_str%2Fcolor%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="804" tvg-name="Dominican Republic 4" tvg-logo="807.png" group-title="INFORMACIÃ“N", Dominican Republic 4
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2935
+ 
+#EXTINF:-1, tvg-id="805" tvg-name="Dominican Republic 5" tvg-logo="809.png" group-title="INFORMACIÃ“N", Dominican Republic 5
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1627
+ 
+#EXTINF:-1, tvg-id="806" tvg-name="Dominican Republic 6" tvg-logo="811.png" group-title="INFORMACIÃ“N", Dominican Republic 6
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1629
+ 
+#EXTINF:-1, tvg-id="807" tvg-name="Dominican Republic 7" tvg-logo="1151.png" group-title="INFORMACIÃ“N", Dominican Republic 7
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fss7.domint.net%3A1942%2Ftu_str%2Funiverso%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="808" tvg-name="Dominican Republic 8" tvg-logo="1153.png" group-title="INFORMACIÃ“N", Dominican Republic 8
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F108.168.206.90%3A1935%2Fcdn%2Fcdn%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="809" tvg-name="Dominican Republic 9" tvg-logo="1155.png" group-title="INFORMACIÃ“N", Dominican Republic 9
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F108.168.206.90%3A1935%2Fcdnsm%2Fcdnsm%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="810" tvg-name="Dominican Republic 10" tvg-logo="315.png" group-title="INFORMACIÃ“N", Dominican Republic 10
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fss7.domint.net%3A1950%2Ftf_str%2Ffutu%2Fhasbahca.m3u8
+ 
+#EXTINF:-1, tvg-id="816" tvg-name="Trinidad and Tobago 1" tvg-logo="" group-title="INFORMACIÃ“N", Trinidad and Tobago 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fcnmg.live.cdn.bitgravity.com%2Fcnmg%2Flive%2Fctv
+ 
+#EXTINF:-1, tvg-id="817" tvg-name="Cuba 1" tvg-logo="1241.png" group-title="INFORMACIÃ“N", Cuba 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fcp117766.live.edgefcs.net%2Flive%2Flive_high%4047386
+ 
+#EXTINF:-1, tvg-id="818" tvg-name="Jamaica 1" tvg-logo="1496.png" group-title="INFORMACIÃ“N", Jamaica 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Frjr_flash-lh.akamaihd.net%2Fi%2FretvD_1%4039668%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="819" tvg-name="Jamaica 2" tvg-logo="1489.png" group-title="INFORMACIÃ“N", Jamaica 2
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fvm2.zenzig.com%2Fhls%2Fjet1.m3u8
+ 
+#EXTINF:-1, tvg-id="820" tvg-name="Haiti 1" tvg-logo="1389.png" group-title="INFORMACIÃ“N", Haiti 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fshared.flashwebtown.com%2Ftropik%2Ftropik
+ 
+#EXTINF:-1, tvg-id="821" tvg-name="Barbados 1" tvg-logo="1325.png" group-title="INFORMACIÃ“N", Barbados 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F184.154.57.230%2Fcbcvideo%2Fcbcstream
+ 
+#EXTINF:-1, tvg-id="822" tvg-name="Curacao 1" tvg-logo="1291.png" group-title="INFORMACIÃ“N", Curacao 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fcdn8.iviplanet.com%2FTelecuracao%2FmyStream.sdp
+ 
+#EXTINF:-1, tvg-id="823" tvg-name="Bonaire 1" tvg-logo="1293.png" group-title="INFORMACIÃ“N", Bonaire 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fpanchito13.flashmediacast.com%3A2087%2Flive%2Flivestream
+ 
+#EXTINF:-1, tvg-id="824" tvg-name="Aruba 1" tvg-logo="1243.png" group-title="INFORMACIÃ“N", Aruba 1
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F201.229.0.51%2Flivepkgr%2Flivestream1
+ 
+#EXTINF:-1, tvg-id="825" tvg-name="Az Mundo" tvg-logo="1101.png" group-title="MEXICO", Az Mundo
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1999
+ 
+#EXTINF:-1, tvg-id="826" tvg-name="Canal De Las Estrellas" tvg-logo="633.png" group-title="MEXICO", Canal De Las Estrellas
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3802
+ 
+#EXTINF:-1, tvg-id="827" tvg-name="Univision" tvg-logo="98.png" group-title="MEXICO", Univision
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800
+ 
+#EXTINF:-1, tvg-id="828" tvg-name="UniMas" tvg-logo="88.png" group-title="MEXICO", UniMas
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+ 
+#EXTINF:-1, tvg-id="829" tvg-name="Antena 3" tvg-logo="113.png" group-title="INFORMACIÃ“N", Antena 3
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fantena3-aos1-apple-live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel01%2Fantena_3_hd_1548K_1280x720_main.m3u8
+ 
+#EXTINF:-1, tvg-id="830" tvg-name="Galicia TV" tvg-logo="623.png" group-title="INFORMACIÃ“N", Galicia TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1499
+ 
+#EXTINF:-1, tvg-id="831" tvg-name="TVE Internacional America" tvg-logo="115.png" group-title="INFORMACIÃ“N", TVE Internacional America
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2123
+ 
+#EXTINF:-1, tvg-id="833" tvg-name="Gala TV" tvg-logo="967.png" group-title="MEXICO", Gala TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4054
+ 
+#EXTINF:-1, tvg-id="834" tvg-name="Pasiones" tvg-logo="117.png" group-title="LATINOS", Pasiones
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F295
+ 
+#EXTINF:-1, tvg-id="835" tvg-name="Telemundo" tvg-logo="815.png" group-title="LATINOS", Telemundo
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F20487775%2Fstreams%2Flive%2Fplaylist.m3u8
+ 
+#EXTINF:-1, tvg-id="836" tvg-name="Telemundo Internacional" tvg-logo="102.png" group-title="LATINOS", Telemundo Internacional
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F419
+ 
+#EXTINF:-1, tvg-id="837" tvg-name="RCN Novelas" tvg-logo="881.png" group-title="LATINOS", RCN Novelas
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493
+ 
+#EXTINF:-1, tvg-id="838" tvg-name="Tlnovelas America" tvg-logo="847.png" group-title="LATINOS", Tlnovelas America
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1461
+ 
+#EXTINF:-1, tvg-id="839" tvg-name="TeleCentro" tvg-logo="1117.png" group-title="LATINOS", TeleCentro
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2017
+ 
+#EXTINF:-1, tvg-id="840" tvg-name="Caracol Internacional" tvg-logo="1119.png" group-title="LATINOS", Caracol Internacional
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+ 
+#EXTINF:-1, tvg-id="841" tvg-name="DW Latinoamerica" tvg-logo="1095.png" group-title="LATINOS", DW Latinoamerica
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.metafilegenerator.de%2FDWelle%2Ftv-latinoamerica%2Fios%2Fmaster.m3u8
+ 
+#EXTINF:-1, tvg-id="842" tvg-name="TV Globo Internacional" tvg-logo="937.png" group-title="LATINOS", TV Globo Internacional
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1593
+ 
+#EXTINF:-1, tvg-id="843" tvg-name="TV 5 Monde" tvg-logo="1171.png" group-title="INFORMACIÃ“N", TV 5 Monde
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Funeapple-i.akamaihd.net%2Fhls%2Flive%2F206412%2Fgrupoune_st11%40206412%2Fst11_index.m3u8
+ 
+#EXTINF:-1, tvg-id="844" tvg-name="Discovery en EspaÃ±ol" tvg-logo="1333.png" group-title="LATINOS", Discovery en EspaÃ±ol
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3531
+ 
+#EXTINF:-1, tvg-id="845" tvg-name="Discovery Theater" tvg-logo="29.png" group-title="LATINOS", Discovery Theater
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3798
+ 
+#EXTINF:-1, tvg-id="846" tvg-name="Discovery World" tvg-logo="1493.png" group-title="LATINOS", Discovery World
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3529
+ 
+#EXTINF:-1, tvg-id="847" tvg-name="Discovery Home & Health Latinoamerica" tvg-logo="44.png" group-title="LATINOS", Discovery Home & Health Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F252
+ 
+#EXTINF:-1, tvg-id="849" tvg-name="H2 Latinoamerica" tvg-logo="119.png" group-title="LATINOS", H2 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F297
+ 
+#EXTINF:-1, tvg-id="850" tvg-name="History en EspaÃ±ol" tvg-logo="219.png" group-title="LATINOS", History en EspaÃ±ol
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3704
+ 
+#EXTINF:-1, tvg-id="851" tvg-name="National Geographic Latinoamerica" tvg-logo="217.png" group-title="LATINOS", National Geographic Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F395
+ 
+#EXTINF:-1, tvg-id="852" tvg-name="Nat Geo Wild Latino America" tvg-logo="35.png" group-title="LATINOS", Nat Geo Wild Latino America
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F254
+ 
+#EXTINF:-1, tvg-id="853" tvg-name="Animal Planet Latinoamerica" tvg-logo="121.png" group-title="LATINOS", Animal Planet Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F441
+ 
+#EXTINF:-1, tvg-id="854" tvg-name="ESPN Latinoamerica" tvg-logo="819.png" group-title="LATINOS", ESPN Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
+ 
+#EXTINF:-1, tvg-id="855" tvg-name="ESPN 2 Latinoamerica" tvg-logo="123.png" group-title="LATINOS", ESPN 2 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301
+ 
+#EXTINF:-1, tvg-id="856" tvg-name="ESPN 3 Latinoamerica" tvg-logo="125.png" group-title="LATINOS", ESPN 3 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3806
+ 
+#EXTINF:-1, tvg-id="857" tvg-name="Fox Sports Latinoamerica" tvg-logo="831.png" group-title="LATINOS", Fox Sports Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
+ 
+#EXTINF:-1, tvg-id="858" tvg-name="Fox Sports 2 Latinoamerica" tvg-logo="215.png" group-title="LATINOS", Fox Sports 2 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
+ 
+#EXTINF:-1, tvg-id="859" tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="127.png" group-title="LATINOS", Fox Sports 3 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
+ 
+#EXTINF:-1, tvg-id="860" tvg-name="BeinSports en EspaÃ±ol" tvg-logo="1239.png" group-title="LATINOS", BeinSports en EspaÃ±ol
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
+ 
+#EXTINF:-1, tvg-id="861" tvg-name="UFC Network Latinoamerica" tvg-logo="625.png" group-title="LATINOS", UFC Network Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
+ 
+#EXTINF:-1, tvg-id="862" tvg-name="F1 Latinoamerica" tvg-logo="969.png" group-title="LATINOS", F1 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1695
+ 
+#EXTINF:-1, tvg-id="866" tvg-name="Planeta Futbol" tvg-logo="863.png" group-title="LATINOS", Planeta Futbol
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
+ 
+#EXTINF:-1, tvg-id="867" tvg-name="Planeta Futbol English Soccer" tvg-logo="1491.png" group-title="DEPORTES", Planeta Futbol English Soccer
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
+ 
+#EXTINF:-1, tvg-id="868" tvg-name="TDN Mexico" tvg-logo="635.png" group-title="MEXICO", TDN Mexico
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+ 
+#EXTINF:-1, tvg-id="869" tvg-name="Univision TDN" tvg-logo="869.png" group-title="MEXICO", Univision TDN
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
+ 
+#EXTINF:-1, tvg-id="870" tvg-name="Golf Channel Latinoamerica" tvg-logo="877.png" group-title="LATINOS", Golf Channel Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1489
+ 
+#EXTINF:-1, tvg-id="872" tvg-name="Disney Channel Norte" tvg-logo="42.png" group-title="INFANTILES", Disney Channel Norte
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F256
+ 
+#EXTINF:-1, tvg-id="873" tvg-name="Disney XD Norte" tvg-logo="255.png" group-title="INFANTILES", Disney XD Norte
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
+ 
+#EXTINF:-1, tvg-id="874" tvg-name="Disney Junior Norte" tvg-logo="843.png" group-title="INFANTILES", Disney Junior Norte
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1455
+ 
+#EXTINF:-1, tvg-id="875" tvg-name="Nickelodeon Latinoamerica" tvg-logo="817.png" group-title="LATINOS", Nickelodeon Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1423
+ 
+#EXTINF:-1, tvg-id="876" tvg-name="Nick Jr Latinoamerica" tvg-logo="239.png" group-title="LATINOS", Nick Jr Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F417
+ 
+#EXTINF:-1, tvg-id="877" tvg-name="Discovery Kids America Latina" tvg-logo="131.png" group-title="LATINOS", Discovery Kids America Latina
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F309
+ 
+#EXTINF:-1, tvg-id="878" tvg-name="Cartoon Network Latinoamerica" tvg-logo="133.png" group-title="LATINOS", Cartoon Network Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421
+ 
+#EXTINF:-1, tvg-id="879" tvg-name="Boomerang Latinoamerica" tvg-logo="135.png" group-title="LATINOS", Boomerang Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
+ 
+#EXTINF:-1, tvg-id="881" tvg-name="Tooncast" tvg-logo="137.png" group-title="INFANTILES", Tooncast
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
+ 
+#EXTINF:-1, tvg-id="882" tvg-name="BabyFirst TV Latinoamerica" tvg-logo="611.png" group-title="LATINOS", BabyFirst TV Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1031
+ 
+#EXTINF:-1, tvg-id="883" tvg-name="Baby TV Latinoamerica" tvg-logo="139.png" group-title="LATINOS", Baby TV Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F317
+ 
+#EXTINF:-1, tvg-id="884" tvg-name="CBeebies Latinoamerica" tvg-logo="609.png" group-title="LATINOS", CBeebies Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1029
+ 
+#EXTINF:-1, tvg-id="885" tvg-name="Canal Sony" tvg-logo="837.png" group-title="LATINOS", Canal Sony
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2501
+ 
+#EXTINF:-1, tvg-id="886" tvg-name="BBC Entertainment Latinoamerica" tvg-logo="805.png" group-title="LATINOS", BBC Entertainment Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1407
+ 
+#EXTINF:-1, tvg-id="887" tvg-name="Unicable" tvg-logo="1393.png" group-title="LATINOS", Unicable
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3804
+ 
+#EXTINF:-1, tvg-id="888" tvg-name="Warner Channel Latinoamerica" tvg-logo="839.png" group-title="LATINOS", Warner Channel Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2499
+ 
+#EXTINF:-1, tvg-id="889" tvg-name="E! Latinoamerica" tvg-logo="141.png" group-title="LATINOS", E! Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F427
+ 
+#EXTINF:-1, tvg-id="890" tvg-name="FX Latino" tvg-logo="143.png" group-title="LATINOS", FX Latino
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F431
+ 
+#EXTINF:-1, tvg-id="891" tvg-name="Universal Channel America Latina" tvg-logo="209.png" group-title="LATINOS", Universal Channel America Latina
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F387
+ 
+#EXTINF:-1, tvg-id="892" tvg-name="Fox Latinoamerica" tvg-logo="821.png" group-title="LATINOS", Fox Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3947
+ 
+#EXTINF:-1, tvg-id="893" tvg-name="Syfy Latinoamerica" tvg-logo="145.png" group-title="LATINOS", Syfy Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+ 
+#EXTINF:-1, tvg-id="894" tvg-name="A&E Latinoamerica" tvg-logo="43.png" group-title="LATINOS", A&E Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F258
+ 
+#EXTINF:-1, tvg-id="895" tvg-name="Investigation Discovery Latinoamerica" tvg-logo="147.png" group-title="LATINOS", Investigation Discovery Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F455
+ 
+#EXTINF:-1, tvg-id="896" tvg-name="TLC Latinoamerica" tvg-logo="149.png" group-title="LATINOS", TLC Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F327
+ 
+#EXTINF:-1, tvg-id="897" tvg-name="AXN Latinoamerica" tvg-logo="833.png" group-title="LATINOS", AXN Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2493
+ 
+#EXTINF:-1, tvg-id="898" tvg-name="Eurochannel" tvg-logo="939.png" group-title="INFORMACIÃ“N", Eurochannel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1595
+ 
+#EXTINF:-1, tvg-id="900" tvg-name="MundoFox" tvg-logo="151.png" group-title="LATINOS", MundoFox
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F429
+ 
+#EXTINF:-1, tvg-id="902" tvg-name="TNT Series Latinoamerica" tvg-logo="153.png" group-title="LATINOS", TNT Series Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F331
+ 
+#EXTINF:-1, tvg-id="903" tvg-name="Elgourmet" tvg-logo="613.png" group-title="CULTURALES", Elgourmet
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1033
+ 
+#EXTINF:-1, tvg-id="904" tvg-name="Casa Club TV" tvg-logo="861.png" group-title="INFORMACIÃ“N", Casa Club TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1475
+ 
+#EXTINF:-1, tvg-id="905" tvg-name="TBS America Latina" tvg-logo="155.png" group-title="LATINOS", TBS America Latina
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F333
+ 
+#EXTINF:-1, tvg-id="906" tvg-name="Glitz Latinoamerica" tvg-logo="859.png" group-title="LATINOS", Glitz Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1473
+ 
+#EXTINF:-1, tvg-id="907" tvg-name="FOX Life" tvg-logo="157.png" group-title="LATINOS", FOX Life
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F425
+ 
+#EXTINF:-1, tvg-id="908" tvg-name="Distrito Comedia" tvg-logo="879.png" group-title="ENTRETENIMIENTO", Distrito Comedia
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1491
+ 
+#EXTINF:-1, tvg-id="909" tvg-name="Comedy Central Latinoamerica" tvg-logo="617.png" group-title="LATINOS", Comedy Central Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1037
+ 
+#EXTINF:-1, tvg-id="910" tvg-name="Tru TV America Latina" tvg-logo="159.png" group-title="LATINOS", Tru TV America Latina
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F337
+ 
+#EXTINF:-1, tvg-id="912" tvg-name="Efekto TV" tvg-logo="619.png" group-title="INFORMACIÃ“N", Efekto TV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1039
+ 
+#EXTINF:-1, tvg-id="913" tvg-name="Multimedios Plus" tvg-logo="845.png" group-title="INFORMACIÃ“N", Multimedios Plus
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1459
+ 
+#EXTINF:-1, tvg-id="914" tvg-name="Lifetime Latinoamerica" tvg-logo="161.png" group-title="LATINOS", Lifetime Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F423
+ 
+#EXTINF:-1, tvg-id="915" tvg-name="CNN en EspaÃ±ol" tvg-logo="213.png" group-title="LATINOS", CNN en EspaÃ±ol
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
+ 
+#EXTINF:-1, tvg-id="916" tvg-name="El Financiero Bloomberg" tvg-logo="1391.png" group-title="INFORMACIÃ“N", El Financiero Bloomberg
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2823
+ 
+#EXTINF:-1, tvg-id="917" tvg-name="RT en EspaÃ±ol" tvg-logo="919.png" group-title="LATINOS", RT en EspaÃ±ol
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8
+ 
+#EXTINF:-1, tvg-id="918" tvg-name="NTN 24" tvg-logo="945.png" group-title="INFORMACIÃ“N", NTN 24
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
+ 
+#EXTINF:-1, tvg-id="919" tvg-name="Azteca Noticias" tvg-logo="291.png" group-title="INFORMACIÃ“N", Azteca Noticias
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F077zoqxzy_1%40130091%2Findex_3_av-p.m3u8
+ 
+#EXTINF:-1, tvg-id="920" tvg-name="Euronews en EspaÃ±ol" tvg-logo="1459.png" group-title="LATINOS", Euronews en EspaÃ±ol
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtsp%3A%2F%2Fewns-hls-b-stream.hexaglobe.net%2Frtpeuronewslive%2Fes_vidan750_rtp.sdp
+ 
+#EXTINF:-1, tvg-id="921" tvg-name="CB24" tvg-logo="" group-title="INFORMACIÃ“N", CB24
+ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fipointcablertmp.tulix.tv%3A1935%2Fcb24stream%2FmyStream.sdp
+ 
+#EXTINF:-1, tvg-id="922" tvg-name="MTV Latinoamerica" tvg-logo="829.png" group-title="LATINOS", MTV Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2491
+ 
+#EXTINF:-1, tvg-id="923" tvg-name="MTV Hits Latinoamerica" tvg-logo="883.png" group-title="LATINOS", MTV Hits Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1495
+ 
+#EXTINF:-1, tvg-id="924" tvg-name="VH1 Classic Europe" tvg-logo="237.png" group-title="ENTRETENIMIENTO", VH1 Classic Europe
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F415
+ 
+#EXTINF:-1, tvg-id="925" tvg-name="VH1 Latino Norte" tvg-logo="227.png" group-title="LATINOS", VH1 Latino Norte
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483
+ 
+#EXTINF:-1, tvg-id="926" tvg-name="K Music" tvg-logo="855.png" group-title="MÃšSICA", K Music
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467
+ 
+#EXTINF:-1, tvg-id="928" tvg-name="Concert Channel" tvg-logo="223.png" group-title="MÃšSICA", Concert Channel
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F479
+ 
+#EXTINF:-1, tvg-id="929" tvg-name="HTV" tvg-logo="163.png" group-title="MÃšSICA", HTV
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
+ 
+#EXTINF:-1, tvg-id="930" tvg-name="Bandamax" tvg-logo="853.png" group-title="MÃšSICA", Bandamax
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467
+ 
+#EXTINF:-1, tvg-id="931" tvg-name="Regional Music" tvg-logo="1129.png" group-title="INFORMACIÃ“N", Regional Music
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4057
+ 
+#EXTINF:-1, tvg-id="932" tvg-name="Cine Dinamita" tvg-logo="873.png" group-title="PELÃCULAS", Cine Dinamita
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
+ 
+#EXTINF:-1, tvg-id="933" tvg-name="MultiPremier" tvg-logo="293.png" group-title="INFORMACIÃ“N", MultiPremier
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
+ 
+#EXTINF:-1, tvg-id="934" tvg-name="CineLatino" tvg-logo="221.png" group-title="LATINOS", CineLatino
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
+ 
+#EXTINF:-1, tvg-id="935" tvg-name="Golden" tvg-logo="36.png" group-title="PELÃCULAS", Golden
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F264
+ 
+#EXTINF:-1, tvg-id="936" tvg-name="Golden Edge" tvg-logo="851.png" group-title="PELÃCULAS", Golden Edge
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1465
+ 
+#EXTINF:-1, tvg-id="937" tvg-name="Golden Multiplex" tvg-logo="615.png" group-title="PELÃCULAS", Golden Multiplex
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1035
+ 
+#EXTINF:-1, tvg-id="938" tvg-name="Paramount Channel Latinoamerica" tvg-logo="18.png" group-title="LATINOS", Paramount Channel Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
+ 
+#EXTINF:-1, tvg-id="939" tvg-name="Sundance Channel Latinoamerica" tvg-logo="621.png" group-title="LATINOS", Sundance Channel Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1041
+ 
+#EXTINF:-1, tvg-id="940" tvg-name="TNT America Latina" tvg-logo="37.png" group-title="LATINOS", TNT America Latina
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F262
+ 
+#EXTINF:-1, tvg-id="941" tvg-name="CineCanal" tvg-logo="841.png" group-title="PELÃCULAS", CineCanal
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
+ 
+#EXTINF:-1, tvg-id="942" tvg-name="Cinemax Latinoamerica" tvg-logo="165.png" group-title="LATINOS", Cinemax Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F343
+ 
+#EXTINF:-1, tvg-id="943" tvg-name="SPACE" tvg-logo="835.png" group-title="PELÃCULAS", SPACE
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2489
+ 
+#EXTINF:-1, tvg-id="944" tvg-name="AMC" tvg-logo="229.png" group-title="PELÃCULAS", AMC
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F485
+ 
+#EXTINF:-1, tvg-id="945" tvg-name="Studio Universal" tvg-logo="167.png" group-title="PELÃCULAS", Studio Universal
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F345
+ 
+#EXTINF:-1, tvg-id="946" tvg-name="TCM America Latina" tvg-logo="225.png" group-title="LATINOS", TCM America Latina
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
+ 
+#EXTINF:-1, tvg-id="947" tvg-name="I-Sat" tvg-logo="947.png" group-title="PELÃCULAS", I-Sat
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1703
+ 
+#EXTINF:-1, tvg-id="948" tvg-name="Europa Europa" tvg-logo="941.png" group-title="PELÃCULAS", Europa Europa
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1597
+ 
+#EXTINF:-1, tvg-id="949" tvg-name="Film & Arts Latinoamerica" tvg-logo="943.png" group-title="LATINOS", Film & Arts Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1599
+ 
+#EXTINF:-1, tvg-id="950" tvg-name="Film Zone" tvg-logo="169.png" group-title="PELÃCULAS", Film Zone
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1055
+ 
+#EXTINF:-1, tvg-id="951" tvg-name="Fox 1 Este" tvg-logo="171.png" group-title="LATINOS", Fox 1 Este
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F433
+ 
+#EXTINF:-1, tvg-id="952" tvg-name="Fox 1 Oeste" tvg-logo="211.png" group-title="LATINOS", Fox 1 Oeste
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F439
+ 
+#EXTINF:-1, tvg-id="953" tvg-name="Fox Family" tvg-logo="173.png" group-title="LATINOS", Fox Family
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F467
+ 
+#EXTINF:-1, tvg-id="954" tvg-name="Fox Comedy" tvg-logo="175.png" group-title="LATINOS", Fox Comedy
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F461
+ 
+#EXTINF:-1, tvg-id="955" tvg-name="Fox Cinema" tvg-logo="177.png" group-title="LATINOS", Fox Cinema
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F457
+ 
+#EXTINF:-1, tvg-id="956" tvg-name="Fox Action Este" tvg-logo="179.png" group-title="LATINOS", Fox Action Este
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F435
+ 
+#EXTINF:-1, tvg-id="957" tvg-name="Fox Action Oeste" tvg-logo="181.png" group-title="LATINOS", Fox Action Oeste
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F437
+ 
+#EXTINF:-1, tvg-id="958" tvg-name="Fox Movies Latinoamerica" tvg-logo="183.png" group-title="LATINOS", Fox Movies Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F463
+ 
+#EXTINF:-1, tvg-id="959" tvg-name="Fox Classics Latinoamerica" tvg-logo="185.png" group-title="LATINOS", Fox Classics Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F465
+ 
+#EXTINF:-1, tvg-id="960" tvg-name="HBO Latinoamerica" tvg-logo="207.png" group-title="LATINOS", HBO Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F385
+ 
+#EXTINF:-1, tvg-id="961" tvg-name="HBO 2 Latinoamerica" tvg-logo="187.png" group-title="LATINOS", HBO 2 Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F365
+ 
+#EXTINF:-1, tvg-id="962" tvg-name="HBO Plus Este" tvg-logo="189.png" group-title="PELÃCULAS", HBO Plus Este
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F453
+ 
+#EXTINF:-1, tvg-id="963" tvg-name="HBO Plus Oeste" tvg-logo="191.png" group-title="PELÃCULAS", HBO Plus Oeste
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F369
+ 
+#EXTINF:-1, tvg-id="964" tvg-name="HBO Family Latinoamerica" tvg-logo="193.png" group-title="LATINOS", HBO Family Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F449
+ 
+#EXTINF:-1, tvg-id="965" tvg-name="HBO Signature Latinoamerica" tvg-logo="195.png" group-title="LATINOS", HBO Signature Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F451
+ 
+#EXTINF:-1, tvg-id="966" tvg-name="Max UP Latinoamerica" tvg-logo="197.png" group-title="LATINOS", Max UP Latinoamerica
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F469
+ 
+#EXTINF:-1, tvg-id="967" tvg-name="Max Prime Este" tvg-logo="199.png" group-title="PELÃCULAS", Max Prime Este
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F377
+ 
+#EXTINF:-1, tvg-id="968" tvg-name="Max Prime Oeste" tvg-logo="201.png" group-title="PELÃCULAS", Max Prime Oeste
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F379
+ 
+#EXTINF:-1, tvg-id="969" tvg-name="MAX" tvg-logo="203.png" group-title="PELÃCULAS", MAX
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F381
+ 
+#EXTINF:-1, tvg-id="971" tvg-name="Golden Premier 1" tvg-logo="875.png" group-title="PELÃCULAS", Golden Premier 1
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1487
+ 
+#EXTINF:-1, tvg-id="972" tvg-name="Golden Premier 2" tvg-logo="857.png" group-title="PELÃCULAS", Golden Premier 2
+ http://localhost:8899/live.m3u?tmp=1&portal=1&channe
