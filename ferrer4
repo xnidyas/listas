@@ -5,44 +5,10 @@
 http://0.0.0.0:1234
 #EXTINF:-1 group-title="DEPORTES",UNO DEPORTES MX
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
-#EXTINF:-1 "TV" group-title="DEPORTES",GOL TV FERRER
-http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
 #EXTINF:-1,goltv
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports USA 	212
-http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
 #EXTINF:-1 group-title="DEPORTES",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",TODOD DEPORTES**
-http://162.212.176.83:8080/tododeportes.stream.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY1
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY2
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY4
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Planeta Futbol 
-http://192.99.4.70/hls/planeta2.m3u8  
-#EXTINF:-1 group-title="DEPORTES",FOX SPOR USA
-http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN UK
-http://195.154.227.38:1935/live/espnuklsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", beIN Sports 1 HD
-http://195.154.227.38:1935/live/bein1frlsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", beIN Sports 2 HD
-http://195.154.227.38:1935/live/bein2frlsh/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", BEIN Ñ SD anisat
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/anis_sat.m3u8
-#EXTINF:-1 group-title="DEPORTES", beIN Ñ720 2128000
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
-#EXTINF:-1 group-title="DEPORTES", beIN USA 1628000 KITINA**
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fubotv ORIGIN
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:fuboTV-Origin_all/chunklist_b2270208.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fubotv ALL
-http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist_b2270208.m3u8
 #EXTINF:-1 group-title="DEPORTES",Sportsnet 360--
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1 group-title="DEPORTES",BeIN Sport 1 Medium
@@ -58,48 +24,11 @@ http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",BeIN Sport3 Premier HD
 http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
 
-
 #EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“PELICULAS”,[COLOR yellow]» »PELICULAS« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 group-title="PELICULAS",UNIVERSAL MOVIES
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="PELICULAS",UNIVERSAL MOVIES
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="PELICULAS", 1* Cinema Series HD
-rtmp://50.7.78.138:443/live/live_cinema_serieshd
-#EXTINF:-1 group-title="PELICULAS",2 mega_kids
-rtmp://50.7.78.138:443/live/live_mega_kids
-#EXTINF:-1 group-title="PELICULAS",3 mega_animes
-rtmp://50.7.78.138:443/live/live_mega_animes
-#EXTINF:-1 group-title="PELICULAS",4 universal_movies
-rtmp://50.7.78.138:443/live/live_universal_movies
-#EXTINF:-1 group-title="PELICULAS",5 morena_channels12
-rtmp://50.7.78.138:443/live/live_morena_channels12
-#EXTINF:-1 group-title="PELICULAS",6 lcreme_staff
-rtmp://50.7.78.138:443/live/live_lcreme_staff
-#EXTINF:-1 group-title="PELICULAS",7 cinescape
-rtmp://50.7.78.138:443/live/live_cinescape
-#EXTINF:-1 group-title="PELICULAS",8 vitatotv
-rtmp://50.7.78.138:443/live/live_vitatotv
-#EXTINF:-1 group-title="PELICULAS",9 broadmovies
-rtmp://50.7.78.138:443/live/live_broadmovies
-#EXTINF:-1 group-title="PELICULAS",10 lcreme_staff
-rtmp://50.7.78.138:443/live/live_lcreme_staff
-#EXTINF:-1 group-title="PELICULAS",11 club_terror
-rtmp://50.7.78.138:443/live/live_club_terror
-#EXTINF:-1 group-title="PELICULAS",12* Mega Movies1 HD
-rtmp://50.7.78.138:443/live/live_mega_movieshd
-#EXTINF:-1 group-title="PELICULAS",13 megamovieshd
-rtmp://50.7.78.138:443/live/live_megamovieshd
-#EXTINF:-1 group-title="PELICULAS",15 katyhd
-rtmp://50.7.78.138:443/live/live_katyhd
-#EXTINF:-1 group-title="PELICULAS",16 mega_movieshd
-rtmp://50.7.78.138:443/live/live_mega_movieshd
-#EXTINF:-1 group-title="PELICULAS",19 mega_extremo
-rtmp://50.7.78.138:443/live/live_mega_extremo
-#EXTINF:-1 group-title="PELICULAS",2O movielatinexpress
-rtmp://50.7.78.138:443/live/live_movielatinexpress
 
 #EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“SERIES”,[COLOR yellow]» »SERIES« «[/COLOR]
