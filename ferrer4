@@ -23,14 +23,13 @@ http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",BeIN Sport3 Premier HD
 http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:-1,Caracol
+#EXTINF:-1 group-title="DEPORTES",Caracol
 http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Caracol Internacional
+#EXTINF:-1 group-title="DEPORTES",Caracol Internacional
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
-#EXTINF:1,TDN
+#EXTINF:-1 group-title="DEPORTES",TDN
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 
-#EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“PELICULAS”,[COLOR yellow]» »PELICULAS« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 group-title="PELICULAS",UNIVERSAL MOVIES
