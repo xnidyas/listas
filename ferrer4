@@ -3,6 +3,12 @@
 #EXTINF:-1, [COLOR green] --menus ferrer - http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1 group-title="DEPORTES",Caracol
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Caracol Internacional
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+#EXTINF:-1 group-title="DEPORTES",TDN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 #EXTINF:-1 group-title="DEPORTES",UNO DEPORTES MX
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
 #EXTINF:-1,goltv
@@ -23,12 +29,6 @@ http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",BeIN Sport3 Premier HD
 http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Caracol
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Caracol Internacional
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
-#EXTINF:-1 group-title="DEPORTES",TDN
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“PELICULAS”,[COLOR yellow]» »PELICULAS« «[/COLOR]
 http://0.0.0.0:1234
@@ -850,8 +850,7 @@ http://evo.eltelon.com:443/live/televida/playlist.m3u8#MegaIPTVArgentina
 http://streamtv.betheltv.pe:1935/bethelgospelhd/ngrp:streamingbethel25hd_all/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR navy blue]------Avisos------[/COLOR]
-#EXTM3U
+#EXTINF:-1,[COLOR navy blue]------oneplay.tv------[/COLOR]
 #EXTINF:-1,[COLOR red]--------------[/COLOR][COLOR blue]ByJoseWinchester[/COLOR][COLOR green]SD[/COLOR][COLOR red]--------------[/COLOR]
 http://0.0.0.0.
 #EXTINF:-1,NFLNetwork
@@ -1106,21 +1105,17 @@ http://oneplay.tv/darkuzdev/?ch=MaxLASD
 http://oneplay.tv/darkuzdev/?ch=GoldenPremier1LA 
 #EXTINF:-1,GoldenPremier2 
 http://oneplay.tv/darkuzdev/?ch=GoldenPremiere2LA
-#EXTM3U tvg-shift=3
-
-#EXTINF:-1,ESTA LISTA staalker 2 
+#EXTINF:-1,ESTA LISTA staalker 2
+http://0.0.0.0
 #REQUISITO PARA QUE FUNCIONE TENER INSTALADO IPTV STALKER----  http://j.gs/9830047/iptv-stalker-10018
 #EXTINF:-1,RCN Televisión de Colombia
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
-
 #EXTINF:-1,RCN Televisión de Colombia
 rtmp://94.102.49.207/iguide playpath=g5a1l98d8gy0ob0 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=410&channel=25602&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,RCN Novelas
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493 
 #EXTINF:-1,Caracol
 http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
-
-
 #EXTINF:-1,Caracol Internacional
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
 #EXTINF:-1,Señal Colombia
@@ -1162,7 +1157,6 @@ http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=378347,CODECS="avc1.77.13, mp4a.40.2",RESOLUTION=320x240
 http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=18595742&stream=viewer_240p&connectionId=oldurl-d46c70571b25e86fd39d56aaa664bbd54325a964&group=iphone
-
 #EXTINF:-1,CNN HD 
 rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
 #EXTINF:-1,CDN
@@ -1187,7 +1181,6 @@ http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
 #EXTINF:-1,Telemedellin 
 http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
-
 #EXTINF:-1,Ecuavisa
 rtmp://62.210.88.233:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
 #EXTINF:-1,Canal 12 Cordoba
@@ -1200,7 +1193,6 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
 #EXTINF:-1,CineLatino 
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
-
 #EXTINF:-1,Paramount Channel Latinoamerica
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
 #EXTINF:-1,Mundo Fox
@@ -1261,7 +1253,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F431
 #EXTINF:-1,Tru TVHD
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F337
-#EXTINF:-1,A E 
+#EXTINF:-1,A&E 
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F258
 #EXTINF:-1,E!
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F427
@@ -1302,7 +1294,6 @@ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F50.7.98
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.oncetvmexicolive.tv%3A1935%2Flivepkgr2%2Fsmil%3Aint.smil%2Fplaylist.m3u8 
 #EXTINF:-1, GALA HD
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD4500.m3u8
-             
 #EXTINF:-1,Univisión
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fpodi.hopper.pw%3A443%2Flive%2Flive
 #EXTINF:-1,Unicable
@@ -1317,13 +1308,10 @@ http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
 #EXTINF:-1,La Sexta
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-
 #EXTINF:-1,LA 1
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F14420271%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
 #EXTINF:-1,Tv3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/chunklist_b1848000.m3u8
-
 #EXTINF:-1,Canal 5
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1479
 #EXTINF:-1,Proyecto 40
@@ -1364,8 +1352,6 @@ http://localhost:8899/live.m3u?
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
  #EXTINF:-1,Tooncast
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
-#EXTINF:-1,DRAGON BALL Z
-rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
 #EXTINF:-1,History
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3704
 #EXTINF:-1,H2
@@ -1404,8 +1390,6 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301 
 #EXTINF:-1,ESPN 3
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fgdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx%2FApple%2FESPN3HD2500.m3u8
-#EXTINF:-1,CMD
-http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,UFC Network
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
 #EXTINF:-1,F1 Latinoamerica 
@@ -1414,14 +1398,16 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
 #EXTINF:-1,Planeta Futbol English Soccer
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
-#EXTINF:1,TDN
+#EXTINF:1,TDN ojo
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 #EXTINF:-1,CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,CMD
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,MTV Live
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?=-1
  #EXTINF:-1, TeleHit HD
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD4500.m3u8
 #EXTINF:-1,VH1
@@ -1444,22 +1430,6 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467 
 #EXTINF:-1,A-ONE
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1,VEVO MUSIC 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?=-1
-#EXTINF:-1,VEVO MUSIC 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?=-1
-#EXTINF:-1,VEVO MUSIC 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?=-1
-#EXTINF:-1,Q Musica 
-mms://200.42.92.6:1755/qmusica 
-#EXTINF:-1,Me suena 
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
-#EXTINF:-1,TRENDY MUSICA
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
-#EXTINF:-1,MIMUSICA HD
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-#EXTINF:-1,Cantinazo 
-http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8
 #EXTINF:-1,NTN 24
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
 #EXTINF:-1,CNN Español
@@ -1468,13 +1438,9 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8 CNNEspanol
 #EXTINF:-1,Cable Noticias
 http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
-#EXTINF:-1,Azteca Noticias
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F200.76.77.237%2FLIVE%2FH01%2FCANAL2%2FPROFILE03.m3u8%3F
 #EXTINF:-1,El Tiempo
 http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
 #EXTINF:-1,TELE VIDA
 http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
 #EXTINF:-1,C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,CDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
