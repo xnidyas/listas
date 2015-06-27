@@ -263,6 +263,8 @@ http://0.0.0.0
 #REQUISITO PARA QUE FUNCIONE TENER INSTALADO IPTV STALKER----  http://j.gs/9830047/iptv-stalker-10018
 #EXTINF:-1,COMIENZA
 htt://0.0.0.0
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=378347,CODECS="avc1.77.13, mp4a.40.2",RESOLUTION=320x240
+
 #EXTINF:-1,Cine Dinamita
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
 #EXTINF:-1,Cinecanal
