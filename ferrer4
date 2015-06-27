@@ -23,42 +23,18 @@ http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",BeIN Sport3 Premier HD
 http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+#EXTINF:-1,Caracol
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Caracol Internacional
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+#EXTINF:1,TDN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 
 #EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“PELICULAS”,[COLOR yellow]» »PELICULAS« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 group-title="PELICULAS",UNIVERSAL MOVIES
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-
-#EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“SERIES”,[COLOR yellow]» »SERIES« «[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 group-title="SERIES",VMAS TV COLOMBIA LATAM**
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
-#EXTINF:-1 group-title="SERIES",MAGAZINE BUENOS AIRES ARGENTINA LATAM**
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-
-#EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“MUSIC”,[COLOR yellow]» »MUSIC« «[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 group-title="MUSIC",QUIERO MUSICA EN MI IDIOMA ARGENTINA LATAM
-mms://streamqm.uigc.net/qmusica
-#EXTINF:-1 group-title="MUSIC",TANGO CITY ARGENTINA LATAM
-http://stream.tangocity.com.ar/tangocity
-#EXTINF:-1 group-title="MUSIC",VIVRA TV ARGENTINA LATAM
-http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",TELEMUSICAHIT COLOMBIA LATAM
-http://190.0.28.154:1935/live/S9bgB8dJmS/sat.m3u8
-#EXTINF:-1 group-title="MUSIC",EXA TV MEXICO LATAM
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",BANDAMAX MEXICO LATAM  OPTION 2
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=49&lan=2&rows=40&f=.m3u8
-#EXTINF:-1 group-title="MUSIC",MIMUSICA MEXICO LATAM
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
-#EXTINF:-1 group-title="MUSIC",ME SUENA MEXICO LATAM
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“CABLE2”,[COLOR yellow]» »CABLE2« «[/COLOR]
@@ -1192,3 +1168,9 @@ http://oneplay.tv/darkuzdev/?ch=MaxLASD
 http://oneplay.tv/darkuzdev/?ch=GoldenPremier1LA 
 #EXTINF:-1,GoldenPremier2 
 http://oneplay.tv/darkuzdev/?ch=GoldenPremiere2LA
+#EXTINF:-1,BTsport1 
+http://oneplay.tv/darkuzdev/?ch=BTsport1
+#EXTINF:-1,BTsport2 
+http://oneplay.tv/darkuzdev/?ch=BTsport2
+#EXTINF:-1,Argentina9 tvpublica 
+http://oneplay.tv/darkuzdev/?ch=Argentina9
