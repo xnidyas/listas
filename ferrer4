@@ -851,71 +851,10 @@ http://evo.eltelon.com:443/live/televida/playlist.m3u8#MegaIPTVArgentina
 http://streamtv.betheltv.pe:1935/bethelgospelhd/ngrp:streamingbethel25hd_all/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR red]------XXX------[/COLOR]
-http://?
-#EXTINF:-1,Adulto Claro
-http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8?
-#EXTINF:-1,Private
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,Satisfaction TV
-http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Olala
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:-1,Russian Night
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
-#EXTINF:-1,Blue Hustler
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-#EXTINF:-1,XXL
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
-#EXTINF:-1,Playboy TV
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:-1,Babe XXX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?#GerardoLoyolaIPTV
-#EXTINF:-1,Babestation
-http://46.105.116.159:1935/cellcast/encoder22/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Babestation Blue
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Babestation Unleashed
-http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Babestation Extra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Bella Club
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,LiveTing
-http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8?
-#EXTINF:-1,BabeStation
-http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,BabeStation Extra
-http://46.105.116.159:1935/cellcast/encoder72/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Paradise Korea
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-#EXTINF:-1,Okedai Korea
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1,Adult Premium
-http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8?
-#EXTINF:-1,XXX Asia 1
-http://199.195.195.108:32001
-#EXTINF:-1,XXX Asia 2
-http://199.195.195.108:32002
-#EXTINF:-1,XXX Asia 3
-http://199.195.195.108:32003
-#EXTINF:-1,XXX Asia 4
-http://199.195.195.108:32004
-#EXTINF:-1,PowerGirls
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,LiveSex Latinas
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,Sexy Sat Europa
-http://81.89.48.215:1935/sexysat/sexysat.stream_360p/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Sexy Sat Asia
-http://81.89.48.215:1935/xyz111wkz/xy111_360p/i.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Amateri XXX
-mmsh://tv.webmisto.cz:7000
 #EXTINF:-1,[COLOR navy blue]------Avisos------[/COLOR]
 #EXTM3U
 #EXTINF:-1,[COLOR red]--------------[/COLOR][COLOR blue]ByJoseWinchester[/COLOR][COLOR green]SD[/COLOR][COLOR red]--------------[/COLOR]
-http://www.facebook.com/josejuan007
-
+http://0.0.0.0.
 #EXTINF:-1,NFLNetwork
 http://oneplay.tv/darkuzdev/?ch=NFLNetworkUS
 #EXTINF:-1,EstrellasMX
@@ -1174,3 +1113,5 @@ http://oneplay.tv/darkuzdev/?ch=BTsport1
 http://oneplay.tv/darkuzdev/?ch=BTsport2
 #EXTINF:-1,Argentina9 tvpublica 
 http://oneplay.tv/darkuzdev/?ch=Argentina9
+#EXTINF:-1,Argentina5 
+http://oneplay.tv/darkuzdev/?ch=Argentina5
