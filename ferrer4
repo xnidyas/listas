@@ -608,6 +608,8 @@ http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
+#EXTINF:-1 group-title="DEPORTES",TVN Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Caracol Duplicado
 http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES",Caracol Internacional Duplicado
