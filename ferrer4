@@ -458,80 +458,34 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 
 #EXTINF:-1,[COLOR green]------Mexico------[/COLOR]
 http://?
-#EXTINF:-1,Canal 2
+#EXTINF:-1,Canal 2 estrella televisa
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Ultra Aguascalientes
-http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,RCG
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8GerardoLoyolaIPTV
 #EXTINF:-1,TVC + LATINO
 rtmp://76.79.146.124/live/TVCSB
 #EXTINF:-1,Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TV Nuevo LeÃ³n
+#EXTINF:-1,TV Nuevo Leon
 http://iphone-streaming.ustream.tv/uhls/6937691/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,C7 Noticias
-http://74.63.97.188:1935/c7/videoc7/chunklist_w1292887050_b125000.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,C7 Cultura
-http://74.63.97.188:1935/gnode05/videognode05/playlist_b125000.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal Judicial
-rtmp://200.38.163.191:1935/rtmplive/redundant/ playpath=mp4:scjnA2.mp4 swfUrl=http://www.sitios.scjn.gob.mx/player/player.swf live=1 pageUrl=http://www.sitios.scjn.gob.mx/canaljudicial/
-#EXTINF:-1,ESNE
-http://198.154.228.82:1935/live/esnetv/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Television Mexiquense
 http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,EXA TV
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Mundo Fox
-http://66.55.92.79:1935/app/ana69s-channel/ruben.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,UnoTV
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Gala TV Cancun
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Info7
+#EXTINF:-1,canal 7 azteca
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 2 Los Mochis
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 2 Ciudad Obregon
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 3 Culiacan
-http://74.63.97.188:1935/gpacifico1/videogpacifico1/chunklist_w1126616852_DVR.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 7 Mazatlan
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Nuestra Vision
+#EXTINF:-1,canal 5 Nuestra Vision
 rtmp://159.16.243.10/live/canal5/canal5
 #EXTINF:-1,Canal 7 SLP
 rtmp://187.188.159.113/live/ playpath=web.sdp  swfUrl=http://canal7slp.com/wp-content/themes/canal7slp/js/jwplayer/jwplayer.flash.swf  pageUrl=http://canal7slp.com/
 #EXTINF:-1,Telemar Mexico
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Efekto TV
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on#GerardoLoyolaIPTV
-#EXTINF:-1,Canal del Congreso
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 44 Cd. Juarez
-http://odna.octoshape.net/p9b7g9i7/cds/smil:canal44/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 6 GDL
-rtmp://200.52.193.57:1935/live/unique/live_2650
-#EXTINF:-1,Mexico Travel Channel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Estrella TV
-http://iphone-streaming.ustream.tv/ustreamVideo/20668526/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TV Acapulco
-rtmp://video.hosteris.com/tvacapulco/tvacapulco#GerardoLoyolaIPTV
-#EXTINF:-1,Telesecundaria
-http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TVDocencia
-http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Telebachillerato
-http://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Tele MÃ©xico
-http://dl-dgtve.xsn.com.mx/dgtve/canal21dgtve.mp4/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TVUniversidad
 http://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Telesecundaria+
@@ -542,49 +496,29 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8#GerardoLoyolaIPT
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Peliculas en EspaÃ±ol
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8#GerardoLoyola
-#EXTINF:-1,Radio y TelevisiÃ³n de QuerÃ©taro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 53 UANL TV
-mms://streaming.uanl.mx/canal53bandaancha
-#EXTINF:-1,TV UNAM
-http://livestream-f.akamaihd.net/12380647_1177572_673392b7_1_446@9887?v=3.6.0&fp=WIN+17%2C0%2C0%2C169&r=MKNON&g=PHPPJGLUEOWJ
 #EXTINF:-1,Canal 28 Chihuahua
 http://web.xnet.mx:1935/xnetn/canal283/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,PromovisiÃ³n Canal 10
 http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,CB TelevisiÃ³n MichoacÃ¡n
+#EXTINF:-1,CB Television Michoacn deportes
 http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Aguascalientes TV
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,RTG
-http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/chunklist_w1512230238.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Telemax Mexico
 http://enhd.co:1935/ilive/ilive/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TrecevisiÃ³n Yucatan
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TDT Tlaxcala
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 13
-http://192.99.9.67:1935/8076/8076/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Sistema Michoacano
 http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,AlcanceTV
-http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,5tv
 http://50.7.29.178:1935/gnode06/videognode06/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Tele 10
 http://85.17.122.248:1935/live/radioaztlan/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,XHKG TV Canal 2 Tepic
-http://odna.octoshape.net/b4a6s7q9/cds/smil:ch1/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Quince TV Zacatecas MÃ©xico
+#EXTINF:-1,Quince TV Zacatecas Mexico
 http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,KW TV MÃ©xico
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 66 Mexicali
-http://odna.octoshape.net/p9b7g9i7/cds/smil:mexicali/chunklist_b250000.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Sesion Continua TV
+#EXTINF:-1,Sesion Continua TV peliculas*
 http://videos3.lasteles.com/live/sesioncontinuatv.stream/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,CORtv Oaxaca
+#EXTINF:-1,CORtv Oaxaca 
 http://iphone-streaming.ustream.tv/uhls/20366971/streams/live/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TV 4 Guanajuato
 http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
@@ -596,10 +530,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17171318/streams/live/playlist.m
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 #EXTINF:-1,AZTECA 13 HD*
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1,CANAL 53 MEXICO LATAM*
+#EXTINF:-1,CANAL 53 MEXICO*
 mms://streaming.uanl.mx/canal53bandaancha/
-#EXTINF:-1,MEXIQUENSE MEXICO*
-http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_ /broadcast1/mexiquense.m3u8
 #EXTINF:-1,TELEMAR CAMPECHE MEXICO*
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
 
@@ -624,199 +556,118 @@ http://72.46.226.61/live01/canal31/playlist.m3u8#GerardoLoyolaIPTV
 http://72.46.226.61/live01/canal71/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal 13 Trecevision Guatemala
 http://72.46.226.61/live01/canal131/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Guatevision
+#EXTINF:-1,canal   Guatevision
 http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal Antigua Guatemala
-http://iphone-streaming.ustream.tv/uhls/1435410/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TV Maya Guatemala
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1 ,Guate Visión*
-http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8?
 #EXTINF:-1,GUATEVISION TV*
 http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+#EXTINF:-1,Canal Antigua Guatemala
+http://iphone-streaming.ustream.tv/uhls/1435410/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1,canal TVMaya Guatemala
+http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1,[COLOR fuchsia]------Honduras------[/COLOR]
 http://?
-#EXTINF:-1,Telecadena 7/4 Honduras
+#EXTINF:-1,Telecadena 7/4 Honduras lento
 http://162.212.176.83:8080/telecadena.stream.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 6 Honduras
-http://162.212.176.83:8080/canal6.stream.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Teleceiba Honduras
-http://162.212.176.83:8080/teleceiba.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TEN Canal 10 HD 720 Honduras
+#EXTINF:-1,Canal 10 HD 720 Honduras
 http://hd.worldkast.com:1935/8378/_definst_/mp4:83781/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TEN Canal 10 Honduras
+#EXTINF:-1,Canal 10 Honduras
 http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TV12 Honduras
+#EXTINF:-1,canal 12 Honduras
 http://72.46.226.61/live01/canal81/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Hondured Canal 13 Honduras
+#EXTINF:-1,Canal 13 Hondured  Honduras
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1,HCH Honduras
+#EXTINF:-1,canal  HCH Honduras
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590#GerardoLoyolaIPTV
-#EXTINF:-1,Teleprogreso Honduras
-http://162.212.176.83:8080/teleprogreso.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Sulavision
-http://162.212.176.83:8080/sulavision.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1,[COLOR maroon]------Nicaragua------[/COLOR]
 http://?
-#EXTINF:-1,Canal 10 Nicaragua
-http://xcanal10nicax.api.channel.livestream.com/3.0/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 2 Nicaragua
+#EXTINF:-1,Canal 2 Nicaragua televicentro
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Viva Nicaragua Canal 13
+#EXTINF:-1,Canal 13 Viva Nicaragua 
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1,[COLOR brown]------Costa Rica------[/COLOR]
 http://?
-#EXTINF:-1,SINART Canal Trece
+#EXTINF:-1,Canal Trece SINART  
 http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,SMO TV
+#EXTINF:-1,canal SMO TVmusica
 http://199.217.118.90:1935/smotv/stream/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Colosal TV Costa Rica
+#EXTINF:-1,canal Colosal TV Costa Rica
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 6 Costa Rica
-http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 9 Costa Rica
-http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 27 Costa Rica
-http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Tv UNO
+#EXTINF:-1,canal 1Tv UNO caricatuuras
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Teletica Canal 7 Costa Rica
-http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,CDR Canal 2 Costa Rica
 http://k3.usastreams.com:1935/extra/extra/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1,Canal 7 Teletica Costa Rica
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1,Canal 9 Costa Rica
+http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal 11 Costa Rica
 http://72.46.226.61/live01/canal111/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,XPERTS 33 TV Costa Rica
+#EXTINF:-1,Canal 33 TV Costa Rica
 http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Extra TV Canal 42 Costa Rica
+#EXTINF:-1,Canal 42 Extra TV Costa Rica
 http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1,[COLOR orange]------Panama------[/COLOR]
 http://?
 #EXTINF:-1,TVN Panama
 http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Telemetro
+#EXTINF:-1,Telemetro pnama
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,RPC Panama
+#EXTINF:-1,RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,SER TV Panama
 rtmp://216.224.177.132/live/sertv
-#EXTINF:-1,SERTV PANAMA LATAM*
-rtmp://216.224.177.132/live/sertv
-#EXTINF:-1,TELEMETRO CANAL 13 PANAMA*
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]------Colombia------[/COLOR]
 http://?
-#EXTINF:-1,Yes!
-http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Televentas
-http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TeleAntioquia
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TV Agro
-http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,CableNoticias
-http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,UNE Pereira
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TeleVio
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Trendy
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TV5 Monde Latina
-http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal AntiEstres
-http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TeleMedellin
-http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Cosmovision
-http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal U
-http://uneapple-i.akamaihd.net/hls/live/206416/grupoune_st15@206416/st15_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Telecafe
-http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Cantinazo TV
-http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Yes! HD
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Life Design HD
-http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,VMas TV
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,UNE Barranquilla
-http://uneapple-i.akamaihd.net/hls/live/207643/grupoune_st24@207643/st24_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,UNE Medellin
-http://uneapple-i.akamaihd.net/hls/live/207646/grupoune_st27@207646/st27_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,El Tiempo TelevisiÃ³n
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Tigo Music
-http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Señall Colombia
+#EXTINF:-1,Señal Colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Señal Institucional
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal UNO Colombia
 http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal Tr3ce
+#EXTINF:-1,Canal TrEce COLOMBIA MUSICA
 http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Zoom TV Colombia
-http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal U
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal 12 Valledupar
 http://panelhdstream.com:1935/8022/8022/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Musica SI
+#EXTINF:-1,Musica SI 80 90
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Caracol Colombia
 http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Caracol Internacional
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8#GerardoLoyolaIPTV
 
-
 #EXTINF:-1,[COLOR sky blue]------Venezuela------[/COLOR]
 http://0.0.0.0
-#EXTINF:-1,Tele Aragua
+#EXTINF:-1,Tele Aragua PELIS
 http://edge.wms28.lorini.net/telearagua/telearagua1/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Vive Venezuela
-mmsh://difusion.cantv.net/vhost-covetel_live?MSWMExt=.asf
 #EXTINF:-1,Vale TV
 rtmp://edge.wms28.lorini.net/valetv/valetv
 #EXTINF:-1,Venezolana TV
 http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal i Venezuela
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,DAT TV Venezuela
-http://iphone-streaming.ustream.tv/uhls/4172359/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 11 Venezuela
-rtmp://edge.wms28.lorini.net/canalonce/canalonce
-#EXTINF:-1,Anzoategui TV
-rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
 #EXTINF:-1,TRT Venezuela
 rtmp://edge.wms28.lorini.net/trttv/trttv
-#EXTINF:-1,Barinas TV Venezuela
-rtmp://edge.wms28.lorini.net/barinastv/barinastv
 #EXTINF:-1,Coquivacoa TV Venezuela
 rtmp://edge.wms28.lorini.net/coquivacoatv/coquivacoatv
-#EXTINF:-1,La Simon TV Venezuela
-rtmp://edge.wms28.lorini.net/lasimontv/lasimontv
 
 #EXTINF:-1,[COLOR yellow]------Chile------[/COLOR]
 http://?
-#EXTINF:-1,Canal 9
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Mega
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TVN deportes
+#EXTINF:-1,TVN OJO
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,La Red
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist.m3u8#GerardoLoyolaIPTV
@@ -1084,12 +935,8 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1 group-title="NUEVOS",azteca Noticias indx3
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8
-#EXTINF:-1 group-title="NUEVOS", canal 5 honduras
-http://162.212.176.83:8080/tvchd.stream.m3u8
 #EXTINF:-1 group-title="NUEVOS", hbo chile
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
-#EXTINF:-1 group-title=”nuevos”,AZTECA DEPORTES
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 
 #EXTINF:-1,[COLOR silver]------Telemundo------[/COLOR]
 http://?
@@ -1114,24 +961,10 @@ http://66.55.92.44:1935/app/extremouns-channel/playlist.m3u8#GerardoLoyolaIPTV
 http://0.0.0.0
 #EXTINF:-1,CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,CMD
-http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,CDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, TeleHit HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD4500.m3u8
-#EXTINF:-1,MTV ROCKS
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8 
 #EXTINF:-1,RT en Español
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fodna.octoshape.net%2Ff3f5m2v4%2Fcds%2Fch2_720p%2Fmedia.m3u8 CNNEspanol
-#EXTINF:-1,Cable Noticias
-http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_index.m3u8
-#EXTINF:-1,El Tiempo
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
-#EXTINF:-1,TELE VIDA
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
 #EXTINF:-1,C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1,A-ONE
@@ -1142,16 +975,6 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8?=-1
 #EXTINF:-1,MIMUSICA HD
 http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8?=-1
-#EXTINF:-1,Antena3
-http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-#EXTINF:-1,Antena3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
-#EXTINF:-1,La Sexta
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,ATV
-http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF:-1,ATV +
-rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
 #EXTINF:-1,MEGA
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:-1,EL TRECE HD
@@ -1160,99 +983,32 @@ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecal
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F50.7.98.234%2Frtv%2Fvideortv
 #EXTINF:-1,Canal Once HD
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.oncetvmexicolive.tv%3A1935%2Flivepkgr2%2Fsmil%3Aint.smil%2Fplaylist.m3u8 
-#EXTINF:1,Peliculas Mexicanas
-http://iphone-streaming.ustream.tv/ustreamVideo/18672607/streams/live/playlist.m3u8
-#EXTINF:-1, GALA HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD4500.m3u8
-#EXTINF:-1,Univisión
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2Fpodi.hopper.pw%3A443%2Flive%2Flive
-#EXTINF:-1,Unicable
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F200.76.77.237%2FLIVE%2FH01%2FCANAL218%2FPROFILE03.m3u8%3F
-#EXTINF:-1,Proyecto 40
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Furtmpkal-f.akamaihd.net%2Fi%2F05i15qzql_1%40149710%2Fmaster.m3u8
 #EXTINF:-1,America TV Peru
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fooyalahd2-f.akamaihd.net%2Fi%2Fatv02_delivery%4025405%2Findex_564_av-p.m3u8
 #EXTINF:-1,PANAMERICANA
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fm.iblups.com%3A1935%2Flives%2Fptv1%2Fplaylist.m3u8
 #EXTINF:-1,LA 1
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fiphone-streaming.ustream.tv%2Fuhls%2F14420271%2Fstreams%2Flive%2Fiphone%2Fplaylist.m3u8
-#EXTINF:-1,Tv3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/chunklist_b1848000.m3u8
-http://sjc-uhls-proxy-beta02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=18595742&stream=viewer_240p&connectionId=oldurl-d46c70571b25e86fd39d56aaa664bbd54325a964&group=iphone
-#EXTINF:-1,CNN HD 
-rtsp://200.104.250.183/vtr_cnn_online/cnn-web/
-#EXTINF:-1,CDN
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,EL TRECE HD
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,CANAL 13
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,OCHO TV 
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Tve 24h HD 
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,H13N
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
-#EXTINF:-1,VMas+
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
-#EXTINF:-1,TELEANTIOQUIA HD
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
-#EXTINF:-1,TeleSuR
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1,CosmoVision 
-http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
-#EXTINF:-1,Telemedellin 
-http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
 #EXTINF:-1,Ecuavisa
 rtmp://62.210.88.233:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
-#EXTINF:-1,Canal 12 Cordoba
+#EXTINF:-1,Canal 12 Cordoba Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:-1,CANAL TRECE
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanaltr3celive%2Famlst%3Alive%2Fmedia_uzizkgjk5_b750000.m3u8
-#EXTINF:-1,RCN Televisión de Colombia
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
-#EXTINF:-1,RCN Televisión de Colombia
-rtmp://94.102.49.207/iguide playpath=g5a1l98d8gy0ob0 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=640&height=410&channel=25602&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,RCN Novelas
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493 
-#EXTINF:-1,Caracol
+#EXTINF:-1,Caracol colombia
 http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Caracol Internacional
+#EXTINF:-1,Caracol Internacional colombia
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
 #EXTINF:-1,Señal Colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
-#EXTINF:-1,Telecafe
-http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m3u8
-#EXTINF:-1,UNE TV
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
-#EXTINF:-1,CANAL CAPITAL
+#EXTINF:-1,CANAL CAPITAL 
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fcdns840stu1010.multistream.net%2Fcanalcapitallive%2Famlst%3Alive%2Fmaster.m3u8
-#EXTINF:-1,TELE PACIFICO
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiphone-streaming.ustream.tv%2FustreamVideo%2F12380713%2Fstreams%2Flive%2Fplaylist.m3u8
-#EXTINF:-1,El Tiempo
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m3u8
-#EXTINF:-1,TELE VIDA
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8
-#EXTINF:-1,C5N
+#EXTINF:-1,C5N argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,EL TRECE HD
+#EXTINF:-1,EL TRECE HD argentina
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,CANAL 13
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,OCHO TV 
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Tve 24h HD 
+#EXTINF:-1,Tve 24h HD españa
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,H13N
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
-#EXTINF:-1,VMas+
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
-#EXTINF:-1,TELEANTIOQUIA HD
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8
 #EXTINF:-1,TeleSuR
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1,CosmoVision 
-http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m3u8
-#EXTINF:-1,Telemedellin 
-http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
 
