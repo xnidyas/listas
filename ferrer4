@@ -664,33 +664,22 @@ rtmp://edge.wms28.lorini.net/coquivacoatv/coquivacoatv
 #EXTINF:-1,[COLOR yellow]------Chile------[/COLOR]
 http://?
 #EXTINF:-1,Mega
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8#GerardoLoyolaIPTV
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 #EXTINF:-1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TVN OJO
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8#GerardoLoyolaIPTV
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,La Red
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,QuintaVision ViÃ±a del Mar
+#EXTINF:-1,QuintaVision VIS±a del Mar MSICA
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TV 4 Chile
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 5 Linares
-rtmp://v1.streaminglatinoamerica.com/canal5/canal5#GerardoLoyolaIPTV
-#EXTINF:-1,Arica TV
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,El PingÃ¼ino TV
+#EXTINF:-1,El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Antofagasta TV
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal Capital
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Canal 2 Valparaiso
+#EXTINF:-1,Canal 2 Valparaiso BUENA MUSICA!!
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,DCH TV Chile
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Mega*
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 
 #EXTINF:-1,[COLOR blue]------Argentina------[/COLOR]
 http://?
