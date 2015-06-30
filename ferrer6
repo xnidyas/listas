@@ -1,27 +1,23 @@
 #EXTM3U
-#EXTINF:-1,Argentina-Paraguay tv publica argentina  opt18O
+#EXTINF:-1,tv publica argentina sd180
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
-#EXTINF:-1,Argentina-Paraguay tv publica argentina  opt240
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-240/playlist.m3u8?
-#EXTINF:-1,Argentina-Paraguay tv publica argentina  opt2
+#EXTINF:-1,tv publica argentina  oSD360
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1,Argentina-Paraguay tv publica argentina 720p
+#EXTINF:-1,tv publica argentina 720p
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-#EXTINF:-1,Argentina-Paraguay tv publica argentina opt3
+#EXTINF:-1,tv publica argentina opt3
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w563752439_b1264000_sleng.m3u8
-#EXTINF:-1,Argentina-Paraguay rcn colombia
-rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=6pcq5w2wmer1cfh swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Argentina-Paraguay caracol tv colombia
+#EXTINF:-1,caracol tv colombia
 http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/master.m3u8
-#EXTINF:-1,Argentina-Paraguay caracol tv colombia opt 2
+#EXTINF:-1,caracol tv colombia opt 2
 http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Argentina-Paraguay tvn chile
+#EXTINF:-1,tvn chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1,Argentina-Paraguay tvn chile opt 2
+#EXTINF:-1,tvn chile opt 2
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1,Argentina-Paraguay kompas tv indonesia
-http://edge.nim.mivo.tv/kqcsmbqna6yg/kompastv_all/playlist.m3u8
-#EXTINF:-1,Argentina-Paraguay america tv perù
+#EXTINF:-1,America tv perù
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:-1,Argentina-Paraguay azteca 7 mexico
+#EXTINF:-1,azteca 7 mexico
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1,ARG TELEFE SD
+http://live-edge01.telecentro.net.ar/live/tlfhd-180/playlist.m3u8
