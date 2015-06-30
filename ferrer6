@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Argentina-Paraguay tv publica argentina sd
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
+#EXTINF:-1,Argentina-Paraguay tv publica argentina  opt18O
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
+#EXTINF:-1,Argentina-Paraguay tv publica argentina  opt240
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-240/playlist.m3u8?
 #EXTINF:-1,Argentina-Paraguay tv publica argentina  opt2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:-1,Argentina-Paraguay tv publica argentina 720p
