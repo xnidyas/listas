@@ -21,3 +21,80 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1,ARG TELEFE SD
 http://live-edge01.telecentro.net.ar/live/tlfhd-180/playlist.m3u8
+
+#EXTINF:-1,Canal 4 Nicaragua
+http://72.46.226.61/live01/canal41/playlist.m3u8
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1,RPC Panama DEPORTES<===
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1,Caracol Colombia
+http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8
+#EXTINF:-1,Caracol Internacional
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Caracol 
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Caracol Inter
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+#EXTINF:-1,TVN OJO chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,EL TRECE HD chile
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
+#EXTINF:-1,TN Argentina BUENOOOO
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,tv publica argentina sd180
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
+#EXTINF:-1,tv publica argentina  oSD360
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1,GAMATV ECUADOR
+http://livestream-f.akamaihd.net/7895918_3314732_c8d89b89_1_446@132480?v=3.6.0&fp=WIN+17%2C0%2C0%2C169&r=POJUE&g=EEIASCPGZDJH
+#EXTINF:-1,TDNMexico 
+http://oneplay.tv/darkuzdev/?ch=TDNMXLA
+#EXTINF:1,TDN ojo
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+#EXTINF:-1,canal 7 azteca
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,UnivisionTDN 
+http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS
+#EXTINF:-1,BeinSportsenEspañol 
+http://oneplay.tv/darkuzdev/?ch=BeinSportsLA
+#EXTINF:-1,beInSports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
+#EXTINF:-1,ESPNLatinoamerica 
+http://oneplay.tv/darkuzdev/?ch=ESPNLA 
+#EXTINF:-1,ESPN2Latinoamerica 
+http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
+#EXTINF:-1,ESPN3Latinoamerica 
+http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
+#EXTINF:-1,FoxSportsLatinoamerica 
+http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
+#EXTINF:-1,FoxSports2Latinoamerica 
+http://oneplay.tv/darkuzdev/?ch=FoxSports2SD
+#EXTINF:-1,FoxSports3Latinoamerica 
+http://oneplay.tv/darkuzdev/?ch=FoxSports3SD
+#EXTINF:-1,UFCNetworkLatinoamerica 
+http://oneplay.tv/darkuzdev/?ch=UFCNetworkLA 
+#EXTINF:-1,PlanetaFutbol 
+http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA
+#EXTINF:-1,PlanetaFutbolEnglishSoccer 
+http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish
+#EXTINF:-1,Fox Sports
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
+#EXTINF:-1,Fox Sports 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
+#EXTINF:-1,Fox Sports 3 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
+#EXTINF:-1,ESPN
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
+#EXTINF:-1,ESPN 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301 
+#EXTINF:-1,ESPN 3
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fgdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx%2FApple%2FESPN3HD2500.m3u8
+#EXTINF:-1,UFC Network
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
+#EXTINF:-1,F1 Latinoamerica 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1695
+#EXTINF:-1,PLANETA FUTBOL
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
+#EXTINF:-1,Planeta Futbol English Soccer
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
