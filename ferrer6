@@ -98,6 +98,3 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
 #EXTINF:-1,Planeta Futbol English Soccer
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
-
-#EXTINF:-1,CANAL 4 – El salvador
-rtmp://$ OPT:rtmp-raw=rtmp://95.211.137.83/live playpath=cuatro?id=230374 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/cuatro/1/725/380 conn=S:OK –live
