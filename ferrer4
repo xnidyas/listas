@@ -778,3 +778,15 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“pruebaaaa ”,[COLOR yellow]» »pruebaaNUEVOS« «[/COLOR]
 #EXTINF:-1, canal001
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F001
+#EXTINF:-1, megaexttemo mvn
+http://mvn.vaughnsoft.net/video/edge/live_mega_extremo1435948517318-1435948517318.33434
+#EXTINF:-1, megaexttemo rtmp
+rtmp://198.255.0.2:443/live?KKH9IRYEYz7cFOMEFApl0bJWS
+#EXTINF:-1, megaexttemo wowz
+wowz://192.240.97.42:443/live/_definst_/live_mega_extremo
+#EXTINF:-1, morena mvn
+http://mvn.vaughnsoft.net/video/edge/live_morena_channels121435948576370-1435948576370.33434
+#EXTINF:-1, megaexttemo rtmp
+rtmp://50.7.78.138:443/live?5Z48ho5Ibj0PJDq7klFnT3hfa
+#EXTINF:-1, megaexttemo wowz
+wowz://192.240.97.42:443/live/_definst_/live_morena_channels12
