@@ -597,10 +597,6 @@ http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",TDN
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
-#EXTINF:-1 group-title="DEPORTES",TDNMexico ONEPLAY 
-http://oneplay.tv/darkuzdev/?ch=TDNMXLA
-#EXTINF:-1 group-title="DEPORTES",UnivisionTDN USA
-http://oneplay.tv/darkuzdev/?ch=UnivisionEastUS
 #EXTINF:-1 group-title="DEPORTES",UNO DEPORTES MX
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
 #EXTINF:-1 group-title="DEPORTES",azteca 7a
@@ -621,28 +617,8 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",tv publica argentina opt3
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w563752439_b1264000_sleng.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeinSportsenEspañol 
-http://oneplay.tv/darkuzdev/?ch=BeinSportsLA
 #EXTINF:-1 group-title="DEPORTES",beInSports
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
-#EXTINF:-1 group-title="DEPORTES",ESPNLatinoamerica 
-http://oneplay.tv/darkuzdev/?ch=ESPNLA 
-#EXTINF:-1 group-title="DEPORTES",ESPN2Latinoamerica 
-http://oneplay.tv/darkuzdev/?ch=ESPN2LASD
-#EXTINF:-1 group-title="DEPORTES",ESPN3Latinoamerica 
-http://oneplay.tv/darkuzdev/?ch=ESPN3LASD
-#EXTINF:-1 group-title="DEPORTES",FoxSportsLatinoamerica 
-http://oneplay.tv/darkuzdev/?ch=FoxSportsLA
-#EXTINF:-1 group-title="DEPORTES",FoxSports2Latinoamerica 
-http://oneplay.tv/darkuzdev/?ch=FoxSports2SD
-#EXTINF:-1 group-title="DEPORTES",FoxSports3Latinoamerica 
-http://oneplay.tv/darkuzdev/?ch=FoxSports3SD
-#EXTINF:-1 group-title="DEPORTES",UFCNetworkLatinoamerica 
-http://oneplay.tv/darkuzdev/?ch=UFCNetworkLA 
-#EXTINF:-1 group-title="DEPORTES",PlanetaFutbol 
-http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolLA
-#EXTINF:-1 group-title="DEPORTES",PlanetaFutbolEnglishSoccer 
-http://oneplay.tv/darkuzdev/?ch=PlanetaFutbolEnglish
 #EXTINF:-1 group-title="DEPORTES",Fox Sports
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
 #EXTINF:-1 group-title="DEPORTES",Fox Sports 2
@@ -775,4 +751,4 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F252
 #EXTINF:-1, musica 341
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“pruebaaaa ”,[COLOR yellow]» »pruebaaNUEVOS« «[/COLOR]
+
