@@ -1,3 +1,53 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red]------PELICULAS/MOVIES--http://bit.ly/1BgpVZT---FERRER-[/COLOR]
-#EXTINF:-1 group-title="FOX:MOVIES", LIBREEEEE
+#EXTINF:-1, [COLOR red]------PELICULAS/MOVIES--http://bit.ly/1BgpVZT---FERRER palcotv-[/COLOR]
+
+#EXTM3U
+
+#EXTINF:-1,#                                                                                   [COLOR orange]Lista de [/COLOR][COLOR white] Nano Barrios[/COLOR],tvg-logo="http://actualidad.rt.com/actualidad/public_images/8d6/8d6746a381962793e735444779f606fc_article.png"
+
+
+#EXTINF:-1,#[CR]
+
+
+#EXTINF:-1,#                   [COLOR orange]Sígueme en mi blog [/COLOR] [COLOR white]http://palcomaniacos.blogspost.com.es/ [/COLOR]
+
+
+#EXTINF:-1,#[CR]
+
+ #EXTINF:-1,[COLOR red]Especial SanFermines 2015  [COLOR red]by DMO[/COLOR],tvg-wall="http://www.navarra.es/NR/rdonlyres/B3F1634C-C9CA-4A3F-A367-429B10418309/110073/ENR_1463.JPG",tvg-logo="http://3.bp.blogspot.com/-y6nLY4lgKmw/U75AUQVxVqI/AAAAAAAAKV4/2QksPyqkO2w/s1600/sanfermin2015_1.jpg"
+m3u:https://copy.com/zrdHpqPGUXXuCFyi
+desc="[COLOR orange]Vive San Fermín de otra forma... En Directo todos los días a las 8:00h y visiona en diferido y con Multicámara cada día de Encierros. Del 7 al 14 de Julio.[/COLOR]"
+
+#EXTINF:-1,[COLOR aqua]---[/COLOR][COLOR orange] PROGRAMACIÓN TV [/COLOR] [COLOR aqua]---[/COLOR],tvg-logo="http://www.especialmundial.com/wp-content/uploads/programacion-tv-mundial-de-f%C3%BAtbol.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PanelDerecho.m3u
+
+#EXTINF:-1,[COLOR aqua]---DIGITAL PLUS---[/COLOR],tvg-logo="http://comunicacion.canalplus.es/images/YOMVI_VERTICAL_FONDO_BLANCO.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/NuevosPluses.m3u
+
+#EXTINF:-1,[COLOR aqua]---DEPORTES---[/COLOR],tvg-logo="http://vignette1.wikia.nocookie.net/futbol/images/5/57/Messi.png/revision/latest?cb=20130627212727"
+m3u:https://dl.dropboxusercontent.com/u/380436718/NuevosDeportes.m3u
+
+#EXTINF:-1,[COLOR aqua]---TDT---[/COLOR],tvg-logo="http://blogs.elpais.com/.a/6a00d8341bfb1653ef01a73dbdcbf7970d-pi"
+m3u:https://dl.dropboxusercontent.com/u/380436718/NuevaTDT.m3u
+
+#EXTINF:-1,[COLOR aqua]---PELICULAS---[/COLOR],tvg-logo="http://www.facepopular.net/file/pic/user/34145.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Peliculas.m3u
+
+#EXTINF:-1,[COLOR aqua]---SAGAS ---[/COLOR],tvg-logo="https://filmfireblog.files.wordpress.com/2012/12/the-hobbit-gollum-movie-image2.png?w=540"
+m3u:https://dl.dropboxusercontent.com/u/380436718/SagasDeCine.m3u
+
+#EXTINF:-1,[COLOR aqua]---SERIES PALCO---[/COLOR],tvg-logo="http://3.bp.blogspot.com/-Rfl1eGoEPIs/UkdR7ACXQOI/AAAAAAAAAOA/BNKOu_rBZEE/s1600/the-big-bang-theory-50b893917b448.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/SeriesNanito.m3u
+
+#EXTINF:-1,[COLOR aqua]---PROGRAMAS TV---[/COLOR],tvg-logo=""
+
+
+#EXTINF:-1,[COLOR aqua]---YOUTUBE---[/COLOR],tvg-logo="http://blog.vidcaster.com/wp-content/uploads/2013/07/youtube-logo-transparent.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/MundoYoutube.m3u
+
+#EXTINF:-1,[COLOR aqua]---MUNDO TV---[/COLOR],tvg-logo="http://www.sev.gob.mx/actividades-artisticas/files/2014/04/tv.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/mundotv.m3u
+
+
+#EXTINF:-1,[COLOR aqua]---LISTAS AMIGAS---[/COLOR],tvg-logo="http://www.officialpsds.com/images/thumbs/Crculo-de-Amistad-psd85160.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/ListasAmigas.m3u
