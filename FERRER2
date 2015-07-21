@@ -249,148 +249,146 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/100.m3u8|User-agent=Lavf/
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/93.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1, Warner Channel (baja)
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/96.m3u8|User-agent=Lavf/55.19.104
-1	#EXTINF:-1,canal101						
-2	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/101.m3u8|User-agent=Lavf/55.19.104						
-3	#EXTINF:-1,canal102						
-4	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/102.m3u8|User-agent=Lavf/55.19.104						
-5	#EXTINF:-1,canal103						
-6	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/103.m3u8|User-agent=Lavf/55.19.104						
-7	#EXTINF:-1,canal106						
-8	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/106.m3u8|User-agent=Lavf/55.19.104						
-9	#EXTINF:-1,canal107						
-10	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/107.m3u8|User-agent=Lavf/55.19.104						
-11	#EXTINF:-1,canal110						
-12	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/110.m3u8|User-agent=Lavf/55.19.104						
-13	#EXTINF:-1,canal111						
-14	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/111.m3u8|User-agent=Lavf/55.19.104						
-15	#EXTINF:-1,canal113						
-16	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/113.m3u8|User-agent=Lavf/55.19.104						
-17	#EXTINF:-1,canal114						
-18	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/114.m3u8|User-agent=Lavf/55.19.104						
-19	#EXTINF:-1,canal115						
-20	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/115.m3u8|User-agent=Lavf/55.19.104						
-21	#EXTINF:-1,canal116						
-22	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/116.m3u8|User-agent=Lavf/55.19.104						
-23	#EXTINF:-1,canal117						
-24	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/117.m3u8|User-agent=Lavf/55.19.104						
-25	#EXTINF:-1,canal118						
-26	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/118.m3u8|User-agent=Lavf/55.19.104						
-27	#EXTINF:-1,canal119						
-28	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/119.m3u8|User-agent=Lavf/55.19.104						
-29	#EXTINF:-1,canal120						
-30	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/120.m3u8|User-agent=Lavf/55.19.104						
-31	#EXTINF:-1,canal121						
-32	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/121.m3u8|User-agent=Lavf/55.19.104						
-33	#EXTINF:-1,canal122						
-34	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/122.m3u8|User-agent=Lavf/55.19.104						
-35	#EXTINF:-1,canal123						
-36	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/123.m3u8|User-agent=Lavf/55.19.104						
-37	#EXTINF:-1,canal124						
-38	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/124.m3u8|User-agent=Lavf/55.19.104						
-39	#EXTINF:-1,canal126						
-40	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/126.m3u8|User-agent=Lavf/55.19.104						
-41	#EXTINF:-1,canal127						
-42	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/127.m3u8|User-agent=Lavf/55.19.104						
-43	#EXTINF:-1,canal129						
-44	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/129.m3u8|User-agent=Lavf/55.19.104						
-45	#EXTINF:-1,canal130						
-46	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/130.m3u8|User-agent=Lavf/55.19.104						
-47	#EXTINF:-1,canal131						
-48	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/131.m3u8|User-agent=Lavf/55.19.104						
-49	#EXTINF:-1,canal132						
-50	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/132.m3u8|User-agent=Lavf/55.19.104						
-51	#EXTINF:-1,canal133						
-52	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/133.m3u8|User-agent=Lavf/55.19.104						
-53	#EXTINF:-1,canal134						
-54	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/134.m3u8|User-agent=Lavf/55.19.104						
-55	#EXTINF:-1,canal135						
-56	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/135.m3u8|User-agent=Lavf/55.19.104						
-57	#EXTINF:-1,canal136						
-58	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/136.m3u8|User-agent=Lavf/55.19.104						
-59	#EXTINF:-1,canal138						
-60	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/138.m3u8|User-agent=Lavf/55.19.104						
-61	#EXTINF:-1,canal139						
-62	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/139.m3u8|User-agent=Lavf/55.19.104						
-63	#EXTINF:-1,canal142						
-64	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/142.m3u8|User-agent=Lavf/55.19.104						
-65	#EXTINF:-1,canal143						
-66	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/143.m3u8|User-agent=Lavf/55.19.104						
-67	#EXTINF:-1,canal146						
-68	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/146.m3u8|User-agent=Lavf/55.19.104						
-69	#EXTINF:-1,canal148						
-70	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/148.m3u8|User-agent=Lavf/55.19.104						
-71	#EXTINF:-1,canal149						
-72	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/149.m3u8|User-agent=Lavf/55.19.104						
-73	#EXTINF:-1,canal150						
-74	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/150.m3u8|User-agent=Lavf/55.19.104						
-75	#EXTINF:-1,canal151						
-76	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/151.m3u8|User-agent=Lavf/55.19.104						
-77	#EXTINF:-1,canal152						
-78	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/152.m3u8|User-agent=Lavf/55.19.104						
-79	#EXTINF:-1,canal153						
-80	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/153.m3u8|User-agent=Lavf/55.19.104						
-81	#EXTINF:-1,canal154						
-82	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/154.m3u8|User-agent=Lavf/55.19.104						
-83	#EXTINF:-1,canal155						
-84	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/155.m3u8|User-agent=Lavf/55.19.104						
-85	#EXTINF:-1,canal158						
-86	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/158.m3u8|User-agent=Lavf/55.19.104						
-87	#EXTINF:-1,canal159						
-88	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/159.m3u8|User-agent=Lavf/55.19.104						
-89	#EXTINF:-1,canal161						
-90	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/161.m3u8|User-agent=Lavf/55.19.104						
-91	#EXTINF:-1,canal162						
-92	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/162.m3u8|User-agent=Lavf/55.19.104						
-93	#EXTINF:-1,canal163						
-94	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/163.m3u8|User-agent=Lavf/55.19.104						
-95	#EXTINF:-1,canal164						
-96	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/164.m3u8|User-agent=Lavf/55.19.104						
-97	#EXTINF:-1,canal166						
-98	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/166.m3u8|User-agent=Lavf/55.19.104						
-99	#EXTINF:-1,canal167						
-100	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/167.m3u8|User-agent=Lavf/55.19.104						
-101	#EXTINF:-1,canal170						
-102	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/170.m3u8|User-agent=Lavf/55.19.104						
-103	#EXTINF:-1,canal171						
-104	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/171.m3u8|User-agent=Lavf/55.19.104						
-105	#EXTINF:-1,canal173						
-106	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/173.m3u8|User-agent=Lavf/55.19.104						
-107	#EXTINF:-1,canal174						
-108	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/174.m3u8|User-agent=Lavf/55.19.104						
-109	#EXTINF:-1,canal175						
-110	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/175.m3u8|User-agent=Lavf/55.19.104						
-111	#EXTINF:-1,canal176						
-112	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/176.m3u8|User-agent=Lavf/55.19.104						
-113	#EXTINF:-1,canal178						
-114	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/178.m3u8|User-agent=Lavf/55.19.104						
-115	#EXTINF:-1,canal179						
-116	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/179.m3u8|User-agent=Lavf/55.19.104						
-117	#EXTINF:-1,canal181						
-118	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/181.m3u8|User-agent=Lavf/55.19.104						
-119	#EXTINF:-1,canal182						
-120	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/182.m3u8|User-agent=Lavf/55.19.104						
-121	#EXTINF:-1,canal183						
-122	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/183.m3u8|User-agent=Lavf/55.19.104						
-123	#EXTINF:-1,canal184						
-124	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/184.m3u8|User-agent=Lavf/55.19.104						
-125	#EXTINF:-1,canal185						
-126	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/185.m3u8|User-agent=Lavf/55.19.104						
-127	#EXTINF:-1,canal186						
-128	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/186.m3u8|User-agent=Lavf/55.19.104						
-129	#EXTINF:-1,canal187						
-130	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/187.m3u8|User-agent=Lavf/55.19.104						
-131	#EXTINF:-1,canal188						
-132	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/188.m3u8|User-agent=Lavf/55.19.104						
-133	#EXTINF:-1,canal189						
-134	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/189.m3u8|User-agent=Lavf/55.19.104						
-135	#EXTINF:-1,canal190						
-136	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/190.m3u8|User-agent=Lavf/55.19.104						
-137	#EXTINF:-1,canal191						
-138	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/191.m3u8|User-agent=Lavf/55.19.104						
-139	#EXTINF:-1,canal192						
-140	http://premium.tutvgratis.tv:8000/live/youtvplayer/app/192.m3u8|User-agent=Lavf/55.19.104						
-
-
+#EXTINF:-1,canal101
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/101.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal102
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/102.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal103
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/103.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal106
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/106.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal107
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/107.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal110
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/110.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal111
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/111.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal113
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/113.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal114
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/114.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal115
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/115.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal116
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/116.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal117
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/117.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal118
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/118.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal119
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/119.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal120
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/120.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal121
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/121.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal122
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/122.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal123
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/123.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal124
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/124.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal126
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/126.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal127
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/127.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal129
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/129.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal130
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/130.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal131
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/131.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal132
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/132.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal133
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/133.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal134
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/134.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal135
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/135.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal136
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/136.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal138
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/138.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal139
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/139.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal142
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/142.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal143
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/143.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal146
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/146.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal148
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/148.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal149
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/149.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal150
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/150.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal151
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/151.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal152
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/152.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal153
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/153.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal154
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/154.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal155
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/155.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal158
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/158.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal159
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/159.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal161
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/161.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal162
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/162.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal163
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/163.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal164
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/164.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal166
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/166.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal167
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/167.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal170
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/170.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal171
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/171.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal173
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/173.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal174
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/174.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal175
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/175.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal176
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/176.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal178
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/178.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal179
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/179.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal181
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/181.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal182
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/182.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal183
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/183.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal184
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/184.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal185
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/185.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal186
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/186.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal187
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/187.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal188
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/188.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal189
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/189.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal190
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/190.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal191
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/191.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1,canal192
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/192.m3u8|User-agent=Lavf/55.19.104
 
 #EXTM3U
 
