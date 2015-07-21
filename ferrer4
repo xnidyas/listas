@@ -108,8 +108,6 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2489
 #EXTINF:-1,TCM
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
-#EXTINF:-1,Unimas
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
 #EXTINF:-1,PASIONES
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F295
 #EXTINF:-1,AzMundo 	
@@ -122,8 +120,6 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4552	
 #EXTINF:-1,Telemundo 	
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F4417	
-#EXTINF:-1,Univisión	
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800	
 #EXTINF:-1,Canal 5
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1479
 #EXTINF:-1,BBC Entertainment
@@ -476,12 +472,8 @@ http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8#GerardoLo
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 #EXTINF:-1,El Trece arge*
 http://live-edge01.telecentro.net.ar:1935/live/13hd-360/playlist.m3u8?
-#EXTINF:-1,El Trece LE CAMBIE A SD
-http://live-edge01.telecentro.net.ar:1935/live/13Sd-360/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,TVP Argentina LENTO COPA AMERICA
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,TVP Argentina LE QUITO LA HD
-http://live-edge01.telecentro.net.ar:1935/live/tvp-360/playlist.m3u8#GerardoLoyolaIPTV
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
 #EXTINF:-1,TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1#GerardoLoyolaIPTV
 #EXTINF:-1,C5N ARGENTINA
@@ -619,6 +611,12 @@ http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",TDN
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+#EXTINF:-1 group-title="DEPORTES",TDN 1483
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
+#EXTINF:-1 group-title="DEPORTES",Unimas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+#EXTINF:-1 group-title="DEPORTES",Univisión	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800	
 #EXTINF:-1 group-title="DEPORTES",UNO DEPORTES MX
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
 #EXTINF:-1 group-title="DEPORTES",azteca 7a
@@ -661,7 +659,7 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
 #EXTINF:-1 group-title="DEPORTES",Planeta Futbol English Soccer
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3469
-#EXTINF:-1,goltv
+#EXTINF:-1 group-title="DEPORTES",goltv
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
 #EXTINF:-1 group-title="DEPORTES",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
@@ -755,8 +753,6 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1471
 #EXTINF:-1,mas chick 1475
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1475
-#EXTINF:-1,TDN 1483
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
 #EXTINF:-1,GOLF 1483
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1489
 #EXTINF:-1,mtv 1495
