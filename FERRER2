@@ -781,12 +781,28 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/488.m3u8|User-agent=Lavf/
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/489.m3u8|User-agent=Lavf/55.19.104	
 #EXTINF:-1,FOX CINEMA canal490
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/490.m3u8|User-agent=Lavf/55.19.104				
-#EXTINF:-1, canal491
+#EXTINF:-1, FOX CLASIC canal491
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/491.m3u8|User-agent=Lavf/55.19.104				
-#EXTINF:-1,canal492
+#EXTINF:-1,FOX CLASIC canal492
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/492.m3u8|User-agent=Lavf/55.19.104				
-#EXTINF:-1,canal493
+#EXTINF:-1,FOX CLASIC canal493
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/493.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal494
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/494.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal495
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/495.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal496
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/496.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal497
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/497.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal498
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/498.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal499
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/499.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal500
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/500.m3u8|User-agent=Lavf/55.19.104				
+#EXTINF:-1,canal501
+http://premium.tutvgratis.tv:8000/live/youtvplayer/app/501.m3u8|User-agent=Lavf/55.19.104				
 
 
 
