@@ -295,6 +295,13 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17171318/streams/live/playlist.m
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 #EXTINF:-1,AZTECA 13 HD*
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,AZTECA TRECE HD
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
+#EXTINF:-1,azteca noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,azteca Noticias indx3
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8
+
 #EXTINF:-1,CANAL 53 MEXICO*
 mms://streaming.uanl.mx/canal53bandaancha/
 #EXTINF:-1,TELEMAR CAMPECHE MEXICO*
@@ -457,8 +464,6 @@ http://190.107.176.167:1935/live/tv4-television/playlist.m3u8#GerardoLoyolaIPTV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Canal 2 Valparaiso BUENA MUSICA!!
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,EL TRECE HD
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
 
 #EXTINF:-1,[COLOR blue]------Argentina------[/COLOR]
 http://?
@@ -590,8 +595,6 @@ http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="DEPORTES",tvn chile opt 2
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="DEPORTES",EL TRECE chile
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",America TV Peru DEPORTES
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fooyalahd2-f.akamaihd.net%2Fi%2Fatv02_delivery%4025405%2Findex_564_av-p.m3u8
@@ -613,10 +616,10 @@ http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 #EXTINF:-1 group-title="DEPORTES",TDN 1483
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
-#EXTINF:-1 group-title="DEPORTES",Unimas
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
 #EXTINF:-1 group-title="DEPORTES",Univisión	
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800	
+#EXTINF:-1 group-title="DEPORTES",Unimas
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
 #EXTINF:-1 group-title="DEPORTES",UNO DEPORTES MX
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
 #EXTINF:-1 group-title="DEPORTES",azteca 7a
@@ -624,7 +627,11 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",azteca 7 mexico
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 7HD X NAVI
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8 
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",AZTECA TRECE
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
 #EXTINF:-1 group-title="DEPORTES",TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 group-title="DEPORTES",ARG TELEFE SD
@@ -633,8 +640,6 @@ http://live-edge01.telecentro.net.ar/live/tlfhd-180/playlist.m3u8
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",tv publica argentina  oSD360
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title="DEPORTES",tv publica argentina 720p
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",tv publica argentina opt3
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w563752439_b1264000_sleng.m3u8
 #EXTINF:-1 group-title="DEPORTES",beInSports
@@ -665,18 +670,6 @@ http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/c
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Sportsnet 360--
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sport 1 Medium
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sport 1 HD
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sport 2 Medium
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sport 2 HD
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sport3 Premier Medium
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BeIN Sport3 Premier HD
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“PELICULAS”,[COLOR yellow]» »PELICULAS« «[/COLOR]
 http://0.0.0.0:1234
@@ -689,31 +682,15 @@ http://0.0.0.0:1234
 http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1 group-title="NUEVOS",azteca 13 
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 group-title="NUEVOS",azteca noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1 group-title="NUEVOS",azteca Noticias indx3
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8
 #EXTINF:-1 group-title="NUEVOS", hbo chile
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 
-#EXTINF:-1,[COLOR silver]------Telemundo------[/COLOR]
+#EXTINF:-1,[COLOR silver]------Telemundo y univision------[/COLOR]
 http://?
-#EXTINF:-1,Telemundo (Opcion 1)
-http://199.168.116.12:1935/app/telemundoxchivas_69s-channel/.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Telemundo (OpciÃ³n 2)
-http://iphone-streaming.ustream.tv/uhls/20487775/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,[COLOR violet]------Univision------[/COLOR]
-http://?
-#EXTINF:-1,Univision HD (opcion 1)
-http://iphone-streaming.ustream.tv/uhls/20653820/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Univision HD (opcion 2)
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Univision HD (Opcion 3)
-http://66.55.92.44:1935/app/turbomaxs-channel/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1, [COLOR green] --LOCALHOST8899 FORMATO2- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 http://0.0.0.0
