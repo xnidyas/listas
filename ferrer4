@@ -241,8 +241,6 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8#GerardoLoy
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Gala TV Cancun
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,canal 7 azteca
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,canal 5 Nuestra Vision
 rtmp://159.16.243.10/live/canal5/canal5
 #EXTINF:-1,Canal 7 SLP
@@ -293,10 +291,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m
 http://iphone-streaming.ustream.tv/ustreamVideo/17171318/streams/live/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,40 HD (Latino)*
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1,AZTECA 13 HD*
+#EXTINF:-1,AZTECA 13 HD EXCELENTE*
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1,AZTECA TRECE HD
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
+#EXTINF:-1,AZTECA 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,azteca noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,azteca Noticias indx3
