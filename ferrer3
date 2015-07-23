@@ -3,6 +3,8 @@
 http://167.114.116.87:8000/live/youtvplayer/app/305.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="fox-movies-hd.png" group-title="Cine y Series",Fox MoviesHD"bit.ly/1L9zFIX"					
 http://167.114.116.87:8000/live/youtvplayer/app/305.m3u8|User-agent=Lavf/55.19.104					
+#EXTINF:-1 tvg-logo="fox-1-hd.png" group-title="Cine y Series",Fox 1 HDMM
+http://167.114.116.87:8000/live/youtvplayer/app/297.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1 tvg-logo="fox-1-hd.png" group-title="Cine y Series",Fox 1 HD					
 http://167.114.116.87:8000/live/youtvplayer/app/297.m3u8|User-agent=Lavf/55.19.104					
 #EXTINF:-1 tvg-logo="fox-action-oeste.png" group-title="Cine y Series",Fox Action HD					
