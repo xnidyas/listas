@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=,LISTA FERRER3HD (http://bit.ly/1L9zFIX)
-#EXTINF:-1tvg-logo="fox-movies-hd.png" group-title="Cine y Series",Fox Movies HD					
+#EXTINF:-1tvg-logo="fox-movies-hd.png" group-title="Cine y Series",Fox MoviesHD("http://bit.ly/1L9zFIX")					
 http://167.114.116.87:8000/live/youtvplayer/app/305.m3u8|User-agent=Lavf/55.19.104					
 #EXTINF:-1 tvg-logo="fox-1-hd.png" group-title="Cine y Series",Fox 1 HD					
 http://167.114.116.87:8000/live/youtvplayer/app/297.m3u8|User-agent=Lavf/55.19.104					
