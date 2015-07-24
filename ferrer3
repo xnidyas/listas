@@ -31,7 +31,7 @@ http://167.114.116.87:8000/live/youtvplayer/app/137.m3u8|User-agent=Lavf/55.19.1
 http://167.114.116.87:8000/live/youtvplayer/app/133.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="29.png",BBC Entertainment
 http://167.114.116.87:8000/live/youtvplayer/app/129.m3u8|User-agent=Lavf/55.19.104
-#EXTINF:-1tvg-logo="14.png",De PelÃ­cula HD
+#EXTINF:-1tvg-logo="14.png",De Pelicula HD
 http://167.114.116.87:8000/live/youtvplayer/app/325.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="8.png",TCM
 http://167.114.116.87:8000/live/youtvplayer/app/381.m3u8|User-agent=Lavf/55.19.104
@@ -107,7 +107,7 @@ http://167.114.116.87:8000/live/youtvplayer/app/265.m3u8|User-agent=Lavf/55.19.1
 http://167.114.116.87:8000/live/youtvplayer/app/245.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="tru.png",TruTV HD
 http://167.114.116.87:8000/live/youtvplayer/app/113.m3u8|User-agent=Lavf/55.19.104
-#EXTINF:-1tvg-logo="tnt-series.png" group-title="Cine y Series",Serie TNT
+#EXTINF:-1tvg-logo="tnt-series.png" group-title="Cine y Series",TNT Serie
 http://167.114.116.87:8000/live/youtvplayer/app/157.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:tvg-logo="life.png",Fox Life
 http://167.114.116.87:8000/live/youtvplayer/app/169.m3u8|User-agent=Lavf/55.19.104
