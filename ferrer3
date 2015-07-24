@@ -203,15 +203,14 @@ http://167.114.116.87:8000/live/youtvplayer/app/368.m3u8|User-agent=Lavf/55.19.1
 http://167.114.116.87:8000/live/youtvplayer/app/232.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="FERRER.png",Cartoon Network (baja)
 http://167.114.116.87:8000/live/youtvplayer/app/224.m3u8|User-agent=Lavf/55.19.104
-#EXTINF:-1tvg-logo="FERRER.png",Cinecanal (351)
-http://167.114.116.87:8000/live/youtvplayer/app/351.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1tvg-logo="FERRER.png",Cinecanal (349)
+http://167.114.116.87:8000/live/youtvplayer/app/349.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="FERRER.png",Cinecanal (baja)
 http://167.114.116.87:8000/live/youtvplayer/app/352.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="FERRER.png",Cinemax (353)
 http://167.114.116.87:8000/live/youtvplayer/app/353.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="FERRER.png",Cinemax (354) lento
 http://167.114.116.87:8000/live/youtvplayer/app/354.m3u8|User-agent=Lavf/55.19.104
-
 #EXTINF:-1tvg-logo="FERRER.png",Cinecanal+ (baja)
 http://167.114.116.87:8000/live/youtvplayer/app/312.m3u8|User-agent=Lavf/55.19.104
 #EXTINF:-1tvg-logo="FERRER.png",Cinemax (baja)
