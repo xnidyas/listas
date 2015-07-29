@@ -2062,5 +2062,106 @@ http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fpanchit
 #EXTINF:-1, tvg-id="824" tvg-name="Aruba 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1243.png" group-title="information", Aruba 1
 http://localhost:8899/live.m3u?tmp=0&portal=1&channel=rtmp%3A%2F%2F201.229.0.51%2Flivepkgr%2Flivestream1
  
+#EXTINF:-1, tvg-id="456" tvg-name="Adult 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/339.png" group-title="for adults", Adult 1
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="457" tvg-name="Adult 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/459.png" group-title="for adults", Adult 2
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="458" tvg-name="Adult 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/457.png" group-title="for adults", Adult 3
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwowza1.videos.movile.com%3A8080%2Flive%2Fsmil%3Aadulto_1.smil%2Fplaylist.m3u8
+
+#EXTINF:-1, tvg-id="459" tvg-name="Adult 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/455.png" group-title="for adults", Adult 4
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwowza1.videos.movile.com%3A8080%2Flive%2Fsmil%3Aadultopremium_1.smil%2Fplaylist.m3u8
+
+#EXTINF:-1, tvg-id="460" tvg-name="Adult 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/453.png" group-title="for adults", Adult 5
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="461" tvg-name="Adult 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/449.png" group-title="for adults", Adult 6
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="462" tvg-name="Adult 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/451.png" group-title="for adults", Adult 7
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fpublish.thewebstream.co%3A1935%2Fleved%2F_definst_%2Fpassiexxx%2Fplaylist.m3u8
+
+#EXTINF:-1, tvg-id="463" tvg-name="Adult 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/297.png" group-title="for adults", Adult 8
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="464" tvg-name="Adult 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/445.png" group-title="for adults", Adult 9
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge2.everyon.tv%2Fetv2sb%2Fphd771
+
+#EXTINF:-1, tvg-id="465" tvg-name="Adult 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/447.png" group-title="for adults", Adult 10
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="466" tvg-name="Adult 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/473.png" group-title="for adults", Adult 11
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fhlsstr04.svc.iptv.rt.ru%2Fhls%2FCH_OLALA%2Fvariant.m3u8%3Fversion%3D2
+
+#EXTINF:-1, tvg-id="467" tvg-name="Adult 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/475.png" group-title="for adults", Adult 12
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="468" tvg-name="Adult 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/477.png" group-title="for adults", Adult 13
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="469" tvg-name="Adult 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/479.png" group-title="for adults", Adult 14
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2F59.120.43.181%3A8084
+
+#EXTINF:-1, tvg-id="470" tvg-name="Adult 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/481.png" group-title="for adults", Adult 15
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge2.everyon.tv%2Fetv2%2Fpld1003
+
+#EXTINF:-1, tvg-id="471" tvg-name="Adult 16" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/483.png" group-title="for adults", Adult 16
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="472" tvg-name="Adult 17" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/485.png" group-title="for adults", Adult 17
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge2.everyon.tv%2Fetv2sb%2Fphd59
+
+#EXTINF:-1, tvg-id="473" tvg-name="Adult 18" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/487.png" group-title="for adults", Adult 18
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F149.3.141.210%3A1935%2Ftv%2Fttv11
+
+#EXTINF:-1, tvg-id="474" tvg-name="Adult 19" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/489.png" group-title="for adults", Adult 19
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge2.everyon.tv%2Fetv2sb%2Fphd60
+
+#EXTINF:-1, tvg-id="475" tvg-name="Adult 20" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/593.png" group-title="for adults", Adult 20
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge2.everyon.tv%2Fetv2%2Fphd1003
+
+#EXTINF:-1, tvg-id="476" tvg-name="Adult 21" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/595.png" group-title="for adults", Adult 21
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2F188.93.18.238%3A1935%2Ftv%2F3310%2Fplaylist.m3u8
+
+#EXTINF:-1, tvg-id="477" tvg-name="Adult 22" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/597.png" group-title="for adults", Adult 22
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Fiptvnation.com%2Fporn%2Fvideo.mp4
+
+#EXTINF:-1, tvg-id="478" tvg-name="Adult 23" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1019.png" group-title="for adults", Adult 23
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2Fedge2.everyon.tv%2Fetv2%2Fpld1008
+
+#EXTINF:-1, tvg-id="479" tvg-name="Adult 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1021.png" group-title="for adults", Adult 24
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+rtmp%3A%2F%2F149.3.141.210%3A1935%2Ftv%2Fttv12
+
+#EXTINF:-1, tvg-id="480" tvg-name="Venus" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/107.png" group-title="for adults", Venus
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F285
+
+#EXTINF:-1, tvg-id="481" tvg-name="Sextreme" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/109.png" group-title="for adults", Sextreme
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F287
+
+#EXTINF:-1, tvg-id="483" tvg-name="Manhandle XXX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/607.png" group-title="for adults", Manhandle XXX
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1027
+
+#EXTINF:-1, tvg-id="485" tvg-name="Secrets" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/605.png" group-title="for adults", Secrets
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1025
+
+#EXTINF:-1, tvg-id="487" tvg-name="Playboy TV Latin America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/111.png" group-title="for adults", Playboy TV Latin America
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F289
+
+#EXTINF:-1, tvg-id="488" tvg-name="Playboy TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/433.png" group-title="for adults", Playboy TV
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fhlsstr02.svc.iptv.rt.ru%2Fhls%2FCH_PLAYBOY%2Fvariant.m3u8%3Fversion%3D2
+
+#EXTINF:-1, tvg-id="492" tvg-name="Real" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/601.png" group-title="for adults", Real
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1021
+
+#EXTINF:-1, tvg-id="494" tvg-name="Juicy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/603.png" group-title="for adults", Juicy
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1023
+
+#EXTINF:-1, tvg-id="496" tvg-name="Hustler TV USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/495.png" group-title="for adults", Hustler TV USA
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1707
+
+#EXTINF:-1, tvg-id="498" tvg-name="Xtsy XXX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/849.png" group-title="for adults", Xtsy XXX
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1463
 
  
