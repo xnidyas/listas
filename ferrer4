@@ -754,4 +754,32 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F252
 #EXTINF:-1, musica 341
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
+#EXTINF:-1tvg-logo="FERRER.png",AZTECA 7 SD OKcanal500
+http://167.114.116.87:8000/live/youtvplayer/app/500.m3u8|User-agent=Lavf/55.19.104                               
+#EXTINF:-1tvg-logo="FERRER.png",AZTECA 7 OKcanal501
+http://167.114.116.87:8000/live/youtvplayer/app/501.m3u8|User-agent=Lavf/55.19.104
+#EXTINF:-1tvg-logo="max-up.png" group-title="Cine y Series",Max Up
+http://192.99.40.14:8000/stream.php?v=MaxUPSD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="max.png" group-title="Cine y Series",Max Prime (E)
+http://192.99.40.14:8000/stream.php?v=MaxPrimeLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="pre.png" group-title="Cine y Series",Golden Premier 1
+http://192.99.40.14:8000/stream.php?v=GoldenPremier1LA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="pre.png" group-title="Cine y Series",Golden Premier 2
+http://192.99.40.14:8000/stream.php?v=GoldenPremiere2LA&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="hs.png" group-title="Cine y Series",HBO Signature
+http://192.99.40.14:8000/stream.php?v=HBOSignatureLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="hbo.png" group-title="Cine y Series",HBO (E)
+http://192.99.40.14:8000/stream.php?v=HBOLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="hbo2.png" group-title="Cine y Series",HBO 2
+http://192.99.40.14:8000/stream.php?v=HBO2SD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
+#EXTINF:-1tvg-logo="hf.png" group-title="Cine y Series",HBO Family (E)
+http://192.99.40.14:8000/stream.php?v=HBOFamilyLASD&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+
 
