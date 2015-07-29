@@ -100,11 +100,11 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3293
 #EXTINF:-1,sudance 1041**
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1041
-EXTINF:-1,Golden hd**
+#EXTINF:-1,Golden hd**
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F264	
 #EXTINF:-1,Golden Premier 1
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1487
-#EXTINF:-1,Golden Premier1
+#EXTINF:-1,PLANETA FUTBOL
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
 #EXTINF:-1,Golden premier 1471**
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1471
@@ -306,12 +306,6 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8
 #EXTINF:-1 group-title="DEPORTES",Caracol Internacional MALACALIDAD
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BT SPORT1
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2470
-#EXTINF:-1 group-title="DEPORTES",BT SPORT2
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2481
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT 1
-http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2459
 #EXTINF:-1 group-title="DEPORTES",TDN
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
 #EXTINF:-1 group-title="DEPORTES",TDN 1483
@@ -364,6 +358,30 @@ http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalho
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
 #EXTINF:-1 group-title="DEPORTES",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",BT SPORT1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2479
+#EXTINF:-1 group-title="DEPORTES",BT SPORT2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2481
+#EXTINF:-1 group-title="DEPORTES",ASTRO SPORT1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2479
+#EXTINF:-1 group-title="DEPORTES",ASTRO SPORT2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2473
+#EXTINF:-1 group-title="DEPORTES",ASTRO SPORT3
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2475
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2459
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2461
+#EXTINF:-1 group-title="DEPORTES",SKY SPORT 3
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2469
+#EXTINF:-1 group-title="DEPORTES",ASTRO SPORT 1
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2471
+#EXTINF:-1 group-title="DEPORTES",ASTRO SPORT 2
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2473
+#EXTINF:-1 group-title="DEPORTES",ASTRO SPORT 3
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2475
+
+
 #EXTINF:-1 group-title="DEPORTES",Sportsnet 360--
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
@@ -375,12 +393,9 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS", hbo chile
 http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
-
-#EXTINF:-1,[COLOR silver]------Telemundo y univision------[/COLOR]
-http://?
-#EXTINF:-1,Telemundo (Opcion 3)
+#EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Univision HD (opcion 2)
+#EXTINF:-1 group-title="NUEVOS",Univision HD (opcion 2)
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1, [COLOR green] --LOCALHOST8899 FORMATO2- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
