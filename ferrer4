@@ -34,6 +34,68 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1tvg-logo="nf.png",NFL Network
+http://31.220.41.111:80/LiveEdgeTesting/NFLNetworkUS/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="ur.png",Ufc Network
+http://31.220.41.111:80/LiveEdgeTesting/UFCNetworkLA/playlist.m3u8?token= 
+#EXTINF:-1tvg-logo="42.png",TDN
+http://31.220.41.111:80/LiveEdgeTesting/TDNMXLA/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="Univision_tdn.png",Tdn Univision
+http://31.220.41.111:80/LiveEdgeTesting/UnivisionTDNLA/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="e.png",ESPN
+http://31.220.41.111:80/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="e2.png",ESPN 2
+http://31.220.41.111:80/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="33.png",ESPN 3
+http://31.220.41.111:80/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="f.png",Fox Sports
+http://31.220.41.111:80/LiveEdgeTesting/FoxSportsLA/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="f2.png",Fox Sports 2
+http://31.220.41.111:80/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="70.png",Fox Sports 3
+http://31.220.41.111:80/LiveEdgeTesting/FoxSports3SD/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="uslogosprites.png",BeinSports
+http://31.220.41.111:80/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+#EXTINF:-1,NBA TV T-K
+http://31.220.41.102/LiveEdgeTesting/NBATVUS/playlist.m3u8?token=
+#EXTINF:-1,NFL NETWORK T-K
+http://31.220.41.107/LiveEdgeTesting/NFLNetworkUS/playlist.m3u8?token=
+#EXTINF:-1,NHL NETWORK T-K
+http://31.220.40.105/LiveEdgeTesting/NHLNetworkHD/playlist.m3u8?token=
+#EXTINF:-1,ESPN T-K
+http://31.220.41.111/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
+#EXTINF:-1,ESPN 2 T-K
+http://31.220.41.111/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
+#EXTINF:-1,ESPN 3 T-K
+http://31.220.41.111/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
+#EXTINF:-1,FOXSPORT T-K
+http://201.161.59.6/foxsports.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports SUR T-K
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,FOXSPORT 2 T-K
+http://31.220.41.111/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
+#EXTINF:-1,FOXSPORT 3 T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
+#EXTINF:-1,Planeta Futbol T-K
+http://31.220.40.121/LiveEdgeTesting/PlanetaFutbolLA/playlist.m3u8?token=
+#EXTINF:-1,UNIVISION TDN T-K
+http://31.220.41.111/LiveEdgeTesting/UnivisionTDNLA/chunklist_w1325476343.m3u8?token=
+#EXTINF:-1,TDN T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
+#EXTINF:-1,UFC 1 T-K
+http://66.90.93.26:1935/live/canal086.stream/chunklist_w600485621.m3u8?username=fher1&password;=iptv
+#EXTINF:-1,UFC LATINO T-K
+http://31.220.41.111/LiveEdgeTesting/_definst_/UFCNetworkLA/playlist.m3u8?token=
+#EXTINF:-1,TYC SPORT T-K
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,FORMULA 1 LATINO T-K
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/F1LA/chunklist_w1084274531.m3u8?token=
+#EXTINF:-1,GOLF CHANNEL T-K
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/GolfChannelLA/chunklist_w818200762.m3u8?token=
+#EXTINF:-1,BEIN SPORT T-K
+http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+
+
 #EXTINF:-1 group-title="DEPORTES",TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 group-title="DEPORTES",ARG TELEFE SD
@@ -215,36 +277,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,PANAMERICANA T-K
 http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,RBC PERU T-K
-http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,ATV T-K
-http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
- 
-#EXTINF:-1,ATV + T-K
-rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
- 
-#EXTINF:-1,Canal Musica Peru T-K
-http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8
- 
-#EXTINF:-1,MEGA T-K
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1,REDHD T-K
-http://movilstream.digitalproserver.com:1935/redtv/redtvvivo/livestream2/playlist.m3u8
- 
-#EXTINF:-1,TVNHD T-K
-http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
- 
-#EXTINF:-1,MEGAHD T-K
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
- 
-#EXTINF:-1,CHVHD T-K
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
- 
-#EXTINF:-1,Canal 13 HD T-K
-http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
-#EXTINF:-1,TV MAS T-K
-http://38.104.228.230:1938/info7/info7_512/chunklist_w521409461.m3u8
- 
 #EXTINF:-1,Azteca 7 T-K
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,AZTECA 13 T-K
@@ -367,44 +399,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebas
 http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
 #EXTINF:-1,BOXNATION T-K
 http://31.220.40.114:80/LiveEdgeTesting/boxnation.stream/playlist.m3u8?token=
-#EXTINF:-1,NBA TV T-K
-http://31.220.41.102/LiveEdgeTesting/NBATVUS/playlist.m3u8?token=
-#EXTINF:-1,NFL NETWORK T-K
-http://31.220.41.107/LiveEdgeTesting/NFLNetworkUS/playlist.m3u8?token=
-#EXTINF:-1,NHL NETWORK T-K
-http://31.220.40.105/LiveEdgeTesting/NHLNetworkHD/playlist.m3u8?token=
-#EXTINF:-1,ESPN T-K
-http://31.220.41.111/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
-#EXTINF:-1,ESPN 2 T-K
-http://31.220.41.111/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
-#EXTINF:-1,ESPN 3 T-K
-http://31.220.41.111/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
-#EXTINF:-1,FOXSPORT T-K
-http://201.161.59.6/foxsports.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Fox Sports SUR T-K
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,FOXSPORT 2 T-K
-http://31.220.41.111/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
-#EXTINF:-1,FOXSPORT 3 T-K
-http://31.220.41.111/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
-#EXTINF:-1,Planeta Futbol T-K
-http://31.220.40.121/LiveEdgeTesting/PlanetaFutbolLA/playlist.m3u8?token=
-#EXTINF:-1,UNIVISION TDN T-K
-http://31.220.41.111/LiveEdgeTesting/UnivisionTDNLA/chunklist_w1325476343.m3u8?token=
-#EXTINF:-1,TDN T-K
-http://31.220.41.111/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
-#EXTINF:-1,UFC 1 T-K
-http://66.90.93.26:1935/live/canal086.stream/chunklist_w600485621.m3u8?username=fher1&password;=iptv
-#EXTINF:-1,UFC LATINO T-K
-http://31.220.41.111/LiveEdgeTesting/_definst_/UFCNetworkLA/playlist.m3u8?token=
-#EXTINF:-1,TYC SPORT T-K
-http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FORMULA 1 LATINO T-K
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/F1LA/chunklist_w1084274531.m3u8?token=
-#EXTINF:-1,GOLF CHANNEL T-K
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/GolfChannelLA/chunklist_w818200762.m3u8?token=
-#EXTINF:-1,BEIN SPORT T-K
-http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
 #EXTINF:-1,STUDIO UNIVERSAL T-K
 http://31.220.41.111:80/LiveEdgeTesting/StudioUniversalSD/chunklist_w355779465_b1000000.m3u8?token=
 #EXTINF:-1,GOLDEN HD T-K
@@ -465,7 +459,6 @@ http://31.220.40.108/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
 http://31.220.41.111/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
 #EXTINF:-1,FOX 1 OESTE T-K
 http://31.220.40.117/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
- 
 #EXTINF:-1,FOX ACTION T-K
 http://31.220.41.111/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
 #EXTINF:-1,FOX ACTION OESTE T-K
@@ -496,7 +489,6 @@ http://31.220.41.111/LiveEdgeTesting/VH1LatinoSD/playlist.m3u8?token=
 http://31.220.41.102/LiveEdge/VH1ClassicLASD/chunklist_w1093453460_b1000000.m3u8?token=21d32a48b4d4a654bd0bb74c0a3fd743
 #EXTINF:-1,CONCERT CHANNEL T-K
 http://31.220.41.111/LiveEdge/ConcertChannelSD/chunklist_w63956239_b1000000.m3u8?token=20ef0d0bf9f5750250874ebb9eb8164b
- 
 #EXTINF:-1,TELEHIT T-K
 http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,Kiss tv T-K
@@ -523,42 +515,34 @@ http://31.220.41.111/LiveEdgeTesting/_definst_/HTVSD/playlist.m3u8?token=
 http://31.220.41.111/LiveEdgeTesting/KMusicLA/playlist.m3u8?token=
 
 #EXTM3U
-
 #EXTINF:-1tvg-logo="max-up.png" group-title="Cine y Series",Max Up
 http://31.220.41.111:80/LiveEdgeTesting/MaxUPSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="max.png" group-title="Cine y Series",Max Prime (E)
 http://31.220.41.111:80/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="pre.png" group-title="Cine y Series",Golden Premier 1
 http://31.220.41.111:80/LiveEdgeTesting/GoldenPremier1LA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="pre.png" group-title="Cine y Series",Golden Premier 2
 http://31.220.41.111:80/LiveEdgeTesting/GoldenPremiere2LA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="hs.png" group-title="Cine y Series",HBO Signature
 http://31.220.41.111:80/LiveEdgeTesting/HBOSignatureLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="hbo.png" group-title="Cine y Series",HBO (E)
 http://31.220.41.111:80/LiveEdgeTesting/HBOLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="hbo2.png" group-title="Cine y Series",HBO 2
 http://31.220.41.111:80/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="hf.png" group-title="Cine y Series",HBO Family (E)
 http://31.220.41.111:80/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
-
-
+#EXTINF:-1,HBO PLUS OESTE*
+http://31.220.41.111:80/LiveEdgeTesting/HBOPus2LASD/playlist.m3u8?token=
+#EXTINF:-1,HBO PLUS ESTE*
+http://31.220.41.111:80/LiveEdgeTesting/HBOPlusLASD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="fox-movies-hd.png" group-title="Cine y Series",Fox Movies 
 http://31.220.41.111:80/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
 #EXTINF:-1 tvg-logo="fox-1-hd.png" group-title="Cine y Series",Fox 1 
 http://31.220.41.111:80/LiveEdgeTesting/FOX1LASD/playlist.m3u8?token=
 #EXTINF:-1 tvg-logo="fox-action-oeste.png" group-title="Cine y Series",Fox Action 
 http://31.220.41.111:80/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
-
 #EXTINF:-1 tvg-logo="fox-family-hd.png" group-title="Cine y Series",Fox Family (E)
 http://31.220.41.111:80/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="fox-classics.png" group-title="Cine y Series",Fox Classics
 http://31.220.41.111:80/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="fox-cinema.png" group-title="Cine y Series",Fox CinÃ©ma
@@ -569,49 +553,34 @@ http://31.220.41.111:80/LiveEdgeTesting/StudioUniversalSD/playlist.m3u8?token=
 http://31.220.41.111:80/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="7.png",tvg-id="id="Cinecanal (W)" group-title="Cine y Series",Cinecanal (W)
 http://31.220.41.111:80/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="paramount.png" group-title="Cine y Series",Paramount Channel
 http://31.220.41.111:80/LiveEdgeTesting/ParamountChannelLatinAmericaHD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="10_c.png" group-title="Cine y Series",Cine Latino
 http://31.220.41.111:80/LiveEdgeTesting/CineLatinoSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="22_c.png" group-title="Cine y Series",Multipremier
 http://31.220.41.111:80/LiveEdgeTesting/MultiPremierLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="31.png" group-title="Cine y Series",Sundance 
 http://31.220.41.111:80/LiveEdgeTesting/SundanceLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="ff.png" group-title="Cine",Film&amp;Arts
 http://31.220.41.111:80/LiveEdgeTesting/FilmArtsLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="eu.png" group-title="Cine",EuropaEuropa
 http://31.220.41.111:80/LiveEdgeTesting/EuropaEuropaLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="21.png",Warner 
 http://31.220.41.111:80/LiveEdgeTesting/WarnerLA/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="20.png",Sony
 http://31.220.41.111:80/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="15.png",Universal Channel
 http://31.220.41.111:80/LiveEdgeTesting/UniversalLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-id="id="E! Entertainment Television" tvg-logo="25.png",E! Entertainment Television
 http://31.220.41.111:80/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="29.png",BBC Entertainment
 http://31.220.41.111:80/LiveEdgeTesting/129/playlist.m3u8?token=
-
-
-
 #EXTINF:-1tvg-logo="8.png",TCM
 http://31.220.41.111:80/LiveEdgeTesting/TCMSD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="11.png",I.Sat
 http://31.220.41.111:80/LiveEdgeTesting/377/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="41.png",Space
 http://31.220.41.111:80/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="amc.png",AMC
 http://31.220.41.111:80/LiveEdgeTesting/AMCLASD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="81.png",The Film Zone 
@@ -620,121 +589,78 @@ http://31.220.41.111:80/LiveEdgeTesting/FilmZoneLASD/playlist.m3u8?token=
 http://31.220.41.111:80/LiveEdgeTesting/GoldenEdgeLA/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="fox.png",Fox
 http://31.220.41.111:80/LiveEdgeTesting/FOXHDLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="mf.png",Mundo Fox
 http://31.220.41.111:80/LiveEdgeTesting/MundoFoxSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="22.png",SyFy
 http://31.220.41.111:80/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="71.png",TNT
 http://31.220.41.111:80/LiveEdgeTesting/TNTAmericaLatinaHD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="27.png",FX
 http://31.220.41.111:80/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="9.png",AXN 
 http://31.220.41.111:80/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="30.png",Golden HD
 http://31.220.41.111:80/LiveEdgeTesting/GoldenMPLXLA/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="Logo_Univision_2013.svg.png",Univision
 http://31.220.41.111:80/LiveEdgeTesting/UnivisionEastUS/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="UNimas.png",Unimas
 http://31.220.41.111:80/LiveEdgeTesting/UniMasUS/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="tele.png",Telemundo
 http://31.220.41.111:80/LiveEdgeTesting/835-TMNDO/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="u.png",Unicable
 http://31.220.41.111:80/LiveEdgeTesting/UnicableLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="no.png",Tlnovelas
 http://31.220.41.111:80/LiveEdgeTesting/TlnovelasLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="g.png",Glitz
 http://31.220.41.111:80/LiveEdgeTesting/GlitzLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="32.png",Comedy Central
 http://31.220.41.111:80/LiveEdgeTesting/ComedyCentralLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="d.png",Distrito Comedia
 http://31.220.41.111:80/LiveEdgeTesting/DistritoComediaLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-id="id="A&amp;E" tvg-logo="ae.png",A&E
 http://31.220.41.111:80/LiveEdgeTesting/AELatinoamericaHD/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="naw.png",NatGeo Wild
-http://31.220.41.111:80/LiveEdgeTesting/NatGeoWildLAHD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="l.png",Lifetime
 http://31.220.41.111:80/LiveEdgeTesting/LifetimeLASD/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="a.png",Animal Planet
-http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="tlc.png",TLC
 http://31.220.41.111:80/LiveEdgeTesting/TLCLASD/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="12.png" group-title="Documental",WOBI TV
 http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
-
+#EXTINF:-1tvg-logo="naw.png",NatGeo Wild
+http://31.220.41.111:80/LiveEdgeTesting/NatGeoWildLAHD/playlist.m3u8?token=
+#EXTINF:-1tvg-logo="a.png",Animal Planet
+http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="10.png" group-title="Documental",NatGeo
 http://31.220.41.111:80/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="dis.png" group-title="Documental",Discovery Channel
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="theater-discovery-hd.png" group-title="Documental",HD Theater
+#EXTINF:-1tvg-logo="theater-discovery-hd.png" group-title="Documental",Discovery Theater HD 
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="id.png" group-title="Documental",Discovery Civilization
 http://31.220.41.111:80/LiveEdgeTesting/InvDiscoverySD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="world-discovery-hd.png" group-title="Documental",Discovery World
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
-
-
-
-
-#EXTINF:-1tvg-logo="hh.png" group-title="Documental",Home and Health
+#EXTINF:-1tvg-logo="hh.png" group-title="Documental",Discovery Home and Health
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="h.png" group-title="Documental",History Channel
 http://31.220.41.111:80/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="h2.png" group-title="Documental",H2
+#EXTINF:-1tvg-logo="h2.png" group-title="Documental",history Chanel2
 http://31.220.41.111:80/LiveEdgeTesting/H2LASD/playlist.m3u8?token=
-
-
-
 #EXTINF:-1tvg-logo="tru.png",TruTV 
 http://31.220.41.111:80/LiveEdgeTesting/TruTVSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="tnt-series.png" group-title="Cine y Series",Serie TNT
 http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="m.png",MTV
 http://31.220.41.111:80/LiveEdgeTesting/MTVLA/playlist.m3u8?token=
-
 #EXTINF:tvg-logo="life.png",Fox Life
 http://31.220.41.111:80/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="17.png",TBS
 http://31.220.41.111:80/LiveEdgeTesting/TBSLASD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="casa.png",Casa Club
 http://31.220.41.111:80/LiveEdgeTesting/CasaClubLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="gur.png",El Gourmet
 http://31.220.41.111:80/LiveEdgeTesting/ElgourmetLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="cha.png",Disney Channel 
 http://31.220.41.111:/LiveEdgeTesting/DisneyChannelNorteHD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="kis.png",Discovery Kids
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="jr.png",Disney Jr
@@ -749,75 +675,26 @@ http://31.220.41.111:80/LiveEdgeTesting/CartoonNetworkLASD/playlist.m3u8?token=
 http://31.220.41.111:80/LiveEdgeTesting/TooncastSD/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="ni.png",Nickelodeon (Nick)
 http://31.220.41.111:80/LiveEdgeTesting/NickelodeonLA/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="44.png",Nick HD off
-http://31.220.41.111:80/LiveEdgeTesting/213/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="njrpng.png",Nick Jr
 http://31.220.41.111:80/LiveEdgeTesting/NickJrLASD/playlist.m3u8?token=
-
-
-
-
 #EXTINF:-1,CBeebies
 http://31.220.41.111:80/LiveEdgeTesting/CbeebiesLA/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="bb.png",Baby tv
 http://31.220.41.111:80/LiveEdgeTesting/BabyTVLASD/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="nf.png",NFL Network
-http://31.220.41.111:80/LiveEdgeTesting/NFLNetworkUS/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="ur.png",Ufc Network
-http://31.220.41.111:80/LiveEdgeTesting/UFCNetworkLA/playlist.m3u8?token= 
-
-#EXTINF:-1tvg-logo="42.png",TDN
-http://31.220.41.111:80/LiveEdgeTesting/TDNMXLA/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="Univision_tdn.png",Tdn Univision
-http://31.220.41.111:80/LiveEdgeTesting/UnivisionTDNLA/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="e.png",ESPN
-http://31.220.41.111:80/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
-#EXTINF:-1tvg-logo="e2.png",ESPN 2
-http://31.220.41.111:80/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
-#EXTINF:-1tvg-logo="33.png",ESPN 3
-http://31.220.41.111:80/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="f.png",Fox Sports
-http://31.220.41.111:80/LiveEdgeTesting/FoxSportsLA/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="f2.png",Fox Sports 2
-http://31.220.41.111:80/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="70.png",Fox Sports 3
-http://31.220.41.111:80/LiveEdgeTesting/FoxSports3SD/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="uslogosprites.png",BeinSports
-http://31.220.41.111:80/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
-
 #EXTINF:-1,Regional music
 http://31.220.41.111/LiveEdgeTesting/RegionalMusicLA/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="ban.png",Bandamax
 http://31.220.41.111:80/LiveEdgeTesting/BandamaxLA/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="rit.png",Ritmoson Latino
 http://31.220.41.111:80/LiveEdgeTesting/RitmosonLA/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="54.png",Telehit HD
 http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
-
 #EXTINF:-1tvg-logo="http://tvlatina.com.mx/images/exa_tv.png",Exa tv
 http://201.161.59.5/exatv.isml/manifest(format=m3u8-aapl).m3u8
-
 #EXTINF:-1tvg-logo="Ultra_Fiesta_White1.png",Ultra Fiesta
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
-
-
 #EXTINF:-1tvg-logo="mt.png",MTV Hits
 http://31.220.41.111:80/LiveEdgeTesting/MTVHitsLA/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="mtv_rocks.png_680260285.png",Mtv rocks
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?version=1
 #EXTINF:-1tvg-logo="http://tvlevel.com/images/music/mtv_dance.png",Mtv dance
@@ -828,14 +705,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
 #EXTINF:-1tvg-logo="56.png",Vh1
 http://31.220.41.111:80/LiveEdgeTesting/VH1LatinoSD/playlist.m3u8?token=
-
 #EXTINF:-1tvg-logo="tgg.png",TVE
 http://31.220.41.111:80/LiveEdgeTesting/TVELASD/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="tvc.png"Tv chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1tvg-logo="aa.png",Antena 3
@@ -849,29 +722,10 @@ http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m
 
 #EXTINF:-1tvg-logo="milenio.png",Milenio TV
 http://201.161.59.5/milenio.isml/manifest(format=m3u8-aapl).m3u8
-
 #EXTINF:tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/36.png",Bloomberg
 http://31.220.41.111:80/LiveEdgeTesting/462/playlist.m3u8?token=
-
-
 #EXTINF:-1tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/24.png",Multimedios hd
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzgmbGFuPTImcm93cz0yMCZzZXNzaW9uPXUzaTI1bTB4dno3cjZiNSZsYW49Mg==&f=.m3u8
-
-
-#EXTINF:-1tvg-logo="http://cdn.elcomercio.e3.pe/f/i/logo_tvmas_m.png"Tv mas
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1tvg-logo="24.png",C7 Jalisco
-http://74.63.97.188:1935/c7/videoc7/playlist.m3u8?DVR
-#EXTINF:-1tvg-logo="tf.png",TeleFÃ³rmula
-http://31.220.41.111:80/LiveEdgeTesting/89/playlist.m3u8?token=
-#EXTINF:-1tvg-logo="ma.png",Maria Vision
-rtsp://74.63.97.188:1935/mariavision1/videomariavision1/
-
-#EXTINF:-1tvg-logo="uno-mas-uno.png",Unomasuno
-http://31.220.41.111:80/LiveEdgeTesting/497/playlist.m3u8?token=
-
-
-
 #EXTINF:-1tvg-logo="222.png",Canal 2
 http://31.220.41.111:80/LiveEdgeTesting/41/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="f4.png",Canal 4 HD
@@ -885,16 +739,3 @@ http://31.220.41.111:80/LiveEdgeTesting/57/playlist.m3u8?token=
 #EXTINF:-1tvg-logo="c11.png",Once TV
 http://31.220.41.111:80/LiveEdgeTesting/61/playlist.m3u8?token=
 
-#EXTINF:-1tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/19.png",Canal 13 HD
-http://31.220.41.111:80/LiveEdgeTesting/65/playlist.m3u8?token=
-
-#EXTINF:-1tvg-logo="c23.png",Cadena 3
-http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8 
-#EXTINF:tvg-logo="m32.png",Mexiquense
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1tvg-logo="c40.png",Proyecto 40
-http://31.220.41.111:80/LiveEdgeTesting/69/playlist.m3u8?token=
-#EXTINF:tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/68.png",Azteca noticias
-http://200.76.77.230/LIVE/H01/CANAL2/PROFILE03.m3u8?
-#EXTINF:tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/67.png",Azteca Corazon
-http://200.76.77.230/LIVE/H01/CANAL250/PROFILE03.m3u8?
