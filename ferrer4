@@ -145,7 +145,7 @@ http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8?
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1,Antena Latina Canal 7 T-K
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Telemundo T-K
+#EXTINF:-1,Unimas Telemundo T-K
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,ONCE TV T-K
 http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
@@ -157,12 +157,8 @@ http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 #EXTINF:-1,AZTECA NOTICIAS
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,INFO 7 NL T-K
+#EXTINF:-1,AZTECA 7 INFO 7 NL T-K
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,CNN ESPAÑOL T-K
-http://31.220.41.111/LiveEdgeTesting/_definst_/CNNLASD/playlist.m3u8?token=
-#EXTINF:-1,EFEKTO TV NOTICIAS T-K
-http://31.220.40.121/LiveEdgeTesting/EfektoTVLA/playlist.m3u8?token=
 #EXTINF:-1,Telemar Mexico T-K
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
 #EXTINF:-1,CB Televisión Michoacán T-K
@@ -183,15 +179,13 @@ http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
 #EXTINF:-1,TV Independencia Hidalgo México T-K
 http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
-#EXTINF:-1,Trecevisión Yucatan T-K
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
-#EXTINF:-1,Antena3 T-K
+#EXTINF:-1,Antena 3 T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
 #EXTINF:-1 $ExtFilter="españa",la sexta T-K
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,LATINA PERU T-K
 http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,PANAMERICANA T-K
+#EXTINF:-1,ESPN + PANAMERICANA T-K
 http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Azteca 7 T-K
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
@@ -199,22 +193,16 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1,PROYECTO 40 T-K
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,History T-K
+#EXTINF:-1,History *** T-K
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Discovery Channel Español (USA) T-K
+#EXTINF:-1,Discovery Channel ***Español T-K
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,FOX SD T-K
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Canal+DEPORTES T-K
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5468.m3u8
-#EXTINF:1,Canal+ Liga T-K
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5457.m3u8
 #EXTINF:-1,CMD PERU T-K
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,GOLTV SUR T-K
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Winsport COLOMBIA T-K
-http://futbol.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1,Motors TV T-K
 http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
 #EXTINF:-1,CDN-SportsMax T-K
