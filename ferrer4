@@ -2,17 +2,8 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
-
-
-
-#EXTINF:-1 group-title="DEPORTES",tdn web
-http://tv.televall.com.mx/tdn.php?width=600&amp;height=400
-#EXTINF:-1 group-title="DEPORTES",tdn web html
-http://televisiondiv.ucoz.com/tdn.html
-#EXTINF:-1 group-title="DEPORTES",tdn web full
-
-http://tv.televall.com.mx/tdn.php?width=600&amp;height=400" scrolling="no" allowtransparency="true" id="Televall" width="600" frameborder="0" height="400"
-
+#EXTINF:-1 group-title="DEPORTES",TDN EMBED
+http://tv.televallhd.com/embed.js
 #EXTINF:-1 group-title="DEPORTES",Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
