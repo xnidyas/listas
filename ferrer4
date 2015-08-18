@@ -369,75 +369,40 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 #EXTINF:-1,TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,DRAGON BALL Z T-K
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,Anime en Español
+http://q.gs/9830047/animeespaoltodokodim3u8
 
-************************
 #EXTM3U tvg-shift=3
 
-#EXTINF:-1,ESTA LISTA ES CREACION DE https://www.facebook.com/groups/TODOKODI/   CON COLABORACION DE MIKESTAR
- 
-#EXTINF:-1,DONACIONES PAYPAL-ALEJO1821@HOTMAIL.COM
-http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1,RCN Televisión de Colombia T-K
-http://q.gs/9830047/todokodim3u8
-#EXTINF:-1,Caracol T-K
-http://q.gs/9830047/caracoltodokodim3u8
-#EXTINF:-1,Telecafe T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1,TELEANTIOQUIA HD T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1,Telemedellin T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1,CosmoVision T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1,CANAL U T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1,TV AGRO T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1,Cable Noticias T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1,El Tiempo T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1,UNE TV Manizales T-K
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1,UNE TV CARIBE T-K
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1,UNE TV ARMENIA T-K
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1,TELE VIDA T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1,TRENDY MUSICA T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1,CANAL ANTIESTREST-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1,CANTINAZO T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1,LIFEDESING T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1,MIMUSICA HD T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1,TELE AMIGA T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
-#EXTINF:-1,TIGO MUSIC T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-
-#EXTINF:-1,CANAL ONCE URUGUAY T-K
-http://q.gs/9830047/onceuuruguaytodokodim3u8
-#EXTINF:-1,TV PUBLICA T-K
-http://q.gs/9830047/tvpublicaytodokodim3u8
+#EXTINF:-1,xxxxxxxxxxxxxxxxxxxxxxxxxx todo kodi xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 #EXTINF:-1,EL TRECE HD T-K
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 #EXTINF:-1,CANAL 13 T-K
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 #EXTINF:-1,WAPA - Puerto Rico
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+#EXTINF:-1,ATV + T-K
+rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
+#EXTINF:-1,**GOLDEN EDGE T-K 201.161.59.7
+http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,**GOLDEN EDGE T-K 201.161.59.3 adivinndo
+http://201.161.59.3/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 
+
+#EXTINF:-1,RCN Televisión de Colombia T-K
+http://q.gs/9830047/todokodim3u8
+#EXTINF:-1,Caracol T-K
+http://q.gs/9830047/caracoltodokodim3u8
+#EXTINF:-1,CANAL ONCE URUGUAY T-K
+http://q.gs/9830047/onceuuruguaytodokodim3u8
+#EXTINF:-1,TV PUBLICA T-K
+http://q.gs/9830047/tvpublicaytodokodim3u8
 #EXTINF:-1,OCHO TV T-K
 http://q.gs/9830047/ochotvtodokodim3u8
 #EXTINF:-1,tve T-K
 http://q.gs/9830047/tveestodokodim3u8
-#EXTINF:-1,Tve 24h HD T-K
-
 #EXTINF:-1,TeleSuR T-K
 http://q.gs/9830047/telesurtodokodim3u8
 #EXTINF:-1,Foro TV T-K
@@ -470,34 +435,6 @@ http://q.gs/9830047/teleformulatodokodim3u8
 http://q.gs/9830047/aztecanoticiastodokodim3u8
 #EXTINF:-1,INFO 7 NL T-K
 http://q.gs/9830047/info7todokodim3u8
-#EXTINF:-1,CNN ESPAÑOL T-K
-
-#EXTINF:-1,EFEKTO TV NOTICIAS T-K
-
-#EXTINF:-1,Telemar Mexico T-K
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
-#EXTINF:-1,CB Televisión Michoacán T-K
-http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
-#EXTINF:-1,Telemax Mexico T-K
-http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1,Trecevisión Yucatan T-K
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
-#EXTINF:-1,TDT Tlaxcala T-K
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
-#EXTINF:-1,Quince TV Zacatecas México T-K
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
-#EXTINF:-1,KW TV México T-K
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-#EXTINF:-1,TV 4 Guanajuato T-K
-http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,CORtv Oaxaca México T-K
-http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
-#EXTINF:-1,TV Independencia Hidalgo México T-K
-http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
-#EXTINF:-1,Trecevisión Yucatan T-K
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
-#EXTINF:-1,Antena3 T-K
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
 #EXTINF:-1 $ExtFilter="españa",la sexta T-K
 http://q.gs/9830047/lasextatodokodim3u8
 #EXTINF:-1,LATINA PERU T-K
@@ -508,9 +445,6 @@ http://q.gs/9830047/panamericanatodokodim3u8
 http://q.gs/9830047/rbctodokodim3u8
 #EXTINF:-1,ATV T-K
 http://q.gs/9830047/atvtodokodim3u8
- 
-#EXTINF:-1,ATV + T-K
-rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
 #EXTINF:-1,Canal Musica Peru T-K
 http://q.gs/9830047/musicatodokodim3u8
 #EXTINF:-1,MEGA T-K
@@ -608,7 +542,6 @@ http://q.gs/9830047/tlnovelastodokodim3u8
 http://q.gs/9830047/distritocomediatodokodim3u8
 #EXTINF:-1,COMEDY CENTRAL T-K
 http://q.gs/9830047/comedycentraltodokodim3u8
-
 #EXTINF:-1,ISAT T-K
 http://q.gs/9830047/isattodokodim3u8
 #EXTINF:-1,AMC T-K
@@ -628,13 +561,6 @@ http://q.gs/9830047/tntseriestodokodim3u8
 http://q.gs/9830047/glitztodokodim3u8
 #EXTINF:-1,TRU TV T-K
 http://q.gs/9830047/trutvtodokodim3u8
-#EXTINF:-1,TBS T-K
-
-#EXTINF:-1,DRAGON BALL Z T-K
-rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-#EXTINF:-1,Anime en Español
-http://q.gs/9830047/animeespaoltodokodim3u8
-
 #EXTINF:-1,Tiin T-K
 http://q.gs/9830047/tiintodokodim3u8
 #EXTINF:-1,DYSNEY XD
@@ -693,11 +619,11 @@ http://q.gs/9830047/espntodokodim3u8
 http://q.gs/9830047/espn2todokodim3u8
 #EXTINF:-1,ESPN 3 T-K
 http://q.gs/9830047/espn3todokodim3u8
-#EXTINF:-1,FOXSPORT T-K
+#EXTINF:-1,FOXSPORT ok!!!
 http://q.gs/9830047/foxsporttodokodim3u8
 #EXTINF:-1,Fox Sports SUR T-K
 http://q.gs/9830047/foxsportsurtodokodim3u8
-#EXTINF:-1,FOXSPORT 2 T-K
+#EXTINF:-1,FOXSPORT 2 noooo T-K
 http://q.gs/9830047/foxsport2todokodim3u8
 #EXTINF:-1,UFC 1 T-K
 http://q.gs/9830047/ufctodokodim3u8
@@ -709,8 +635,6 @@ http://q.gs/9830047/studiodokodim3u8
 http://q.gs/9830047/goldentodokodim3u8
 #EXTINF:-1,THE FILM ZONE T-K
 http://q.gs/9830047/thefilmzonedokodim3u8
-#EXTINF:-1,GOLDEN EDGE T-K
-http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,TCM T-K
 http://q.gs/9830047/tcmtodokodim3u8
 #EXTINF:-1,MULTICINEMA T-K
@@ -774,7 +698,5 @@ http://q.gs/9830047/vevo2todokodim3u8
 http://q.gs/9830047/vevo3todokodim3u8
 #EXTINF:-1,Q Musica T-K
 mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,REGIONAL MUSIC MEXICO T-K
-
 #EXTINF:-1,RITMOSON LATINO T-k
 http://q.gs/9830047/ritmosontodokodim3u8
