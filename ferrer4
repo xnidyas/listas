@@ -82,10 +82,9 @@ http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Channel ***Español T-K
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, [COLOR red] xxxxxxxx--201.161.59.6 islm format m3u8 aaplxxxxxxx- 
+http://0.0.0.0
 #EXTINF:-1,FOX SD T-K
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-**
-#EXTINF:-1,FOX
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,FX
 http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
@@ -157,13 +156,11 @@ http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
 http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,TELEHIT
 http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Tdn de web ****************
-https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Ftv-envivo.net#rpctoken=1663597302&amp;forcesecure=1" id="oauth2relay733697338" name="oauth2relay733697338
+
 #EXTM3U
 #EXTM3U tvg-shift=3
-
-#EXTINF:-1, [COLOR green] --XXXXXXXXXXXXX TODO KODI XXXXXXXXXXXX-
- 
+#EXTINF:-1, [COLOR red] xxxxxxxx--TODO KODI hlslive.lcdnxxxxxxx- 
+http://0.0.0.0
 #EXTINF:-1,RCN Televisión de Colombia T-K
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 #EXTINF:-1,Caracol T-K
@@ -320,7 +317,6 @@ http://media3.crtvg.es/live/tvga/sota.m3u8
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
 #EXTINF:-1tvg-logo="tv.png"Tv5 monde
 http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
-
 #EXTINF:-1,ideman depotes
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-1,CANAL ANTIESTRES HLSLIVE
@@ -363,8 +359,8 @@ rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playert
 http://q.gs/9830047/animeespaoltodokodim3u8
 
 #EXTM3U tvg-shift=3
+#EXTINF:-1, [COLOR red] xxxxxxxx--TODO KODI q.gs/9830047/todokodim3u8 xxxxxxx- 
 
-#EXTINF:-1,xxxxxxxxxxxxxxxxxxxxxxxxxx todo kodi xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
 #EXTINF:-1,EL TRECE HD T-K
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 #EXTINF:-1,CANAL 13 T-K
@@ -378,313 +374,230 @@ http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,**GOLDEN EDGE T-K 201.161.59.3 adivinndo
 http://201.161.59.3/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1, [COLOR red] xxxxxxxx--rosadintvxxxxxxx- 
 
-#EXTINF:-1,RCN Televisión de Colombia T-K
-http://q.gs/9830047/todokodim3u8
-#EXTINF:-1,Caracol T-K
-http://q.gs/9830047/caracoltodokodim3u8
-#EXTINF:-1,CANAL ONCE URUGUAY T-K
-http://q.gs/9830047/onceuuruguaytodokodim3u8
-#EXTINF:-1,TV PUBLICA T-K
-http://q.gs/9830047/tvpublicaytodokodim3u8
-#EXTINF:-1,OCHO TV T-K
-http://q.gs/9830047/ochotvtodokodim3u8
-#EXTINF:-1,tve T-K
-http://q.gs/9830047/tveestodokodim3u8
-#EXTINF:-1,TeleSuR T-K
-http://q.gs/9830047/telesurtodokodim3u8
-#EXTINF:-1,Foro TV T-K
-http://q.gs/9830047/forotvtodokodim3u8
-#EXTINF:-1,Canal De Las Estrellas T-K
-http://q.gs/9830047/canalestrellastodokodim3u8
-#EXTINF:-1,Canal 7 T-K
-http://q.gs/9830047/canal7todokodim3u8
-#EXTINF:-1,Unimas T-K
-http://q.gs/9830047/unimastodokodim3u8
-#EXTINF:-1,Unicable T-K
-http://q.gs/9830047/unicabletodokodim3u8
-#EXTINF:-1,TELEMUNDO INTERNACIONAL T-K
-
-#EXTINF:-1,Telemundo T-K
-http://q.gs/9830047/telemundotodokodim3u8
-#EXTINF:-1,TEVEO MIAMI
-http://q.gs/9830047/tveomiamitodokodim3u8
-#EXTINF:-1,ONCE TV T-K
-http://q.gs/9830047/oncetvtodokodim3u8
-#EXTINF:-1,CADENA 3 T-K
-http://q.gs/9830047/cadena3todokodim3u8
-#EXTINF:-1,52 MX T-K
-http://q.gs/9830047/52mxtodokodim3u8
-#EXTINF:-1,MULTIMEDIOS TV T-K
-http://q.gs/9830047/multimediosplustodokodim3u8
-#EXTINF:-1,TeleFórmula T-K
-http://q.gs/9830047/teleformulatodokodim3u8
-#EXTINF:-1,AZTECA NOTICIAS
-http://q.gs/9830047/aztecanoticiastodokodim3u8
-#EXTINF:-1,INFO 7 NL T-K
-http://q.gs/9830047/info7todokodim3u8
-#EXTINF:-1 $ExtFilter="españa",la sexta T-K
-http://q.gs/9830047/lasextatodokodim3u8
-#EXTINF:-1,LATINA PERU T-K
-http://q.gs/9830047/latinatodokodim3u8
-#EXTINF:-1,PANAMERICANA T-K
-http://q.gs/9830047/panamericanatodokodim3u8
-#EXTINF:-1,RBC PERU T-K
-http://q.gs/9830047/rbctodokodim3u8
-#EXTINF:-1,ATV T-K
-http://q.gs/9830047/atvtodokodim3u8
-#EXTINF:-1,Canal Musica Peru T-K
-http://q.gs/9830047/musicatodokodim3u8
-#EXTINF:-1,MEGA T-K
-http://q.gs/9830047/megatvtodokodim3u8
-#EXTINF:-1,REDHD T-K
-http://q.gs/9830047/redhdtodokodim3u8
-#EXTINF:-1,TVNHD T-K
-http://q.gs/9830047/tvnhdtodokodim3u8
-#EXTINF:-1,CHVHD T-K
-http://q.gs/9830047/chvhdtodokodim3u8
-#EXTINF:-1,Canal 13 HD T-K
-http://q.gs/9830047/canal13hdtodokodim3u8
-#EXTINF:-1,UNO MAS UNO TV
-http://q.gs/9830047/unomasunotvtodokodim3u8
-#EXTINF:-1,TV MAS T-K
-http://38.104.228.230:1938/info7/info7_512/chunklist_w521409461.m3u8
-#EXTINF:-1,Canal 5  TK
-http://q.gs/9830047/canal5todokodim3u8
-#EXTINF:-1,Canal 5  TK
-http://q.gs/9830047/canal5tvtodokodim3u8
-#EXTINF:-1,MILENIO TV T-K
-http://q.gs/9830047/mileniotvtodokodim3u8
-#EXTINF:-1,Azteca 7 T-K
-http://q.gs/9830047/azteca7todokodim3u8
-#EXTINF:-1,Azteca 7 T-K
-http://q.gs/9830047/azteca7tvtodokodim3u8
-#EXTINF:-1,Gala tv T-K
-http://q.gs/9830047/galatvtodokodim3u8
-#EXTINF:-1,AZTECA 13 T-K
-http://q.gs/9830047/azteca13todokodim3u8
-#EXTINF:-1,PROYECTO 40 T-K
-http://q.gs/9830047/proyecto40todokodim3u8
-#EXTINF:-1,Natgeo T-K
-http://q.gs/9830047/natgeotodokodim3u8
-#EXTINF:-1,Natgeo T-K
-http://q.gs/9830047/natgeoctodokodim3u8
-#EXTINF:-1,Natgeo Wild T-K
-http://q.gs/9830047/natgeowildtodokodim3u8
-#EXTINF:-1,Animal Planet T-K
-http://q.gs/9830047/animalplanetdokodim3u8
-#EXTINF:-1,El gourmet T-K
-http://q.gs/9830047/elgourmettodokodim3u8
-#EXTINF:-1,LIFE TIME TK
-http://q.gs/9830047/lifetimetodokodim3u8
-#EXTINF:-1,History T-K
-http://q.gs/9830047/historytodokodim3u8
-#EXTINF:-1,History T-K
-http://q.gs/9830047/historytvtodokodim3u8
-#EXTINF:-1,History T-K
-http://q.gs/9830047/historyhdtodokodim3u8
-#EXTINF:-1,Discovery T-K
-http://q.gs/9830047/discoverytodokodim3u8
-#EXTINF:-1,Discovery Channel Español (USA) T-K
-http://q.gs/9830047/discoveryestodokodim3u8
-#EXTINF:-1,DISCOVERY WORLD T-K
-http://q.gs/9830047/discoveryworldtodokodim3u8
-#EXTINF:-1,Discovery Theather T-K
-http://q.gs/9830047/discoverytheathertodokodim3u8
-#EXTINF:-1,Discovery Civilization T-K
-http://q.gs/9830047/discoverycivilizationtodokodim3u8
-#EXTINF:-1,Discovery Science T-K
-http://q.gs/9830047/discoverysciencetodokodim3u8
-#EXTINF:-1,discovery turbo T-K
-http://q.gs/9830047/discoveryturbotodokodim3u8
-#EXTINF:-1,DISCOVERY H&H T-K
-http://q.gs/9830047/discoveryhhtodokodim3u8
-#EXTINF:-1,DISCOVERY ID T-K
-http://q.gs/9830047/discoveryidtodokodim3u8
-#EXTINF:-1,WOBI T-K
-http://q.gs/9830047/wobitodokodim3u8
-#EXTINF:-1,DISCOVERY WORLD T-K
-#EXTINF:-1,FOX HD T-K
-http://q.gs/9830047/foxhdtodokodim3u8
-#EXTINF:-1,FOX SD T-K
-http://q.gs/9830047/foxtodokodim3u8
-#EXTINF:-1,Universal T-K
-http://q.gs/9830047/universalctodokodim3u8
-#EXTINF:-1,Sony T-K
-http://q.gs/9830047/sonytodokodim3u8
-#EXTINF:-1,TNT T-K
-http://q.gs/9830047/tnttodokodim3u8
-#EXTINF:-1,Warner T-K
-http://q.gs/9830047/warnertodokodim3u8
-#EXTINF:-1,AXN T-K
-http://q.gs/9830047/axnhdtodokodim3u8
-#EXTINF:-1,E! T-K
-http://q.gs/9830047/etodokodim3u8
-#EXTINF:-1,FX T-K
-http://q.gs/9830047/fxtodokodim3u8
-#EXTINF:-1,UNICABLE T-K
-http://q.gs/9830047/unicabletodokodim3u8
-#EXTINF:-1,TLNOVELAS T-K
-http://q.gs/9830047/tlnovelastodokodim3u8
-#EXTINF:-1,DISTRITO COMEDIA T-K
-http://q.gs/9830047/distritocomediatodokodim3u8
-#EXTINF:-1,COMEDY CENTRAL T-K
-http://q.gs/9830047/comedycentraltodokodim3u8
-#EXTINF:-1,ISAT T-K
-http://q.gs/9830047/isattodokodim3u8
-#EXTINF:-1,AMC T-K
-http://q.gs/9830047/amctodokodim3u8
-#EXTINF:-1,SYFY T-K
-http://q.gs/9830047/syfytodokodim3u8
-#EXTINF:-1,MUNDO FOX T-K
-#EXTINF:-1,BBC Entertainment T-K
-http://q.gs/9830047/bbctodokodim3u8
-#EXTINF:-1,FOX LIFE T-K
-http://q.gs/9830047/foxlifetodokodim3u8
-#EXTINF:-1,Casa Club TK
-http://q.gs/9830047/casaclubdokodim3u8
-#EXTINF:-1,TNT SERIES T-K
-http://q.gs/9830047/tntseriestodokodim3u8
-#EXTINF:-1,GLITZ T-K
-http://q.gs/9830047/glitztodokodim3u8
-#EXTINF:-1,TRU TV T-K
-http://q.gs/9830047/trutvtodokodim3u8
-#EXTINF:-1,Tiin T-K
-http://q.gs/9830047/tiintodokodim3u8
-#EXTINF:-1,DYSNEY XD
-http://q.gs/9830047/disneyxdtodokodim3u8
-#EXTINF:-1,DYSNEY XD
-http://q.gs/9830047/disneyxdcdokodim3u8
-#EXTINF:-1,Disney Channel (SUR) T-K
-http://q.gs/9830047/dysneytodokodim3u8
-#EXTINF:-1,DYSNEY (NORTE)T-K
-http://q.gs/9830047/disneycdokodim3u8
-#EXTINF:-1,CARTOON NETWORK T-K
-http://q.gs/9830047/cartoonnetworktodokodim3u8
-#EXTINF:-1,CARTOON NETWORK T-K
-http://q.gs/9830047/cartoondokodim3u8
-#EXTINF:-1,NICK(SUR) T-K
-http://q.gs/9830047/nickelodeontodokodim3u8
-#EXTINF:-1,Nick HD T-K
-http://q.gs/9830047/nickhddokodim3u8
-#EXTINF:-1,Nick toons T-K
-http://q.gs/9830047/nicktoonsdokodim3u8
-#EXTINF:-1,DISCOVERY KIDS T-K
-http://q.gs/9830047/discoverykidsdokodim3u8
-#EXTINF:-1,BOOMERANG T-K
-http://q.gs/9830047/boomerangdokodim3u8
-#EXTINF:-1,DISNEY JR T-K
-http://q.gs/9830047/disneyjrdokodim3u8
-#EXTINF:-1,NICK JR T-K
-http://q.gs/9830047/nickjrdokodim3u8
-#EXTINF:-1,CBEEBIES T-K
-http://q.gs/9830047/cbeebiesdokodim3u8
-#EXTINF:-1,TOONCAST T-K
-http://q.gs/9830047/tooncastdokodim3u8
-#EXTINF:-1,CMD PERU T-K
-http://q.gs/9830047/cmdtodokodim3u8
-#EXTINF:-1,GOLTV SUR T-K
-http://q.gs/9830047/goltvsurtodokodim3u8
-#EXTINF:-1,Winsport COLOMBIA T-K
-http://q.gs/9830047/wintodokodim3u8
-#EXTINF:-1,Motors TV T-K
-http://q.gs/9830047/motorstvtodokodim3u8
-#EXTINF:-1,CDN-SportsMax T-K
-http://q.gs/9830047/cdntodokodim3u8
-#EXTINF:-1,Real Madrid TV T-K
-http://q.gs/9830047/realmedridtvtodokodim3u8
-#EXTINF:-1,SEVILLAFC T-K
-http://q.gs/9830047/sevillafctodokodim3u8
-#EXTINF:-1,HMX T-K
-http://q.gs/9830047/hmxtodokodim3u8
-#EXTINF:-1,El Garaje T-K
-http://q.gs/9830047/elgarajetodokodim3u8
-#EXTINF:-1,AYM T-K
-http://q.gs/9830047/aymtodokodim3u8
-#EXTINF:-1,ESPN T-K
-http://q.gs/9830047/espntodokodim3u8
-#EXTINF:-1,ESPN 2 T-K
-http://q.gs/9830047/espn2todokodim3u8
-#EXTINF:-1,ESPN 3 T-K
-http://q.gs/9830047/espn3todokodim3u8
-#EXTINF:-1,FOXSPORT ok!!!
-http://q.gs/9830047/foxsporttodokodim3u8
-#EXTINF:-1,Fox Sports SUR T-K
-http://q.gs/9830047/foxsportsurtodokodim3u8
-#EXTINF:-1,FOXSPORT 2 noooo T-K
-http://q.gs/9830047/foxsport2todokodim3u8
-#EXTINF:-1,UFC 1 T-K
-http://q.gs/9830047/ufctodokodim3u8
-#EXTINF:-1,TYC SPORT T-K
-http://q.gs/9830047/tyctodokodim3u8
-#EXTINF:-1,STUDIO UNIVERSAL T-K
-http://q.gs/9830047/studiodokodim3u8
-#EXTINF:-1,GOLDEN HD T-K
-http://q.gs/9830047/goldentodokodim3u8
-#EXTINF:-1,THE FILM ZONE T-K
-http://q.gs/9830047/thefilmzonedokodim3u8
-#EXTINF:-1,TCM T-K
-http://q.gs/9830047/tcmtodokodim3u8
-#EXTINF:-1,MULTICINEMA T-K
-http://q.gs/9830047/multicinematodokodim3u8
-#EXTINF:-1,DPELICULA T-K
-http://q.gs/9830047/dpeliculatodokodim3u8
-#EXTINF:-1,Ultra Cine HD  T-K
-http://q.gs/9830047/ultracinetodokodim3u8
-#EXTINF:-1,Ultra Cine T-K
-http://q.gs/9830047/ultracinehdtodokodim3u8
-#EXTINF:-1,CINELATINO T-K
-http://q.gs/9830047/cinelatinotodokodim3u8
-#EXTINF:-1,SPACE T-K
-http://q.gs/9830047/spacetodokodim3u8
-#EXTINF:-1,CINECANAL T-K
-http://q.gs/9830047/cinecanaltodokodim3u8
-#EXTINF:-1,CINECANAL HD T-K
-http://q.gs/9830047/cinecanalhdtodokodim3u8
-#EXTINF:-1,CINEMAX T-K
-http://q.gs/9830047/cinemaxtodokodim3u8
-#EXTINF:-1,DHE T-K
-http://q.gs/9830047/dhetodokodim3u8
-#EXTINF:-1,PARAMOUNT CHANNEL T-K
-http://q.gs/9830047/paramounttodokodim3u8
-#EXTINF:-1,FOX 1 ESTE T-K
-http://q.gs/9830047/fox1ctodokodim3u8
-#EXTINF:-1,FOX ACTION T-K
-http://q.gs/9830047/foxactiontodokodim3u8
-#EXTINF:-1,FOX MOVIES T-K
-http://q.gs/9830047/foxmoviestodokodim3u8
-#EXTINF:-1,FOX FAMILY T-K
-http://q.gs/9830047/foxfamilytodokodim3u8
-#EXTINF:-1,FOX CLASSICS T-K
-http://q.gs/9830047/foxclassictodokodim3u8
-#EXTINF:-1,FOX CINEMA T-K
-http://q.gs/9830047/foxcinematodokodim3u8
-#EXTINF:-1,MTV LIVE T-K
-http://q.gs/9830047/mtvlivetodokodim3u8
-#EXTINF:-1,MTV T-K
-http://q.gs/9830047/mtvtodokodim3u8
-#EXTINF:-1,MTV HITS T-K
-http://q.gs/9830047/mtvhitstodokodim3u8
-#EXTINF:-1,MTV ROCKS T-K
-http://q.gs/9830047/mtvrocktodokodim3u8
-#EXTINF:-1,VH1 T-K
-http://q.gs/9830047/vh1todokodim3u8
-#EXTINF:-1,VH1 CLASSICS EUROPA T-K
-#EXTINF:-1,TELEHIT T-K
-http://q.gs/9830047/telehittodokodim3u8
-#EXTINF:-1,Kiss tv T-K
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,BANDAMAX T-K
-http://q.gs/9830047/bandamaxtodokodim3u8
-#EXTINF:-1,A-ONE T-K
-http://q.gs/9830047/aonetodokodim3u8
-#EXTINF:-1,VEVO MUSIC T-K
-http://q.gs/9830047/vevo1todokodim3u8
-#EXTINF:-1,VEVO MUSIC T-K
-http://q.gs/9830047/vevo2todokodim3u8
-#EXTINF:-1,VEVO MUSIC T-K
-http://q.gs/9830047/vevo3todokodim3u8
-#EXTINF:-1,Q Musica T-K
-mms://200.42.92.6:1755/qmusica
-#EXTINF:-1,RITMOSON LATINO T-k
-http://q.gs/9830047/ritmosontodokodim3u8
+#EXTM3U
+#EXTINF:-1,FOX
+http://rtvsource.16mb.com/TP.php?ID=85&PROFILE=03&F=.m3u8
+#EXTINF:-1,SONY
+http://rtvsource.16mb.com/TP.php?ID=89&PROFILE=03&F=.m3u8
+#EXTINF:-1,WARNER B
+http://rtvsource.16mb.com/TP.php?ID=93&PROFILE=03&F=.m3u8
+#EXTINF:-1,UNIVERSAL
+http://rtvsource.16mb.com/TP.php?ID=97&PROFILE=03&F=.m3u8
+#EXTINF:-1,FX
+http://rtvsource.16mb.com/TP.php?ID=101&PROFILE=03&F=.m3u8
+#EXTINF:-1,A AND E
+http://rtvsource.16mb.com/TP.php?ID=105&PROFILE=03&F=.m3u8
+#EXTINF:-1,AXN
+http://rtvsource.16mb.com/TP.php?ID=109&PROFILE=03&F=.m3u8
+#EXTINF:-1,TRUTV
+http://rtvsource.16mb.com/TP.php?ID=113&PROFILE=03&F=.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://rtvsource.16mb.com/TP.php?ID=117&PROFILE=03&F=.m3u8
+#EXTINF:-1,UNICABLE
+http://rtvsource.16mb.com/TP.php?ID=121&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX M
+http://rtvsource.16mb.com/TP.php?ID=125&PROFILE=03&F=.m3u8
+#EXTINF:-1,BBC
+http://rtvsource.16mb.com/TP.php?ID=129&PROFILE=03&F=.m3u8
+#EXTINF:-1,E!
+http://rtvsource.16mb.com/TP.php?ID=133&PROFILE=03&F=.m3u8
+#EXTINF:-1,UNIVERSAL M
+http://rtvsource.16mb.com/TP.php?ID=137&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX LIFE
+http://rtvsource.16mb.com/TP.php?ID=139&PROFILE=03&F=.m3u8
+#EXTINF:-1,SYFY
+http://rtvsource.16mb.com/TP.php?ID=141&PROFILE=03&F=.m3u8
+#EXTINF:-1,FX M
+http://rtvsource.16mb.com/TP.php?ID=145&PROFILE=03&F=.m3u8
+#EXTINF:-1,ID
+http://rtvsource.16mb.com/TP.php?ID=153&PROFILE=03&F=.m3u8
+#EXTINF:-1,TNT SERIES
+http://rtvsource.16mb.com/TP.php?ID=157&PROFILE=03&F=.m3u8
+#EXTINF:-1,GOURMET
+http://rtvsource.16mb.com/TP.php?ID=161&PROFILE=03&F=.m3u8
+#EXTINF:-1,GLITZ
+http://rtvsource.16mb.com/TP.php?ID=165&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://rtvsource.16mb.com/TP.php?ID=173&PROFILE=03&F=.m3u8
+#EXTINF:-1,TBS
+http://rtvsource.16mb.com/TP.php?ID=177&PROFILE=03&F=.m3u8
+#EXTINF:-1,CASA
+http://rtvsource.16mb.com/TP.php?ID=181&PROFILE=03&F=.m3u8
+#EXTINF:-1,TELENOVELAS
+http://rtvsource.16mb.com/TP.php?ID=185&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://rtvsource.16mb.com/TP.php?ID=193&PROFILE=03&F=.m3u8
+#EXTINF:-1,CBEEBIES
+http://rtvsource.16mb.com/TP.php?ID=197&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISNEY JR
+http://rtvsource.16mb.com/TP.php?ID=201&PROFILE=03&F=.m3u8
+#EXTINF:-1,NICK JR
+http://rtvsource.16mb.com/TP.php?ID=205&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://rtvsource.16mb.com/TP.php?ID=209&PROFILE=03&F=.m3u8
+#EXTINF:-1,WARNER B
+http://rtvsource.16mb.com/TP.php?ID=209&PROFILE=03&F=.m3u8
+#EXTINF:-1,NICK HD
+http://rtvsource.16mb.com/TP.php?ID=213&PROFILE=03&F=.m3u8
+#EXTINF:-1,NICK
+http://rtvsource.16mb.com/TP.php?ID=217&PROFILE=03&F=.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://rtvsource.16mb.com/TP.php?ID=221&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISNEY XD
+http://rtvsource.16mb.com/TP.php?ID=225&PROFILE=03&F=.m3u8
+#EXTINF:-1,TIIN
+http://rtvsource.16mb.com/TP.php?ID=233&PROFILE=03&F=.m3u8
+#EXTINF:-1,TOONCAST
+http://rtvsource.16mb.com/TP.php?ID=237&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://rtvsource.16mb.com/TP.php?ID=241&PROFILE=03&F=.m3u8
+#EXTINF:-1,HISTORY
+http://rtvsource.16mb.com/TP.php?ID=245&PROFILE=03&F=.m3u8
+#EXTINF:-1,NATGEO WILD
+http://rtvsource.16mb.com/TP.php?ID=249&PROFILE=03&F=.m3u8
+#EXTINF:-1,TLC
+http://rtvsource.16mb.com/TP.php?ID=253&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISCOVERY
+http://rtvsource.16mb.com/TP.php?ID=257&PROFILE=03&F=.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://rtvsource.16mb.com/TP.php?ID=261&PROFILE=03&F=.m3u8
+#EXTINF:-1,HOME & HEALTH
+http://rtvsource.16mb.com/TP.php?ID=265&PROFILE=03&F=.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://rtvsource.16mb.com/TP.php?ID=269&PROFILE=03&F=.m3u8
+#EXTINF:-1,LIFETIME (BIO)
+http://rtvsource.16mb.com/TP.php?ID=273&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISCOVERY SCI
+http://rtvsource.16mb.com/TP.php?ID=277&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://rtvsource.16mb.com/TP.php?ID=281&PROFILE=03&F=.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://rtvsource.16mb.com/TP.php?ID=285&PROFILE=03&F=.m3u8
+#EXTINF:-1,TLC
+http://rtvsource.16mb.com/TP.php?ID=289&PROFILE=03&F=.m3u8
+#EXTINF:-1,WOBI
+http://rtvsource.16mb.com/TP.php?ID=293&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX1 HD
+http://rtvsource.16mb.com/TP.php?ID=297&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX ACTION
+http://rtvsource.16mb.com/TP.php?ID=301&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX MOVIE
+http://rtvsource.16mb.com/TP.php?ID=305&PROFILE=03&F=.m3u8
+#EXTINF:-1,CINECANAL
+http://rtvsource.16mb.com/TP.php?ID=309&PROFILE=03&F=.m3u8
+#EXTINF:-1,TNT
+http://rtvsource.16mb.com/TP.php?ID=313&PROFILE=03&F=.m3u8
+#EXTINF:-1,GOLDEN
+http://rtvsource.16mb.com/TP.php?ID=317&PROFILE=03&F=.m3u8
+#EXTINF:-1,FILM ZONE
+http://rtvsource.16mb.com/TP.php?ID=321&PROFILE=03&F=.m3u8
+#EXTINF:-1,DEPELICULA
+http://rtvsource.16mb.com/TP.php?ID=325&PROFILE=03&F=.m3u8
+#EXTINF:-1,AMC
+http://rtvsource.16mb.com/TP.php?ID=329&PROFILE=03&F=.m3u8
+#EXTINF:-1,SPACE HD
+http://rtvsource.16mb.com/TP.php?ID=333&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX PREMIERES
+http://rtvsource.16mb.com/TP.php?ID=300&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX CINEMA
+http://rtvsource.16mb.com/TP.php?ID=337&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX FAMILY
+http://rtvsource.16mb.com/TP.php?ID=341&PROFILE=03&F=.m3u8
+#EXTINF:-1,FOX CLASSIC
+http://rtvsource.16mb.com/TP.php?ID=345&PROFILE=03&F=.m3u8
+#EXTINF:-1,CINECANAL
+http://rtvsource.16mb.com/TP.php?ID=349&PROFILE=03&F=.m3u8
+#EXTINF:-1,CINEMAX
+http://rtvsource.16mb.com/TP.php?ID=353&PROFILE=03&F=.m3u8
+#EXTINF:-1,TNT
+http://rtvsource.16mb.com/TP.php?ID=357&PROFILE=03&F=.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://rtvsource.16mb.com/TP.php?ID=361&PROFILE=03&F=.m3u8
+#EXTINF:-1,AMC
+http://rtvsource.16mb.com/TP.php?ID=365&PROFILE=03&F=.m3u8
+#EXTINF:-1,SPACE
+http://rtvsource.16mb.com/TP.php?ID=369&PROFILE=03&F=.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://rtvsource.16mb.com/TP.php?ID=373&PROFILE=03&F=.m3u8
+#EXTINF:-1,ISAT
+http://rtvsource.16mb.com/TP.php?ID=377&PROFILE=03&F=.m3u8
+#EXTINF:-1,TCM
+http://rtvsource.16mb.com/TP.php?ID=381&PROFILE=03&F=.m3u8
+#EXTINF:-1,ESPN
+http://rtvsource.16mb.com/TP.php?ID=389&PROFILE=03&F=.m3u8
+#EXTINF:-1,ESPN 3
+http://rtvsource.16mb.com/TP.php?ID=393&PROFILE=03&F=.m3u8
+#EXTINF:-1,Fox SPORTS
+http://rtvsource.16mb.com/TP.php?ID=397&PROFILE=03&F=.m3u8
+#EXTINF:-1,Fox SPORTS 2
+http://rtvsource.16mb.com/TP.php?ID=401&PROFILE=03&F=.m3u8
+#EXTINF:-1,ESPN
+http://rtvsource.16mb.com/TP.php?ID=405&PROFILE=03&F=.m3u8
+#EXTINF:-1,ESPN 2
+http://rtvsource.16mb.com/TP.php?ID=409&PROFILE=03&F=.m3u8
+#EXTINF:-1,Canal M
+http://rtvsource.16mb.com/TP.php?ID=417&PROFILE=03&F=.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://rtvsource.16mb.com/TP.php?ID=421&PROFILE=03&F=.m3u8
+#EXTINF:-1,MTV Live
+http://rtvsource.16mb.com/TP.php?ID=429&PROFILE=03&F=.m3u8
+#EXTINF:-1,TELEHIT
+http://rtvsource.16mb.com/TP.php?ID=433&PROFILE=03&F=.m3u8
+#EXTINF:-1,VH1
+http://rtvsource.16mb.com/TP.php?ID=437&PROFILE=03&F=.m3u8
+#EXTINF:-1,MTV
+http://rtvsource.16mb.com/TP.php?ID=441&PROFILE=03&F=.m3u8
+#EXTINF:-1,RITMOSON
+http://rtvsource.16mb.com/TP.php?ID=445&PROFILE=03&F=.m3u8
+#EXTINF:-1,BANDMAX
+http://rtvsource.16mb.com/TP.php?ID=449&PROFILE=03&F=.m3u8
+#EXTINF:-1,BLOOMBERG
+http://rtvsource.16mb.com/TP.php?ID=457&PROFILE=03&F=.m3u8
+#EXTINF:-1,Lucha Libre
+http://rtvsource.16mb.com/TP.php?ID=465&PROFILE=03&F=.m3u8
+#EXTINF:-1,NICKTOONS
+http://rtvsource.16mb.com/TP.php?ID=469&PROFILE=03&F=.m3u8
+#EXTINF:-1,HMX
+http://rtvsource.16mb.com/TP.php?ID=473&PROFILE=03&F=.m3u8
+#EXTINF:-1,REALITY
+http://rtvsource.16mb.com/TP.php?ID=474&PROFILE=03&F=.m3u8
+#EXTINF:-1,PX HD
+http://rtvsource.16mb.com/TP.php?ID=475&PROFILE=03&F=.m3u8
+#EXTINF:-1,MTV HITS
+http://rtvsource.16mb.com/TP.php?ID=476&PROFILE=03&F=.m3u8
+#EXTINF:-1,1 CLASSIC
+http://rtvsource.16mb.com/TP.php?ID=477&PROFILE=03&F=.m3u8
+#EXTINF:-1,ESTRELLA HD
+http://rtvsource.16mb.com/TP.php?ID=478&PROFILE=03&F=.m3u8
+#EXTINF:-1,AZCORAZON HD
+http://rtvsource.16mb.com/TP.php?ID=479&PROFILE=03&F=.m3u8
+#EXTINF:-1,Azteca Noticias HD
+http://rtvsource.16mb.com/TP.php?ID=2&PROFILE=03&F=.m3u8
+#EXTINF:-1,Azteca 7
+http://rtvsource.16mb.com/TP.php?ID=6&PROFILE=03&F=.m3u8
+#EXTINF:-1,Trece HD
+http://rtvsource.16mb.com/TP.php?ID=12&PROFILE=03&F=.m3u8
+#EXTINF:-1,Azteca HD
+http://rtvsource.16mb.com/TP.php?ID=16&PROFILE=03&F=.m3u8
+#EXTINF:-1,40 HD
+http://rtvsource.16mb.com/TP.php?ID=24&PROFILE=03&F=.m3u8
+#EXTINF:-1,Canal de las Estrellas HD
+http://rtvsource.16mb.com/TP.php?ID=36&PROFILE=03&F=.m3u8
+#EXTINF:-1,Canal 5 HD
+http://rtvsource.16mb.com/TP.php?ID=40&PROFILE=03&F=.m3u8
+#EXTINF:-1,Foro TV HD
+http://rtvsource.16mb.com/TP.php?ID=48&PROFILE=03&F=.m3u8
+#EXTINF:-1,Canal 7 HD
+http://rtvsource.16mb.com/TP.php?ID=56&PROFILE=03&F=.m3u8
+#EXTINF:-1,Gala TV HD
+http://rtvsource.16mb.com/TP.php?ID=60&PROFILE=03&F=.m3u8
+#EXTINF:-1,Canal Once HD
+http://rtvsource.16mb.com/TP.php?ID=64&PROFILE=03&F=.m3u8
+#EXTINF:-1,Trece HD
+http://rtvsource.16mb.com/TP.php?ID=68&PROFILE=03&F=.m3u8
+#EXTINF:-1,C3N Noticias
+http://rtvsource.16mb.com/TP.php?ID=74&PROFILE=03&F=.m3u8
+#EXTINF:-1,Teleformula
+http://rtvsource.16mb.com/TP.php?ID=84&PROFILE=03&F=.m3u8
