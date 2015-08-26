@@ -55,10 +55,6 @@ http://0.0.0.0:1234
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1 group-title="NUEVOS",Univision HD (opcion 2)
-http://iphone-streaming.ustream.tv/ustreamVideo/20663014/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1 group-title="NUEVOS",Una pruebe 25
-http://iphone-streaming.ustream.tv/ustreamVideo/20720324/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1, [COLOR green] --LOCALHOST8899 FORMATO2- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 http://0.0.0.0
@@ -617,7 +613,3 @@ http://178.33.88.129:888/udp/239.102.0.4:1234
 http://178.33.88.129:888/udp/239.102.0.8:1234
 #EXTINF:0,beIN 1 HD Fr
 http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:0,beIN 21
-http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:0,beIN 22
-http://178.33.88.129:888/udp/239.102.0.22:1234
