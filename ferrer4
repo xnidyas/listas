@@ -609,21 +609,15 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
 #EXTINF:-1,Sport Time TV 5
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:0,bein sport 1hd ar
-http://178.33.88.129:888/udp/239.102.0.5:1234
 #EXTINF:0,beIN 2HD Ar
 http://178.33.88.129:888/udp/239.102.0.2:1234
 #EXTINF:0,beIN 4HD Ar
-http://178.33.88.129:888/udp/239.102.0.5:1234
+http://178.33.88.129:888/udp/239.102.0.4:1234
 #EXTINF:0,beIN 7HD Ar
 http://178.33.88.129:888/udp/239.102.0.8:1234
 #EXTINF:0,beIN 1 HD Fr
 http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:0,beIN 3 HD Fr
-http://178.33.88.129:888/udp/239.102.0.17:1234
-#EXTINF:-1,SILK SPORT 1
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1,SILK SPORT 2
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-#EXTINF:-1,SILK SPORT 3
-http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:0,beIN 21
+http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:0,beIN 22
+http://178.33.88.129:888/udp/239.102.0.22:1234
