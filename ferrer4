@@ -587,45 +587,11 @@ http://lihattv.toh.info/jhos/beib1.m3u8
 http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:1,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
-#EXTINF:1,FOX SPORTS 1
-http://4.31.30.159:9110
-#EXTINF:1,FOX SPORTS 2
-http://4.31.30.159:9111
-#EXTINF:-1, Setanta Sports
-http://80.77.52.6:3719/udp/230.0.4.1:12345
-#EXTINF:-1, Silk Sport HD1
-http://80.77.52.6:3719/udp/230.0.6.4:12345
-#EXTINF:-1, Silk Sport HD2
-http://80.77.52.6:3719/udp/230.0.6.2:12345
-#EXTINF:-1, Silk Sport HD3
-http://80.77.52.6:3719/udp/230.0.6.3:12345
-#EXTINF:-1, SKY SPORTS1
-http://212.51.148.162:2003/hdmi
-#EXTINF:-1, SKY SPORTS2
-http://212.51.148.162:2005/hdmi
-#EXTINF:-1, SKY CALCIO 3
-http://212.51.148.162:2001/hdmi
-#EXTINF:-1, Sky Sport 2 DE,
-http://178.33.88.129:888/udp/239.102.0.24:1234
-#EXTINF:-1, Eurosport,
-http://178.33.88.129:888/udp/239.102.0.26:1234
-#EXTINF:-1,Eurosport 2,
-http://178.33.88.129:888/udp/239.102.0.27:1234
-#EXTINF:-1,AD Sports 1,
-http://178.33.88.129:888/udp/239.102.0.28:1234
-#EXTINF:-1,AD Sports 2,
-http://178.33.88.129:888/udp/239.102.0.29:1234
-#EXTINF:-1,Canal+ Sport,
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:-1,BULGAR-BULSAT-Film Plus – Sport Plus
-http://185.13.236.197:4080/udp/224.0.0.110:1237
 #EXTINF:-1,CHANNEL 9 AUSTRALIA
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,CSN Sports
-rtmp://kv2.ts33.net/sat/us061
 #EXTINF:-1,EUROPA-Sport 1 Voetbal
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Eurosport
+#EXTINF:-1,Eurosport china
 rtmp://kv2.ts33.net/sat/us291
 #EXTINF:-1,Eurosport 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -633,38 +599,16 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 rtmp://kv2.ts33.net/sat/us161
 #EXTINF:-1,CANADA:TVA Sport
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1,KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG–KazSport/01/plst.m3u8
-#EXTINF:-1,Motorsport 7 Channel Australia
-http://motorsport.hopto.org:8080
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
 #EXTINF:-1,Sport Time TV 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 #EXTINF:-1,SPORT TIME TV 2
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1,Sport Time TV 3
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
 #EXTINF:-1,Sport Time TV 4
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
 #EXTINF:-1,Sport Time TV 5
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1,Sport Time TV 6
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
-#EXTINF:-1,Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD
-#EXTINF:-1,Sports Tonight UK
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD?ref=www.sportstonightlive.com&USER=STL_0001
-#EXTINF:-1,TURK-A SPOR m3u8
-http://hls.turkuvazgroup.net/aspor/aspor3/HasBahCa.m3u8
-#EXTINF:-1,Turki-TURKMEN SPORT
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1,Turki-Türkmen Türkmen Sport
-http://tv.online.tm/hls/ch004_md/index.m3u8
-#EXTINF:-1,TURK-SPORTS TV m3u8
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1,USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:0,bein sport 1hd ar
 http://178.33.88.129:888/udp/239.102.0.5:1234
 #EXTINF:0,beIN 2HD Ar
@@ -677,20 +621,6 @@ http://178.33.88.129:888/udp/239.102.0.8:1234
 http://178.33.88.129:888/udp/239.102.0.20:1234
 #EXTINF:0,beIN 3 HD Fr
 http://178.33.88.129:888/udp/239.102.0.17:1234
-#EXTINF:0,FOX SPORTS 1
-http://4.31.30.159:9110
-#EXTINF:0,FOX SPORTS 2
-http://4.31.30.159:9111
-#EXTINF:0,TSN 1
-http://4.31.30.159:9082
-#EXTINF:0,TSN 2
-http://4.31.30.159:9083
-#EXTINF:0,TSN 3
-http://4.31.30.159:9084
-#EXTINF:0,TSN 4
-http://4.31.30.159:9085
-#EXTINF:0,TSN 5
-http://4.31.30.159:9086
 #EXTINF:-1,SILK SPORT 1
 http://80.77.52.6:3719/udp/226.0.0.7:12345
 #EXTINF:-1,SILK SPORT 2
