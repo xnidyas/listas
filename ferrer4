@@ -428,22 +428,10 @@ http://stalker.darkuzdev.cf:8080/streamer/201.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/205.m3u8
 #EXTINF:-1, DISNEY XD
 http://stalker.darkuzdev.cf:8080/streamer/209.m3u8
-#EXTINF:-1, 210
-http://stalker.darkuzdev.cf:8080/streamer/210.m3u8
-#EXTINF:-1, 211
-http://stalker.darkuzdev.cf:8080/streamer/211.m3u8
-#EXTINF:-1, 212
-http://stalker.darkuzdev.cf:8080/streamer/212.m3u8
 #EXTINF:-1, NICK HD
 http://stalker.darkuzdev.cf:8080/streamer/213.m3u8
 #EXTINF:-1, NICK 
 http://stalker.darkuzdev.cf:8080/streamer/217.m3u8
-#EXTINF:-1, 218 
-http://stalker.darkuzdev.cf:8080/streamer/219.m3u8
-#EXTINF:-1, 219
-http://stalker.darkuzdev.cf:8080/streamer/219.m3u8
-#EXTINF:-1, 220 
-http://stalker.darkuzdev.cf:8080/streamer/220.m3u8
 #EXTINF:-1, CARTOON NETWORK
 http://stalker.darkuzdev.cf:8080/streamer/221.m3u8
 #EXTINF:-1, XD
@@ -456,8 +444,12 @@ http://stalker.darkuzdev.cf:8080/streamer/233.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/237.m3u8
 #EXTINF:-1, NICK TOONS
 http://stalker.darkuzdev.cf:8080/streamer/469.m3u8
+#EXTINF:-1, THEATER 240
+http://stalker.darkuzdev.cf:8080/streamer/240.m3u8f
 #EXTINF:-1, THEATER HD
 http://stalker.darkuzdev.cf:8080/streamer/241.m3u8f
+#EXTINF:-1, THEATER 242
+http://stalker.darkuzdev.cf:8080/streamer/242.m3u8f
 #EXTINF:-1, DISCOVERY
 http://stalker.darkuzdev.cf:8080/streamer/257.m3u8
 #EXTINF:-1, HISTORY HD
