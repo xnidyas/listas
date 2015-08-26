@@ -427,11 +427,23 @@ http://stalker.darkuzdev.cf:8080/streamer/201.m3u8
 #EXTINF:-1, NICK JR
 http://stalker.darkuzdev.cf:8080/streamer/205.m3u8
 #EXTINF:-1, DISNEY XD
-hdhttp://stalker.darkuzdev.cf:8080/streamer/209.m3u8
+http://stalker.darkuzdev.cf:8080/streamer/209.m3u8
+#EXTINF:-1, 210
+http://stalker.darkuzdev.cf:8080/streamer/210.m3u8
+#EXTINF:-1, 211
+http://stalker.darkuzdev.cf:8080/streamer/211.m3u8
+#EXTINF:-1, 212
+http://stalker.darkuzdev.cf:8080/streamer/212.m3u8
 #EXTINF:-1, NICK HD
 http://stalker.darkuzdev.cf:8080/streamer/213.m3u8
 #EXTINF:-1, NICK 
 http://stalker.darkuzdev.cf:8080/streamer/217.m3u8
+#EXTINF:-1, 218 
+http://stalker.darkuzdev.cf:8080/streamer/219.m3u8
+#EXTINF:-1, 219
+http://stalker.darkuzdev.cf:8080/streamer/219.m3u8
+#EXTINF:-1, 220 
+http://stalker.darkuzdev.cf:8080/streamer/220.m3u8
 #EXTINF:-1, CARTOON NETWORK
 http://stalker.darkuzdev.cf:8080/streamer/221.m3u8
 #EXTINF:-1, XD
@@ -574,5 +586,3 @@ http://stalker.darkuzdev.cf:8080/streamer/45.m3u8
 http://stalker.darkuzdev.cf:8080/streamer/61.m3u8
 #EXTINF:-1, CADENA 3
 http://stalker.darkuzdev.cf:8080/streamer/73.m3u8
-#EXTINF:-1, bein 2527
-http://stalker.darkuzdev.cf:8080/streamer/2527.m3u8
