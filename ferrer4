@@ -34,35 +34,31 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-
-
 #EXTINF:-1 group-title="DEPORTES",TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 group-title="DEPORTES",ARG TELEFE SD
 http://live-edge01.telecentro.net.ar/live/tlfhd-180/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",tv publica argentina sd180
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
-#EXTINF:-1 group-title="DEPORTES",tv publica argentina  oSD360
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",goltv
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
 #EXTINF:-1 group-title="DEPORTES",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Sportsnet 360--
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1 group-title="DEPORTES", ideman depotes
+http://149.255.152.70:80/idman/index.m3u8
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 group-title="NUEVOS", RT ESPAÑOL
-http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1 group-title="NUEVOS", hbo chile
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1 group-title="NUEVOS",Univision HD (opcion 2)
-http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
+http://iphone-streaming.ustream.tv/ustreamVideo/20663014/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1 group-title="NUEVOS",Una pruebe 25
+http://iphone-streaming.ustream.tv/ustreamVideo/20720324/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 
 #EXTINF:-1, [COLOR green] --LOCALHOST8899 FORMATO2- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 http://0.0.0.0
@@ -70,19 +66,142 @@ http://0.0.0.0
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,A-ONE MUSICA
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
 #EXTINF:-1,Kiss tv MUSICA
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,TeleSuR
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1,ESPN + PANAMERICANA T-K
 http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,History *** T-K
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Discovery Channel ***Español T-K
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, [COLOR red] xxxxxxxx--201.161.59.6 islm format m3u8 aaplxxxxxxx- 
+
+#EXTINF:-1,RCN Televisión de Colombia T-K
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+#EXTINF:-1,Caracol T-K
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,CANAL UNO COLOMBIA T-K
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+#EXTINF:-1,UNE TV Manizales T-K
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1,CANAL ONCE URUGUAY T-K
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,EL TRECE HD T-K
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,CANAL 13 T-K
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,OCHO TV T-K
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Tve 24h HD T-K
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,TeleSuR T-K
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
+#EXTINF:-1,Foro TV T-K
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1,Canal De Las Estrellas T-K
+http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-1,Canal De Las Estrellas T-K
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1,Antena Latina Canal 7 T-K
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,Unimas Telemundo T-K
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,MULTIMEDIOS TV T-K
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:-1,AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,AZTECA 7 INFO 7 NL T-K
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,Telemar Mexico T-K
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:-1,CB Televisión Michoacán T-K
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1,Telemax Mexico T-K
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:-1,Trecevisión Yucatan T-K
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,TDT Tlaxcala T-K
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
+#EXTINF:-1,Quince TV Zacatecas México T-K
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
+#EXTINF:-1,KW TV México T-K
+http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
+#EXTINF:-1,TV 4 Guanajuato T-K
+http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CORtv Oaxaca México T-K
+http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
+#EXTINF:-1,TV Independencia Hidalgo México T-K
+http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
+#EXTINF:-1 $ExtFilter="españa",la sexta T-K
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,LATINA PERU T-K
+http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Azteca 7 T-K
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,AZTECA 13 T-K
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,PROYECTO 40 T-K
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,CMD PERU T-K
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,GOLTV SUR T-K
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Motors TV T-K
+http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
+#EXTINF:-1,CDN-SportsMax T-K
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,Real Madrid TV T-K
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEVILLAFC T-K
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+#EXTINF:-1,MULTICINEMA T-K
+http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DPELICULA T-K
+http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Ultra Cine HD  T-K
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1,Ultra Cine T-K
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1,MTV ROCKS T-K
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:-1,Kiss tv T-K
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,A-ONE T-K
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1tvg-logo="54.png",Telehit HD
+http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1tvg-logo="Ultra_Fiesta_White1.png",Ultra Fiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1tvg-logo="tvc.png"Tv chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1tvg-logo="aa.png",Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1tvg-logo="tg.png",Television Galicia
+http://media3.crtvg.es/live/tvga/sota.m3u8
+#EXTINF:-1tvg-logo="ts.png"Telesur
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:-1tvg-logo="tv.png"Tv5 monde
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1,DRAGON BALL Z T-K
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1,Anime en Español
+http://q.gs/9830047/animeespaoltodokodim3u8
+#EXTINF:-1,EL TRECE HD T-K
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,CANAL 13 T-K
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+#EXTINF:-1,WAPA - Puerto Rico
+rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+#EXTINF:-1,ATV + T-K
+rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
+
+
+#EXTINF:-1, [COLOR red] xxxx-201.161.59.6 islm format m3u8 aaplxxx- [/COLOR] 
 http://0.0.0.0
 #EXTINF:-1,FOX SD T-K
 http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
@@ -159,15 +278,11 @@ http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
 
 #EXTM3U
 #EXTM3U tvg-shift=3
-#EXTINF:-1, [COLOR red] xxxxxxxx--TODO KODI hlslive.lcdnxxxxxxx- 
+#EXTINF:-1, [COLOR red] xxxxxxxx--TODO KODI hlslive.lcdnxxxxxxx- [/COLOR]
 http://0.0.0.0
-#EXTINF:-1,RCN Televisión de Colombia T-K
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
-#EXTINF:-1,Caracol T-K
-http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,CANAL UNO COLOMBIA T-K
-http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
-#EXTINF:-1,Telecafe T-K
+
+
+#EXTINF:-1,Telecafe T-K aca comienza hslive
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1,TELEANTIOQUIA HD T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
@@ -183,8 +298,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1,El Tiempo T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1,UNE TV Manizales T-K
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 #EXTINF:-1,UNE TV CARIBE T-K
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
 #EXTINF:-1,UNE TV ARMENIA T-K
@@ -205,120 +318,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
 #EXTINF:-1,TIGO MUSIC T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1,CANAL ONCE URUGUAY T-K
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,EL TRECE HD T-K
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,CANAL 13 T-K
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,OCHO TV T-K
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Tve 24h HD T-K
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,TeleSuR T-K
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1,Foro TV T-K
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1,Canal De Las Estrellas T-K
-http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8?
-#EXTINF:-1,Canal De Las Estrellas T-K
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1,Antena Latina Canal 7 T-K
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Unimas Telemundo T-K
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,ONCE TV T-K
-http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CADENA 3 T-K
-http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,52 MX T-K
-http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MULTIMEDIOS TV T-K
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-#EXTINF:-1,AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,AZTECA 7 INFO 7 NL T-K
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,Telemar Mexico T-K
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
-#EXTINF:-1,CB Televisión Michoacán T-K
-http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
-#EXTINF:-1,Telemax Mexico T-K
-http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1,Trecevisión Yucatan T-K
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
-#EXTINF:-1,TDT Tlaxcala T-K
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
-#EXTINF:-1,Quince TV Zacatecas México T-K
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
-#EXTINF:-1,KW TV México T-K
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
-#EXTINF:-1,TV 4 Guanajuato T-K
-http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,CORtv Oaxaca México T-K
-http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
-#EXTINF:-1,TV Independencia Hidalgo México T-K
-http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
 #EXTINF:-1,Antena 3 T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
-#EXTINF:-1 $ExtFilter="españa",la sexta T-K
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,LATINA PERU T-K
-http://live.mvdigital.net:1935/live1/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Azteca 7 T-K
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,AZTECA 13 T-K
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1,PROYECTO 40 T-K
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,CMD PERU T-K
-http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,GOLTV SUR T-K
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Motors TV T-K
-http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2
-#EXTINF:-1,CDN-SportsMax T-K
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,Real Madrid TV T-K
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,SEVILLAFC T-K
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
-#EXTINF:-1,MULTICINEMA T-K
-http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,DPELICULA T-K
-http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Ultra Cine HD  T-K
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1,Ultra Cine T-K
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:-1,MTV ROCKS T-K
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF:-1,Kiss tv T-K
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,A-ONE T-K
-http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
-#EXTINF:-1tvg-logo="54.png",Telehit HD
-http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1tvg-logo="Ultra_Fiesta_White1.png",Ultra Fiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="Vevo-logo-640x223.png",Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1tvg-logo="tvc.png"Tv chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1tvg-logo="aa.png",Antena 3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1tvg-logo="tg.png",Television Galicia
-http://media3.crtvg.es/live/tvga/sota.m3u8
-#EXTINF:-1tvg-logo="ts.png"Telesur
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-#EXTINF:-1tvg-logo="tv.png"Tv5 monde
-http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
-#EXTINF:-1,ideman depotes
-http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-1,CANAL ANTIESTRES HLSLIVE
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1,CANTINAZO
@@ -349,265 +350,17 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 #EXTINF:-1,TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1,DRAGON BALL Z T-K
-rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-#EXTINF:-1,Anime en Español
-http://q.gs/9830047/animeespaoltodokodim3u8
 
 #EXTM3U tvg-shift=3
 #EXTINF:-1, [COLOR red] xxxxxxxx--TODO KODI q.gs/9830047/todokodim3u8 xxxxxxx- 
 
-#EXTINF:-1,EL TRECE HD T-K
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,CANAL 13 T-K
-rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
-#EXTINF:-1,WAPA - Puerto Rico
-rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
-#EXTINF:-1,ATV + T-K
-rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
 #EXTINF:-1,**GOLDEN EDGE T-K 201.161.59.7
 http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,**GOLDEN EDGE T-K 201.161.59.3 adivinndo
 http://201.161.59.3/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 
-#EXTM3U
-#EXTINF:-1,All over Angelica
-http://pacific1469.serverprofi24.eu:32400/library/parts/959/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Alluring Blonde Knows How To Ride A Dick(1080p)
-http://pacific1469.serverprofi24.eu:32400/library/parts/960/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Ass.Riders.Spanish.CD1JKBronson
-http://pacific1469.serverprofi24.eu:32400/library/parts/961/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Ass.Riders.Spanish.CD2JKBronson
-http://pacific1469.serverprofi24.eu:32400/library/parts/962/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,assholefever-130713-sexors
-http://pacific1469.serverprofi24.eu:32400/library/parts/1041/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,babes-130729-sexors
-http://pacific1469.serverprofi24.eu:32400/library/parts/1042/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Bachelorette Party
-http://pacific1469.serverprofi24.eu:32400/library/parts/964/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Bath Time Slut
-http://pacific1469.serverprofi24.eu:32400/library/parts/965/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Between Friends
-http://pacific1469.serverprofi24.eu:32400/library/parts/966/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,bigbuttslikeitbig-130719-sexors
-http://pacific1469.serverprofi24.eu:32400/library/parts/1043/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,bigwetbutts-130719-sexors
-http://pacific1469.serverprofi24.eu:32400/library/parts/1044/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Boats and Hoes
-http://pacific1469.serverprofi24.eu:32400/library/parts/967/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Brazilian Gangbang at the Gym
-http://pacific1469.serverprofi24.eu:32400/library/parts/1045/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Break Fuck
-http://pacific1469.serverprofi24.eu:32400/library/parts/968/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Breakfast In Bed For Three
-http://pacific1469.serverprofi24.eu:32400/library/parts/969/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,btaw.13.07.18.holly.halston.ribbon.cunting.ceremony
-http://pacific1469.serverprofi24.eu:32400/library/parts/1046/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,caramelos_de_varios_sabores
-http://pacific1469.serverprofi24.eu:32400/library/parts/1047/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Caught Snooping
-http://pacific1469.serverprofi24.eu:32400/library/parts/970/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Clarise
-http://pacific1469.serverprofi24.eu:32400/library/parts/971/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cnt.whenhairymetpussy2-sc1
-http://pacific1469.serverprofi24.eu:32400/library/parts/1048/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cnt.whenhairymetpussy2-sc2
-http://pacific1469.serverprofi24.eu:32400/library/parts/1049/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cnt.whenhairymetpussy2-sc3
-http://pacific1469.serverprofi24.eu:32400/library/parts/1050/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cnt.whenhairymetpussy2-sc4
-http://pacific1469.serverprofi24.eu:32400/library/parts/1051/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cnt.whenhairymetpussy2-sc5
-http://pacific1469.serverprofi24.eu:32400/library/parts/1052/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cts.13.07.26.yana
-http://pacific1469.serverprofi24.eu:32400/library/parts/1053/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,cumt.13.07.29.brenda.boop.slapping.sauce
-http://pacific1469.serverprofi24.eu:32400/library/parts/1054/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,dirtymasseur-130719-sexors
-http://pacific1469.serverprofi24.eu:32400/library/parts/1055/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,EROTICASHARE.COM
-http://pacific1469.serverprofi24.eu:32400/library/parts/998/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Fetish_-_Mamas_Vestidas_De_Latex_xvid
-http://pacific1469.serverprofi24.eu:32400/library/parts/972/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Flip Flop Massage
-http://pacific1469.serverprofi24.eu:32400/library/parts/973/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,A Friend For Dinner
-http://pacific1469.serverprofi24.eu:32400/library/parts/957/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Game Night
-http://pacific1469.serverprofi24.eu:32400/library/parts/975/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Garden_Party_-_Orgasmos_en_el_JardÃ­n_(1997)_xvid
-http://pacific1469.serverprofi24.eu:32400/library/parts/976/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Gaucha Nota 10
-http://pacific1469.serverprofi24.eu:32400/library/parts/977/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Girls Night Out
-http://pacific1469.serverprofi24.eu:32400/library/parts/978/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,glory_hole
-http://pacific1469.serverprofi24.eu:32400/library/parts/1056/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Going Away Pool Party
-http://pacific1469.serverprofi24.eu:32400/library/parts/979/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,A Good Rub Down
-http://pacific1469.serverprofi24.eu:32400/library/parts/958/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Heart Rate Hottie
-http://pacific1469.serverprofi24.eu:32400/library/parts/980/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,High Rise Fucking
-http://pacific1469.serverprofi24.eu:32400/library/parts/981/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,HornyWhores.net - FREE PORN
-http://pacific1469.serverprofi24.eu:32400/library/parts/1073/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Hot and Sexy 297
-http://pacific1469.serverprofi24.eu:32400/library/parts/983/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Hot Masseuse
-http://pacific1469.serverprofi24.eu:32400/library/parts/982/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Hottie Rubdown
-http://pacific1469.serverprofi24.eu:32400/library/parts/984/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Hula Hoop Hottie
-http://pacific1469.serverprofi24.eu:32400/library/parts/985/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Hula Hooped
-http://pacific1469.serverprofi24.eu:32400/library/parts/986/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Indoor Picnic
-http://pacific1469.serverprofi24.eu:32400/library/parts/987/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Janice
-http://pacific1469.serverprofi24.eu:32400/library/parts/990/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Jenna Haze Cum Swallows Pov
-http://pacific1469.serverprofi24.eu:32400/library/parts/988/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Jenna Haze in Fishnets Gets an Assfucking
-http://pacific1469.serverprofi24.eu:32400/library/parts/989/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Jenna Haze Interracial
-http://pacific1469.serverprofi24.eu:32400/library/parts/991/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Jennifer White Pov Hardcore
-http://pacific1469.serverprofi24.eu:32400/library/parts/992/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Jessica Jaymes Playing With Pussy And Anal(1080p)
-http://pacific1469.serverprofi24.eu:32400/library/parts/993/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,La_abogada_del_diablo
-http://pacific1469.serverprofi24.eu:32400/library/parts/994/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Le Sex De Femme 5
-http://pacific1469.serverprofi24.eu:32400/library/parts/995/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Leisure Time Fucking
-http://pacific1469.serverprofi24.eu:32400/library/parts/996/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Lets Get Physical
-http://pacific1469.serverprofi24.eu:32400/library/parts/997/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Lucy Thai Spring Chickens
-http://pacific1469.serverprofi24.eu:32400/library/parts/1057/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Lust Unleashed #2 (DDF Video)
-http://pacific1469.serverprofi24.eu:32400/library/parts/999/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Manon.Secretaire.Debutante
-http://pacific1469.serverprofi24.eu:32400/library/parts/1000/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Marissa.Banks.Bikini.Weenie.InTheVip.09.xxx
-http://pacific1469.serverprofi24.eu:32400/library/parts/1001/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Meditating Beauty
-http://pacific1469.serverprofi24.eu:32400/library/parts/1002/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,mfhm.13.07.29.nina.hartley
-http://pacific1469.serverprofi24.eu:32400/library/parts/1058/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,milk bath
-http://pacific1469.serverprofi24.eu:32400/library/parts/1059/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,mlib.13.07.17.abbey.brooks.the.butler.did.her
-http://pacific1469.serverprofi24.eu:32400/library/parts/1060/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Mujer Luna Bella
-http://pacific1469.serverprofi24.eu:32400/library/parts/1003/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Naughty Secret Santa
-http://pacific1469.serverprofi24.eu:32400/library/parts/1004/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Naughty Veronica
-http://pacific1469.serverprofi24.eu:32400/library/parts/1005/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,New Toys
-http://pacific1469.serverprofi24.eu:32400/library/parts/1006/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,NiÃ±eras_con_final_feliz
-http://pacific1469.serverprofi24.eu:32400/library/parts/1007/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,nubilef.13.07.29.paula.entice
-http://pacific1469.serverprofi24.eu:32400/library/parts/1061/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Olive Skin Teen
-http://pacific1469.serverprofi24.eu:32400/library/parts/1008/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,On Your Knees For The Trees
-http://pacific1469.serverprofi24.eu:32400/library/parts/1009/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Parejas_maduras_a_la_caza_de_tiernas_jovencitas
-http://pacific1469.serverprofi24.eu:32400/library/parts/1010/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Passionate Wake Up
-http://pacific1469.serverprofi24.eu:32400/library/parts/1011/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Perfidia
-http://pacific1469.serverprofi24.eu:32400/library/parts/1012/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,PolicÃ­as_Tetudas
-http://pacific1469.serverprofi24.eu:32400/library/parts/1013/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Pool Room Surprise
-http://pacific1469.serverprofi24.eu:32400/library/parts/1014/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Poolside Tease &amp; Fuck
-http://pacific1469.serverprofi24.eu:32400/library/parts/1015/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,pornstarslikeitbig-130729-sexors
-http://pacific1469.serverprofi24.eu:32400/library/parts/1062/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Porsha Carrera vs Mr Marcus
-http://pacific1469.serverprofi24.eu:32400/library/parts/1016/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Pura_Lujuria_xvid
-http://pacific1469.serverprofi24.eu:32400/library/parts/1017/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,PurainoJKBronson
-http://pacific1469.serverprofi24.eu:32400/library/parts/1018/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,RARBG.COM - Asspirin.3.XXX.DVDRip.x264-UPPERCUT
-http://pacific1469.serverprofi24.eu:32400/library/parts/963/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Rio Mariah and Victoria Sin vs Mr Marcus
-http://pacific1469.serverprofi24.eu:32400/library/parts/1019/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Roy Parsifal Doposcuola
-http://pacific1469.serverprofi24.eu:32400/library/parts/1020/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Sex Goddess Knows Best
-http://pacific1469.serverprofi24.eu:32400/library/parts/1021/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Sexy Aerobic Workout
-http://pacific1469.serverprofi24.eu:32400/library/parts/1022/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Stacking The Dick
-http://pacific1469.serverprofi24.eu:32400/library/parts/1023/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Summer Camp Tennis Sluts
-http://pacific1469.serverprofi24.eu:32400/library/parts/1024/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Surprise Pussy
-http://pacific1469.serverprofi24.eu:32400/library/parts/1025/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Sweet Tiny Ass
-http://pacific1469.serverprofi24.eu:32400/library/parts/1026/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Take My Panties
-http://pacific1469.serverprofi24.eu:32400/library/parts/1028/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Tantric Lovers
-http://pacific1469.serverprofi24.eu:32400/library/parts/1029/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Taylor Rain Hardcore
-http://pacific1469.serverprofi24.eu:32400/library/parts/1030/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,tem.13.07.29.candy.outside.fun
-http://pacific1469.serverprofi24.eu:32400/library/parts/1063/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,theartporn_e28.roxy.her.dirty.little.secret
-http://pacific1469.serverprofi24.eu:32400/library/parts/1064/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,theartporn_e29.demida_you.get.me.to.cloud.nine
-http://pacific1469.serverprofi24.eu:32400/library/parts/1065/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Tiny Latina Teen
-http://pacific1469.serverprofi24.eu:32400/library/parts/1031/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Tori Black Interracial Anal
-http://pacific1469.serverprofi24.eu:32400/library/parts/1027/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,ttb.13.07.11.agnes
-http://pacific1469.serverprofi24.eu:32400/library/parts/1066/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Twisted.Fantasies.Day.Dreams
-http://pacific1469.serverprofi24.eu:32400/library/parts/1032/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Two Girl Surprise
-http://pacific1469.serverprofi24.eu:32400/library/parts/1033/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Visiones_lascivas
-http://pacific1469.serverprofi24.eu:32400/library/parts/1034/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Welcome Home Surprise
-http://pacific1469.serverprofi24.eu:32400/library/parts/1035/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Well Groomed
-http://pacific1469.serverprofi24.eu:32400/library/parts/1036/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Wet and Wild
-http://pacific1469.serverprofi24.eu:32400/library/parts/1037/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,xart.13.07.19.caprice.and.lisa.czech.beauties
-http://pacific1469.serverprofi24.eu:32400/library/parts/1067/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Xvideos Com 1b8a9e6d90a46a5e7a987b417503d901
-http://pacific1469.serverprofi24.eu:32400/library/parts/1068/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Xvideos Com 68b57fa78c128c92c2389753ef74567b
-http://pacific1469.serverprofi24.eu:32400/library/parts/1069/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Xvideos Com A3bcfeb3f1ef6ba1e6d6318e96a5ce19
-http://pacific1469.serverprofi24.eu:32400/library/parts/1070/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Xvideos Com Bd2a43e9fdf4a4380e413de423078ade
-http://pacific1469.serverprofi24.eu:32400/library/parts/1071/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Xvideos Com Fcaea98585ec1f6dc5c0e43f727befa5
-http://pacific1469.serverprofi24.eu:32400/library/parts/1072/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,xxxroom.net
-http://pacific1469.serverprofi24.eu:32400/library/parts/974/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Young Skin
-http://pacific1469.serverprofi24.eu:32400/library/parts/1038/file.m4v?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Zx Bwc Big White Cock 3 Disc1
-http://pacific1469.serverprofi24.eu:32400/library/parts/1039/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
-#EXTINF:-1,Zx Bwc Big White Cock 3 Disc2
-http://pacific1469.serverprofi24.eu:32400/library/parts/1040/file.mp4?X-Plex-Token=yK9PAhXdNKo3ywoDx9b7
 
-
-#EXTINF:-1, [COLOR red] xxxxxxxx--BACKUP xxxxxxx- 
+#EXTINF:-1, [COLOR red] xxxxxxxx--BACKUP xxxxxxx- [/COLOR]
 http://0.0.0.0
 #EXTM3U
 #EXTINF:-1,1 CLASSIC /526/10/asd/477
@@ -814,6 +567,9 @@ http://backup.oneplay.tv/hash/526/10/asd//497.m3u8
 http://backup.oneplay.tv/hash/526/10/asd//437.m3u8
 #EXTINF:-1,WARNER
 http://backup.oneplay.tv/hash/526/10/asd//093.m3u8
+
+#EXTINF:-1, [COLOR red] xxx S T A L K E R stalker.darkuzdev.cf:8080/streamer/85 xxxxxxx- [/COLOR]
+http://0.0.0.0
 
 #EXTINF:-1, FOX stalker yyyyyyyyyyyyyyyyyyyyy
 http://stalker.darkuzdev.cf:8080/streamer/85.m3u8
