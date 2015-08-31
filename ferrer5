@@ -6,42 +6,147 @@
     </item>
    
     <item>
-    <title>[COLOR yellow]El Chileno List[/COLOR]</title>
+    <title>[COLOR yellow]ESTRENOS TEKILA[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <externallink>http://pastebin.com/raw.php?i=LyYRy4ha</externallink>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/estrenos.m3u</externallink>
     <thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
     </item>
    
         <item>
-    <title>[COLOR yellow]Plata List[/COLOR]</title>
+    <title>[COLOR yellow]ESTRENOS TORREN TEKILA[/COLOR]</title>
     <link>http://Ignoreme</link>
-    <externallink>http://platalist.com/TV%20PLATALIST.XML</externallink>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/torrents/torrents.m3u</externallink>
     <thumbnail>http://i621.photobucket.com/albums/tt299/victor_sepulveda1/logo%20plata%20list_zpsanynazyx.jpg<thumbnail>
     </item>
                
-       <item>
+       
+    <item>
+    <title>[COLOR yellow]INFANTIL TKILA[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/infantil.m3u</externallink>
+ <thumbnail>http://i621.photobucket.com/albums/tt299/victor_sepulveda1/11539729_10152828098646496_326047770_o_zps4qwjwjbp.jpg<thumbnail>
+    </item>
+   
+ <item>
+    <title>[COLOR yellow]CATALOGO TKILA ADDON[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/catalogo.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+    
+ <item>
+    <title>[COLOR yellow]RECIENTES TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/ultimas.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]PELICULASXXX TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/xxx_adultos.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]SERIES TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]SERIES RETRO TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series_retro.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]ANIME PELICULAS TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/peliculas/peliculas.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]OVAAS ANIME PELICULAS TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/ovas/ovas.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]DORAMAS TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/doramas/doramas.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+    
+    
+    
+ <item>
+    <title>[COLOR yellow]ANIME SERIES TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/Series/series.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+    
+ <item>
+    <title>[COLOR yellow]ENTRETENIMIENTO TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/selectos.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+   
+ <item>
+    <title>[COLOR yellow]CABLE TV TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/cablet.kila.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]DEPORTES TV TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/deportes.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]PELICULAS TV TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/peliculas_tv.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+    
+ <item>
+    <title>[COLOR yellow]INFANTILES TV TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/infantiles_tv.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+ <item>
+    <title>[COLOR yellow]LATINOAMERICA TV TKILA [/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/latinoamerica.m3u</externallink>
+<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
+ <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
+    </item>
+   
+  <item>
     <title>[COLOR yellow]adryan list[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://adryanlist.info</externallink>
     <thumbnail>http://i621.photobucket.com/albums/tt299/victor_sepulveda1/adyan_zpsgvdxds9n.jpg<thumbnail>
     </item>
    
-    <item>
-    <title>[COLOR yellow]rafa[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://textuploader.com/n63r/raw</externallink>
- <thumbnail>http://i621.photobucket.com/albums/tt299/victor_sepulveda1/11539729_10152828098646496_326047770_o_zps4qwjwjbp.jpg<thumbnail>
-    </item>
-   
- <item>
-    <title>[COLOR yellow]TeaM Buddha[/COLOR]</title>
-    <link>http://Ignoreme</link>
-    <externallink>http://pastebin.com/raw.php?i=9qVRWBME</externallink>
-<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
- <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
-    </item>
-   
-
 <item>
     <title>[COLOR yellow]radios online[/COLOR]</title>
     <link>http://Ignoreme</link>
