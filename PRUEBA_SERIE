@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+    
+
+<!-- SERIES  MENU-->	
+
+<!-- SERIE Hora de aventura temporada 3-->
+
+<channel>
+     <name>LOS ORIGINALES</name>
+     <thumbnail>http://s23.postimg.org/a2p5uo7p7/adventuretime14cvrb.jpg</thumbnail>
+     <fanart>http://1.bp.blogspot.com/-lcjm-s7iW8g/UfXXDHvOKUI/AAAAAAAA_Zo/45I71a3nTZk/s1600/adventure-time-hora-de-aventura-real-madrid-709496.jpg</fanart>
+     <items>
+         <externallink>https://googledrive.com/host/0B0BObI90Md8oflpwbVVJcTZ5dmxZZlBKRnl1UVl6dzliaHVxQzkzcHZkdHM4S2VvemhlSGM/SERIESINFANTILES/Horadeaventura3.xml</externallink> 
+      </items>    
+</channel>
+
+<!-- LOS ORIGINALES-->
+
+<channel>
+     <name>LOS OROGINALES</name>
+     <thumbnail>http://mlm-d1-p.mlstatic.com/3042-MLM3841455308_022013-F.jpg</thumbnail>
+     <fanart>http://gamers-on.com/wp-content/uploads/2015/04/Hora_de_aventura_3ds_anunciado_dest01.jpg</fanart>
+     <items>
+         <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/originals/originals.m3u
+
+</externallink> 
+      </items>    
+</channel>
+
+
+<!-- NEW GIRLS-->
+
+<channel>
+     <name>NEW GIRL</name>
+     <thumbnail>http://fotos.subefotos.com/4404030256f7e0456eab72122020363co.jpg</thumbnail>
+     <fanart>http://gamers-on.com/wp-content/uploads/2015/04/Hora_de_aventura_3ds_anunciado_dest01.jpg</fanart>
+     <items>
+         <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/new_girl/new_girl.m3u
+
+</externallink> 
+      </items>	
+</channel>
+<channels>	
+
+
