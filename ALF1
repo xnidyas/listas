@@ -1,6 +1,11 @@
 #EXTM3U,view:tvshows
 #EXTM3U,view:tvshows
-
+#EXTINF:-1, CLASICOS ROMANTICOS
+https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf?k1=live&k2=clasicosromanticos
+#EXTINF:-1, CLASICOS ROMANTICOS EMBED
+https://vaughnlive.tv/embed/video/clasicosromanticos
+#EXTINF:-1, CLASICOS ROMANTICOS AMP
+https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf?k1=live&amp;k2=clasicosromanticos
 #EXTINF:-1,1x01 - KEPE
 https://cs505604.vk.me/u16672234/videos/26e07e23fd.360.mp4?extra=ip-Ti3UlKdtXRW_oEKIfxjPnAfl6D0sEGfNa0AMKsH2FcKhseBcpxhkXoAJn7WlQRfhPAB2CcMlxAWCVxc_cdblQMrIGqg
 #EXTINF:-1,1x01 - KEPE2
