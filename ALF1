@@ -1,46 +1,23 @@
 #EXTM3U,view:tvshows
 
-#EXTINF:-1,1x01 - Piloto,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/7way92y4rgny
-Opcion 2,http://www.nowvideo.sx/video/5d3958484940f
-#multilink
-
+#EXTINF:-1,1x01 - Piloto
+http://streamin.to/7way92y4rgny
 #EXTINF:-1,1x02 - Extraños en la noche,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/tu6wbe6ioixn
-Opcion 2,http://www.nowvideo.sx/video/5bdde41a3dc77
-#multilink
-
+http://streamin.to/tu6wbe6ioixn
 #EXTINF:-1,1x03 - En busca de suertudo,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/y6prppddyvhg
-Opcion 2,http://www.nowvideo.sx/video/f3ecdec09da2a
-#multilink
-
+http://streamin.to/y6prppddyvhg
 #EXTINF:-1,1x04 - Pennsylvania 6-5000,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/aosaa68xgeid
-Opcion 2,http://www.nowvideo.sx/video/58884c76f1cc2
-#multilink
-
+http://streamin.to/aosaa68xgeid
 #EXTINF:-1,1x05 - Sigamos con fe,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/iacyfutwahhx
-Opcion 2,http://www.nowvideo.sx/video/25abf7d2cdd0e
-#multilink
+http://streamin.to/iacyfutwahhx
 
 #EXTINF:-1,1x06 - solo para tus ojos,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/zz5y8hix63t8
-Opcion 2,http://www.nowvideo.sx/video/0d78c5d476266
-#multilink
+http://streamin.to/zz5y8hix63t8
 
 #EXTINF:-1,1x07 - Ayúdame Rhonda,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
-#multilink
-Opcion 1,http://streamin.to/tpts2yp5la3f
-Opcion 2,http://www.nowvideo.sx/video/4c2127f08c26c
-#multilink
+http://streamin.to/tpts2yp5la3f
+
+
 
 #EXTINF:-1,1x08 - Eres alguien fuera de este mundo,tvg-logo="https://image.tmdb.org/t/p/w185/FlLG1pXusDyHYKYw5JS2mTjVov.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/ngZT6MuDLUdRh6OM0MdetCZCbPQ.jpg",genre="Comedia"
 #multilink
