@@ -6,6 +6,8 @@ https://vk.com/video_ext.php?oid=236489692&id=171301897&hash=26c6fed782be881a&hd
 #EXTINF:-1,porno (opciones a escoger)
 https://vk.com/video_ext.php?oid=-27900081&id=171206464&hash=3555951e86fab8bc&hd=1
 
+#EXTINF:-1,ESTOS SON SACADO DE YOUTUBE
+http//0.0.0.0
 #EXTINF:-1,piel canela cover (plugin://plugin.video.youtube/play/?video_id=IzqMnEg4SGQ)
 plugin://plugin.video.youtube/play/?video_id=IzqMnEg4SGQ
 #EXTINF:-1,combinar correspondecia (plugin://plugin.video.youtube/play/?video_id=l4ewHQbJYxU)
@@ -14,6 +16,37 @@ plugin://plugin.video.youtube/play/?video_id=l4ewHQbJYxU
 plugin://plugin.video.youtube/play/?video_id=aTE2VvPYHBI
 
 
+
+********************************************************************************
+********************************************************************************
+ESTA ES SOLO PARA  XML OJO!
+<items>
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR green]yeaaa![/COLOR]elenilson ferrer ( Argentina )</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IzqMnEg4SGQ</link>
+<thumbnail>https://lh3.googleusercontent.com/-60Kb1t2nbLs/AAAAAAAAAAI/AAAAAAAAACY/dfSZBro0Sso/s120-c/photo.jpg</thumbnail>
+<fanart>http://www.worldatlas.com/webimage/flags/countrys/zzzflags/svlarge.gif</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]C.[/COLOR][yeaaa!]ferrer[/COLOR]combinar correspondencia</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DZr_lEwW8Y0</link>
+<thumbnail>https://lh3.googleusercontent.com/-60Kb1t2nbLs/AAAAAAAAAAI/AAAAAAAAACY/dfSZBro0Sso/s120-c/photo.jpg</thumbnail>
+<fanart>http://www.elsalvadorga.org/escudo_el_salvador.gif</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR green]pelicula-[/COLOR]my sassy girl</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aTE2VvPYHBI</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/88/My_Sassy_Girl_Movie_Poster.jpg</thumbnail>
+<fanart>http://www.hancinema.net/photos/photo69.jpg</fanart>
+<info></info>
+</item>
+************************************************************************************************************************
+ESTE ES SOLO PARATE DEL EJEMPLO
 
 <items>
 
@@ -41,4 +74,671 @@ plugin://plugin.video.youtube/play/?video_id=aTE2VvPYHBI
 <info></info>
 </item>
 
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Peppa Pig Latino</title>
+<link>plugin://plugin.video.youtube/play/?video_id=e8k4tt_0pe0</link>
+<thumbnail>https://paultonspark.co.uk/assets/images/press/image-library/peppa-pig-world-logo/peppa-pig-world-logo-rgb-high.jpg?24</thumbnail>
+<fanart>http://i.kinja-img.com/gawker-media/image/upload/s--cGVIsoS1--/yv1zepblknt8nlo7z6u8.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Doc Mc Stuffins Latino</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tQ88bFOePiM</link>
+<thumbnail>http://wondersofdisney.yolasite.com/resources/disjunior/mcstuffins/docmcstuffinsheart.png</thumbnail>
+<fanart>https://rocoispeaks.files.wordpress.com/2013/03/525514_357157244346709_116364211759348_982868_1036135468_n.jpeg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Peppa Pig</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DjJ6J3yAu5A</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/61/Peppa_Pig.png</thumbnail>
+<fanart>http://i.kinja-img.com/gawker-media/image/upload/s--cGVIsoS1--/yv1zepblknt8nlo7z6u8.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]TuTiTu Most Popular Toys</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1UzBCRt7fdQ</link>
+<thumbnail>http://s2.dmcdn.net/IxEMF/1280x720-sAX.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/YtGxzlwRgeM/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]ROSIE AND JIM</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=rosie+and+jim+full+episode</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/gd20R2fb4aiu4cHyyQoy0vXM125.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SCOOBY DOO</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=scooby+doo+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/u1A2CJ6ZTeya2KMchzwWOlxL95v.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]BUTTON MOON</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=button+moon+full+episode</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/rjtXKJISYjSOhGoqtJUaGa8CiTf.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE WOMBLES</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=the+wombles+full+episode</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/FG1KKqAsibiha7Sr1GZtmkCXFY.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]STAR FLEET</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=starfleet+full+episodes</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/91FfI0DG-oL._SL1500_.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]KENAN AND KEL</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=kenan+and+kel+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/74392-2.jpg</thumbnail>
+</dir>
+
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SABRINA THE TEENAGE WITCH</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=SABRINA+THE+TEENAGE+WITCH+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/76876-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SAVED BY THE BELL</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=SAVED+BY+THE+BELL+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/79172-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]MOESHA</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=MOESHA+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/74578-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]TAZ-MANIA</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=Taz-Mania+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/76989-2.jpg</thumbnail>
+</dir>
+
+<dir>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]
+<title>BYKER GROVE</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=Byker+Grove+full+episodes</link>
+<thumbnail>http://nowmagazine.media.ipcdigital.co.uk/11140/000021e32/b781_orh100000w360/Byker-Grove.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]JOSSY'S GIANTS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=Jossie%27s+Giants+full+episodes</link>
+<thumbnail>https://childrensbookshop.com/images/bookimages/67/67654.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]GRANGE HILL</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=grange+hill+full+episodes</link>
+<thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/bbcdvd2453/grange_hill_ser3to4_300.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THUNDERBIRDS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=THUNDERBIRDS+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/77964-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]FRAGGLE ROCK</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=fraggle+rock+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/76085-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE MUPPETS SHOW</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=the+muppets+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/Aiv83wffJmKdmPgmnOD0vXmQjwe.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE CLANGERS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=the+CLANGERS+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/usUVIMYX1HzNJUVWY5ab2oOongG.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]BAGPUSS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=BAGPUSS+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/79430-1.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]TEENAGE MUTANT NINJA TURTLES</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=classic+teenage+mutant+ninja+turtles+full+episodes</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/81fT44e8QeL._SL1500_.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]CAPTAIN PLANET</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=Captain+planet+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/q2EKRCJDG6GaOW9e19ZxpCKqb7U.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]WACKY RACES</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=wacky+races+full+episodes?</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/teQbY2yhvQ30G90jQ7k6YYTjRO8.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]PINKEY AND THE BRAIN</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=PINKY+AND+THE+BRAIN+full+episodes?</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/eLew1HttT40izNwLfdhEyx6zFBd.jpg</thumbnail>
+</dir>
+
+<dir>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]
+<title>BIKER MICE FROM MARS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=BIKER+MICE+FROM+MARS+full+episodes&spfreload=1</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/tMb2NFgGol9aPZArqAplQKIC1uJ.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]TOM & JERRY</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=TOM+AND+JERRY+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/nIHq19k5a5qiyyJEBo0SkeAethK.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]DEXTER'S LAB</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=dexter%27s+laboratory+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/zuCyg83BcuKUtT2EfDTLbxrOwhp.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]JOHNNY BRAVO</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=JONNY+BRAVO+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/bHYaoeGcNjAy7ocKVVa5b2jDKzD.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]POWERPUFF GIRLS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=POWERPUFF+GIRLS+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/nh0jlRLQ8Wz2Bc57ukxsd3cH8Us.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]COW AND CHICKEN</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=COW+AND+CHICKEN+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/9t3t3YN843HzisRgkQnv3gtD7DB.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]TRANSFORMERS (1980'S)</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=transformers+full+episodes+1980</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/26zsgyNUx3r7jGAbfV0UgxqAxfX.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]POKEMON</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=pokemon+full+episodes+in+english</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/vjyONIYVSWfOa4HXB3O9XcOMiXV.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SNOOPY</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=SNOOPY+full+episodes+in+english</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/5z4Ze2n573vi1Y0a7OqjgGYmpS9.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]RUGRATS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=RUGRATS+full+episodes+in+english</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/lUiYN170s3HLW5M6d3I8zqg03bw.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]HEY ARNOLD</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=HEY+ARNOLD+full+episodes+in+english</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/lrIsAhSo9weWWQlU1OQrOAGzs9i.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]DUCKTAILS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=DUCKTALES+full+episodes+in+english</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51FK1HTE6VL._SY300_.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]REN & STIMPY</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=ren+and+stimpy+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/mnfUebTLclJxPyYmmkSyjNdGqAM.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SPONGEBOB SQUAREPANTS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=SPONGEBOB+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/2hr4XbiKZS4je3YDqmzJac21Bp9.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE SIMPSONS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=the+simpsons+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/oadXgs77zoLQm04J9dG4fQ3Huwn.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]FAMILY GUY</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=FAMILY+GUY+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/n3UBzIx28m3FpC2EDwVJIjvPxnl.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]AMERICAN DAD</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=AMERICAN+DAD+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/6DRxd3nI0sBw4lIA5pbeVhoI2nO.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]TRANSFORMERS PRIME</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=TRANSFORMERS+PRIME+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/4nXi9LGlO3sKSUZCTBKzdQhX5In.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SPIDERMAN (1967)</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=Spider-Man+%281967%29+full+episodes+english</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/mtX8SzEh8ueqbs0E2qwg21VINMW.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>HE-MAN & THE MASTERS OF THE UNIVERSE (1983)</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=he++man+full+episodes+1985</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/5WufEE9bEIcKlm47q9ZDNxFkdHC.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]ED,EDD N EDDY</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=ed+edd+n+eddy+full+episodes</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/2J8ZqVpqEpGJMclTKzLaJCIdqqO.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE MOOMINS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=the+moomins+full+episodes</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/81ZXWMGknmL._SL1500_.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE PODDINGTON PEAS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=the+PODDINGTON+PEAS+full+episodes</link>
+<thumbnail>http://www.classickidstv.co.uk/wiki/images/d/d4/Logo.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]PENNY CRAYON</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=PENNY+CRAYON+full+episodes&spfreload=1</link>
+<thumbnail>http://fc08.deviantart.net/fs71/f/2011/107/c/a/__by_bigbellys-d3e8i82.png</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]FAMILY-NESS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=FAMILY-NESS+full+episodes</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/5183JBS8QEL._SY300_.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]ROCKO'S MODERN LIFE</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=ROCKO%27S+MODERN+LIFE+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/75729-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]THE MAGIC SCHOOL BUS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=THE+MAGIC+SCHOOL+BUS+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/71416-3.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]RECESS</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=recess+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/71780-2.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]DARKWING DUCK</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=DARKWING+DUCK+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/75475-4.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]DARKWING DUCK</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=DARKWING+DUCK+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/75475-4.jpg</thumbnail>
+</dir>
+
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]REGULAR SHOW</title>
+<link>http://gdata.youtube.com/feeds/api/videos?q=REGULAR+SHOW+full+episodes</link>
+<thumbnail>http://thetvdb.com/banners/posters/188401-8.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Nursery Rhymes</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HP-MbfHFUqs</link>
+<thumbnail>http://resources.hwb.wales.gov.uk/VTC/nursery_rhymes/eng/Introduction/nursery_rhymes.gif</thumbnail>
+<fanart>http://www.asquithnannies.co.uk/blog/wp-content/uploads/2014/11/nursery_rhymes.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Nursery Rhymes 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=RkE6YNfl3do</link>
+<thumbnail>http://resources.hwb.wales.gov.uk/VTC/nursery_rhymes/eng/Introduction/nursery_rhymes.gif</thumbnail>
+<fanart>http://www.funlinksdaily.com/wp-content/uploads/2011/12/NurseryRhymesMotherGoose1.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Baby TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=whlv-C3LO3A</link>
+<thumbnail>http://www.talkmum.com/wp-content/uploads/2014/07/BabyTV-Logo-with-Cloud+R-2-300x255.png</thumbnail>
+<fanart>http://mla-s1-p.mlstatic.com/4106-MLA2784482287_062012-F.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]ChuChu TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qVx6SFRfsLg</link>
+<thumbnail>http://mychuchu.com/wp-content/uploads/2015/02/chuchu_new_logo.png</thumbnail>
+<fanart>http://i.ytimg.com/vi/6VjmKnFlJm0/maxresdefault.jpg</fanart>
+<info>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Morphle TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hSqBJw4SUaI</link>
+<thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s900-c-k-no/photo.jpg</thumbnail>
+<fanart>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]In The Night Garden</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jeYhb8h47CE</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/70/In_the_Night_Garden_logo.png</thumbnail>
+<fanart>http://www.blogcdn.com/www.parentdish.co.uk/media/2013/01/in-the-night-garden-2.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Mr Tumble</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ppHjB9CvtWY</link>
+<thumbnail>http://www.parentingwithouttears.com/custom/%20SOMETHING%20SPECIAL.jpg</thumbnail>
+<fanart>http://img.thesun.co.uk/aidemitlum/archive/01468/Justin-Fletcher-53_1468024a.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Barbie Life in The Dreamhouse</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gGQ-WlsyLMg</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51huQ5p22OL._SL500_AA280_.jpg</thumbnail>
+<fanart>http://mediaservice.mirror-image.com/videos/f99feb2fe9805/screenshots/original.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]My Little Pony Friendship Is Magic</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jL0M5fvDumtM</link>
+<thumbnail>http://fc06.deviantart.net/fs71/i/2012/325/1/1/my_little_pony__friendship_is_magic___villains_by_deltaraen-d5llv8u.jpg</thumbnail>
+<fanart>http://img.photobucket.com/albums/v260/Katganistan/everyone-together-my-little-pony-friendship-is-magic-29790647-813-606.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Gummi Bears</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bhgLoBypReg</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/89/Gummi.jpg</thumbnail>
+<fanart>http://cdnvideo.dolimg.com/cdn_assets/aa675e3bc06e08a909d4defee0429b80d2088e4e.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Super Why</title>
+<link>plugin://plugin.video.youtube/play/?video_id=41xju1RhH-I</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/ae/Superwhylogo.jpg</thumbnail>
+<fanart>http://www.cbc.ca/parents/content/imgs/_8col/superWhy.jpg</fanart>
+<info>Four fairytale friends go on magical adventures and become reading-powered superheroes. The characters live in Storybook Village, which is accessible through a panel that is represented by an invisible question mark. Preschool children follow the Super Readers as they jump into books that come to life.</info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Total Drama Island</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vg2PZcjoEOY&feature=youtu.be</link>
+<thumbnail>http://2.bp.blogspot.com/_MedalgOzQ-U/SeUYwUu9uUI/AAAAAAAAAHs/2enLwLUSBIU/s320/LOGO+TOTAL+DRAMA+ISLAND.jpg</thumbnail>
+<fanart>http://upload.wikimedia.org/wikipedia/en/b/bf/TDCast1.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Garfield</title>
+<link>plugin://plugin.video.youtube/play/?video_id=C6fWI3wGs2A</link>
+<thumbnail>http://fc02.deviantart.net/fs71/f/2013/251/0/2/garfield_by_dashie_so_cute-d6ljqxu.png</thumbnail>
+<fanart>http://fc01.deviantart.net/fs70/f/2014/100/3/e/the_evolution_of_garfield_by_santiagofdf-d7dxkuf.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Paw Patrol</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BHsyjvD8-yc</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8f/PAWPatrolLogo.png</thumbnail>
+<fanart>http://i.ytimg.com/vi/NTrf3nwWaw8/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Hey Arnold!</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZSU-FFaMpnk</link>
+<thumbnail>http://www.beliefnet.com/columnists/moviemom/files/2014/08/hey-arnold.jpg</thumbnail>
+<fanart>http://img3.wikia.nocookie.net/__cb20111218234108/creepypasta/images/a/a0/Hey_Arnold_Characters.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Recess</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Ot93ZAh4kYk</link>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20130703041136/disney/images/5/52/Recess_title.jpg</thumbnail>
+<fanart>http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/shows/banner_817.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Donald Duck & Chip an Dale</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TLHJhLhpRFk</link>
+<thumbnail>http://cartoon-excellence.com/wp-content/uploads/2012/11/Donald-Duck-vs-Chip-n-Dale-Wallpaper-donald-duck.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/D_RBXbsAgEw/hqdefault.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Looney Tunes</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TUCO1hjzb9k</link>
+<thumbnail>http://ewallpaperhub.com/wp-content/uploads/2015/02/looney-tunes-pictures.jpg</thumbnail>
+<fanart>http://wallpapers111.com/wp-content/uploads/2014/12/Baby-Looney-Tunes-Wallpapers-Pictures-11.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Mickey Mouse Clubhouse</title>
+<link>plugin://plugin.video.youtube/play/?video_id=liFxzfyt0os</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/7/78/Mickey_Mouse_Clubhouse_logo.svg/220px-Mickey_Mouse_Clubhouse_logo.svg.png</thumbnail>
+<fanart>http://images.social-first.net/files/chaoticfeed/5823-puzzle-mickey-mouse-club-house-100-piezas_1920x1080.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Mickey & Pluto</title>
+<link>plugin://plugin.video.youtube/play/?video_id=1cEFXQGne7I</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51MVX2SGEVL.jpg</thumbnail>
+<fanart>http://cf067b.medialib.glogster.com/media/20/2095df2e3913046a14fbd3caa4c3630b1c740ec73ac63b442cebeda692dbee3b/mickey-and-pluto-jpg.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Disney Cartoons</title>
+<link>plugin://plugin.video.youtube/play/?video_id=SpSazr3k834</link>
+<thumbnail>http://4.bp.blogspot.com/-ER38XFhs2_M/T9ZRkTwfgdI/AAAAAAAAGyg/lKwsrg74PxI/s1600/Walt_Disney_Animation_Studios_logo.png</thumbnail>
+<fanart>http://coolwallpaperz.info/user-content/uploads/wall/o/93/disney-cartoons-retro-cartoon-220778.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]DISNEY'S CLASSICS</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iKOvVj26mY4</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20110729111811/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png</thumbnail>
+<fanart>http://fc08.deviantart.net/fs71/i/2011/351/0/f/disney_classics_by_erodriguez199698-d4jdr1x.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]DISNEY'S CLASSICS 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ImfXXzZM7xM</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20110119034859/disney/images/b/b7/Walt_Disney_Mini-Classics_1987.jpg</thumbnail>
+<fanart>https://caua1000.files.wordpress.com/2012/03/waltdisneywallpaper21024.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Mr Bean</title>
+<link>plugin://plugin.video.youtube/play/?video_id=fSHDvOdCGAY</link>
+<thumbnail>https://i.ytimg.com/i/57s1QPlQnOplUKv1fGdNpA/mq1.jpg?v=5197c70f</thumbnail>
+<fanart>http://mrbean-website-cache.s3.amazonaws.com/wp-content/uploads/2014/03/New-Series_Turner-Press-release.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Popeye</title>
+<link>plugin://plugin.video.youtube/play/?video_id=PxCbvUUZlqU</link>
+<thumbnail>http://www.deafmotorcyclelinks.com/dba/2011kentuckybikefest/popeye.gif</thumbnail>
+<fanart>http://blogs.band.com.br/kids/files/2013/04/POPEYE-3.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Iron Man</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7iD-VCEh9tw</link>
+<thumbnail>http://i.annihil.us/u/prod/marvel/i/mg/1/03/516c606b41536/portrait_incredible.jpg</thumbnail>
+<fanart>http://goodcomics.comicbookresources.com/wp-content/uploads/2013/04/ironmangreatestdisplay.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]X-Men</title>
+<link>plugin://plugin.video.youtube/play/?video_id=b7dT9d96Guo</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20100101192321/marveldatabase/images/6/6c/X-Men_Vol_2_11.jpg</thumbnail>
+<fanart>http://schmoesknow.com/wp-content/uploads/2015/01/infographic-crazy-x-men-movie-timeline.jpeg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]The Increbidle Hulk</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uewEc4iG_8g</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6f/22_1996_The_Incredible_Hulk_Season_1_Title.jpg</thumbnail>
+<fanart>http://cdn.collider.com/wp-content/uploads/the-incredible-hulk.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Spiderman</title>
+<link>plugin://plugin.video.youtube/play/?video_id=X-64MxKNASQ</link>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140601103230/marvel/es/images/2/26/Spider-Man_(videojuego_2000)_cover_art.jpg</thumbnail>
+<fanart>http://img3.wikia.nocookie.net/__cb20140530091211/spiderman/images/7/70/Wikia-Visualization-Main,spiderman.png</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]SuperMan</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6xDcG79l7Rg</link>
+<thumbnail>http://static.tumblr.com/2ihx1rl/8fMmc9dz8/image__22__copy.jpg</thumbnail>
+<fanart>http://static.comicvine.com/uploads/original/10/104700/4450945-superman+1.jpeg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]He-Man & She-Ra the Movie</title>
+<link>plugin://plugin.video.youtube/play/?video_id=WiRPtHvdfoY</link>
+<thumbnail>http://www.bustatoons.com/blog_images/blog_memories_12.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/w1280/xqTB0JXjmMmSf67JvheOa9VFOQE.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Teenage Mutant Ninja Turtles</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mGXmjiBS1Jc</link>
+<thumbnail>http://static.deathandtaxesmag.com/uploads/2012/03/TMNT-Bay.jpg</thumbnail>
+<fanart>http://static.comicvine.com/uploads/original/7/74209/3014649-cast-of-teenage-mutant-ninja-turtles-5.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Biker mice from mars</title>
+<link>plugin://plugin.video.youtube/play/?video_id=LCLAkf8y8L0</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/Biker_Mice_from_Mars_logo.jpg</thumbnail>
+<fanart>http://www.pocandpoch.com/wp-content/gallery/biker-mice-from-mars/biker-mice-from-mars-2006.jpg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR blue]C.[/COLOR][COLOR red]TEAM[/COLOR]Victorious Live Music</title>
+<link>plugin://plugin.video.youtube/play/?video_id=csbcTp1e04g&index=50&list=PLkh4al2dRnnL8-wMcgc_83Juh_W9fsDpg</link>
+<thumbnail>http://images4.fanpop.com/image/photos/22300000/Victorious-victorious-22306361-1280-1024.jpg</thumbnail>
+<fanart>http://www.allthetests.com/quiz29/picture/pic_1312128629_2.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+
+
+****************************************************************
 
