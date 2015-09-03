@@ -17,12 +17,14 @@
     <externallink>https://googledrive.com/host/0B0BObI90Md8oflpwbVVJcTZ5dmxZZlBKRnl1UVl6dzliaHVxQzkzcHZkdHM4S2VvemhlSGM/SERIESINFANTILESMENU.xml</externallink>
     <thumbnail>http://i621.photobucket.com/albums/tt299/victor_sepulveda1/logo%20plata%20list_zpsanynazyx.jpg<thumbnail>
     </item>
+    
+    <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNO SE TOMA EN CUENTA
     <item>
     <title>[COLOR yellow]CARICATURAS[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/caricaturas/caricaturas.m3u</externallink>
     <thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
-    </item>
+    </item> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
     
    <item>
     <title>[COLOR yellow]PELICULAS FERRER[/COLOR]</title>
@@ -30,12 +32,13 @@
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/PELICULASFERRER</externallink>
     <thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
     </item>
+   <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNO SE TOMA EN CUENTA
    <item>
     <title>[COLOR yellow]PELICULAS FERRER YOUTUBE[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/PELICULAS_YOUTUBE</externallink>
     <thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
-    </item>
+    </item> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
     
        <item>
     <title>[COLOR yellow]VAUNGLIVE TV FERRER[/COLOR]</title>
@@ -43,13 +46,14 @@
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/VAUNGLIVETV</externallink>
     <thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
     </item>
+    
+   <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXNO SE TOMA EN CUENTA
    <item>
     <title>[COLOR yellow]VAUNGLIVE TV FERRER2[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>http://shadowcrew.info/adryan/p247.xml</externallink>
     <thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
-    </item>
-   
+    </item> 
    
     <item>
     <title>[COLOR yellow]ESTRENOS TEKILA[/COLOR]</title>
@@ -63,10 +67,11 @@
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/infantil.m3u</externallink>
  <thumbnail>http://i621.photobucket.com/albums/tt299/victor_sepulveda1/11539729_10152828098646496_326047770_o_zps4qwjwjbp.jpg<thumbnail>
-    </item>
+    </item> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
+   
    
  <item>
-    <title>[COLOR yellow]CATALOGO TKILA ADDON[/COLOR]</title>
+    <title>[COLOR yellow]CATALOGO PELICULAS (T)[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/catalogo.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
@@ -74,7 +79,7 @@
     </item>
     
  <item>
-    <title>[COLOR yellow]RECIENTES TKILA [/COLOR]</title>
+    <title>[COLOR yellow]RECIENTES (T) [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/ultimas.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
@@ -101,39 +106,40 @@
  <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
     </item>   -->
     
-<!-- NO SE TOMA    
+<!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX NO SE TOMA    
  <item>
     <title>[COLOR yellow]SERIES RETRO TKILA [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series_retro.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
  <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
-    </item> -->
+    </item> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
  <item>
-    <title>[COLOR yellow]ANIME PELICULAS TKILA [/COLOR]</title>
+    <title>[COLOR yellow]ANIME PELICULAS (T)[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/peliculas/peliculas.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
  <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
     </item>
  <item>
-    <title>[COLOR yellow]OVAAS ANIME PELICULAS TKILA [/COLOR]</title>
+    <title>[COLOR yellow]OVAAS ANIME PELICULAS (T) [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/ovas/ovas.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
  <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
     </item>
+<!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX NO SE TOMA    
  <item>
     <title>[COLOR yellow]DORAMAS TKILA [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/doramas/doramas.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
  <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
-    </item>
+    </item> XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--->
     
     
  <item>
-    <title>[COLOR yellow]ANIME SERIES TKILA [/COLOR]</title>
+    <title>[COLOR yellow]ANIME SERIES (T) [/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/Series/series.m3u</externallink>
 <thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
@@ -194,7 +200,6 @@
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer8</externallink>
  <thumbnail>http://storage.stgbssint.com/MarketPlace/07/5b8/07725b5d-7eca-4241-8fb4-a23f5eb315b8/Screenshot/634985146227819513.png<thumbnail>
     </item>
-    
     
   <item>
     <title>[COLOR red]Noooooo [/COLOR]</title>
