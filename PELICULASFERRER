@@ -45,9 +45,16 @@ plugin://plugin.stream.vaughnlive.tv/play/?video_id=club_terror
 plugin://plugin.stream.vaughnlive.tv/club_terror
 
 #EXTINF:-1,club terror metodo3 (creditos Elenilson Ferrer)
-plugin://plugin.stream.vaughnlive.tv/embed/video/club_terror?viewers=true&autoplay=true
+plugin://plugin.stream.vaughnlive.tv/embed/video/club_terror
 
+#EXTINF:-1,club terror metodo4 (creditos Elenilson Ferrer)
+http://vaughnlive.tv/embed/video/club_terror
 
+#EXTINF:-1,club terror metodo5 (creditos Elenilson Ferrer)
+http://vaughnlive.tv/club_terror
+
+#EXTINF:-1,club terror metodo6 (creditos Elenilson Ferrer)
+http://vaughnlive.tv//embed/video/club_terror
 
 
 ********************************************************************************
