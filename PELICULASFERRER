@@ -39,6 +39,7 @@ plugin://plugin.video.youtube/play/?video_id=aTE2VvPYHBI
 plugin://plugin.video.youtube/play/?video_id=kHvxVyHC_0g
 
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
 #EXTINF:-1, caNAL1
 https://raw.githubusercontent.com/fgsalva/listas/master/CANAL1
