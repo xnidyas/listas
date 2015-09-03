@@ -4,8 +4,23 @@
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/CARICATURAS_SUPERSONICOS</externallink>
     <thumbnail>https://image.tmdb.org/t/p/w780/jhMNFSZay8TeDEILgDW3juq9qQ2.jpg<thumbnail>
     </item>
+    
+<!-- XXXXXXXXXXXXXXXXXXNO SE TOMA PORQUE SOL HAY UNA TEMPORADA Y NO ES NECESARIO DESPLEGAR MENU TEMPORADAS
+<item>
+    <title>[COLOR yellow]EL INSPECTOR ARDILLA[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/CARICATURAS_ARDILLA</externallink>
+    <thumbnail>https://image.tmdb.org/t/p/w780/jhMNFSZay8TeDEILgDW3juq9qQ2.jpg<thumbnail>
+    </item>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -- >
 
-
+<item>
+    <title>[COLOR yellow]EL INSPECTOR ARDILLA[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://dl.dropboxusercontent.com/u/25649203/addon/list/caricaturas/inspector/ardilla.m3u</externallink>
+    <thumbnail>http://spd.fotolog.com/photo/29/44/103/cruzmtz/1162219675_f.jpg.jpg<thumbnail>
+    </item>
+    
+    
 <!-- XXXXXXXXXXXXXXXXXXNO SE TOMA PORQUE SOL HAY UNA TEMPORADA Y NO ES NECESARIO DESPLEGAR MENU TEMPORADAS
 <item>
     <title>[COLOR yellow]EL LABORATORIO DE DEXTER[/COLOR]</title>
@@ -29,8 +44,6 @@
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/CARICATURAS_CASTORES</externallink>
     <thumbnail>https://image.tmdb.org/t/p/w780/jhMNFSZay8TeDEILgDW3juq9qQ2.jpg<thumbnail>
     </item> XXXXXXXXXXXXXXXXXXXXX-- >
-
-
 
 <item>
     <title>[COLOR yellow]LOS CASTORES CASCARRABIAS[/COLOR]</title>
