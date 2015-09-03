@@ -1,0 +1,9 @@
+#EXTINF:-1,Temporada 1,tvg-logo="https://image.tmdb.org/t/p/w396/kFaIdTbaP8DsFfKfxGIkb8aSFOo.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/jhMNFSZay8TeDEILgDW3juq9qQ2.jpg",genre="Animacion"
+m3u:https://dl.dropboxusercontent.com/u/25649203/addon/list/caricaturas/supersonicos/temp_1.m3u
+
+#EXTINF:-1,Temporada 2,tvg-logo="https://image.tmdb.org/t/p/w396/fE7TUHIP2w1QV6041E3ahkbY7j4.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/jhMNFSZay8TeDEILgDW3juq9qQ2.jpg",genre="Animacion"
+m3u:https://dl.dropboxusercontent.com/u/25649203/addon/list/caricaturas/supersonicos/temp_2.m3u
+
+#EXTINF:-1,Temporada 3,tvg-logo="https://image.tmdb.org/t/p/w396/boh1E1atURBdHXjboTnWOKIfWKb.jpg",tvg-wall="https://image.tmdb.org/t/p/w780/2GWeOe5dhM3BtK94FZ2vjXACvam.jpg",genre="ANIMACION"
+m3u:https://dl.dropboxusercontent.com/u/25649203/addon/list/caricaturas/supersonicos/temp_3.m3u
+
