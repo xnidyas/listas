@@ -2,14 +2,6 @@
 
 
 	<channel>
-    <name>[COLOR=green]-----[/COLOR][COLOR=orange]► P E L I C U L A S  -  24/7 - TODO EL DIA [/COLOR][COLOR gray]Audio Latino: Canales con Peliculas de Todos Los generos.. Estrenos mas recientes !!!  [/COLOR][COLOR=green]-----[/COLOR]</name>
-    <thumbnail>http://i.imgur.com/MWSXNtp.png</thumbnail>
-    <fanart>http://i.imgur.com/7izulmv.jpg</fanart>
-        <items>
-            
-			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange]P E L I C U L A S  - 24/7  (AUDIO LATINO)[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
-			
-			
 			<item>
 			<title>Mega Kids</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
