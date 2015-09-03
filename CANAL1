@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+	<channel>
+    <name>[COLOR=green]-----[/COLOR][COLOR=orange]► P E L I C U L A S  -  24/7 - TODO EL DIA [/COLOR][COLOR gray]Audio Latino: Canales con Peliculas de Todos Los generos.. Estrenos mas recientes !!!  [/COLOR][COLOR=green]-----[/COLOR]</name>
+    <thumbnail>http://i.imgur.com/MWSXNtp.png</thumbnail>
+    <fanart>http://i.imgur.com/7izulmv.jpg</fanart>
+        <items>
+            
+			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange]P E L I C U L A S  - 24/7  (AUDIO LATINO)[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
+			
+			
+			<item>
+			<title>Mega Kids</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
