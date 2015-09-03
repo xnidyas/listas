@@ -23,8 +23,6 @@ https://vk.com/video_ext.php?oid=236489692&id=171269407&hash=90448f956b49da5c&hd
 https://vk.com/video_ext.php?oid=178325912&id=165865439&hash=32addda980fa14b7&hd=1
 #EXTINF:-1, casado con la mafia (III) parte2 coreana (creditos Elenilson Ferrer)
 https://vk.com/video_ext.php?oid=178325912&id=165870089&hash=a1d71c611666954f&hd=1
-#EXTINF:-1, caNAL1
-https://raw.githubusercontent.com/fgsalva/listas/master/CANAL1
 
 #EXTINF:-1,Adulto porno (opciones a escoger)
 https://vk.com/video_ext.php?oid=-27900081&id=171206464&hash=3555951e86fab8bc&hd=1
@@ -39,6 +37,11 @@ plugin://plugin.video.youtube/play/?video_id=l4ewHQbJYxU
 plugin://plugin.video.youtube/play/?video_id=aTE2VvPYHBI
 #EXTINF:-1,La Bestia y Bella (creditos Elenilson Ferrer)
 plugin://plugin.video.youtube/play/?video_id=kHvxVyHC_0g
+
+
+
+#EXTINF:-1, caNAL1
+https://raw.githubusercontent.com/fgsalva/listas/master/CANAL1
 
 
 ********************************************************************************
