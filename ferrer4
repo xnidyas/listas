@@ -32,6 +32,8 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Ideman depotes
 http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1,group-title="DEPORTES"Nbc Sports
+rtmp://109.123.70.38:80/live playpath=golf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=golf&vw=620&vh=490 token=%Zrey(nKa@#Z
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
