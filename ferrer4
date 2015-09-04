@@ -7,7 +7,7 @@ http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 7 Teletica Costa Rica
-http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8#GerardoLoyolaIPTV
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",TVN Chile
@@ -33,12 +33,25 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Ideman depotes
 http://149.255.152.70:80/idman/index.m3u8
 
-#EXTINF:-1,group-title="DEPORTES"Nbc Sports
+#EXTINF:-1,group-title="DEPORTES",Nbc Sports
 rtmp://109.123.70.38:80/live playpath=golf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=golf&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,group-title="DEPORTES"NBC
+#EXTINF:-1,group-title="DEPORTES",NBC UNIVERSO FOXSPORT BUEEENO
 http://209.133.208.178:1935/app/max7a256s-channel/playlist.m3u8
-#EXTINF:-1,group-title="DEPORTES"NBC
+#EXTINF:-1,group-title="DEPORTES",NBC
 rtmp://safe.iguide.to/iguide playpath=kelltgkxow1s084 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER)
+http://209.133.208.178:1935/app/max7a256s-channel/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2 (FERRER)
+http://209.133.208.178:1935/app/max2a256s-channel/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2 (FERRER)
+http://209.133.208.178:1935/app/max2a258s-channel/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES", FOX SPORTS (FERRER RTMP)
+rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=utifa3u3m1ktgd6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30263&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER RTMP)
+rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=i4z0q4wgbf1uct5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=31260&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER RTMP)
+rtmp://$OPT:rtmp-raw=rtmp://181.214.35.9:19350/live/ playpath=maVH5aIHOjE swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
