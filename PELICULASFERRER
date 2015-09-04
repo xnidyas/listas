@@ -77,6 +77,11 @@ http://www.spruto.tv/get_file/8/ebe3057853775def2cc9ed80413c9791/121000/121805/1
 http://5.104.175.73/dl/90887972ce079784adaac31822ec4fc4/55e929da/ff5b16e3dd68ff06db299345dd6f8786ed.flv
 #EXTINF:-1,[COLOR green]ferrer -[/COLOR] SPY 2015 (VIDEOMEGA)
 http://st304.u1.videomega.tv/v/2cf0e6432cee94ff258dbc1d627ba952.mp4?st=rWb7byhLfcpgtCqVFCOjrQ&hash=mIb31T1EhdXYLSkVgJL1gg
+#EXTINF:-1,[COLOR green]ferrer -[/COLOR] UN DIA DESCABELLADO (stream directo)
+rtmp://95.211.214.97:1935/vod?h=3sipa3hq6xuzcg3h5fzcbtvj24tfimppcasahv4po3s5eu
+#EXTINF:-1,[COLOR green]ferrer -[/COLOR] UN DIA DESCABELLADO (streamin.to)
+http://streamin.to/3zdliblk5cwt
+
 
 #EXTINF:-1,[COLOR red] LA  NENA [/COLOR][COLOR green] LLORONA stream.to[/COLOR]
 http://00.0.0.
