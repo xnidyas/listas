@@ -53,6 +53,19 @@ rtmp://181.214.35.7:19350/live/ playpath=wrLnq7XIjCGM swfUrl=http://www.letgo.tv
 
 #EXTINF:-1,group-title="DEPORTES",ESPN dty0MUtYfxHr
 rtmp://181.214.35.7:19350/live/ playpath=dty0MUtYfxHr swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
+#EXTINF:-1,group-title="DEPORTES",DIRECTV PERU
+rtmp://janjua.tv:1935/live/_definst_/directvperu
+#EXTINF:-1,group-title="DEPORTES",ESPN PERU
+rtmp://janjua.tv:1935/live/_definst_/espnperusalem
+#EXTINF:-1,group-title="DEPORTES",FOXSPORT PERU
+rtmp://janjua.tv:1935/live/_definst_/futvaso
+#EXTINF:-1,group-title="DEPORTES",FOXSPORT 2 PERU
+rtmp://janjua.tv:1935/live/_definst_/fox2perupe
+#EXTINF:-1,group-title="DEPORTES",HBO PERU
+rtmp://janjua.tv:1935/live/_definst_/hboperucho1
+#EXTINF:-1,group-title="DEPORTES",FOX PERU
+rtmp://janjua.tv:1935/live/_definst_/foxmalosolandia
+
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
