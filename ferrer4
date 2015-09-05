@@ -42,10 +42,19 @@ rtmp://safe.iguide.to/iguide playpath=kelltgkxow1s084 swfUrl=http://www.iguide.t
 
 #EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER)
 http://209.133.208.178:1935/app/max7a256s-channel/playlist.m3u8
-#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2 (FERRER MAX)
+
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2 (FERRER MAX NOOOO)
 http://209.133.208.178:1935/app/max2a256s-channel/playlist.m3u8
-#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2 (FERRER MAX)
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2 (FERRER MAX NOOOO)
 http://209.133.208.178:1935/app/max2a258s-channel/playlist.m3u8
+
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2* (FERRER MAX7)
+http://209.133.208.178:1935/app/max2a256s-channel/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2* (FERRER MAX7)
+http://209.133.208.178:1935/app/max7a258s-channel/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2* (FERRER MAX7)
+http://209.133.208.178:1935/app/max7a257s-channel/playlist.m3u8
+
 
 #EXTINF:-1,group-title="DEPORTES",ESPN (FERRER MAX)
 http://209.133.208.178:1935/app/max10a267s-channel/playlist.m3u8
@@ -56,21 +65,23 @@ http://209.133.201.162:1935/app/max2a265s-channel/playlist.m3u8
 
 
 #EXTINF:-1,group-title="DEPORTES", FOX SPORTS (FERRER RTMP)
-rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=utifa3u3m1ktgd6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30263&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+rtmp://safe.iguide.to/iguide playpath=utifa3u3m1ktgd6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30263&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER RTMP)
-rtmp://$OPT:rtmp-raw=rtmp://safe.iguide.to/iguide playpath=i4z0q4wgbf1uct5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=31260&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+rtmp://safe.iguide.to/iguide playpath=i4z0q4wgbf1uct5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=31260&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER RTMP)
-rtmp://$OPT:rtmp-raw=rtmp://181.214.35.9:19350/live/ playpath=maVH5aIHOjE swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
-
+rtmp://181.214.35.9:19350/live/ playpath=maVH5aIHOjE swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
 
 #EXTINF:-1,group-title="DEPORTES",ESPN (FERRER RTMP)
-rtmp://$OPT:rtmp-raw=rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1432460759&st=euq1V6vH4-TOkf1Yags0LQ swfUrl=http://greatvideos.eu/flowplayer-3.2.16.swf live=1 
-
+rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1432460759&st=euq1V6vH4-TOkf1Yags0LQ swfUrl=http://greatvideos.eu/flowplayer-3.2.16.swf live=1 
 #EXTINF:-1,group-title="DEPORTES", ESPN + (FERRER RTMP)
-rtmp://$OPT:rtmp-raw=rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=251&vw=650&vh=400
-
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=251&vw=650&vh=400
 #EXTINF:-1,group-title="DEPORTES",ESPN RTMO GUIDE
-rtmp://$OPT:rtmp-raw=rtmp://nl.iguide.to/iguide playpath=52zndujhs0zeasv swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30147&autoplay=true token=#ed%h0#w18623jsda6523lDGDVe
+rtmp://nl.iguide.to/iguide playpath=52zndujhs0zeasv swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30147&autoplay=true token=#ed%h0#w18623jsda6523lDGDVe
+
+#EXTINF:-1, BT Sports 1
+http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/92.m3u8
+#EXTINF:-1, BT Sports 2
+http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/94.m3u8
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
