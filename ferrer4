@@ -65,6 +65,8 @@ rtmp://janjua.tv:1935/live/_definst_/fox2perupe
 rtmp://janjua.tv:1935/live/_definst_/hboperucho1
 #EXTINF:-1,group-title="DEPORTES",FOX PERU
 rtmp://janjua.tv:1935/live/_definst_/foxmalosolandia
+#EXTINF:-1,group-title="DEPORTES",FOX PERU EMBED xxxxxxxxxxxxxxx
+http://www.janjuaplayer.com/embedplayer/foxmalosolandia/1/600/385
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
