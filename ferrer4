@@ -68,16 +68,39 @@ http://209.133.201.162:1935/app/max2a265s-channel/playlist.m3u8
 rtmp://safe.iguide.to/iguide playpath=utifa3u3m1ktgd6 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30263&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER RTMP)
 rtmp://safe.iguide.to/iguide playpath=i4z0q4wgbf1uct5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=31260&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,group-title="DEPORTES",FOX SPORTS (FERRER RTMP 7)
+#EXTINF:-1,group-title="DEPORTES",FOX SPORTS (7 FERRER RTMP 7)
 rtmp://181.214.35.7:19350/live/ playpath=maVH5aIHOjE swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
 
 #EXTINF:-1,group-title="DEPORTES",ESPN FUT ING(FERRER RTMP)
 rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1432460759&st=euq1V6vH4-TOkf1Yags0LQ swfUrl=http://greatvideos.eu/flowplayer-3.2.16.swf live=1 
+
 #EXTINF:-1,group-title="DEPORTES", ESPN + DIRECTV (FERRER RTMP)
 rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=251&vw=650&vh=400
-
-#EXTINF:-1,group-title="DEPORTES", QUE ES 280 (FERRER RTMP)
+#EXTINF:-1,group-title="DEPORTES", DIRECTVQUE ES 280 (FERRER RTMP)
 rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=280&vw=750&vh=420
+
+#EXTINF:-1,group-title="DEPORTES", QUE ES 281 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=281&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 282 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=282&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 283 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=283&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 284 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=284&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 285 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=285&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 286 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=286&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 287 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=287&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", FUTBOL AMERICANO QUE ES 288 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=288&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 289 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=289&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 290 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=290&vw=750&vh=420
+#EXTINF:-1,group-title="DEPORTES", QUE ES 291 (FERRER RTMP)
+rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=291&vw=750&vh=420
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
