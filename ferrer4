@@ -52,22 +52,7 @@ rtmp://nl.iguide.to/iguide playpath=i4z0q4wgbf1uct5 swfUrl=http://www.iguide.to/
 rtmp://181.214.35.7:19350/live/ playpath=wrLnq7XIjCGM swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=231&vw=650&vh=400
 
 #EXTINF:-1,group-title="DEPORTES",ESPN dty0MUtYfxHr
-rtmp://181.214.35.9:19350/live/ playpath=dty0MUtYfxHr swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
-#EXTINF:-1,group-title="DEPORTES",ESPN 3 max6a258s
-http://209.133.208.178:1935/app/max6a258s-channel/playlist.m3u8
-
-
-#EXTINF:-1,SP:Canal Deportes
-http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/328.ch
-#EXTINF:-1,SP:Canal Golf
-http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/331.ch
-#EXTINF:-1,SP:Canal Liga
-http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/332.ch
-#EXTINF:-1,SP:Canal+ Futbol
-http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/392.ch
-#EXTINF:-1,SP:Real Madrid TV
-http://62.210.248.96:11000/itscrashh@gmail.com_sport/itscrashh@gmail.com_sport/353.ch
-
+rtmp://181.214.35.7:19350/live/ playpath=dty0MUtYfxHr swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
