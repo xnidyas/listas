@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<channel>
+    <name>          <<<<<<<<<Deportes Español>>>>>>>></name>
+    <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
+    <fanart>http://i.imgur.com/vnB7jHv.jpg</fanart>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]E n t r e t e n i m i e n t o[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+ 
+<items>
+		   
+		  
+		
+          <item>
+          <title>[COLOR cyan]*1*[/COLOR] MEGA KIDS</title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/live_mega_kids$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page></page>
+          <fanart></fanart>
+          <thumbnail>http://apexchurch.org.uk/wp-content/uploads/2012/06/megabanner.jpg</thumbnail>
+          </regex>
+          </item>
+		
+		  <item>
+          <title>[COLOR cyan]*2*[/COLOR] MEGA ANIMES HD</title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_animes live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/live_mega_animes$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page></page>
+          <fanart></fanart>
+          <thumbnail>http://4.bp.blogspot.com/-2qyd-YLwl-M/Ven-yk2qsRI/AAAAAAAAEro/dQ0oeUEieec/s1600/anime.png</thumbnail>
+          </regex>
+          </item>
+          </items>
+                 
+
+          <item>
+          <title>[COLOR cyan]*3*[/COLOR] DRAGON BALL  24 opc. 2</title>
+          <link>rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330</link>
+          <thumbnail>http://www.foroswebgratis.com/fotos/4/6/4/2/8//864679AnimePaperwallpapers_Dragon-Ball-Z_.jpg</thumbnail>
+          </item> 
+
+         
+          
+		  <item>
+          <title>[COLOR cyan]*4*[/COLOR]CABALLEROS DEL ZODIACO 24 Op.2</title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_bot live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/mega_bot$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page>http://vaughnlive.tv/mega_bot</page>
+          </regex>
+		  <thumbnail>http://2.bp.blogspot.com/-1EbVSX4hUKg/Ven-ys5mE9I/AAAAAAAAErc/6Zijq5dvGaY/s1600/cavalleros.png</thumbnail>
+		  <fanart></fanart>
+          </item>
+
+		  <item>
+          <title>[COLOR cyan]*5*[/COLOR] TOM Y JERRY 24/7</title>
+          <link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link>
+          <thumbnail>http://static1.squarespace.com/static/528a31e5e4b00863f1646510/t/52c44477e4b0073b10c6bab8/1388594296442/tomyjerryimg.png</thumbnail>
+          </item>
+          
+		  <item>
+		  <title>[COLOR cyan]*6*[/COLOR] SOUTH PARK</title>        
+          <link>http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8</link>
+          <thumbnail>http://1.bp.blogspot.com/-hA2raTcPuHM/UnTaDgz0FRI/AAAAAAAAij8/0giFE7PdCJc/s1600/imagenes+de+south+park+16.png</thumbnail>
+          </item>
+		  
+		  <item>
+		  <title>[COLOR cyan]*7*[/COLOR] ANIME TV</title>        
+          <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
+          <thumbnail>http://fc09.deviantart.net/fs70/f/2014/132/d/3/shonen_jump_vs_anime_all_stars_by_supersaiyancrash-d7i68a6.jpg</thumbnail>
+          </item>
+		  
+		  <item>
+		  <title>[COLOR cyan]*8*[/COLOR] MEGA CHAVO DEL 8</title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_chavo live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/mega_chavo$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page>http://vaughnlive.tv/mega_chavo</page>
+          </regex>
+		  <thumbnail>http://vang.blob.core.windows.net/images/2013/03/26/chavo_220611.jpg</thumbnail>
+		  </item>
+		  
+		  <item>
+		  <title>[COLOR cyan]*9*[/COLOR] Chespirito Mania</title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_chespirito_mania live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/chespirito_mania$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page>http://vaughnlive.tv/chespirito_mania</page>
+          </regex>
+		  <thumbnail>http://www.milenio.com/hey/murio_Chespirito-Chespirito_muerte-Roberto_Gomez_Bolanos-el_Chavo_del_8_MILIMA20141128_0289_32.jpg</thumbnail>
+		  </item>
+			
+          <item>
+		  <title>[COLOR cyan]*10*[/COLOR] Simpsons</title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_simpson_mania live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/simpson_mania$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page>http://vaughnlive.tv/simpson_mania</page>
+          </regex>
+		  <thumbnail>http://2.bp.blogspot.com/-yMY5gm036_M/VeicxLMP3UI/AAAAAAAAEog/s3Uo8poXZjs/s1600/sinson.png</thumbnail>
+		  </regex>
+		  </item>
+           
+		   
+		   <item>
+           <title>[COLOR cyan]*11*[/COLOR] SIMPSON Y FUTURAMA</title>
+           <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_simpson_y_futurama live=1 timeout=20</link>
+           <regex> 
+           <name>clearCode</name>
+           <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+           <page></page>
+           </regex>
+           <regex>
+           <name>getencoded</name>
+           <expres>:mvnkey-(.*)</expres>
+           <page>$doregex[getUrl]</page>
+           </regex>
+           <regex>
+           <name>getserver</name>
+           <expres>(.*?);</expres>
+           <page>$doregex[getUrl]</page>
+           </regex>
+           <regex>
+           <name>getUrl</name>
+           <expres>(.*)</expres>
+           <page>http://mvn.vaughnsoft.net/video/edge/simpson_y_futurama$doregex[gettime]-$doregex[gettime].33434</page>
+           </regex>
+           <regex>
+           <name>gettime</name>
+           <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+           <page>http://vaughnlive.tv/simpson_y_futurama</page>
+           </regex>
+           <thumbnail>http://4.bp.blogspot.com/-YoFzvoE1puE/VeicxOU4t4I/AAAAAAAAEos/r_cO2Sf-rbs/s1600/futurama.png</thumbnail>
+		   <fanart></fanart>
+           </item>	
+
+		   
+		   
+		   
+          <item>
+          <title>[COLOR cyan]*12*[/COLOR] SOUTH PARK TV </title>
+          <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_revolucionhd live=1 timeout=20</link>
+          <regex>
+          <name>clearCode</name>
+          <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+          <page></page>
+          </regex>
+          <regex>
+          <name>getencoded</name>
+          <expres>:mvnkey-(.*)</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getserver</name>
+          <expres>(.*?);</expres>
+          <page>$doregex[getUrl]</page>
+          </regex>
+          <regex>
+          <name>getUrl</name>
+          <expres>(.*)</expres>
+          <page>http://mvn.vaughnsoft.net/video/edge/mega_revolucionhd$doregex[gettime]-$doregex[gettime].33434</page>
+          </regex>
+          <regex>
+          <name>gettime</name>
+          <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+          <page>http://vaughnlive.tv/mega_revolucionhd</page>
+          </regex>
+          <thumbnail>http://img4.wikia.nocookie.net/__cb20140305135025/south-park/pt-br/images/7/75/18956846_1387852431.png</thumbnail>
+          </item>
+
+          </items>
+          </channel>
