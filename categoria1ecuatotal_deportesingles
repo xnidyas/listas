@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+ 
+      <channel>
+    <name>          <<<<<<<<<Deportes Español>>>>>>>></name>
+    <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
+    <fanart>http://i.imgur.com/vnB7jHv.jpg</fanart>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Deportes Ingles[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+         
+    <channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►Deportes América[/COLOR]</name>
+    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    <fanart>URL DE LA IMAGEN DE FONDO</fanart>
+ 
+        </channel>
+
+ 
+
+
+        <item>
+        <title>[COLOR cyan]*1*[/COLOR] Eurosport USA</title>
+        <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+        <thumbnail>http://2.bp.blogspot.com/-H66RmFwSbtI/VeiNSHWDkgI/AAAAAAAAEmE/coB97kGQPRM/s1600/eurospor.png</thumbnail>
+        </item>
+
+
+     
+
+        <item>
+        <title>[COLOR cyan]*2*[/COLOR] Pac Usa Mountain 1080p</title>
+        <link>http://xrxs.net/video/live-p12moun-4728.m3u8</link>
+        <thumbnail>http://3.bp.blogspot.com/-UdQFE4Pp5C0/VeiNSc7x7GI/AAAAAAAAEmk/XmYqNzc32as/s1600/mountain.png</thumbnail>
+        </item>
+
+
+        <item>
+        <title>[COLOR cyan]*3*[/COLOR] Pac-12 Arizona</title>
+        <link>http://xrxs.net/video/live-p12ariz-2328.m3u8</link>
+        <thumbnail>http://3.bp.blogspot.com/-ivkTwyTv0Yk/VeiNR4L7sAI/AAAAAAAAEm0/A9LOJPKuk7o/s1600/arizona.png</thumbnail>
+        </item>
+
+
+        <item>
+        <title>[COLOR cyan]*4*[/COLOR] Pac-12 -Bat Area</title>
+        <link>http://xrxs.net/video/live-p12baya-2328.m3u8</link>
+        <thumbnail>http://1.bp.blogspot.com/-DRWLJ4S0LzQ/VeiNRy-UI-I/AAAAAAAAEms/jp29Zm8_SLY/s1600/bat%2Barea.png</thumbnail>
+        </item>
+
+
+
+        <item>
+        <title>[COLOR cyan]*5*[/COLOR] Pac-12-Los angeles</title>
+        <link>http://xrxs.net/video/live-p12losa-2328.m3u8</link>
+        <thumbnail>http://4.bp.blogspot.com/-BFHO90CWdj8/VeiNR31qxWI/AAAAAAAAEnA/hy4LhRLTmw8/s1600/angeles.png</thumbnail>
+        </item>
+
+
+        
+            <item>    
+            <title>[COLOR cyan]*6*[/COLOR] Pac-12-National 720</title>        
+            <link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+            <thumbnail>http://2.bp.blogspot.com/-5Mlm0PEvwEU/VeiNSngZnyI/AAAAAAAAEmg/VTT9HU9YoBg/s1600/nacional.png</thumbnail>
+            </item>
+			<item>
+            <title>[COLOR cyan]*7*[/COLOR] Pac-12-National 1080</title>        
+            <link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
+            <thumbnail>http://1.bp.blogspot.com/-BidCLsjS4ZQ/VeiNSWjaFNI/AAAAAAAAEmY/suIh08sfklw/s1600/nacional%2B2.png</thumbnail>
+            </item>
+	
+	
+		
+			<item>
+            <title>[COLOR cyan]*8*[/COLOR] Pac-12-Oregon 1080</title>        
+            <link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+            <thumbnail>http://2.bp.blogspot.com/-e8BTcE8Yv6o/VeiNS5cmrfI/AAAAAAAAEm4/nO5IOLmVzmc/s1600/oregon.png</thumbnail>
+            </item>
+			<item>
+            <title>[COLOR cyan]*9*[/COLOR] Pac-12-Washington 1080</title>        
+            <link>http://xrxs.net/video/live-p12wash-4728.m3u8</link>
+            <thumbnail>http://4.bp.blogspot.com/-VIlMUlvNcBQ/VeiNTL6L24I/AAAAAAAAEmw/LUfduP3RpTE/s1600/wallinton.png</thumbnail>
+            </item>
+
+
+
+
+           <item>
+          <title>[COLOR cyan]*10*[/COLOR] M4 Sport</title>
+          <link>http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8</link>
+          <thumbnail>http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg</thumbnail>
+          </item>
+		
+  
+	  <item>
+          <title>[COLOR cyan]*11*[/COLOR] MOTORSPORT USA</title>        
+          <link>http://motorsport.hopto.org:8080/</link>
+          <thumbnail>http://4.bp.blogspot.com/-n7CvAqGwwLg/Tcq67H2v2yI/AAAAAAAAASc/h5Rwl_2iX4M/s1600/Motorsport%2BTV%2Bon%2BFree%2BStreaming%2BCable.jpg</thumbnail>
+          </item>
+
+
+
+          <item>
+          <title>[COLOR cyan]*12*[/COLOR] Auto Sport TV</title>        
+          <link>mms://83.222.173.94/100livesport</link>
+          <thumbnail>https://pbs.twimg.com/profile_images/580230901029826560/ZgZLN_ua.jpg</thumbnail>
+          </item>
+
+
+
+	  <item>
+          <title>[COLOR cyan]*13*[/COLOR] LIVE AUTOSPORT</title>        
+          <link>mms://100automoto.tv/100livesport</link>
+          <thumbnail>http://i.ytimg.com/vi/b5xYasZRDoo/hqdefault.jpg</thumbnail>
+          </item>
+
+
+
+           <item>
+          <title>[COLOR cyan]*14*[/COLOR] NBCSN 720P</title>        
+          <link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+          <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2014/01/nbcsn-logo-600x401.jpg</thumbnail>
+          </item>
+ 
+
+
+            <item>
+            <title>[COLOR cyan]*15*[/COLOR] Astro Supersport 2</title>
+            <link>$doregex[url]</link>
+            <regex>
+            <name>url</name>
+            <expres>file: '(.*?)'</expres>
+            <page>http://www.wezatv.com/dooball/assp2.php</page>
+            <referer>http://www.wezatv.com</referer>
+            </regex>
+            <thumbnail>https://upload.wikimedia.org/wikipedia/ms/f/f6/Astro_supersport_2.gif</thumbnail>
+	    </item>
+ 
+   
+        </channel>
+        </channels>
