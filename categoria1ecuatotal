@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+      <channel>
+    <name>          <<<<<<<<<Deportes Español>>>>>>>></name>
+    <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
+    <fanart>http://i.imgur.com/vnB7jHv.jpg</fanart>
+        <items>
+                
+			<item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Deportes Español[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+	 
+    <channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►Deportes América[/COLOR]</name>
+    <info>DESCRIPCIÓN DE LA CATEGORÍA</info>
+    <thumbnail>URL DE LA IMAGEN DEL ICONO</thumbnail>
+    <fanart>URL DE LA IMAGEN DE FONDO</fanart>
+
+        <item>
+	<title>[COLOR cyan]*1*[/COLOR] VipRacing 1 Varios Eventos</title>
+	<link>$doregex[getVipRacing]</link>
+        <regex>
+        <name>getVipRacing</name>
+        <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-1')</expres>
+        <page></page>
+        </regex>                
+        <thumbnail>http://2.bp.blogspot.com/-524hlWQoh0o/VeiHW-T-oJI/AAAAAAAAEk0/GIYRkZ08wRI/s1600/1.png</thumbnail>
+        </item>
+
+
+        <item>
+	<title>[COLOR cyan]*2*[/COLOR] VipRacing 2 Varios Eventos</title>
+	<link>$doregex[getVipRacing]</link>
+        <regex>
+        <name>getVipRacing</name>
+        <expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.tv/channel/opcion-2')</expres>
+        <page></page>
+        </regex>
+        <thumbnail>http://2.bp.blogspot.com/-20iN67ELbJA/VeiHW1ngDvI/AAAAAAAAElQ/zvIY4zKBofA/s1600/2.png</thumbnail>
+        </item>
+
+	</channel>
+
+
+
+
+        <item>
+	<title>[COLOR cyan]*3*[/COLOR] Univision TDN (EVENTOS)</title>
+	<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/?xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0NDE1Njg3NjR8ODMuNjAuMjQzLjIxOHw1NWVjOTY5NDE5YzY0fDI5NzVkZjA1MmQ4MGE3YmEwYTIyNjUyMDhlZDhjNmQ2NzQwNTk3ZTc. playpath=obzq3ltrjoaxglf swfVfy=1 token=c09d9a9d4a8aa79d01177a12e53cfe97 swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
+        </item>
+
+        <item>
+	<title>[COLOR cyan]*3*[/COLOR] AZTECA DEPORTES (EVENTOS)</title>
+	<link>http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8</link>
+        <thumbnail>http://2.bp.blogspot.com/-z_vpvmR-C2M/VeiHW2C4Y3I/AAAAAAAAElk/XHWodmyYhcw/s1600/azteca.png</thumbnail>
+        </item>
+	
+
+             <item>
+             <title>[COLOR cyan]*4*[/COLOR] Canal plus 1</title>
+             <sportsdevil>http://cinestrenostv.tv/canales/deportes/plusliga.php</sportsdevil>
+             <referer>http://cinestrenostv.tv</referer>
+             <thumbnail>http://2.bp.blogspot.com/-8eL0MdJIsWk/VexairUS8jI/AAAAAAAAEww/wfYlRe30owg/s1600/plus1.png</thumbnail>
+             </item>
+
+
+
+             <item>
+             <title>[COLOR cyan]*5*[/COLOR] Canal-Plus 2</title>
+             <sportsdevil>http://verdirectotv.net/ver-canal-plus-online-y-gratis-las-24-horas-canal-plus-hd/</sportsdevil>
+             <referer>http://verdirectotv.net/</referer>
+             <thumbnail>http://1.bp.blogspot.com/-sXwHAOKi0ic/VexaimRIJsI/AAAAAAAAEw4/aIjkm-0wDJs/s1600/plus.png</thumbnail>
+             </item>
+       
+
+
+
+        <item>
+        <title>[COLOR cyan]*6*[/COLOR] canal+futbol</title>
+        <link>rtmp://149.255.39.10/pull/futbol932?keys=6rPSxWsO8KNh2XR9jvNWAQ&keyt=1441494538 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/</link>
+        <thumbnail>http://1.bp.blogspot.com/-PoD0zCzO4Zc/VexU1EQAreI/AAAAAAAAEwc/YHiiV3jdrYg/s1600/futbol1.png</thumbnail>
+        </item>
+
+
+
+        <item>
+        <title>[COLOR cyan]*7*[/COLOR] canal+Deporte</title>
+        <link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/</link>
+        <thumbnail>http://4.bp.blogspot.com/-PUBis2k2jYE/VexU0CQgBfI/AAAAAAAAEwY/kgt5OPlJaH0/s1600/deporte.png</thumbnail>
+        </item>
+
+
+        <item>
+        <title>[COLOR cyan]*8*[/COLOR] Canal+ Partidazo</title>
+        <sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil> 
+        <referer>http://cinestrenostv.tv/</referer>
+        <thumbnail>http://2.bp.blogspot.com/-OdPZRo1VI34/Vexe6ioLAXI/AAAAAAAAExE/heT7SShSTpc/s1600/partidazo.png</thumbnail>
+        </item>        
+
+
+
+<item>
+        <title>[COLOR cyan]*9*[/COLOR] canal series Xtra</title>
+        <link>rtmp://185.39.11.76/live?token=CIkF2ZzIJc_iLKjRaA3x2wExpired=1441558924 playpath=verseriesextra4ad6c874f3d3d5d9acb5703d7f42fc76 swfUrl=http://gblackstreaming.com/player.swf live=1 pageUrl=http://gblackstreaming.com/embed.php?a=15102&id=&width=650&height=400&autostart=true&strech=</link>
+        <thumbnail>http://3.bp.blogspot.com/-B4oqbSyaK4Q/VexpESI2FnI/AAAAAAAAExU/1oZqXMZrz8k/s1600/series.png</thumbnail>
+        </item>
+
+       
+
+
+        <item>
+	<title>[COLOR cyan]*10*[/COLOR] Real Madrid TV HD</title>
+	<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?</link>
+        <thumbnail>http://4.bp.blogspot.com/-ZY7oeJ3GOHI/VeiHX7oTUHI/AAAAAAAAElg/g4Hi9tufxTg/s1600/real.png</thumbnail>
+        </item>
+
+
+
+        <item>
+	<title>[COLOR cyan]*11*[/COLOR] Sevilla TV</title>
+	<link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link>
+        <thumbnail>http://3.bp.blogspot.com/-BD2zsq7OsyA/VeiHYFKQaEI/AAAAAAAAElc/-xyiBX-o_1I/s1600/selli.png</thumbnail>
+        </item>
+
+
+
+        <item>
+        <title>[COLOR cyan]*12*[/COLOR] TDN</title>
+	<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=20</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/embed/unitdnembed</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<referer>http://tv.televall.com.mx/embed/unitdnembed</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/embed/unitdnembed
+            </referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/unitdn</page>
+			<referer>http://tv.televall.com.mx/embed/unitdnembed</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
+			<fanart></fanart>
+            </item>
+		  
+		    <item>
+            <title>[COLOR cyan]*13*[/COLOR] GOL TV</title>
+            <link>http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8?wowzasessionid=1194586295</link>
+            <thumbnail>http://4.bp.blogspot.com/-iaj5gJqrje0/VeiHXsViDnI/AAAAAAAAElY/HBnSDWmU6t4/s1600/gol.png</thumbnail>
+            </item>
+	
+	        <item>
+			<title>[COLOR cyan]*14*[/COLOR] PLANETA FUTBOL</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=10</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/planeta.php?width=620&height=400</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<referer>http://tv.televall.com.mx/planeta.php?width=620&height=400</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/planeta.php?width=620&height=400</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/planeta00</page>
+			<referer>http://tv.televall.com.mx/planeta.php?width=620&height=400</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://1.bp.blogspot.com/-qGMu5HMXYMI/VeiHXowV5tI/AAAAAAAAElo/MykyO1Jqrus/s1600/plane.png</thumbnail>
+			</item>
+
+            
+	  
+		    
+			<item>
+            <title>[COLOR cyan]*15*[/COLOR] TYC SPORTS</title>
+            <link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_afatv1 live=1 timeout=20</link>
+            <regex>
+            <name>clearCode</name>
+            <expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+            <page></page>
+            </regex>
+            <regex>
+            <name>getencoded</name>
+            <expres>:mvnkey-(.*)</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getserver</name>
+            <expres>(.*?);</expres>
+            <page>$doregex[getUrl]</page>
+            </regex>
+            <regex>
+            <name>getUrl</name>
+            <expres>(.*)</expres>
+            <page>http://mvn.vaughnsoft.net/video/edge/live_afatv1$doregex[gettime]-$doregex[gettime].33434</page>
+            </regex>
+            <regex>
+            <name>gettime</name>
+            <expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+            <page></page>
+            </regex>
+            <thumbnail>http://4.bp.blogspot.com/-xWuR6C9vwQM/VeiJtK58L_I/AAAAAAAAElw/yzPrzUW1RXU/s1600/ty.png</thumbnail>
+            <fanart></fanart>
+            </item>
+			
+
+
+    
+     </channel>
+	</channels>
