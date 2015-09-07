@@ -313,9 +313,12 @@ xWuR6C9vwQM/VeiJtK58L_I/AAAAAAAAElw/yzPrzUW1RXU/s1600/ty.png</thumbnail>
 
 
 <!--BASER #EXTM3U
+
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTESok”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
+#EXTINF:-1 group-title="DEPORTES",vipersing
+http://www.streamlive.to/embedplayer_new.php?width=653&amp;height=410&amp;channel=68873&amp;autoplay=true
 #EXTINF:-1 group-title="DEPORTES",Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
@@ -338,18 +341,18 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1,RPCTV2 MMMMMM
+#EXTINF:-1 group-title="DEPORTES",RPCTV2 MMMMMM
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,M4 Sport,tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg"
+#EXTINF:-1 group-title="DEPORTES"M4 Sport,tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg"
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8 
-#EXTINF:-1,Bein ñ sport
+#EXTINF:-1 group-title="DEPORTES",Bein ñ sport
 http://revolucionariostv.com/MultiTV/beinsports.php referer=http://revolucionariostv.com/
-#EXTINF:-1,TyC Sports,tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg"
+#EXTINF:-1 group-title="DEPORTES",TyC Sports,tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg"
 http://vaughnlive.tv/afatv1 referer=http://vaughnlive.tv/
-#EXTINF:-1,EspN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
+#EXTINF:-1 group-title="DEPORTES",EspN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
 http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true 
-#EXTINF:-1,ESPN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
+#EXTINF:-1 group-title="DEPORTES",ESPN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
 http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true referer=https://www.streamlive.to/
-#EXTINF:-1,HBO Boxing (USA)
+#EXTINF:-1 group-title="DEPORTES",HBO Boxing (USA)
 http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.com/
  ignorado-->
