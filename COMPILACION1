@@ -1,56 +1,26 @@
 #EXTM3U
-#EXTINF:-1,RPCTV
+#EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
+http://0.0.0.0:
+#EXTINF:-1 group-title="DEPORTES",Canal 4 Nicaragua
+http://72.46.226.61/live01/canal41/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Canal 7 Teletica Costa Rica
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,Bein ñ sport
-devil:http://revolucionariostv.com/MultiTV/beinsports.php referer=http://revolucionariostv.com/
-#EXTINF:-1,TyC Sports,tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg"
-devil:http://vaughnlive.tv/afatv1 referer=http://vaughnlive.tv/
-
-#EXTINF:-1,EspN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
-devil:http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true 
-
-#EXTINF:-1,ESPN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
-devil:http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true referer=https://www.streamlive.to/
-
-#EXTINF:-1,HBO Boxing (USA)
-devil:http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.com/
-
-#EXTINF:-1,M4 Sport,tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg"
-http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8 
-
-#EXTINF:-1, Canal+ Sport
-http://178.33.88.129:888/udp/239.102.0.55:1234
-
-
-#EXTINF:-1,beIN 1HD
-http://178.33.88.129:888/udp/239.102.0.4:1234
-#EXTINF:-1,beIN 2HD
-http://178.33.88.129:888/udp/239.102.0.2:1234
-#EXTINF:-1,beIN 7HD
-http://178.33.88.129:888/udp/239.102.0.8:1234
-#EXTINF:-1,beIN 8HD
-http://178.33.88.129:888/udp/239.102.0.9:1234
-#EXTINF:-1,beIN 9HD
-http://178.33.88.129:888/udp/239.102.0.10:1234
-#EXTINF:-1,beIN 10HD
-http://178.33.88.129:888/udp/239.102.0.11:1234
-#EXTINF:-1,beIN 11HD
-http://178.33.88.129:888/udp/239.102.0.12:1234
-#EXTINF:-1,beIN 3 HD
-http://178.33.88.129:888/udp/239.102.0.17:1234
-#EXTINF:-1,beIN 1 HD
-http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:-1, Sky Sport 2 DE
-http://178.33.88.129:888/udp/239.102.0.24:1234
-#EXTINF:-1, Eurosport
-http://178.33.88.129:888/udp/239.102.0.26:1234 
-#EXTINF:-1, Eurosport 2
-http://178.33.88.129:888/udp/239.102.0.27:1234 
-#EXTINF:-1, AD Sports 1
-http://178.33.88.129:888/udp/239.102.0.28:1234
-#EXTINF:-1, AD Sports 2
-http://178.33.88.129:888/udp/239.102.0.29:1234
-
-
-
-
+#EXTINF:-1 group-title="DEPORTES",TVN Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="DEPORTES",tvn chile opt 2
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="DEPORTES",Caracol Internacional MALACALIDAD
+http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 7a
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1 group-title="DEPORTES",azteca 7 mexico
+http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 7HD X NAVI
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
