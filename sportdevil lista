@@ -1,74 +1,22 @@
 #EXTM3U,view:tvshows
 
-#EXTINF:-1,[COLOR red]ESPN HD USA ****
-devil:http://nowwatchtvlive.me/frame/espnhd.php  referer=http://nowwatchtvlive.me/
-#EXTINF:-1,[COLOR red]Manchester United tv
-devil:http://nowwatchtvlive.me/channel-tab-frame/mutv-1.php   referer=http://nowwatchtvlive.me/
-#EXTINF:-1,Univision Deportes
-http://46.28.205.206/tuPlayTV_Sistema_IPTV_OTT_Numero1delMercadoHispano_info[arroba]tuPlay[punto]net_ParaMasInformacion[SD]/index.m3u8
-EXTINF:-1,Sky Sport 3
-devil:http://p2pcast.tv/play/187 referer=http://p2pcast.tv/
+#EXTINF:-1,RPCTV
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1,Bein ñ sport
 devil:http://revolucionariostv.com/MultiTV/beinsports.php referer=http://revolucionariostv.com/
-EXTINF:-1,TVC Deportes
-devil:http://www.tutelevisionenvivo.org/2013/09/tvc-deportes-en-vivo.html referer=http://www.tutelevisionenvivo.org/
-#EXTINF:-1,Azteca Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8 
-#EXTINF:-1,Univision TDN
-devil:http://canales.tutv-porinternet.com/unitdn.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Claro Sports
-devil:http://canales.tutv-porinternet.com/claro.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,espn plus
-devil:http://canales.tutv-porinternet.com/espnplus.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Fox Sports Latino
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Fox Sports SUR 
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,GOLTV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Sport
-devil:http://www.tribunafutboleratv.in/p/canal1.html referer=http://www.tribunafutbotv.in/
-#EXTINF:-1,Fight Sport
-http://streamindo2.ddns.net/jhos/fight/asia/playlist.m3u8
-#EXTINF:-1,NHL
-devil:http://nowwatchtvlive.me/watch-nhl-network-live-stream-online-free-nhl-network-usa-stream/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,MLB
-devil:http://nowwatchtvlive.me/watch-mlb-network-live-stream-mlb-network-24-hour-stream/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,EUROSPORT LIVE
-devil:http://nowwatchtvlive.me/sport-tv1-em-direto-gratis-sport-tv-portugal-live-online/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,HBO Boxing (USA)
-devil:http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.com/
-#EXTINF:-1,NFL Network (USA)
-devil:http://www.freeintertv.com/view/id-2106/1-1-0-1 referer=http://www.freeintertv.com/
-#EXTINF:-1,NFL Network
-devil:http://nowwatchtvlive.me/nfl-network-live-streaming-watch-nfl-network-usa-nfl-network-free/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,EspN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
-devil:http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true referer=https://www.streamlive.to/
-#EXTINF:-1,M4 Sport,tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg"
-http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8 
 #EXTINF:-1,TyC Sports,tvg-logo="http://www.ipuntotv.com/IMAGES/tyc-logo.jpg"
 devil:http://vaughnlive.tv/afatv1 referer=http://vaughnlive.tv/
-#EXTINF:-1,Big 10 Network,tvg-logo="http://newsroom.unl.edu/announce/files/file10659.jpg"
-http://xrxs.net/video/live-btn-1240.m3u8
-#EXTINF:-1,Big 10 Network,tvg-logo="http://newsroom.unl.edu/announce/files/file10659.jpg"
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,Sportmax,tvg-logo="http://www.caribbeanlogos.com/wp-content/uploads/2013/08/sportmax-vector-logo.jpg"
-http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+#EXTINF:-1,EspN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
+devil:http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true 
 #EXTINF:-1,ESPN (HD),tvg-logo="http://www.jimmyv.org/wp-content/uploads/2011/08/ESPN-Red-Logo-large.jpg"
 devil:http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true referer=https://www.streamlive.to/
-#EXTINF:-1,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,AutoSport TV
-mms://83.222.173.94/100livesport
-EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Fox Sports
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Gol TV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,CDN Sports Max
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-EXTINF:-1,beIN 1HD
+#EXTINF:-1,HBO Boxing (USA)
+devil:http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.com/
+#EXTINF:-1,M4 Sport,tvg-logo="http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo-300x197.jpg"
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8 
+#EXTINF:-1, Canal+ Sport
+http://178.33.88.129:888/udp/239.102.0.55:1234
+#EXTINF:-1,beIN 1HD
 http://178.33.88.129:888/udp/239.102.0.4:1234
 #EXTINF:-1,beIN 2HD
 http://178.33.88.129:888/udp/239.102.0.2:1234
@@ -96,33 +44,7 @@ http://178.33.88.129:888/udp/239.102.0.27:1234
 http://178.33.88.129:888/udp/239.102.0.28:1234
 #EXTINF:-1, AD Sports 2
 http://178.33.88.129:888/udp/239.102.0.29:1234
-#EXTINF:-1, Canal+ Sport
-http://178.33.88.129:888/udp/239.102.0.55:1234
-#EXTINF:-1,RPCTV
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,SEVILLAFC
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
-#EXTINF:-1,TyC Sports
-http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,PORSCHE CHANNEL
-mms://100automoto.tv/channel_porsche
-#EXTINF:-1, tvg-logo="bmwChannel.png", tvg-id="bmwChannel", BMW CHANNEL Italia
-mms://100automoto.tv/bmw
-#EXTINF:-1, tvg-logo="mercedesChannel.png", tvg-id="mercedesChannel", Mercedes-Benz Channel
-mms://100automoto.tv/channel_mercedes
-#EXTINF:-1, tvg-logo="autoItaly.png", tvg-id="autoItaly", Auto Italia Channel
-mms://100automoto.tv/channel_italy
-#EXTINF:-1,canal+ sport francia
-devil:http://nowwatchtvlive.me/canal-sport-france-live-stream-watch-canal-sport-france-online/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,SKY Bundesliga 1
-devil:http://nowwatchtvlive.me/sky-bundesliga-hd-1-live-stream-watch-sky-bundesliga-online/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,Sport tv1 Portugal
-devil:http://nowwatchtvlive.me/sport-tv1-em-direto-gratis-sport-tv-portugal-live-online/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,prueba bein
-devil:http://nowwatchtvlive.me/canal-gol-tv-live-stream-canal-plus-liga-y-gol-tv-stream-online/ referer=http://nowwatchtvlive.me/
-#EXTINF:-1,Sky sport f1 Italia
-devil:http://playtv.pw/sky-sport-f1/ referer=http://playtv.pw/
-EXTINF:-1 tvg-logo="arena.png", ARENA SPORT
-http://118.97.167.19/jhos/arena//Playlist.m3u8
+
+
+
+
