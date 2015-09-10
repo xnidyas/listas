@@ -182,6 +182,8 @@ http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
 #EXTINF:-1,Anime en Español
 http://q.gs/9830047/animeespaoltodokodim3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=463274,CODECS="avc1.77.13, mp4a.40.2",RESOLUTION=320x240
+http://sjc-uhls-proxy02.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=19964352&stream=viewer_240p&connectionId=oldurl-c2e1d73f66a927b961673bda491554aec2c9618e&group=iphone
 #EXTINF:-1,EL TRECE HD T-K
 rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
 #EXTINF:-1,CANAL 13 T-K
