@@ -33,22 +33,8 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Ideman depotes
 http://149.255.152.70:80/idman/index.m3u8
 
-#EXTINF:-1,group-title="DEPORTES",NBC UNIVERSO FOXSPORT BUEEENO
-http://209.133.208.178:1935/app/max7a256s-channel/playlist.m3u8
 #EXTINF:-1,group-title="DEPORTES",ESPN FUT ING(FERRER RTMP)
 rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1432460759&st=euq1V6vH4-TOkf1Yags0LQ swfUrl=http://greatvideos.eu/flowplayer-3.2.16.swf live=1 
-
-#EXTINF:-1,group-title="DEPORTES", ESPN + DIRECTV    OK (FERRER RTMP)
-rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=251&vw=650&vh=400
-#EXTINF:-1,group-title="DEPORTES", DIRECTV QUE ES 280 OK(FERRER RTMP)
-rtmp://181.214.35.7:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=280&vw=750&vh=420
-#EXTINF:-1,group-title="DEPORTES", FOX SPORTS LETGO
-rtmp://181.214.35.9:19350/live/ playpath=Fkv1EaOOs9qb swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=233&vw=650&vh=400
-#EXTINF:-1,group-title="DEPORTES",ESPN SERAÀ XXXXXXXXXXXXX
-rtmp://181.214.35.9:19350/live/ playpath=QWv8vIz7dg8M swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=251&vw=650&vh=400
-#EXTINF:-1,group-title="DEPORTES", FOX SPORTS IGUIDE XXXXXXXXX
-rtmp://nl.iguide.to/iguide playpath=i4z0q4wgbf1uct5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=31260&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
