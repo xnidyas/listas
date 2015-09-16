@@ -46,4 +46,18 @@
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 
+<item>
+<title>vipercing BEIN SPORT ES</title>
+<sportsdevil>http://vipracing.tv/channel/bein-es</sportsdevil>
+<referer>referer=www.streamlive.to</referer>
+</item>
+
+<item>
+<title>vipercing UNIVISION DEPORTES</title>
+<sportsdevil>http://vipracing.tv/channel/uni-deportes</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+
+
+
 
