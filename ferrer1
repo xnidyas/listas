@@ -159,6 +159,11 @@
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
 </item>	
 
+<item>
+<title>RPC2 </title>
+<link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
+<referer>refererhttp://live.rpctv.com/</referer>
+</item>	
 
 #EXTINF:-1 group-title="DEPORTES",RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
