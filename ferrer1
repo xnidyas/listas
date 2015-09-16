@@ -283,11 +283,6 @@ item>
 <referer>referer=http://www.p3g.tv/</referer>
 </item>
 
-<item>
-<title>VIPERCING ROJA 3www.p3g.tv</title>
-<sportsdevil>http://vipracing.tv/channel/roja-3</sportsdevil>
-<referer>referer=http://www.p3g.tv/</referer>
-</item>
 
 <item>
 <title>VIPERCING ROJA 6 JUANJA</title>
@@ -295,5 +290,18 @@ item>
 <referer>referer=http://janjua.tv//</referer>
 </item>
 
+<item>
+<title>BT1</title>
+<sportsdevil>http://hdfree.tv/live/bt1.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
 
+<item>
+<title>BT1X</title>
+<sportsdevil>http://www.yocast.tv/embed.php?live=abte1&amp;vw=620&amp;vh=490</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+
+http://www.yocast.tv/embed.php?live=abte1&amp;vw=620&amp;vh=490
 
