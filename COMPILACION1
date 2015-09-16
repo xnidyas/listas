@@ -41,11 +41,10 @@ http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true
 http://www.streamlive.to/embed/48051&width=640&height=480&autoplay=true referer=https://www.streamlive.to/
 #EXTINF:-1 group-title="DEPORTES",HBO Boxing (USA)
 http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.com/
- #EXTINF:-1,Clubterror JODER,tvg-logo=""
+#EXTINF:-1,Clubterror JODER,tvg-logo=""
 devil:http://vaughnlive.tv/club_terror referer=http://vaughnlive.tv/
- #EXTINF:-1,MegaMovies,tvg-logo=""
+#EXTINF:-1,MegaMovies,tvg-logo=""
 devil:http://vaughnlive.tv/mega_movieshd referer=http://vaughnlive.tv/
-
 #EXTINF:-1,mega_movieshd,tvg-logo=""
 devil:http://vaughnlive.tv/mega_movieshd referer=http://vaughnlive.tv/
 
