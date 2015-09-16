@@ -297,10 +297,24 @@ item>
 </item>
 
 <item>
-<title>BT1X</title>
-<sportsdevil>http://www.yocast.tv/embed.php?live=abte1&amp;vw=620&amp;vh=490</sportsdevil>
+<title>BT2 </title>
+<sportsdevil>http://hdfree.tv/live/bt2.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
+
+<item>
+<title>NBC SPORT </title>
+<sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<item>
+<title>NBC SPORTX </title>
+<sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
+<referer>referer=http://hdfree.tv/live/nbcsn.php</referer>
+</item>
+
+
 
 
 http://www.yocast.tv/embed.php?live=abte1&amp;vw=620&amp;vh=490
