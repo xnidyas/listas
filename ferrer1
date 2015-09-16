@@ -1,3 +1,26 @@
+<item>
+<title>ZonaSport 1 item</title>
+<sportsdevil>http://zonasports.in/canal-1.php</sportsdevil>
+<referer>http://www.ustream.tv/</referer>
+</item>
+<item>
+<title>ZonaSport 2 item</title>
+<sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
+<referer>https://streamup.com/</referer>
+</item>
+
+<item>
+<title>ZonaSport 4 item</title>
+<sportsdevil>http://zonasports.in/canal-4.php</sportsdevil>
+<referer>http://www.byutv.org/</referer>
+</item>
+
+<item>
+<title>ZonaSport 5 item</title>
+<sportsdevil>http://zonasports.in/canal-5.php</sportsdevil>
+<referer>http://www.ezcast.tv/</referer>
+</item>
+
 #EXTM3U
 #EXTINF:-1,[COLOR green]ZonaSport 1
 plugin://plugin.video.SportsDevil:http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
