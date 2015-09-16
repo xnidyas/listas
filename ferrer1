@@ -230,13 +230,6 @@ item>
 </item>
 
 <item>
-<title>BEIN Ñ SPORT SUR</title>
-<sportsdevil>http://www.ligatvlive.com/bein.html</sportsdevil>
-<referer>referer=http://www.boxlivetv.net/</referer>
-</item>
-
-
-<item>
 <title>PLANETA FUTBOL</title>
 <sportsdevil>http://www.ligatvlive.com/planeta.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
@@ -261,14 +254,20 @@ item>
 <referer>referer=http://shidurlive.com</referer>
 </item>
 
-<item>
-<title>fs2 TDN</title>
-<sportsdevil>http://www.ligatvlive.com/unidep.html</sportsdevil>
-<referer>referer=http://www.boxlivetv.net</referer>
-</item>
 
+<item>
+<title>BEIN Ñ SPORT SUR</title>
+<sportsdevil>http://www.boxlivetv.net/player.php?chname=Pirlobein2&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
+<referer>referer=http://www.boxlivetv.net/</referer>
+</item>
 <item>
 <title>fs2 TDN x</title>
 <sportsdevil>http://www.boxlivetv.net/player.php?chname=pirlounivision1&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
 <referer>referer=http://www.boxlivetv.net</referer>
+</item>
+
+<item>
+<title>azteca 7</title>
+<sportsdevil>http://www.ligatvlive.com/azteca.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
 </item>
