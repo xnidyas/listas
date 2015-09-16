@@ -355,16 +355,20 @@ item>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
-<title>EROESPORT1</title>
+<title>EUROESPORT1</title>
 <sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
-<title>EROESPORT2</title>
+<title>EUROESPORT2</title>
 <sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
+<title>ESPN USA</title>
+<sportsdevil>http://hdfree.tv/live/espnusa.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
 
 
 
