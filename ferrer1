@@ -235,3 +235,18 @@ item>
 <referer>referer=http://www.boxlivetv.net/</referer>
 </item>
 
+
+<item>
+<title>PLANETA FUTBOL</title>
+<sportsdevil>http://www.ligatvlive.com/planeta.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+
+<item>
+<title>SKY</title>
+<sportsdevil>http://www.ligatvlive.com/sky1.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+
+
+
