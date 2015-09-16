@@ -155,8 +155,7 @@
 
 <item>
 <title>RPC </title>
-<link>
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
+<link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
 </item>	
 
 <item>
@@ -164,9 +163,6 @@ http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
 <link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
 <referer>refererhttp://live.rpctv.com/</referer>
 </item>	
-
-#EXTINF:-1 group-title="DEPORTES",RPC Panama DEPORTES<===
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 
 <item>
 <title>canal+Deportes !!!!</title>
