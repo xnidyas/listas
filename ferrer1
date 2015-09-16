@@ -196,16 +196,25 @@ item>
 <sportsdevil>http://tv.televall.com.mx/tdn.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
-
 <item>
 <title> U TDN TELEVALL</title>
 <sportsdevil>http://tv.televall.com.mx/tdn.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
-
 <item>
 <title>canal FOXSPORT LQ TELEVALL!!!</title>
 <sportsdevil>http://tv.televall.com.mx/foxsport.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
+<item>
+<title>canal ESPN LQ TELEVALL!!!</title>
+<sportsdevil>http://tv.televall.com.mx/espn2.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+<item>
+<title>canal SKY LQ TELEVALL!!!</title>
+<sportsdevil>http://tv.televall.com.mx/sky1.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+
 
