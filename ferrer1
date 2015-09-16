@@ -159,6 +159,10 @@
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
 </item>	
 
+
+#EXTINF:-1 group-title="DEPORTES",RPC Panama DEPORTES<===
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+
 <item>
 <title>canal+Deportes !!!!</title>
 <link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv
