@@ -102,23 +102,23 @@
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>MAX DEPORTES5A</title>
+<title>MAX DEPORTES 5a</title>
 <sportsdevil>http://max-deportv.co.in/?canal=5a</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
-<title>MAX DEPORTES5b</title>
+<title>MAX DEPORTES 5b</title>
 <sportsdevil>http://max-deportv.co.in/?canal=5b</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 
 <item>
 <title>MAX DEPORTES5</title>
-<sportsdevil>http://max-deportv.co.in/?canal=6</sportsdevil>
+<sportsdevil>http://max-deportv.co.in/?canal=5</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 
 <item>
-<title>MAX DEPORTES5</title>
+<title>MAX DEPORTES 6</title>
 <sportsdevil>http://max-deportv.co.in/?canal=6</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
@@ -129,6 +129,28 @@
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 
+<item>
+<title>Max-Deportes 8 Nbc universo letgo</title>
+<sportsdevil>http://max-deportv.co.in/?canal=8</sportsdevil>
+<referer>referer=http://www.letgo.tv/</referer>
+</item>
 
+<item>
+<title>Max-Deportes 9 Nbc universo letgo</title>
+<sportsdevil>http://max-deportv.co.in/?canal=9</sportsdevil>
+<referer>referer=http://www.iguide.to/</referer>
+</item>
+
+<item>
+<title>Max-Deportes 29 Eventos TDN OK</title>
+<sportsdevil>http://max-deportv.co.in/?canal=29</sportsdevil>
+<referer>referer=http://www.Streamlive.to/</referer>
+</item>
+
+<item>
+<title>Max-Deportes 30 Eventos  U-TDN OK</title>
+<sportsdevil>http://max-deportv.co.in/?canal=30</sportsdevil>
+<referer>referer=http://www.Streamlive.to/</referer>
+</item>
 
 
