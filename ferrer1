@@ -309,13 +309,18 @@ item>
 </item>
 
 <item>
-<title>NBC SPORTX </title>
-<sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
-<referer>referer=http://hdfree.tv/live/nbcsn.php</referer>
+<title>SKY1 SPORT  ENG </title>
+<sportsdevil>http://hdfree.tv/live/ss1.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>SKY2 SPORT  ENG </title>
+<sportsdevil>http://hdfree.tv/live/ss2.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
 </item>
 
-
-
-
-http://www.yocast.tv/embed.php?live=abte1&amp;vw=620&amp;vh=490
-
+<item>
+<title>SKY3 SPORT  ENG </title>
+<sportsdevil>http://hdfree.tv/live/ss3.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
