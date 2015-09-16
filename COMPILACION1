@@ -45,6 +45,14 @@ http://www.freeintertv.com/view/id-2256/1-1-0-1 referer=http://www.freeintertv.c
 devil:http://vaughnlive.tv/club_terror referer=http://vaughnlive.tv/
 #EXTINF:-1,MegaMovies,tvg-logo=""
 devil:http://vaughnlive.tv/mega_movieshd referer=http://vaughnlive.tv/
-#EXTINF:-1,mega_movieshd,tvg-logo=""
-devil:http://vaughnlive.tv/mega_movieshd referer=http://vaughnlive.tv/
+#EXTINF:-1,azteca7XXXXXXXXXXXXXXXXX
+devil:http://canales.tutv-porinternet.com/azteca7.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Televisa HDXXXXXXXXXXXXXXXXX
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u
+#EXTINF:-1,Anime TvXXXXXXXXXXXXXXXXXX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1,NickelodeonXXXXXXXXXXXXXXXXXX
+devil:http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html http://www.zandortv.com/
+#EXTINF:-1,tooncast
+devil:http://canales.tutv-porinternet.com/tooncast.html referer=http://canales.tutv-porinternet.com/
 
