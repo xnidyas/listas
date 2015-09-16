@@ -598,13 +598,13 @@ http://178.33.88.129:888/udp/239.102.0.8:1234
 http://178.33.88.129:888/udp/239.102.0.20:1234
 
 #EXTINF:-1,[COLOR green]ZonaSport 2
-devil:http://zonasports.in/canal-2.php referer=https://streamup.com/
+http://zonasports.in/canal-2.php referer=https://streamup.com/
 #EXTINF:-1,[COLOR green]ZonaSport 5
-devil:http://zonasports.in/canal-5.php referer=http://www.ezcast.tv/
+http://zonasports.in/canal-5.php referer=http://www.ezcast.tv/
 #EXTINF:-1,[COLOR green]ZonaSport 4
-devil:http://zonasports.in/canal-4.php referer=http://www.byutv.org/
+http://zonasports.in/canal-4.php referer=http://www.byutv.org/
 #EXTINF:-1,[COLOR green]ZonaSport 1
-devil:http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
+http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
 
 
 
