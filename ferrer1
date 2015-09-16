@@ -154,9 +154,18 @@
 </item>
 
 <item>
-<title>bein1 udn </title>
-<link>http://178.33.88.129:888/udp/239.102.0.4:1234</link>
+<title>RPC </title>
+<link>
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
 </item>	
+
 <item>
-<title>bein2</title>
-<link>http://178.33.88.129:888/udp/239.102.0.2:1234</link>
+<title>canal+Deportes !!!!</title>
+<link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv
+</link>
+
+<item>
+<title>PARTIDAZOS PLUS </title>
+<link>rtmp://31.220.0.187/pull/ playpath=partidazo6352?keys=LRuznweXaQDRxYy4LpZ82A&keyt;=1440333673 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=partidazo6352&width;=600&height;=450
+</link>
+</item>	
