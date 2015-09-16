@@ -11,14 +11,20 @@
 </item>
 
 <item>
-<title>ZonaSport 4 item NOP byutvor</title>
-<sportsdevil>http://zonasports.in/canal-4.php</sportsdevil>
-<referer>http://www.byutv.org/</referer>
+<title>ZonaSport 3 item  </title>
+<sportsdevil>http://zonasports.in/canal-3.php</sportsdevil>
+<referer>https://streamup.com/</referer>
 </item>
 
 <item>
 <title>ZonaSport 5 item ESPN CHAMPION</title>
 <sportsdevil>http://zonasports.in/canal-5.php</sportsdevil>
+<referer>http://www.ezcast.tv/</referer>
+</item>
+
+<item>
+<title>ZonaSport 6 item ESPN CHAMPION</title>
+<sportsdevil>http://zonasports.in/canal-6.php</sportsdevil>
 <referer>http://www.ezcast.tv/</referer>
 </item>
 
