@@ -248,5 +248,15 @@ item>
 <referer>referer=http://shidurlive.com</referer>
 </item>
 
+<item>
+<title>TDN</title>
+<sportsdevil>http://www.ligatvlive.com/tdn.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
 
 
+<item>
+<title>univision TDN</title>
+<sportsdevil>http://www.ligatvlive.com/unitdn.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
