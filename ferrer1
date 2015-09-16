@@ -334,37 +334,37 @@ item>
 <sportsdevil>http://hdfree.tv/live/ss5.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>BT SPORT ESPN </title>
 <sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>BEIN SPORT USA</title>
 <sportsdevil>http://hdfree.tv/live/beinusa.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>BEIN 1 FRANCIA</title>
 <sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>BEIN 2 FRANCIA</title>
 <sportsdevil>http://hdfree.tv/live/bein2fr.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>EUROESPORT1</title>
 <sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>EUROESPORT2</title>
 <sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
+<item>
 <title>ESPN USA</title>
 <sportsdevil>http://hdfree.tv/live/espnusa.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
