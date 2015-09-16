@@ -155,8 +155,8 @@
 
 <item>
 <title>Fox Sports Mexico </title>
-<link>http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8</link>
+<link>http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8</link>
 </item>	
 <item>
-<title>Fox Sports 2 Mexico </title>
-<link>http://201.161.59.4/foxsportsplus.isml/manifest(format=m3u8-aapl).m3u8</link>
+<title>Goltv </title>
+<link>http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8</link>
