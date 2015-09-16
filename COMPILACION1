@@ -55,4 +55,11 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 devil:http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html http://www.zandortv.com/
 #EXTINF:-1,tooncast
 devil:http://canales.tutv-porinternet.com/tooncast.html referer=http://canales.tutv-porinternet.com/
-
+#EXTINF:-1,[COLOR green]ZonaSport 1
+devil:http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
+#EXTINF:-1,[COLOR green]ZonaSport 2
+devil:http://zonasports.in/canal-2.php referer=https://streamup.com/
+#EXTINF:-1,[COLOR green]ZonaSport 4
+devil:http://zonasports.in/canal-4.php referer=http://www.byutv.org/
+#EXTINF:-1,[COLOR green]ZonaSport 5
+devil:http://zonasports.in/canal-5.php referer=http://www.ezcast.tv/
