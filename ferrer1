@@ -271,3 +271,9 @@ item>
 <sportsdevil>http://www.ligatvlive.com/azteca.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
+
+<item>
+<title>canal plus liga</title>
+<sportsdevil>http://www.ligatvlive.com/canalplus.html</sportsdevil>
+<referer>referer=http://www.mips.tv/</referer>
+</item>
