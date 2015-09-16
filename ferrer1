@@ -340,3 +340,32 @@ item>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
+<title>BEIN SPORT USA</title>
+<sportsdevil>http://hdfree.tv/live/beinusa.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<title>BEIN 1 FRANCIA</title>
+<sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<title>BEIN 2 FRANCIA</title>
+<sportsdevil>http://hdfree.tv/live/bein2fr.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<title>EROESPORT1</title>
+<sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<title>EROESPORT2</title>
+<sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+
+
+
+
