@@ -192,22 +192,24 @@ item>
 
 
 <item>
-<title>TDN TELEVALL </title>
-<sportsdevil>http://tv.televall.com.mx/tdn.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
+<title>ESPN LA LIVEFLASH</title>
+<sportsdevil>http://www.ligatvlive.com/espnla.html</sportsdevil>
+<referer>referer=http://www.liveflash.tv/</referer>
 </item>
 <item>
-<title> U TDN TELEVALL</title>
-<sportsdevil>http://tv.televall.com.mx/tdn.html</sportsdevil>
+<title>ESPN SHIDURLE</title>
+<sportsdevil>http://www.ligatvlive.com/espn.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
+
 <item>
-<title>canal FOXSPORT LQ TELEVALL!!!</title>
-<sportsdevil>http://tv.televall.com.mx/foxsport.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
+<title>ESPN HD oneplay</title>
+<sportsdevil>http://www.ligatvlive.com/espnhd.html</sportsdevil>
+<referer>referer=http://oneplay.tv/</referer>
 </item>
+
 <item>
-<title>canal ESPN LQ TELEVALL!!!</title>
+<title>canal ESPN LQ TELEVALL!cxxxxxxxxxxxxxxxxxxx!!</title>
 <sportsdevil>http://tv.televall.com.mx/espn2.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
