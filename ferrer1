@@ -223,12 +223,15 @@ item>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
 
-
-
 <item>
-<title>canal SKY LQ TELEVALL!!!</title>
-<sportsdevil>http://tv.televall.com.mx/sky1.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
+<title>DIRECTV</title>
+<sportsdevil>http://www.ligatvlive.com/directv.html</sportsdevil>
+<referer>referer=http://www.liveflash.tv/</referer>
 </item>
 
+<item>
+<title>BEIN Ñ SPORT SUR</title>
+<sportsdevil>http://www.ligatvlive.com/bein.html</sportsdevil>
+<referer>referer=http://www.boxlivetv.net/</referer>
+</item>
 
