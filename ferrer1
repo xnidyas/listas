@@ -334,3 +334,9 @@ item>
 <sportsdevil>http://hdfree.tv/live/ss5.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
+
+<title>BT SPORT ESPN </title>
+<sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
