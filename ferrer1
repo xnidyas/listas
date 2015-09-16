@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,[COLOR green]ZonaSport 1
-devil:http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
+plugin://plugin.video.SportsDevil:http://zonasports.in/canal-1.php referer=http://www.ustream.tv/
 #EXTINF:-1,[COLOR green]ZonaSport 2
-devil:http://zonasports.in/canal-2.php referer=https://streamup.com/
+plugin://plugin.video.SportsDevil:http://zonasports.in/canal-2.php referer=https://streamup.com/
 #EXTINF:-1,[COLOR green]ZonaSport 4
-devil:http://zonasports.in/canal-4.php referer=http://www.byutv.org/
+plugin://plugin.video.SportsDevil:http://zonasports.in/canal-4.php referer=http://www.byutv.org/
 #EXTINF:-1,[COLOR green]ZonaSport 5
-devil:http://zonasports.in/canal-5.php referer=http://www.ezcast.tv/
+plugin://plugin.video.SportsDevil:http://zonasports.in/canal-5.php referer=http://www.ezcast.tv/
