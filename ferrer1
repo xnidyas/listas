@@ -324,3 +324,13 @@ item>
 <sportsdevil>http://hdfree.tv/live/ss3.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
+<item>
+<title>SKY4 SPORT  ENG </title>
+<sportsdevil>http://hdfree.tv/live/ss4.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>SKY5 SPORT  ENG </title>
+<sportsdevil>http://hdfree.tv/live/ss5.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
