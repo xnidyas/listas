@@ -138,7 +138,6 @@
 </item>
 
 
-
 <item>
 <title>RPC </title>
 <link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
@@ -206,12 +205,12 @@ item>
 
 <item>
 <title>ARENA SPORT50L RTM+</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750</link>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130749</link>
 </item>	
 
 <item>
 <title>ARENA SPORT49L RTM+</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/13049</link>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130748</link>
 </item>	
 
 <item>
