@@ -407,3 +407,25 @@ item>
 <referer>referer=http://yotv.co/</referer>
 </item>
 
+
+
+<item>
+<title>CALCIO HD</title>
+<sportsdevil>http://cricfree.sx/update/skycalcio.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<item>
+<title>CALCIO 1</title>
+<sportsdevil>http://cricfree.sx/update/sky1ita.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+<item>
+<title>CALCIO 2</title>
+<sportsdevil>http://cricfree.sx/update/sky2ita.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+
+
