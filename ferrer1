@@ -208,27 +208,10 @@ item>
 <title>TRT 1 RTM</title>
 <link>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8</link>
 </item>	
-
 <item>
-<title>TSN1 RTM </title>
-<link>http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
+<title>TRT 2 RTM</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRT2HD_1@181842/master.m3u8</link>
 </item>	
-
-<item>
-<title>TSN2 RTM </title>
-<link>http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
-</item>	
-
-<item>
-<title>TSN3 RTM </title>
-<link>http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
-</item>	
-
-<item>
-<title>TSN4 RTM </title>
-<link>http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
-</item>	
-
 
 <item>
 <title>Canal plus!!!</title>
