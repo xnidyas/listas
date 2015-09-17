@@ -179,8 +179,46 @@ item>
 </item>	
 
 <item>
-<title>NBC UNIVERSO2 RTM</title>
-<link>rtmp://109.123.70.38:80/live playpath=golf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=golf&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<title>TV GEORGIA RTM</title>
+<link>rtmp://162.212.176.42:1935/2tv/2tv1</link>
+</item>	
+
+<item>
+<title>ARENA SPORT3 RTM</title>
+<link>tmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752</link>
+</item>	
+
+<item>
+<title>NTV FUTBOL RTM</title>
+<link>http://j.mp/T_NTVPLUSFOOTBALL2_sly</link>
+</item>	
+<item>
+<title>RTRS FUTBOL RTM</title>
+<link>http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f7</link>
+</item>	
+
+<item>
+<title>SRF2 FUTBOL RTM</title>
+<link>http://hlstv-g1.swisscom.com/iphone/smil:1002_iPhone.smil/playlist.m3u8?NHM=vyqqqqqvytv&NHM6=y&N6=MLKP5E6&J=yvvxwwwttzzxr&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-vtOyxLvzyKuNqtLrvtPwxyPxKysrOqLu&MSK=true</link>
+</item>	
+<item>
+<title>ARENA SPORT1L RTM</title>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750</link>
+</item>	
+<item>
+<title>ARENA SPORT2L RTM</title>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130751</link>
+</item>	
+
+
+<item>
+<title>ARENA SPORT4L RTM</title>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753</link>
+</item>	
+
+<item>
+<title>TRT 1 RTM</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8</link>
 </item>	
 
 
