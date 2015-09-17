@@ -433,10 +433,29 @@ item>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
+
 <item>
 <title>FOX </title>
 <sportsdevil>http://teveonline.net/fox-en-vivo-por-internet/</sportsdevil>
 <referer>referer=http://www.streamify.tv/</referer>
+</item>
+
+<item>
+<title>DISCOVERY CHANEL </title>
+<sportsdevil>http://teveonline.net/discovery-channel-en-vivo-en-espanol/</sportsdevil>
+<referer>referer=http://www.streamify.tv/</referer>
+</item>
+
+<item>
+<title>CARTOON NET </title>
+<sportsdevil>http://teveonline.net/cartoon-network-en-vivo-online/</sportsdevil>
+<referer>referer=http://www.ezcast.tv/</referer>
+</item>
+
+<item>
+<title>DISNEY CHANEL </title>
+<sportsdevil>http://teveonline.net/disney-channel-en-vivo-online/</sportsdevil>
+<referer>referer=http://www.mips.tv/</referer>
 </item>
 
 
