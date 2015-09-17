@@ -174,6 +174,17 @@ item>
 </item>	
 
 <item>
+<title>NBC UNIVERSO1 RTM</title>
+<link>rtmp://198.144.153.143:443/flash playpath=20251?MTQzNDQ5MzI0NTtlZjdmMzdlYmIzN2RlYWExMTljMWExYWU2M2NmZTAwOQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/VkMWE2NWNkMTg2ZGRlYTMyZWIyMjAzMDQ4ZDExNzY_/em9uYXNwb3J0czRoZGE6MjY3ZDA1ZjY0MmNlNmIwYjA0YWFiM2ZmMzI4ZjUzNTI6Yz</link>
+</item>	
+
+<item>
+<title>NBC UNIVERSO2 RTM</title>
+<link>rtmp://209.133.208.50/app playpath=xrivo24s-channel swfUrl=https://streamup.com/assets/StreamupVideoChat.swf live=1 pageUrl=https://streamup.com/rooms/xrivo24s-Channel/plugins/video/show?startMuted=false</link>
+</item>	
+
+
+<item>
 <title>Canal plus!!!</title>
 <sportsdevil>http://verdirectotv.net/ver-canal-plus-online-y-gratis-las-24-horas-canal-plus-hd/</sportsdevil>
 <referer>referer=http://verdirectotv.net/</referer>
@@ -493,3 +504,5 @@ item>
 <sportsdevil>http://www.tv-porinternet.com/2014/07/directv-sports-en-vivo-por-internet.html</sportsdevil>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
+
+
