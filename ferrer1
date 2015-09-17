@@ -184,24 +184,6 @@ item>
 </item>	
 
 <item>
-<title>ARENA SPORT3 RTM</title>
-<link>tmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752</link>
-</item>	
-
-<item>
-<title>NTV FUTBOL RTM</title>
-<link>http://j.mp/T_NTVPLUSFOOTBALL2_sly</link>
-</item>	
-<item>
-<title>RTRS FUTBOL RTM</title>
-<link>http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f7</link>
-</item>	
-
-<item>
-<title>SRF2 FUTBOL RTM</title>
-<link>http://hlstv-g1.swisscom.com/iphone/smil:1002_iPhone.smil/playlist.m3u8?NHM=vyqqqqqvytv&NHM6=y&N6=MLKP5E6&J=yvvxwwwttzzxr&E=xrrzz&76=x&6HM=TLOWUHaIBCLaB86PEy&F=-vtOyxLvzyKuNqtLrvtPwxyPxKysrOqLu&MSK=true</link>
-</item>	
-<item>
 <title>ARENA SPORT1L RTM</title>
 <link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750</link>
 </item>	
@@ -209,16 +191,42 @@ item>
 <title>ARENA SPORT2L RTM</title>
 <link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130751</link>
 </item>	
-
-
+<item>
+<title>ARENA SPORT3L RTM</title>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752</link>
+</item>	
 <item>
 <title>ARENA SPORT4L RTM</title>
 <link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753</link>
+</item>	
+<item>
+<title>ARENA SPORT5L RTM</title>
+<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130754</link>
 </item>	
 
 <item>
 <title>TRT 1 RTM</title>
 <link>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8</link>
+</item>	
+
+<item>
+<title>TSN1 RTM </title>
+<link>http://37.187.248.101:8080/tsn1.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
+</item>	
+
+<item>
+<title>TSN2 RTM </title>
+<link>http://37.187.248.101:8080/tsn2.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
+</item>	
+
+<item>
+<title>TSN3 RTM </title>
+<link>http://37.187.248.101:8080/tsn3.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
+</item>	
+
+<item>
+<title>TSN4 RTM </title>
+<link>http://37.187.248.101:8080/tsn4.stream/index.m3u8?77d8ab64d554b6ed44472cd55ec3d065</link>
 </item>	
 
 
