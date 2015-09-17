@@ -451,6 +451,11 @@ item>
 <sportsdevil>http://teveonline.net/cartoon-network-en-vivo-online/</sportsdevil>
 <referer>referer=http://www.ezcast.tv/</referer>
 </item>
+<item>
+<title>NICKELODEON SUR </title>
+<sportsdevil>http://www.tv-porinternet.com/2013/03/nick-en-vivo-por-internet.html</sportsdevil>
+<referer>referer=http://www.ezcast.tv/</referer>
+</item>
 
 <item>
 <title>DISNEY CHANEL </title>
@@ -458,5 +463,33 @@ item>
 <referer>referer=http://www.mips.tv/</referer>
 </item>
 
+<item>
+<title>TNT </title>
+<sportsdevil>http://www.tv-porinternet.com/2013/03/tnt-latinoamerica-en-vivo.html</sportsdevil>
+<referer>referer=http://www.ezcast.tv/</referer>
+</item>
 
 
+<item>
+<title>ESPN TVXINTER </title>
+<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-en-vivo-por-internet.html</sportsdevil>
+<referer>referer=http://www.liveflash.tv/</referer>
+</item>
+
+<item>
+<title>ESPN SUR </title>
+<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-latinoamerica-en-vivo.html</sportsdevil>
+<referer>referer=http://www.liveflash.tv/</referer>
+</item>
+
+<item>
+<title>FOX SPORT SUR </title>
+<sportsdevil>http://www.tv-porinternet.com/2013/03/fox-sports-en-vivo-por-internet.html</sportsdevil>
+<referer>referer=http://www.streamify.tv/</referer>
+</item>
+
+<item>
+<title>DIRECTV SUR</title>
+<sportsdevil>http://www.tv-porinternet.com/2014/07/directv-sports-en-vivo-por-internet.html</sportsdevil>
+<referer>referer=http://www.liveflash.tv/</referer>
+</item>
