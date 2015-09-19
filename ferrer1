@@ -320,25 +320,6 @@
 </item>	
 
 <item>
-<title>NBC UNIVERSO1 RTM</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752</link>
-</item>	
-
-<item>
-<title>TV GEORGIA RTM</title>
-<link>rtmp://162.212.176.42:1935/2tv/2tv1</link>
-</item>	
-
-<item>
-<title>TRT 1 RTM</title>
-<link>http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8</link>
-</item>	
-<item>
-<title>TRT 2 RTM</title>
-<link>http://trtcanlitv-lh.akamaihd.net/i/TRT2HD_1@181842/master.m3u8</link>
-</item>	
-
-<item>
 <title>Canal plus!!!</title>
 <sportsdevil>http://verdirectotv.net/ver-canal-plus-online-y-gratis-las-24-horas-canal-plus-hd/</sportsdevil>
 <referer>referer=http://verdirectotv.net/</referer>
@@ -373,8 +354,6 @@
 <sportsdevil>http://www.ligatvlive.com/espn2la.html</sportsdevil>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
-
-
 
 <item>
 <title>FOXSPORT LATINOAMERICA</title>
