@@ -38,6 +38,12 @@
 <referer>referer=www.streamlive.to</referer>
 </item>
 <item>
+<title>[COLOR green]vipercing BEIN Ñ Opcion3 item[/COLOR]</title>
+<sportsdevil>http://vipracing.tv/channel/opcion-3</sportsdevil>
+<referer>http://vipracing.tv</referer>
+</item>
+		
+<item>
 <title>[COLOR green]vipercing roja2 item[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/roja-2</sportsdevil>
 <referer>referer=www.streamlive.to</referer>
@@ -126,6 +132,16 @@
 <sportsdevil>http://max-deportv.co.in/?canal=8</sportsdevil>
 <referer>referer=http://www.letgo.tv/</referer>
 </item>
+<title>Max-Deportes 10  Nbc universo NEW</title>
+<sportsdevil>http://max-deportv.co.in/?canal=10</sportsdevil>
+<referer>referer=http://max-deportv.co.in</referer>
+</item>
+
+<item>
+<title>Max-Deportes 10  Nbc universo RTM NEW</title>
+<link>rtmp://209.133.208.178/app/ playpath=max10a227s-channel swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://max-deportv.co.in/?canal=10</link>
+</item>
+
 <item>
 <title>Max-Deportes 29 Eventos TDN OK</title>
 <sportsdevil>http://max-deportv.co.in/?canal=29</sportsdevil>
@@ -135,6 +151,12 @@
 <title>Max-Deportes 30 Eventos  U-TDN OK</title>
 <sportsdevil>http://max-deportv.co.in/?canal=30</sportsdevil>
 <referer>referer=http://www.Streamlive.to/</referer>
+</item>
+
+<item>
+<title>PIRLOTV CANAL 30 NBC SPORT NEW</title>
+<sportsdevil>http://www.pirlotvlive.com/ch30.php</sportsdevil>
+<referer>http://www.pirlotvlive.com</referer>
 </item>
 
 
