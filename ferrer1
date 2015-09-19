@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR yellow]ZonaSport 1 item ESPN[/COLOR]</title>
-<sportsdevil>http://zonasports.in/canal-1.php</sportsdevil>
-<referer>http://www.ustream.tv/</referer>
-</item>
-<item>
 <title>[COLOR yellow]ZonaSport 2 item FOX[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
 <referer>https://streamup.com/</referer>
@@ -13,6 +8,11 @@
 <title>[COLOR yellow]ZonaSport 3 item  [/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-3.php</sportsdevil>
 <referer>https://streamup.com/</referer>
+</item>
+<item>
+<title>[COLOR yellow]ZonaSport 4 BEIN SPORT Ñ[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-4.php</sportsdevil>
+<referer>http://zonasports.in/</referer>
 </item>
 <item>
 <title>[COLOR yellow]ZonaSport 5 item ESPN CHAMPION[/COLOR]</title>
@@ -25,6 +25,16 @@
 <referer>http://www.ezcast.tv/</referer>
 </item>
 
+<item>
+<title>[COLOR yellow]ZonaSport 7 U TDN EZCAST[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-7.php</sportsdevil>
+<referer>http://zonasports.in/</referer>
+</item>
+<item>
+<title>[COLOR yellow]ZonaSport 8 BEIN ESPAÑOL EZCAST[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-8.php</sportsdevil>
+<referer>http://zonasports.in/</referer>
+</item>
 
 
 <item>
