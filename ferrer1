@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR green]CHAMBA tigoStar 1[/COLOR]</title>
+<title>[COLOR orange]CHAMBA tigoStar 1[/COLOR]</title>
 <sportsdevil>http://chaambatv2.blogspot.com/p/1.html</sportsdevil>
 <referer>http://chaambatv2.blogspot.com/p/1.html</referer>
 </item>
 <item>
-<title>[COLOR green]CHAMBA  tigoStar[/COLOR]</title>
+<title>[COLOR orange]CHAMBA  tigoStar[/COLOR]</title>
 <sportsdevil>http://chaambatv2.blogspot.com/p/2.html</sportsdevil>
 <referer>http://chaambatv2.blogspot.com/p/2.html</referer>
 </item>
 
 <item>
-<title>[COLOR green]CLUB SKY SPORT5[/COLOR]</title>
+<title>[COLOR orange]CLUB SKY SPORT5[/COLOR]</title>
 <sportsdevil>http://chaambatv2.blogspot.com/p/2.html</sportsdevil>
 <referer>http://chaambatv2.blogspot.com/p/2.html</referer>
 </item>
 <item>
-<title>[COLOR green]CLUB SKY SPORT4[/COLOR]</title>
+<title>[COLOR orange]CLUB SKY SPORT4[/COLOR]</title>
 <sportsdevil>http://chaambatv2.blogspot.com/p/4.html</sportsdevil>
 <referer>http://chaambatv2.blogspot.com/p/2.html</referer>
 </item>
@@ -346,12 +346,12 @@
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
 <referer>referer=http://cinestrenostv.tv/</referer>
 </item>
-
+< OCULTO
 <item>
 <title>Bein ñ sport</title>
 <sportsdevil>http://revolucionariostv.com/MultiTV/beinsports.php</sportsdevil>
 <referer>referer=http://revolucionariostv.com/</referer>
-</item>
+</item>                  />
 
 
 <item>
@@ -391,7 +391,7 @@
 </item>
 
 <item>
-<title>PLANETA FUTBOL</title>
+<title>PLANETA FUTBO TDNL</title>
 <sportsdevil>http://www.ligatvlive.com/planeta.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
@@ -407,7 +407,6 @@
 <sportsdevil>http://www.ligatvlive.com/tdn.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
-
 
 <item>
 <title>univision TDN</title>
