@@ -75,7 +75,6 @@
 </item>
 
 
-
 <item>
 <title>UNIVISION TDN TUTV</title>
 <sportsdevil>http://canales.tutv-porinternet.com/unitdn.html</sportsdevil>
@@ -338,27 +337,6 @@ item>
 <item>
 <title>TV GEORGIA RTM</title>
 <link>rtmp://162.212.176.42:1935/2tv/2tv1</link>
-</item>	
-
-<item>
-<title>ARENA SPORT1L RTM</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130750</link>
-</item>	
-<item>
-<title>ARENA SPORT2L RTM</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130751</link>
-</item>	
-<item>
-<title>ARENA SPORT3L RTM</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130752</link>
-</item>	
-<item>
-<title>ARENA SPORT4L RTM</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130753</link>
-</item>	
-<item>
-<title>ARENA SPORT5L RTM</title>
-<link>rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/130754</link>
 </item>	
 
 <item>
