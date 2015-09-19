@@ -420,11 +420,6 @@
 <sportsdevil>http://www.boxlivetv.net/player.php?chname=Pirlobein2&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
 <referer>referer=http://www.boxlivetv.net/</referer>
 </item>
-<item>
-<title>fs2 TDN x</title>
-<sportsdevil>http://www.boxlivetv.net/player.php?chname=pirlounivision1&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
-<referer>referer=http://www.boxlivetv.net</referer>
-</item>
 
 <item>
 <title>azteca 7</title>
@@ -433,16 +428,10 @@
 </item>
 
 <item>
-<title>canal plus liga</title>
-<sportsdevil>http://www.ligatvlive.com/canalplus.html</sportsdevil>
-<referer>referer=http://www.mips.tv/</referer>
-</item>
-<item>
 <title>VIPERCING ROJA 4 www.p3g.tv</title>
 <sportsdevil>http://vipracing.tv/channel/roja-4</sportsdevil>
 <referer>referer=http://www.p3g.tv/</referer>
 </item>
-
 
 <item>
 <title>VIPERCING ROJA 6 JUANJA</title>
@@ -473,6 +462,9 @@
 <sportsdevil>http://hdfree.tv/live/ss1.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
+
+VOOOOOOOY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>SKY2 SPORT  ENG </title>
 <sportsdevil>http://hdfree.tv/live/ss2.php</sportsdevil>
