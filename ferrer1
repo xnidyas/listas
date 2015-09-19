@@ -36,7 +36,6 @@
 <referer>http://zonasports.in/</referer>
 </item>
 
-
 <item>
 <title>[COLOR green]vipercing BEIN Ñ Opcion1 item[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-1</sportsdevil>
@@ -140,11 +139,6 @@
 <title>Max-Deportes 10  Nbc universo NEW</title>
 <sportsdevil>http://max-deportv.co.in/?canal=10</sportsdevil>
 <referer>referer=http://max-deportv.co.in</referer>
-</item>
-
-<item>
-<title>Max-Deportes 10  Nbc universo RTM NEW</title>
-<link>rtmp://209.133.208.178/app/ playpath=max10a227s-channel swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://max-deportv.co.in/?canal=10</link>
 </item>
 
 <item>
