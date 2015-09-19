@@ -463,8 +463,6 @@
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
-VOOOOOOOY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 <item>
 <title>SKY2 SPORT  ENG </title>
 <sportsdevil>http://hdfree.tv/live/ss2.php</sportsdevil>
@@ -492,11 +490,6 @@ VOOOOOOOY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 <item>
-<title>BEIN SPORT USA</title>
-<sportsdevil>http://hdfree.tv/live/beinusa.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-<item>
 <title>BEIN 1 FRANCIA</title>
 <sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
@@ -521,7 +514,6 @@ VOOOOOOOY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <sportsdevil>http://hdfree.tv/live/espnusa.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
 
 <item>
 <title>PREMIERE SPORT</title>
@@ -559,8 +551,6 @@ VOOOOOOOY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <referer>referer=http://yotv.co/</referer>
 </item>
 
-
-
 <item>
 <title>CALCIO HD</title>
 <sportsdevil>http://cricfree.sx/update/skycalcio.php</sportsdevil>
@@ -580,7 +570,7 @@ VOOOOOOOY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>BEIN SPORT ITALIA</title>
+<title>BEIN SPORT ITALIA LENTTO</title>
 <sportsdevil>http://cricfree.sx/update/sky3ita.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
