@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>ZonaSport 1 item ESPN</title>
+<title>[COLOR yellow]ZonaSport 1 item ESPN</title>
 <sportsdevil>http://zonasports.in/canal-1.php</sportsdevil>
 <referer>http://www.ustream.tv/</referer>
 </item>
 <item>
-<title>ZonaSport 2 item FOX</title>
+<title>[COLOR yellow]ZonaSport 2 item FOX</title>
 <sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
 <referer>https://streamup.com/</referer>
 </item>
 <item>
-<title>ZonaSport 3 item  </title>
+<title>[COLOR yellow]ZonaSport 3 item  </title>
 <sportsdevil>http://zonasports.in/canal-3.php</sportsdevil>
 <referer>https://streamup.com/</referer>
 </item>
 <item>
-<title>ZonaSport 5 item ESPN CHAMPION</title>
+<title>[COLOR yellow]ZonaSport 5 item ESPN CHAMPION</title>
 <sportsdevil>http://zonasports.in/canal-5.php</sportsdevil>
 <referer>http://www.ezcast.tv/</referer>
 </item>
 <item>
-<title>ZonaSport 6 item ESPN CHAMPION</title>
+<title>[COLOR yellow]ZonaSport 6 item ESPN CHAMPION</title>
 <sportsdevil>http://zonasports.in/canal-6.php</sportsdevil>
 <referer>http://www.ezcast.tv/</referer>
 </item>
@@ -28,32 +28,32 @@
 
 
 <item>
-<title>vipercing BEIN Ñ Opcion1 item</title>
+<title>[COLOR green]vipercing BEIN Ñ Opcion1 item</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-1</sportsdevil>
 <referer>referer=www.streamlive.to</referer>
 </item>
 <item>
-<title>vipercing BEIN Ñ Opcion2 item</title>
+<title>[COLOR green]vipercing BEIN Ñ Opcion2 item</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-2</sportsdevil>
 <referer>referer=www.streamlive.to</referer>
 </item>
 <item>
-<title>vipercing roja2 item</title>
+<title>[COLOR green]vipercing roja2 item</title>
 <sportsdevil>http://vipracing.tv/channel/roja-2</sportsdevil>
 <referer>referer=www.streamlive.to</referer>
 </item>
 <item>
-<title>canal Latino1 item</title>
+<title>[COLOR green] Vipercing Latino1 item</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-11</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>vipercing BEIN SPORT ES lento</title>
+<title>[COLOR green]vipercing BEIN SPORT ES lento</title>
 <sportsdevil>http://vipracing.tv/channel/bein-es</sportsdevil>
 <referer>referer=www.streamlive.to</referer>
 </item>
 <item>
-<title>vipercing UNIVISION DEPORTES lento</title>
+<title>[COLOR green]vipercing UNIVISION DEPORTES lento</title>
 <sportsdevil>http://vipracing.tv/channel/uni-deportes</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
