@@ -468,14 +468,6 @@
 </item>
 
 
-
-<item>
-
-<title>**DISNEY CHANEL </title>
-<sportsdevil>http://teveonline.net/disney-channel-en-vivo-online/</sportsdevil>
-<referer>referer=http://www.mips.tv/</referer>
-</item>
-
 <item>
 <title>TNT </title>
 <sportsdevil>http://www.tv-porinternet.com/2013/03/tnt-latinoamerica-en-vivo.html</sportsdevil>
@@ -503,6 +495,13 @@
 <sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
+
+<item>
+<title>FOX sport TVPOR INTER </title>
+<sportsdevil>http://colgado.tv/tv/foxsports2/</sportsdevil>
+<referer>referer=http://www.MIPS.TV/</referer>
+</item>
+
 
 <item>
 <title>FOX  TVPOR INTER </title>
