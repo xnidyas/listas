@@ -1,118 +1,695 @@
-#EXTM3U
-#EXTINF:-1, [COLOR red]--manifest--http://bit.ly/1BgpVZT--[/COLOR]
-#EXTM3U
-#EXTINF:-1,FOX
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MundoFox
-http://201.161.59.3/natgeowild.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FX
-http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,SONY
-http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX SPORTS
-http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ESPN
-http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ESPN2
-http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ESPN3
-http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,WARNER
-http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Foro tv
-http://201.161.59.3/forotv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL 5
-http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Azteca 7
-http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Gala tv
-http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,Azteca 13
-http://201.161.59.3/azteca13.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,OnceTV
-http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CADENA 3
-http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL 52 MX
-http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,WOBI
-http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,LIFETIME
-http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,FOX LIFE
-http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,E
-http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,DISNEY XD
-http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,NICK
-http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,NAT GEO
-http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,HISTORY
-http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,H2 
-http://201.161.59.3/h2.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,TYC SPORTS
-http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CANAL DHE
-http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,MILENIO TELEVISION
-http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,GOLDEN
-http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,CINE LATINO
-http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,UNICABLE
-http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,BANDAMAX
-http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,RITMOSON
-http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,TELEHIT
-http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,NuMusic
-http://201.161.59.4/nu.isml/manifest(format=m3u8-aapl).m3u8?
-#EXTINF:-1,UDN
-http://46.28.205.206/tuPlayTV_Sistema_IPTV_OTT_Numero1delMercadoHispano_info%5Barroba%5DtuPlay%5Bpunto%5Dnet_ParaMasInformacion%5BHD%5D/index.m3u8
-#EXTINF:-1,Los Simpson24/7
-http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 
-#EXTM3U
-#EXTINF:-1,#[COLOR orange]Lista de [/COLOR][COLOR white] Nano Barrios[/COLOR],tvg-logo="http://actualidad.rt.com/actualidad/public_images/8d6/8d6746a381962793e735444779f606fc_article.png"
-#EXTINF:-1,#[CR]
-#EXTINF:-1,# [COLOR orange]Sígueme en mi blog [/COLOR] [COLOR white]http://palcomaniacos.blogspost.com.es/ [/COLOR]
-#EXTINF:-1,#[CR]
- #EXTINF:-1,[COLOR red]Especial SanFermines 2015  [COLOR red]by DMO[/COLOR],tvg-wall="http://www.navarra.es/NR/rdonlyres/B3F1634C-C9CA-4A3F-A367-429B10418309/110073/ENR_1463.JPG",tvg-logo="http://3.bp.blogspot.com/-y6nLY4lgKmw/U75AUQVxVqI/AAAAAAAAKV4/2QksPyqkO2w/s1600/sanfermin2015_1.jpg"
-m3u:https://copy.com/zrdHpqPGUXXuCFyi
-desc="[COLOR orange]Vive San Fermín de otra forma... En Directo todos los días a las 8:00h y visiona en diferido y con Multicámara cada día de Encierros. Del 7 al 14 de Julio.[/COLOR]"
-#EXTINF:-1,[COLOR aqua]---[/COLOR][COLOR orange] PROGRAMACIÓN TV [/COLOR] [COLOR aqua]---[/COLOR],tvg-logo="http://www.especialmundial.com/wp-content/uploads/programacion-tv-mundial-de-f%C3%BAtbol.jpg"
-m3u:https://dl.dropboxusercontent.com/u/380436718/PanelDerecho.m3u
-#EXTINF:-1,[COLOR aqua]---DIGITAL PLUS---[/COLOR],tvg-logo="http://comunicacion.canalplus.es/images/YOMVI_VERTICAL_FONDO_BLANCO.png"
-m3u:https://dl.dropboxusercontent.com/u/380436718/NuevosPluses.m3u
-#EXTINF:-1,[COLOR aqua]---DEPORTES---[/COLOR],tvg-logo="http://vignette1.wikia.nocookie.net/futbol/images/5/57/Messi.png/revision/latest?cb=20130627212727"
-m3u:https://dl.dropboxusercontent.com/u/380436718/NuevosDeportes.m3u
-#EXTINF:-1,[COLOR aqua]---TDT---[/COLOR],tvg-logo="http://blogs.elpais.com/.a/6a00d8341bfb1653ef01a73dbdcbf7970d-pi"
-m3u:https://dl.dropboxusercontent.com/u/380436718/NuevaTDT.m3u
-#EXTINF:-1,[COLOR aqua]---PELICULAS---[/COLOR],tvg-logo="http://www.facepopular.net/file/pic/user/34145.png"
-m3u:https://dl.dropboxusercontent.com/u/380436718/Peliculas.m3u
-#EXTINF:-1,[COLOR aqua]---SAGAS ---[/COLOR],tvg-logo="https://filmfireblog.files.wordpress.com/2012/12/the-hobbit-gollum-movie-image2.png?w=540"
-m3u:https://dl.dropboxusercontent.com/u/380436718/SagasDeCine.m3u
-#EXTINF:-1,[COLOR aqua]---SERIES PALCO---[/COLOR],tvg-logo="http://3.bp.blogspot.com/-Rfl1eGoEPIs/UkdR7ACXQOI/AAAAAAAAAOA/BNKOu_rBZEE/s1600/the-big-bang-theory-50b893917b448.png"
-m3u:https://dl.dropboxusercontent.com/u/380436718/SeriesNanito.m3u
-#EXTINF:-1,[COLOR aqua]---PROGRAMAS TV---[/COLOR],tvg-logo=""
-#EXTINF:-1,[COLOR aqua]---YOUTUBE---[/COLOR],tvg-logo="http://blog.vidcaster.com/wp-content/uploads/2013/07/youtube-logo-transparent.png"
-m3u:https://dl.dropboxusercontent.com/u/380436718/MundoYoutube.m3u
+<item>
+<title>[COLOR cyan]BEIN Ñ LECTOUR 21 [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=21</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=21</referer>
+</item>
 
-#EXTINF:-1,[COLOR aqua]---MUNDO TV---[/COLOR],tvg-logo="http://www.sev.gob.mx/actividades-artisticas/files/2014/04/tv.png"
-m3u:https://dl.dropboxusercontent.com/u/380436718/mundotv.m3u
+<item>
+<title>[COLOR cyan]CANAL +SPORT 11 [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=11</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=6</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]BEIN 1HD ITALIA [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=12</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=8</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]BEIN 2HD ITALIA [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=8</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=8</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]CANAL + LIGA 23 [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=23</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=23</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]EUROSPORT1 24 [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=24</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=24</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]EUROSPORT 25 [/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=25</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=25</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]BT SPORT EUROPA 69[/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=69</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=69</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]BT SPORT1 52[/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=52</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=52</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]BT SPORT1 66[/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=66</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=66</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]SKY CALCIO 68[/COLOR]</title>
+<sportsdevil>http://www.foot-live.info/lecteur.php?id=68</sportsdevil>
+<referer>http://www.foot-live.info/lecteur.php?id=68</referer>
+</item>
 
 
-#EXTINF:-1,[COLOR aqua]---LISTAS AMIGAS SERA---[/COLOR],tvg-logo="http://www.officialpsds.com/images/thumbs/Crculo-de-Amistad-psd85160.png"
-m3u:https://dl.dropboxusercontent.com/u/380436718/ListasAmigas.m3u
+<item>
+<title>[COLOR orange]CINE CANAL LATNOSCANALES[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/cinecanal.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+<item>
+<title>[COLOR orange]CINEMAX LATNOSCANALES[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/cinemax.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com</referer>
+</item>
+
+<item>
+<title>[COLOR orange]SASHAFILMS[/COLOR]</title>
+<sportsdevil>http://www.sassha-films.net/</sportsdevil>
+<referer>http://www.sassha-films.net/</referer>
+</item>
+
+<item>
+<title>[COLOR orange]HBO PLUS[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/hbo.html</sportsdevil>
+<referer>http://www.sasshamoviez.com/2014/04/hbo.html</referer>
+</item>
+<item>
+<title>[COLOR orange]HBO PLUS opcion2[/COLOR]</title>
+<sportsdevil>http://www.latino4ever.com/2014/10/hbo.html</sportsdevil>
+<referer>http://www.latino4ever.com/2014/10/hbo.html</referer>
+</item>
+
+
+<item>
+<title>[COLOR orange]MOVIE CITY[/COLOR]</title>
+<sportsdevil>http://www.sasshamoviez.com/2014/04/moviecity.html</sportsdevil>
+<referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
+</item>
+
+<item>
+<title>[COLOR orange]UNIVISION TDN[/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2014/03/univision.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com/2014/03/univision.html</referer>
+</item>
+
+<item>
+<title>[COLOR yellow]ZonaSport 2 item FOX[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
+<referer>https://streamup.com/</referer>
+</item>
+
+<item>
+<title>[COLOR yellow]ZonaSport 7 U TDN EZCAST[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-7.php</sportsdevil>
+<referer>http://zonasports.in/</referer>
+</item>
+
+<item>
+<title>[COLOR yellow]ZonaSport 8 BEIN ESPAÑOL EZCAST[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-8.php</sportsdevil>
+<referer>http://zonasports.in/</referer>
+</item>
+
+<item>
+<title>PIRLOTV CANAL 30 NBC SPORT NEW</title>
+<sportsdevil>http://www.pirlotvlive.com/ch30.php</sportsdevil>
+
+<referer>http://www.pirlotvlive.com</referer>
+
+</item>
+
+<item>
+
+<title>PIRLOTV CANAL BEINSPORT NEW</title>
+<sportsdevil>http://www.pirlotvlive.com/bein.php</sportsdevil>
+
+<referer>http://www.pirlotvlive.com</referer>
+
+</item>
+
+
+<item>
+<title>PIRLOTV CANAL BEINSPORT ESPAÑA NEW</title>
+<sportsdevil>http://www.pirlotvlive.com/bein-Sports-Espana.php</sportsdevil>
+<referer>http://www.pirlotvlive.com</referer>
+</item>
+
+
+<item>
+<title>BEIN Ñ SPORT SUR</title>
+<sportsdevil>http://www.boxlivetv.net/player.php?chname=Pirlobein2&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
+<referer>referer=http://www.boxlivetv.net/</referer>
+</item>
+
+<item>
+<title>PIRLOTV CANAL2 BEIN NEW</title>
+<sportsdevil>http://www.pirlotvlive.com/canal-2.php</sportsdevil>
+<referer>http://www.pirlotvlive.com</referer>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue]RPC [/COLOR]</title>
+<link>http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8</link>
+</item>	
+
+
+<item>
+<title>AZTECA DEPORTES</title>
+<link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8? </link>
+</item>	
+
+<item>
+<title>azteca 7 MMM</title>
+<sportsdevil>http://www.ligatvlive.com/azteca.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+
+
+<item>
+
+<title>ANIMETV </title>
+
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
+
+</item>
+
+
+<item>
+
+<title>canal+Deportes RTM</title>
+
+<link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv
+</link>
+
+</item>
+	
+
+<item>
+
+<title>PARTIDAZOS PLUS  RTM</title>
+
+<link>rtmp://31.220.0.187/pull/ playpath=partidazo6352?keys=LRuznweXaQDRxYy4LpZ82A&keyt;=1440333673 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=partidazo6352&width;=600&height;=450
+</link>
+
+</item>	
+
+
+<item>
+
+<title>CANAL + FUTBOL RTM</title>
+
+<link>rtmp://149.255.39.10/pull/futbol932?keys=6rPSxWsO8KNh2XR9jvNWAQ&keyt=1441494538 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
+</link>
+
+</item>	
+
+
+
+<item>
+
+<title>Canal plus!!!</title>
+
+<sportsdevil>http://verdirectotv.net/ver-canal-plus-online-y-gratis-las-24-horas-canal-plus-hd/</sportsdevil>
+
+<referer>referer=http://verdirectotv.net/</referer>
+
+</item>
+
+
+<item>
+
+<title>Canal + PARTIDAZO</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+
+<referer>referer=http://cinestrenostv.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>ESPN CLARO SPORT SHIDURLE</title>
+
+<sportsdevil>http://www.ligatvlive.com/espn.html</sportsdevil>
+
+<referer>referer=http://shidurlive.com</referer>
+
+</item>
+
+
+
+<item>
+
+<title>ESPN LA LIVEFLASH</title>
+
+<sportsdevil>http://www.ligatvlive.com/espnla.html</sportsdevil>
+
+<referer>referer=http://www.liveflash.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>ESPN2 SUR LATINOAMERICA</title>
+
+<sportsdevil>http://www.ligatvlive.com/espn2la.html</sportsdevil>
+
+<referer>referer=http://www.liveflash.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>FOXSPORT LATINOAMERICA</title>
+
+<sportsdevil>http://www.ligatvlive.com/foxsportla.html</sportsdevil>
+
+<referer>referer=http://www.streamify.tv/</referer>
+
+</item>
+
+<item>
+
+<title>DIRECTV</title>
+
+<sportsdevil>http://www.ligatvlive.com/directv.html</sportsdevil>
+
+<referer>referer=http://www.liveflash.tv/</referer>
+
+
+</item>
+
+
+<item>
+<title>PLANETA FUTBOL TDNL</title>
+
+<sportsdevil>http://www.ligatvlive.com/planeta.html</sportsdevil>
+
+<referer>referer=http://shidurlive.com</referer>
+
+</item>
+
+
+
+<item>
+
+<title>SKY1 OJO</title>
+
+<sportsdevil>http://www.ligatvlive.com/sky1.html</sportsdevil>
+
+<referer>referer=http://shidurlive.com</referer>
+
+</item>
+
+
+
+<item>
+
+<title>TDN</title>
+
+<sportsdevil>http://www.ligatvlive.com/tdn.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+
+</item>
+
+
+
+<item>
+
+<title>TDN univision </title>
+
+<sportsdevil>http://www.ligatvlive.com/unitdn.html</sportsdevil>
+
+<referer>referer=http://shidurlive.com</referer>
+
+</item>
+
+
+
+
+<item>
+<title>BT1 </title>
+
+<sportsdevil>http://hdfree.tv/live/bt1.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+
+
+<item>
+<title>BT2 </title>
+
+<sportsdevil>http://hdfree.tv/live/bt2.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>BT SPORT ESPN </title>
+
+<sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>NBC SPORT </title>
+
+<sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>SKY1 SPORT  ENG </title>
+
+<sportsdevil>http://hdfree.tv/live/ss1.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>SKY2 SPORT  ENG </title>
+
+<sportsdevil>http://hdfree.tv/live/ss2.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+<item>
+
+<title>SKY3 SPORT  ENG </title>
+
+<sportsdevil>http://hdfree.tv/live/ss3.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+<item>
+
+<title>SKY4 SPORT  ENG </title>
+
+<sportsdevil>http://hdfree.tv/live/ss4.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+<item>
+
+<title>SKY5 SPORT  ENG </title>
+
+<sportsdevil>http://hdfree.tv/live/ss5.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>BEIN 1 FRANCIA</title>
+
+<sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>BEIN 2 FRANCIA</title>
+
+<sportsdevil>http://hdfree.tv/live/bein2fr.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>EUROESPORT1</title>
+
+<sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>EUROESPORT2</title>
+
+<sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>PREMIERE SPORT</title>
+
+<sportsdevil>http://hdfree.tv/live/premier.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+<item>
+
+<title>ESPN USA </title>
+
+<sportsdevil>http://cricfree.sx/update/espnusa.php</sportsdevil>
+
+<referer>referer=http://yotv.co/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>BOXNATION</title>
+
+<sportsdevil>http://cricfree.sx/update/boxnation.php</sportsdevil>
+
+<referer>referer=http://yotv.co/</referer>
+
+</item>
+
+
+<item>
+
+<title>TSN 1</title>
+
+<sportsdevil>http://cricfree.sx/update/tsn1.php</sportsdevil>
+
+<referer>referer=http://yotv.co/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>TSN 2</title>
+
+<sportsdevil>http://cricfree.sx/update/tsn2.php</sportsdevil>
+
+<referer>referer=http://yotv.co/</referer>
+
+</item>
+
+<item>
+<title>CALCIO HD</title>
+
+<sportsdevil>http://cricfree.sx/update/skycalcio.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>CALCIO 1</title>
+
+<sportsdevil>http://cricfree.sx/update/sky1ita.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>CALCIO 2</title>
+<sportsdevil>http://cricfree.sx/update/sky2ita.php</sportsdevil>
+
+<referer>referer=http://www.yocast.tv/</referer>
+
+</item>
+
+
+------------------------
+
+<item>
+<title>FOX </title>
+
+<sportsdevil>http://teveonline.net/fox-en-vivo-por-internet/</sportsdevil>
+
+<referer>referer=http://www.streamify.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>DISCOVERY CHANEL </title>
+
+<sportsdevil>http://teveonline.net/discovery-channel-en-vivo-en-espanol/</sportsdevil>
+
+<referer>referer=http://www.streamify.tv/</referer>
+
+</item>
+
+
+
+<item>
+<title>CARTOON NETWORK </title>
+
+<sportsdevil>http://teveonline.net/cartoon-network-en-vivo-online/</sportsdevil>
+
+<referer>referer=http://www.ezcast.tv/</referer>
+</item>
+
+
+<item>
+
+<title>**NICKELODEON SUR </title>
+
+<sportsdevil>http://www.tv-porinternet.com/2013/03/nick-en-vivo-por-internet.html</sportsdevil>
+
+<referer>referer=http://www.ezcast.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>**DISNEY CHANEL </title>
+
+<sportsdevil>http://teveonline.net/disney-channel-en-vivo-online/</sportsdevil>
+
+<referer>referer=http://www.mips.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>TNT </title>
+
+<sportsdevil>http://www.tv-porinternet.com/2013/03/tnt-latinoamerica-en-vivo.html</sportsdevil>
+
+<referer>referer=http://www.ezcast.tv/</referer>
+
+</item>
+
+
+
+
+<item>
+
+<title>ESPN TVXINTER </title>
+
+<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-en-vivo-por-internet.html</sportsdevil>
+
+<referer>referer=http://www.liveflash.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>**ESPN SUR </title>
+
+<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-latinoamerica-en-vivo.html</sportsdevil>
+
+<referer>referer=http://www.liveflash.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>FOX SPORT SUR </title>
+
+<sportsdevil>http://www.tv-porinternet.com/2013/03/fox-sports-en-vivo-por-internet.html</sportsdevil>
+
+<referer>referer=http://www.streamify.tv/</referer>
+
+</item>
+
+
+
+<item>
+
+<title>DIRECTV SUR</title>
+
+<sportsdevil>http://www.tv-porinternet.com/2014/07/directv-sports-en-vivo-por-internet.html</sportsdevil>
+
+<referer>referer=http://www.liveflash.tv/</referer>
+</item>
