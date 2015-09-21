@@ -94,57 +94,6 @@
 </item>
 
 
-<item>
-<title>[COLOR green]vipercing BEIN Ñ Opcion1 item[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/opcion-1</sportsdevil>
-<referer>referer=http://openlive.org/</referer>
-</item>
-<item>
-<title>[COLOR green]vipercing BEIN Ñ Opcion1 directo [/COLOR]</title>
-<sportsdevil>http://openlive.org/embed.php?file=vipracinguni&amp;width=653&amp;height=410</sportsdevil>
-<referer>referer=http://openlive.org/</referer>
-</item>
-
-<item>
-<title>[COLOR green]vipercing BEIN Ñ Opcion1 frame[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/opcion-1/frame</sportsdevil>
-<referer>http://vipracing.tv</referer>
-</item>
-
-<item>
-<title>[COLOR green]vipercing BEIN Ñ Opcion2 item[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/opcion-2</sportsdevil>
-<referer>referer=www.streamlive.to</referer>
-</item>
-<item>
-<title>[COLOR green]vipercing BEIN Ñ Opcion3 item[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/opcion-3</sportsdevil>
-<referer>http://vipracing.tv</referer>
-</item>
-
-
-
-<item>
-<title>[COLOR green]vipercing roja2 item[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/roja-2</sportsdevil>
-<referer>referer=www.streamlive.to</referer>
-</item>
-<item>
-<title>[COLOR green] Vipercing Latino1 item[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/opcion-11</sportsdevil>
-<referer>referer=http://www.iguide.to/</referer>
-</item>
-<item>
-<title>[COLOR green]vipercing BEIN SPORT ES lento[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/bein-es</sportsdevil>
-<referer>referer=www.streamlive.to</referer>
-</item>
-<item>
-<title>[COLOR green]vipercing UNIVISION DEPORTES lento[/COLOR]</title>
-<sportsdevil>http://vipracing.tv/channel/uni-deportes</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
-</item>
-
 
 <item>
 <title>UNIVISION TDN TUTV</title>
@@ -152,10 +101,16 @@
 <referer>referer=http://canales.tutv-porinternet.com/</referer>
 </item>
 <item>
-<title>ESPN PLUS TUTV</title>
-<sportsdevil>http://canales.tutv-porinternet.com/espnplus.html</sportsdevil>
+<title>ESPN  TUTV</title>
+<sportsdevil>http://canales.tutv-porinternet.com/espn.html</sportsdevil>
 <referer>referer=http://canales.tutv-porinternet.com/</referer>
 </item>
+<item>
+<title>PLANETA FUT  TUTV</title>
+<sportsdevil>http://www.futligatv.com/planeta.html</sportsdevil>
+<referer>referer=http://canales.tutv-porinternet.com/</referer>
+</item>
+
 <item>
 <title>AZTECA 7 TUTV </title>
 <sportsdevil>http://canales.tutv-porinternet.com/azteca7.html</sportsdevil>
