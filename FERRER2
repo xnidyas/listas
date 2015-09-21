@@ -126,7 +126,7 @@
 </item>
 
 <item>
-<title>PIRLOTV CANAL 30 NBC SPORT NEW</title>
+<title>[COLOR pink]PIRLOTV CANAL 30 NBC SPORT NEW[/COLOR]</title>
 <sportsdevil>http://www.pirlotvlive.com/ch30.php</sportsdevil>
 
 <referer>http://www.pirlotvlive.com</referer>
@@ -135,29 +135,28 @@
 
 <item>
 
-<title>PIRLOTV CANAL BEINSPORT NEW</title>
+<title>[COLOR pink]PIRLOTV CANAL BEINSPORT NEW[/COLOR]</title>
 <sportsdevil>http://www.pirlotvlive.com/bein.php</sportsdevil>
-
 <referer>http://www.pirlotvlive.com</referer>
 
 </item>
 
 
 <item>
-<title>PIRLOTV CANAL BEINSPORT ESPAÑA NEW</title>
+<title>[COLOR pink]PIRLOTV CANAL BEINSPORT ESPAÑA NEW[/COLOR]</title>
 <sportsdevil>http://www.pirlotvlive.com/bein-Sports-Espana.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
 
 <item>
-<title>BEIN Ñ SPORT SUR</title>
+<title>[COLOR pink]BEIN Ñ SPORT SUR[/COLOR]</title>
 <sportsdevil>http://www.boxlivetv.net/player.php?chname=Pirlobein2&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
 <referer>referer=http://www.boxlivetv.net/</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL2 BEIN NEW</title>
+<title>[COLOR pink]PIRLOTV CANAL2 BEIN NEW[/COLOR]</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-2.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
@@ -170,12 +169,12 @@
 
 
 <item>
-<title>AZTECA DEPORTES</title>
+<title>[COLOR deepskyblue]AZTECA DEPORTES[/COLOR]</title>
 <link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8? </link>
 </item>	
 
 <item>
-<title>azteca 7 MMM</title>
+<title>[COLOR deepskyblue]azteca 7 MMM[/COLOR]</title>
 <sportsdevil>http://www.ligatvlive.com/azteca.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
@@ -183,7 +182,7 @@
 
 <item>
 
-<title>ANIMETV </title>
+<title>[COLOR deepskyblue]ANIMETV[/COLOR] </title>
 
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
 
@@ -191,52 +190,31 @@
 
 
 <item>
-
-<title>canal+Deportes RTM</title>
-
-<link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv
-</link>
-
+<title>[COLOR deepskyblue]canal+Deportes RTM[/COLOR]</title>
+<link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv</link>
 </item>
 	
-
 <item>
-
-<title>PARTIDAZOS PLUS  RTM</title>
-
+<title>[COLOR deepskyblue]PARTIDAZOS PLUS  RTM[/COLOR]</title>
 <link>rtmp://31.220.0.187/pull/ playpath=partidazo6352?keys=LRuznweXaQDRxYy4LpZ82A&keyt;=1440333673 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=partidazo6352&width;=600&height;=450
 </link>
-
 </item>	
-
-
 <item>
-
-<title>CANAL + FUTBOL RTM</title>
-
+<title>[COLOR deepskyblue]CANAL + FUTBOL RTM[/COLOR]</title>
 <link>rtmp://149.255.39.10/pull/futbol932?keys=6rPSxWsO8KNh2XR9jvNWAQ&keyt=1441494538 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
 </link>
 
 </item>	
 
-
-
 <item>
-
-<title>Canal plus!!!</title>
-
+<title>[COLOR deepskyblue]Canal plus!!![/COLOR]</title>
 <sportsdevil>http://verdirectotv.net/ver-canal-plus-online-y-gratis-las-24-horas-canal-plus-hd/</sportsdevil>
-
 <referer>referer=http://verdirectotv.net/</referer>
 
 </item>
-
-
 <item>
-
-<title>Canal + PARTIDAZO</title>
+<title>[COLOR deepskyblue]Canal + PARTIDAZO[/COLOR]</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
-
 <referer>referer=http://cinestrenostv.tv/</referer>
 
 </item>
