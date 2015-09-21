@@ -5,11 +5,6 @@
 <referer>http://www.actiweb.es/ferrertv/</referer>
 </item>
 <item>
-<title>[COLOR orange]BEIN FRANCES FERRERTV[/COLOR]</title>
-<sportsdevil>http://www.actiweb.es/ferrertv/canal8.html</sportsdevil>
-<referer>http://www.actiweb.es/ferrertv/canal8.html</referer>
-</item>
-<item>
 <title>[COLOR orange]UNI DEPORTESLATNOSCANALES[/COLOR]</title>
 <sportsdevil>http://www.latinocanaleshd.com/2015/01/Uni-deportes.html</sportsdevil>
 <referer>http://www.latinocanaleshd.com</referer>
@@ -111,6 +106,12 @@
 </item>
 
 <item>
+<title>[COLOR green]vipercing BEIN Ñ Opcion1 frame[/COLOR]</title>
+<sportsdevil>http://vipracing.tv/channel/opcion-1/frame</sportsdevil>
+<referer>http://vipracing.tv</referer>
+</item>
+
+<item>
 <title>[COLOR green]vipercing BEIN Ñ Opcion2 item[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-2</sportsdevil>
 <referer>referer=www.streamlive.to</referer>
@@ -120,7 +121,9 @@
 <sportsdevil>http://vipracing.tv/channel/opcion-3</sportsdevil>
 <referer>http://vipracing.tv</referer>
 </item>
-		
+
+
+
 <item>
 <title>[COLOR green]vipercing roja2 item[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/roja-2</sportsdevil>
