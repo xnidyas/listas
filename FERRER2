@@ -562,18 +562,6 @@
 </item>
 
 
-<item>
-<title>[COLOR magenta]sony [/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/sony.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
-<item>
-<title>[COLOR magenta]hechizada [/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/hechizada.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
-
-
 <item><title>[COLOR skyblue]BEIN USA 1[/COLOR]</title>
 <link>http://lihattv.toh.info/jhos/beib1.m3u8</link></item>
 <item><title>[COLOR skyblue]BEIN USA 2[/COLOR]</title>
