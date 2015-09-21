@@ -106,6 +106,12 @@
 <referer>referer=http://canales.tutv-porinternet.com/</referer>
 </item>
 <item>
+<title>ESPN2  TUTV</title>
+<sportsdevil>http://canales.tutv-porinternet.com/espn2.html</sportsdevil>
+<referer>referer=http://canales.tutv-porinternet.com/</referer>
+</item>
+
+<item>
 <title>PLANETA FUT  TUTV</title>
 <sportsdevil>http://www.futligatv.com/planeta.html</sportsdevil>
 <referer>referer=http://canales.tutv-porinternet.com/</referer>
