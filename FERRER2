@@ -321,250 +321,117 @@
 <referer>referer=http://shidurlive.com</referer>
 
 </item>
-
-
-
-
 <item>
-<title>BT1 </title>
-
+<title>[COLOR magenta]BT1 [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/bt1.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
-
-
 <item>
-<title>BT2 </title>
-
+<title>[COLOR magenta]BT2 [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/bt2.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
-
 <item>
-
-<title>BT SPORT ESPN </title>
-
+<title>[COLOR magenta]BT SPORT ESPN [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>NBC SPORT </title>
-
+<title>[COLOR magenta]NBC SPORT [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
-
 <item>
-
-<title>SKY1 SPORT  ENG </title>
-
+<title>[COLOR magenta]SKY1 SPORT  ENG [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/ss1.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>SKY2 SPORT  ENG </title>
-
+<title>[COLOR magenta]SKY2 SPORT  ENG [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/ss2.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
 <item>
-
-<title>SKY3 SPORT  ENG </title>
-
+<title>[COLOR magenta]SKY3 SPORT  ENG [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/ss3.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
 <item>
-
-<title>SKY4 SPORT  ENG </title>
-
+<title>[COLOR magenta]SKY4 SPORT  ENG [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/ss4.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
 <item>
-
-<title>SKY5 SPORT  ENG </title>
-
+<title>[COLOR magenta]SKY5 SPORT  ENG [/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/ss5.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>BEIN 1 FRANCIA</title>
-
+<title>[COLOR magenta]BEIN 1 FRANCIA[/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>BEIN 2 FRANCIA</title>
-
+<title>[COLOR magenta]BEIN 2 FRANCIA[/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/bein2fr.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>EUROESPORT1</title>
-
+<title>[COLOR magenta]EUROESPORT1[/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>EUROESPORT2</title>
-
+<title>[COLOR magenta]EUROESPORT2[/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>PREMIERE SPORT</title>
-
+<title>[COLOR magenta]PREMIERE SPORT[/COLOR]</title>
 <sportsdevil>http://hdfree.tv/live/premier.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 <item>
-
-<title>ESPN USA </title>
-
+<title>[COLOR magenta]ESPN USA [/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/espnusa.php</sportsdevil>
-
 <referer>referer=http://yotv.co/</referer>
-
 </item>
-
-
-
 <item>
-
-<title>BOXNATION</title>
-
+<title>[COLOR magenta]BOXNATION[/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/boxnation.php</sportsdevil>
-
 <referer>referer=http://yotv.co/</referer>
-
 </item>
-
-
 <item>
-
-<title>TSN 1</title>
-
+<title>[COLOR magenta]TSN 1[/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/tsn1.php</sportsdevil>
-
 <referer>referer=http://yotv.co/</referer>
-
 </item>
-
-
-
 <item>
-
-<title>TSN 2</title>
-
+<title>[COLOR magenta]TSN 2[/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/tsn2.php</sportsdevil>
-
 <referer>referer=http://yotv.co/</referer>
-
 </item>
-
 <item>
-<title>CALCIO HD</title>
-
+<title>[COLOR magenta]CALCIO HD[/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/skycalcio.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
-
 <item>
-
-<title>CALCIO 1</title>
-
+<title>[COLOR magenta]CALCIO 1[/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/sky1ita.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
-
 <item>
-
-<title>CALCIO 2</title>
+<title>[COLOR magenta]CALCIO 2[/COLOR]</title>
 <sportsdevil>http://cricfree.sx/update/sky2ita.php</sportsdevil>
-
 <referer>referer=http://www.yocast.tv/</referer>
-
 </item>
-
-
 ------------------------
 
 <item>
 <title>FOX </title>
-
 <sportsdevil>http://teveonline.net/fox-en-vivo-por-internet/</sportsdevil>
-
 <referer>referer=http://www.streamify.tv/</referer>
-
 </item>
 
 
