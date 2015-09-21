@@ -5,67 +5,9 @@
 <referer>http://www.actiweb.es/ferrertv/</referer>
 </item>
 <item>
-<title>[COLOR orange]BEIN Ñ FERRER CASTALBA2 [/COLOR]</title>
-<sportsdevil>http://castalba.tv/channel/24090</sportsdevil>
-<referer>http://castalba.tv/</referer>
-</item>
-
-<item>
-<title>[COLOR orange]BEIN Ñ ENG CASTALBA[/COLOR]</title>
-<sportsdevil>http://castalba.tv/channel/24089</sportsdevil>
-<referer>http://castalba.tv/</referer>
-</item>
-
-<item>
-<title>[COLOR cyan]BEIN Ñ 2 CASTALBAAAA[/COLOR]</title>
-<link>$doregex[streamer] playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf live=true timeout=15 swfVfy=true pageUrl=http://castalba.tv/</link>
-<thumbnail></thumbnail>
-<regex>
-<name>streamer</name>
-<expres>'streamer': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=24090&amp;wh=650&amp;ht=450&amp</page>
-<referer>http://tv.televall.com.mx/beinsporthd.html?width=650&amp;height=450</referer>
-</regex>
-<regex>
-<name>file</name>
-<expres>'file': '([^']*)</expres>
-<page>http://castalba.tv/embed.php?cid=24090&amp;wh=650&amp;ht=450&amp</page>
-<referer>http://castalba.tv/channel/24090</referer>
-</regex>
-</item>
-
-
-<item>
-<title>Test CASATALBA REGE</title>
-<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv swfVfy=true live=true timeout=10</link>
-
-<regex>
-<name>rtmp</name>
-<expres>'streamer': '([^']*)<expres>
-<page>http://castalba.tv/embed.php?cid=24090</page>
-<referer> http://canhome1a.blogspot.com/</referer>
-</regex>
-
-<regex>
-<name>path</name>
-<expres>'file': '([^']*)<expres>
-<page>http://castalba.tv/embed.php?cid=24090</page>
-<referer> http://canhome1a.blogspot.com/</referer>
-</regex>
-
-<regex>
-<name>swf</name>
-<expres>'flashplayer': "([^"]*)<expres>
-<page>http://castalba.tv/embed.php?cid=24090</page>
-<referer> http://canhome1a.blogspot.com/</referer>
-<agent></agent>
-</regex>
-
-</item>
-<item>
-<title>[COLOR orange]WIN SPORT5 LATNOSCANALES[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2015/01/foxsport2.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com</referer>
+<title>[COLOR orange]BEIN FRANCES FERRERTV[/COLOR]</title>
+<sportsdevil>http://www.actiweb.es/ferrertv/canal8.html</sportsdevil>
+<referer>http://www.actiweb.es/ferrertv/canal8.html</referer>
 </item>
 <item>
 <title>[COLOR orange]UNI DEPORTESLATNOSCANALES[/COLOR]</title>
@@ -83,15 +25,24 @@
 <referer>http://www.latinocanaleshd.com</referer>
 </item>
 
-
-
-
+<item>
+<title>[COLOR orange]SASHAFILMS[/COLOR]</title>
+<sportsdevil>http://tvferrer.wix.com/tvferrer2015#!canal12/co46</sportsdevil>
+<referer>http://tvferrer.wix.com/tvferrer2015</referer>
+</item>
 
 <item>
-<title>[COLOR orange]CLUB SKY SPORT4[/COLOR]</title>
-<sportsdevil>http://chaambatv2.blogspot.com/p/4.html</sportsdevil>
-<referer>http://chaambatv2.blogspot.com/p/2.html</referer>
+<title>[COLOR orange]HBO PLUS[/COLOR]</title>
+<sportsdevil>http://tvferrer.wix.com/tvferrer2015#!canal17/c17oo</sportsdevil>
+<referer>http://tvferrer.wix.com/tvferrer2015</referer>
 </item>
+
+<item>
+<title>[COLOR orange]win sport [/COLOR]</title>
+<sportsdevil>http://www.latinocanaleshd.com/2015/01/foxsport2.html</sportsdevil>
+<referer>http://www.latinocanaleshd.com/</referer>
+</item>
+
 
 
 <item>
