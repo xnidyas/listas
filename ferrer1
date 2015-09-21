@@ -788,5 +788,26 @@
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
 
+<item>
+<title>[COLOR magenta]sky1 [/COLOR]</title>
+<sportsdevil>http://tv.televallhd.com/sky1.html</sportsdevil>
+<referer>referer=http://tv.televallhd.com/</referer>
+</item>
+<item>
+<title>[COLOR magenta]planeta[/COLOR]</title>
+<sportsdevil>http://tv.televallhd.com/planeta.html</sportsdevil>
+<referer>referer=http://tv.televallhd.com/</referer>
+</item>
+<item>
+<title>[COLOR magenta]Claro [/COLOR]</title>
+<sportsdevil>http://tv.televallhd.com/claro.html</sportsdevil>
+<referer>referer=http://tv.televallhd.com/</referer>
+</item>
+
+<item>
+<title>[COLOR magenta]espn [/COLOR]</title>
+<sportsdevil>http://tv.televallhd.com/espn.html</sportsdevil>
+<referer>referer=http://tv.televallhd.com/</referer>
+</item>
 
 
