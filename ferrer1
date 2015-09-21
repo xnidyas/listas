@@ -216,7 +216,7 @@
 </item>
 
 <item>
-<title>PIRLOTV CANAL2 NEW</title>
+<title>PIRLOTV CANAL2 BEIN NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-2.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
@@ -328,10 +328,6 @@
 <link>http://38.104.228.230:1938/info7/info7_512/playlist.m3u8? </link>
 </item>	
 <item>
-<title>TELEVISA HD </title>
-<link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u</link>
-</item>
-<item>
 <title>ANIMETV </title>
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
 </item>
@@ -371,7 +367,7 @@
 
 
 <item>
-<title>ESPN SHIDURLE</title>
+<title>ESPN CLARO SPORT SHIDURLE</title>
 <sportsdevil>http://www.ligatvlive.com/espn.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
@@ -383,7 +379,7 @@
 </item>
 
 <item>
-<title>ESPN2 latinoamerica</title>
+<title>ESPN2 SUR LATINOAMERICA</title>
 <sportsdevil>http://www.ligatvlive.com/espn2la.html</sportsdevil>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
@@ -441,18 +437,6 @@
 <title>azteca 7</title>
 <sportsdevil>http://www.ligatvlive.com/azteca.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
-</item>
-
-<item>
-<title>VIPERCING ROJA 4 www.p3g.tv</title>
-<sportsdevil>http://vipracing.tv/channel/roja-4</sportsdevil>
-<referer>referer=http://www.p3g.tv/</referer>
-</item>
-
-<item>
-<title>VIPERCING ROJA 6 JUANJA</title>
-<sportsdevil>http://vipracing.tv/channel/roja-006</sportsdevil>
-<referer>referer=http://janjua.tv//</referer>
 </item>
 
 <item>
@@ -651,5 +635,12 @@
 <sportsdevil>http://www.tv-porinternet.com/2014/07/directv-sports-en-vivo-por-internet.html</sportsdevil>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
+
+<item>
+<title>WIN WIN WIN SPORT</title>
+<sportsdevil>http://latino-webtv.com/Win-Sport-en-vivo/</sportsdevil>
+<referer>referer=http://www.liveflash.tv/</referer>
+</item>
+
 
 
