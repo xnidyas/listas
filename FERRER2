@@ -472,58 +472,42 @@
 <item>
 
 <title>**DISNEY CHANEL </title>
-
 <sportsdevil>http://teveonline.net/disney-channel-en-vivo-online/</sportsdevil>
-
 <referer>referer=http://www.mips.tv/</referer>
-
 </item>
 
-
-
 <item>
-
 <title>TNT </title>
-
 <sportsdevil>http://www.tv-porinternet.com/2013/03/tnt-latinoamerica-en-vivo.html</sportsdevil>
-
 <referer>referer=http://www.ezcast.tv/</referer>
-
 </item>
 
 
-
-
 <item>
-
 <title>ESPN TVXINTER </title>
-
 <sportsdevil>http://www.tv-porinternet.com/2013/03/espn-en-vivo-por-internet.html</sportsdevil>
-
 <referer>referer=http://www.liveflash.tv/</referer>
-
 </item>
-
 <item>
-
-<title>FOX SPORT TVPOR INTER </title>
-
-<sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
-
+<title>espn+  TVPOR INTER </title>
+<sportsdevil>http://colgado.tv/tv/espn+/</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
-
+</item>
+<item>
+<title>espn  TVPOR INTER </title>
+<sportsdevil>http://colgado.tv/tv/espn/</sportsdevil>
+<referer>referer=http://www.MIPS.TV/</referer>
+</item>
+<item>
+<title>FOX SPORT TVPOR INTER </title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-en-vivo.html</sportsdevil>
+<referer>referer=http://www.MIPS.TV/</referer>
 </item>
 
-
-
 <item>
-
-<title>**ESPN SUR </title>
-
-<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-latinoamerica-en-vivo.html</sportsdevil>
-
-<referer>referer=http://www.liveflash.tv/</referer>
-
+<title>FOX  TVPOR INTER </title>
+<sportsdevil>http://colgado.tv/tv/fox/</sportsdevil>
+<referer>referer=http://www.MIPS.TV/</referer>
 </item>
 
 
