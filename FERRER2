@@ -561,23 +561,6 @@
 <referer>referer=http://tv.televallhd.com/</referer>
 </item>
 
-<item>
-<title>[COLOR magenta]los monster [/COLOR]</title>
-<sportsdevil>http://tvpelis.net/tv-familia-monster/</sportsdevil>
-<referer>referer=http://tvpelis.net/tv-familia-monster/</referer>
-</item>
-
-<item>
-<title>[COLOR magenta]los monster 3xxxxx[/COLOR]</title>
-<link>plugin://plugin.video.Livestream/?url=http://original.livestream.com/tvpelis1?utm_source=lsplayer&utm_medium=ui-content&utm_campaign=tvpelis1&utm_content=tvpelis1</link>
-</item>
-
-<item>
-<title>[COLOR magenta]los monster 3xxxxxxx[/COLOR]</title>
-plugin://plugin.video.Livestream/?url=http://original.livestream.com/tvpelis1?utm_source=lsplayer&utm_medium=ui-content&utm_campaign=tvpelis1&utm_content=tvpelis1
-</item>
-
-
 <item><title>[COLOR skyblue]BEIN USA 1[/COLOR]</title>
 <link>http://lihattv.toh.info/jhos/beib1.m3u8</link></item>
 <item><title>[COLOR skyblue]BEIN USA 2[/COLOR]</title>
