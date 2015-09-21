@@ -508,27 +508,27 @@
 <sportsdevil>http://colgado.tv/tv/fox/</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
+<item>
+<title>HBO  TVPOR INTER </title>
+<sportsdevil>http://colgado.tv/tv/hbo/</sportsdevil>
+<referer>referer=http://www.MIPS.TV/</referer>
+</item>
+
+
 
 
 
 <item>
-
 <title>FOX SPORT SUR </title>
-
 <sportsdevil>http://www.tv-porinternet.com/2013/03/fox-sports-en-vivo-por-internet.html</sportsdevil>
-
 <referer>referer=http://www.streamify.tv/</referer>
-
 </item>
 
 
 
 <item>
-
 <title>DIRECTV SUR</title>
-
 <sportsdevil>http://www.tv-porinternet.com/2014/07/directv-sports-en-vivo-por-internet.html</sportsdevil>
-
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
 
