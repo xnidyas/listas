@@ -573,3 +573,10 @@
 <link>http://lihattv.toh.info/jhos/beib2.m3u8</link></item>
 <item><title>[COLOR skyblue]BEIN USA 3[/COLOR]</title>
 <link>http://lihattv.toh.info/jhos/beib3.m3u8</link></item>
+
+<item>
+<title>WIN SPORTS COLOMBIA OPCION HD (F4MTESTER)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
+<thumbnail>http://www.winsports.co/sites/all/themes/at_winsports/logo-win.png</thumbnail>
+<fanart></fanart>
+</item>	
