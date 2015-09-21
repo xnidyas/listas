@@ -62,24 +62,6 @@
 </item>
 
 <item>
-<title>[COLOR orange]win sport club [/COLOR]</title>
-<sportsdevil>http://www.clubmovieshd.com/2015/01/espn2.html</sportsdevil>
-<referer>http://www.clubmovieshd.com/2015/01/espn2.html</referer>
-</item>
-
- <item>
-                        <title>BEIN Ñ </title>
-                        <thumbnail>http://2.bp.blogspot.com/-2Qt5BZs-IeM/UuelEp7-7qI/AAAAAAAAEXs/msFB5nScTes/s1600/bein-sports-espa%C3%B1ol-en-vivo-online-web-gratis-ver.jpg</thumbnail>
-                        <link>rtmp://173.192.105.210/live playpath=$doregex[file] swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/channel/24090 live=true timeout=15</link>
-                        <regex>
-                        <name>file</name>
-                        <expres>'file': '([^']*)</expres>
-                        <page>http://castalba.tv/channel/24090</page>
-                        </regex>
-                        <thumbnail></thumbnail>
-                        </item>
-
-<item>
 <title>[COLOR yellow]ZonaSport 2 item FOX[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
 <referer>https://streamup.com/</referer>
@@ -116,11 +98,18 @@
 <referer>http://zonasports.in/</referer>
 </item>
 
+
 <item>
 <title>[COLOR green]vipercing BEIN Ñ Opcion1 item[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-1</sportsdevil>
-<referer>referer=www.streamlive.to</referer>
+<referer>referer=http://openlive.org/</referer>
 </item>
+<item>
+<title>[COLOR green]vipercing BEIN Ñ Opcion1 directo [/COLOR]</title>
+<sportsdevil>http://openlive.org/embed.php?file=vipracinguni&amp;width=653&amp;height=410</sportsdevil>
+<referer>referer=http://openlive.org/</referer>
+</item>
+
 <item>
 <title>[COLOR green]vipercing BEIN Ñ Opcion2 item[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-2</sportsdevil>
