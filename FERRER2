@@ -567,6 +567,19 @@
 <referer>referer=http://tvpelis.net/tv-familia-monster/</referer>
 </item>
 
+<item>
+<title>[COLOR magenta]los monster 2[/COLOR]</title>
+<sportsdevil>http://original.livestream.com/tvpelis1</sportsdevil>
+<referer>referer=http://original.livestream.com/tvpelis1</referer>
+</item>
+<item>
+<title>[COLOR magenta]los monster 3[/COLOR]</title>
+<sportsdevil>http://cdn.livestream.com/embed/tvpelis1?layout=4&amp;height=340&amp;width=560&amp;autoplay=true</sportsdevil>
+<referer>referer=http://original.livestream.com/tvpelis1</referer>
+</item>
+
+
+
 <item><title>[COLOR skyblue]BEIN USA 1[/COLOR]</title>
 <link>http://lihattv.toh.info/jhos/beib1.m3u8</link></item>
 <item><title>[COLOR skyblue]BEIN USA 2[/COLOR]</title>
@@ -578,5 +591,4 @@
 <title>WIN SPORTS COLOMBIA OPCION HD (F4MTESTER)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
 <thumbnail>http://www.winsports.co/sites/all/themes/at_winsports/logo-win.png</thumbnail>
-<fanart></fanart>
 </item>	
