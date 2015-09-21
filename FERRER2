@@ -474,7 +474,6 @@
 <referer>referer=http://www.ezcast.tv/</referer>
 </item>
 
-
 <item>
 <title>ESPN TVXINTER </title>
 <sportsdevil>http://www.tv-porinternet.com/2013/03/espn-en-vivo-por-internet.html</sportsdevil>
@@ -482,12 +481,12 @@
 </item>
 <item>
 <title>espn+  TVPOR INTER </title>
-<sportsdevil>http://colgado.tv/tv/espn+/</sportsdevil>
+<sportsdevil>http://tvpor-internet.com/espn-mas-en-vivo.html</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
 <item>
 <title>espn  TVPOR INTER </title>
-<sportsdevil>http://colgado.tv/tv/espn/</sportsdevil>
+<sportsdevil>http://tvpor-internet.com/Espn-en-vivo.html</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
 <item>
@@ -497,25 +496,22 @@
 </item>
 
 <item>
-<title>FOX sport TVPOR INTER </title>
-<sportsdevil>http://colgado.tv/tv/foxsports2/</sportsdevil>
+<title>FOX sport2 TVPOR INTER </title>
+<sportsdevil>http://tvpor-internet.com/fox-sports-2-en-vivo.html</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
 
 
 <item>
 <title>FOX  TVPOR INTER </title>
-<sportsdevil>http://colgado.tv/tv/fox/</sportsdevil>
+<sportsdevil>http://tvpor-internet.com/fox-channel.html</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
 <item>
-<title>HBO  TVPOR INTER </title>
-<sportsdevil>http://colgado.tv/tv/hbo/</sportsdevil>
+<title>HBO  TVPOR INTER OK</title>
+<sportsdevil>http://tvpor-internet.com/hbo-en-vivo.html</sportsdevil>
 <referer>referer=http://www.MIPS.TV/</referer>
 </item>
-
-
-
 
 
 <item>
@@ -523,8 +519,6 @@
 <sportsdevil>http://www.tv-porinternet.com/2013/03/fox-sports-en-vivo-por-internet.html</sportsdevil>
 <referer>referer=http://www.streamify.tv/</referer>
 </item>
-
-
 
 <item>
 <title>DIRECTV SUR</title>
