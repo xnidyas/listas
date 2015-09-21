@@ -573,8 +573,8 @@
 <referer>referer=http://original.livestream.com/tvpelis1</referer>
 </item>
 <item>
-<title>[COLOR magenta]los monster 3x[/COLOR]</title>
-<sportsdevil>http://cdn.livestream.com/embed/tvpelis1?layout=4&color=0xe7e7e7&autoPlay=true&mute=false&iconColorOver=0x888888&iconColor=0x777777&allowchat=true&height=340&width=560</sportsdevil>
+<title>[COLOR magenta]los monster 3xx[/COLOR]</title>
+<sportsdevil>http://original.livestream.com/tvpelis1?utm_source=lsplayer&utm_medium=ui-content&utm_campaign=tvpelis1&utm_content=tvpelis1</sportsdevil>
 <referer>referer=http://original.livestream.com/tvpelis1</referer>
 </item>
 
