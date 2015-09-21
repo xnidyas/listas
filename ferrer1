@@ -15,6 +15,34 @@
 <sportsdevil>http://castalba.tv/channel/24089</sportsdevil>
 <referer>http://castalba.tv/</referer>
 </item>
+
+<item>
+<title>Test CASATALBA REGE</title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swf] pageUrl=http://castalba.tv swfVfy=true live=true timeout=10</link>
+
+<regex>
+<name>rtmp</name>
+<expres>'streamer': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=24090</page>
+<referer> http://canhome1a.blogspot.com/</referer>
+</regex>
+
+<regex>
+<name>path</name>
+<expres>'file': '([^']*)<expres>
+<page>http://castalba.tv/embed.php?cid=24090</page>
+<referer> http://canhome1a.blogspot.com/</referer>
+</regex>
+
+<regex>
+<name>swf</name>
+<expres>'flashplayer': "([^"]*)<expres>
+<page>http://castalba.tv/embed.php?cid=24090</page>
+<referer> http://canhome1a.blogspot.com/</referer>
+<agent></agent>
+</regex>
+
+</item>
 <item>
 <title>[COLOR orange]WIN SPORT5 LATNOSCANALES[/COLOR]</title>
 <sportsdevil>http://www.latinocanaleshd.com/2015/01/foxsport2.html</sportsdevil>
