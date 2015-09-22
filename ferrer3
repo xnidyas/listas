@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>ESPN</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8=$doregex[tok]</link>
+<title>Bein Sports rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BeinSportsLA&amp;cm=2527&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>ESPN rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>token=(.*)</expres>
@@ -11,17 +23,141 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
+
 <item>
-<title>ESPN</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8=$doregex[tok]</link>
+<title>ESPN 2 rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2LASD/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
 <name>tok</name>
 <expres>token=(.*)</expres>
-<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPNLA&amp;cm=301&amp;nombre=US.m3u8</page>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPN2LASD&amp;cm=301&amp;nombre=US.m3u8</page>
 <referer>http://stoker.jdmsociety.x10.mx</referer>
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
+
+<item>
+<title>ESPN 3 rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN3LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPN3LASD&amp;cm=3806&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>F1 Racing rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/F1LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=F1LA&amp;cm=1695&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Fox Sports rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxSportsLA&amp;cm=2505&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Fox Sports 2 rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports2SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxSports2SD&amp;cm=475&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Fox Sports 3 rosadin </title>
+<link>http://lb.iptvserver.tv:8080/redirect/FoxSports3SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxSports3SD&amp;cm=445&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Golf Channel rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GolfChannelLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GolfChannelLA&amp;cm=1489&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Planeta Futbol rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=PlanetaFutbolLA&amp;cm=1477&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+
+
+<item>
+<title>TDN Mexico rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TDNMXLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TDNMXLA&amp;cm=1059&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Univision TDN rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UnivisionTDNLA&amp;cm=1483&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+<item>
+<title>UFC Network rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UFCNetworkLA&amp;cm=1047&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
 
 <item>
 <title>Cinemax Rosadin</title>
