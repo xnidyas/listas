@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>WIN SPORTS COLOMBIA (F4MTESTER)</title>
+<link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
+</item>	
+<item>
 <title>Bein Sports rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
