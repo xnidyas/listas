@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>BeinSports+en+Español rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsenEspañol/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BeinSportsenEspañol&amp;cm=2527&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+<item>
+<title>hustlerLA rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/hustlerLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=hustlerLA&amp;cm=1707&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+
+
+<item>
 <title>WIN SPORTS COLOMBIA (F4MTESTER)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
 </item>	
@@ -162,19 +188,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item>  
-
-<item>
-<title>BeinSports+en+Espa%C3%B1ol rosadin</title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsenEspañol/playlist.m3u8?token=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>token=(.*)</expres>
-<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BeinSportsenEspañol&amp;cm=2527&amp;nombre=US.m3u8</page>
-<referer>http://stoker.jdmsociety.x10.mx</referer>
-<setcookie>programa=rosadintv</setcookie>
-</regex>
-</item>  
-
 
 <item>
 <title>Cinemax Rosadin</title>
