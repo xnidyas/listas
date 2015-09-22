@@ -22,7 +22,6 @@
 </regex>
 </item> 
 
-
 <item>
 <title>Max Prime Este Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=$doregex[tok]</link>
@@ -75,8 +74,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
-
 
 
 <item>
@@ -157,9 +154,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
-
-
 
 
 <item>
@@ -199,8 +193,6 @@
 </item> 
 
 
-
-
 <item>
 <title>Max Prime Oeste Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=$doregex[tok]</link>
@@ -239,9 +231,6 @@
 </regex>
 </item> 
 
-
-
-
 <item>
 <title>HBO Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOLASD/playlist.m3u8?token=$doregex[tok]</link>
@@ -253,7 +242,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
 
 
 <item>
@@ -278,8 +266,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
-
 
 <item>
 <title>HBO Plus Este Rosadin</title>
@@ -306,9 +292,6 @@
 </regex>
 </item> 
 
-
-
-
 <item>
 <title>HBO Signature Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
@@ -320,8 +303,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
-
 
 <item>
 <title>Bandamax Rosadin</title>
@@ -336,9 +317,6 @@
 </item> 
 
 
-
-
-
 <item>
 <title>Concert Channel Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8?token=$doregex[tok]</link>
@@ -350,8 +328,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
-
 
 
 <item>
@@ -768,8 +744,7 @@
 <fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
 </regex>
 </item>
-	
-	<item>
+<item>
 <title>Fox1 Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1LASD/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
@@ -797,7 +772,7 @@
 </regex>
 </item>
 	
-	<item>
+<item>
 <title>Film Arts Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmArtsLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex>
@@ -1794,145 +1769,55 @@
 	</regex>
 	</item>
 
-			<item>
-			<title>AMC Rosadin</title>
-			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
-			<thumbnail></thumbnail>
-			<regex>
-			<name>tok</name>
-			<expres>token=(.*?)</expres>
-			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
-			<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
-			</regex>
-			</item>
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*?)</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
+	</regex>
+	</item>
 			
 			
-			<item>
-			<title>AMC Rosadin</title>
-			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
-			<thumbnail></thumbnail>
-			<regex>
-			<name>tok</name>
-			<expres>token="(.*?)"</expres>
-			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
-			<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
-			</regex>
-			</item>
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token="(.*?)"</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
+	</regex>
+	</item>
 			
-			<item><title>AMC USA Rosadin</title><link>rtmp://31.220.0.104/pull/amc36 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
-			<item>
-			<title>AMC Rosadin</title>
-			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
-			<thumbnail></thumbnail>
-			<regex>
-			<name>tok</name>
-			<expres>token="(.*?)"</expres>
-			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
-			<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
-			</regex>
-			</item>
+	<item><title>AMC USA Rosadin</title><link>rtmp://31.220.0.104/pull/amc36 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token="(.*?)"</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+	</regex>
+	</item>
 			
-			<item>
-			<title>AMC Rosadin</title>
-			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
-			<thumbnail></thumbnail>
-			<regex>
-			<name>tok</name>
-			<expres>token=(.*?)</expres>
-			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
-			<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
-			</regex>
-			</item>
-
-											
-<item>		
-<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
-<link>http://31.220.41.102/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
-<regex>
-<name>get-token</name>
-<expres>token":"(.*?)"</expres>
-<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
-<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
-</regex>
-</item>
-
-<item>		
-<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
-<link>http://portal.iptvprivateserver.tv/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
-<regex>
-<name>get-token</name>
-<expres>token":"(.*?)"</expres>
-<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
-<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
-</regex>
-</item>
-						
-						
-<item>		
-<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
-<link>http://31.220.41.102/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
-<regex>
-<name>get-token</name>
-<expres>token":"(.*?)"</expres>
-<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
-<referer>http://portal.iptvprivateserver.tv/staker_portal/c/</referer>
-</regex>
-</item>	
-
-<item>		
-<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
-<link>http://31.220.41.102:80/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
-<regex>
-<name>get-token</name>
-<expres>token":"(.*?)"</expres>
-<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
-<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
-</regex>
-</item>
-			
---------------------------------
-
-<item>
-<title>National Geographic iptv latino</title>
-<link>http://iptv.latino-webtv.com/nat-geo.m3u8</link></item>
-
-<item>
-<title>History HDiptv latino iptv latino</title>
-<link>http://iptv.latino-webtv.com/history.m3u8</link></item>
-
-<item>
-<title>A&E HD iptv latino</title>
-<link>http://iptv.latino-webtv.com/a-and-e.m3u8</link></item>
-
-<item>
-<title>Lifetime iptv latino</title>
-<link>http://iptv.latino-webtv.com/lifetime.m3u8</link></item>
-
-<item>
-<title>Tlnovelas iptv latino</title>
-<link>http://iptv.latino-webtv.com/tlnovelas.m3u8</link></item>
-
-<item>
-<title>SyFy iptv latino</title>
-<link>http://iptv.latino-webtv.com/syfy.m3u8</link></item>
-
-<item>
-<title>The Film Zone HD iptv latino</title>
-<link>http://iptv.latino-webtv.com/the-film-zone.m3u8</link></item>
-
-<item>
-<title>Paramount Channel iptv latino</title>
-<link>http://iptv.latino-webtv.com/paramount-channel.m3u8</link></item>
-
-<item>
-<title>Golden iptv latino</title>
-<link>http://iptv.latino-webtv.com/golden.m3u8</link></item>
-
-
-
-
----------------
---------------------
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*?)</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+	</regex>
+	</item>
 
 
 <item><title>FOX   isl Manifest</title>
@@ -1949,8 +1834,6 @@
 
 <item><title>WARNER  isl Manifest</title>
 <link>http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-
 
 <item><title>WOBI isl Manifest</title>
 <link>http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8</link></item>
@@ -1981,10 +1864,8 @@
 <title>cbebbies  isl Manifest</title>
 <link>http://201.161.59.6/cbeebies.isml/manifest(format=m3u8-aapl).m3u8</link></item>
 
-	
 <item>
 <title>KW isl Manifest</title><link>http://201.161.59.4/kw.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
 <item>
 <title>NAT GEO isl Manifest</title><link>http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8</link></item>
 
@@ -2054,9 +1935,6 @@
 <title>Canal Cinco isl Manifest</title>
 <link>http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8</link>
 </item>	
-
-
-	
 <item>
 <title>Azteca 7   isl Manifest</title>
 <link>http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8</link>
@@ -2114,1197 +1992,6 @@
 <link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link>
 </item>
 
--------------------------------------
-
-<item>
-<title>MTV Hits ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/75.m3u8</link></item>
-<item>
-
-<title>MTV Base ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/76.m3u8</link></item>
-<item>
-<title>MTV Rocks ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/74.m3u8</link></item>
-<item>
-<title>73 ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/73.m3u8</link></item>
-<item>
-<title>77 ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/77.m3u8</link></item>
-
-<item>
-<title>Discovery Channel ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/63.m3u8</link></item>
-<item>
-<title>Discovery +1 ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/65.m3u8</link></item>
-<item>
-<title>Discovery History ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/67.m3u8</link></item>
-<item>
-<title>Discovery Turbo ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/68.m3u8</link></item>
-<item>
-<title>Discovery Science ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/66.m3u8</link></item>
-<item>
-<title>ID ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/69.m3u8</link></item>
-<item>
-<title>Animal Planet ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/64.m3u8</link></item>
-<item>
-<title>Travel Channel ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/140.m3u8</link></item>
-<item>
-<title>Crime Investigation +1 UK ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/141.m3u8</link></item>
-<item>
-<title>Sky Movies Premiere ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/56.m3u8</link></item>
-<item>
-<title>Sky Movies Premiere +1 ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/57.m3u8</link></item>
-<item>
-<title>Sky Movies Select ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/53.m3u8</link></item>
-<item>
-<title>Sky Movies Comedy ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/51.m3u8</link></item>
-<item>
-<title>Sky Movies Greats ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/60.m3u8</link></item>
-<item>
-<title>Sky Movies Action ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/185.m3u8</link></item>
-<item>
-<title>Sky Movies Family ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/55.m3u8</link></item>
-<item>
-<title>Sky Movies Thriller ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/58.m3u8</link></item>
-<item>
-<title>Sky Movies Dramarom ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/59.m3u8</link></item>
-<item>
-<title>Sky Movies Scifi Horror ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/52.m3u8</link></item>
-<item>
-<title>Movies 4 Men ac8625bde62657dc</title>
-<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/72.m3u8</link></item>
-			
-
----------------------------------------------------------------------
------------------------------------------------------------
-
-	
-			<item>
-			<title>FOX op2  Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.mips.tv:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.mips.tv/membedplayer/zeyuxof1/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mips.tv</referer>
-			</regex>
-			</item>
-		
-
-			<item>
-			<title>Fox op3 Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/foxperusalem/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-
-
-			<item>
-			<title>Warner Channel Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=warner2021?id=15846$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
-			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.janjuaplayer.com/embedplayer/warner2021/1/620/382</page>
-			<referer>http://www.janjuaplayer.com/</referer>
-			</regex>
-			</item>
-	
-			
-			<item>
-			<title>Warner Channel Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/warnerperusalem/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-
-					
-			<item>
-			<title>MTV Latino  Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/mtvmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-		
-			
-			<item>
-			<title>TeleMusica Regex</title>
-			<link>http://186.155.200.118:1935/live/telemusica/master.m3u8?sd=10&rebase=on</link>
-			</item>
-			 
-		 		 
- 
-			<item>
-			<title>Telehit Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=telehit2016?id=14065$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
-			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.janjuaplayer.com/embedplayer/telehit2016/1/620/382</page>
-			<referer>http://www.janjuaplayer.com/</referer>
-			</regex>
-			</item>
-			
-			
-			<item>
-			<title>TNT  Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/tntperusalem/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>AMC  Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/amcmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>SPACE Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/spaceperusalem/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>Golden Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/goldenmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			
-			<item>
-			<title>Cinemax Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=cinemax2021?id=15842$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
-			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.janjuaplayer.com/embedplayer/cinemax2021/1/620/382</page>
-			<referer>http://www.janjuaplayer.com/</referer>
-			</regex>
-			</item>
-
-			
-			 
-			
-	                <item>
-			<title>Mundo Fox Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/mundofoxmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			 
-			<item>
-			<title>Canal FX Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/fxperusalem/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-
-			<item>
-			<title>FilmZone Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=filmezone2016?id=33771$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
-			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.janjuaplayer.com/embedplayer/filmezone2016/1/620/382</page>
-			<referer>http://www.janjuaplayer.com/</referer>
-			</regex>
-			</item>
-			
-
-			
-			<item>
-			<title>HBO Plus Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/hboplus-hd</page>
-			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-						
-			
-			
-			
-			<item>
-			<title>MovieCity Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/movie-city1</page>
-			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-			
-			
-
-			<item><!--tvpor-internet.com/hbo-en-vivo.html-->
-			<title>HBO SD Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/hbomalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			<item><!--tvpor-internet.com/hbo-en-vivo.html-->
-			<title>Cinemax Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/cinemaxmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-
-	
-			
-			
-			
-			<item>
-			<title>FX Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/fxtv</page>
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			<!--http://tv.televall.com.mx/fx.php?width=620&height=380
-			-->
-			
-			
-			
-			
-			<item>
-			<title>Universal Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/universal</page>
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-			
-			
-			<item>
-			<title>SONY Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/sony</page>
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-			
-			
-			<item>
-			<title>AXN Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/axn</page>
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-			<item>
-			<title>Canal 52MX Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/canal52mx.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/canal52mx.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/canal52mx.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/canal52mx</page>
-			<referer>http://tv.televallhd.com/canal52mx.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-			
-			<item>
-			<title>TNT Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=7yujk7?id=22302$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/7yujk7/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-			
-			
-			
-			<item>
-			<title>[COLOR skyblue]/-/-/-/-/-/-/-/-/-/-   [COLOR deepskyblue]INFANTILES[/COLOR]  /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-[/COLOR] Regex</title>
-			<link>http://ignora.me</link>
-						</item>
-			
-			
-			
-			
-			<item>
-			<title>Tooncast Regex</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/tooncast</page>
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-
-			
-			
-			
-			<item>
-			<title>Discovery Kids Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/kidsmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-
-
-			
-			<item>
-			<title>Disney Channel Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/disneymalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			
-			
-			<item>
-			<title>Disney Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=zeyudisneyyye?id=233435$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
-			pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.mipsplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.mipsplayer.com/embedplayer/zeyudisneyyye/1/620/382</page>
-			<referer>http://www.mipsplayer.com/</referer>
-			</regex>
-			</item>
-			
-			
-
-			
-			
-			<item>
-			<title>Boomerang (SportsDevil) Regex</title>
-			<sportsdevil>http://www.fulltelevisionhd.net/2014/09/boomerang-en-vivo-por-internet.html</sportsdevil>
-			<referer>http://www.fulltelevisionhd.net</referer>
-			</item>
-			
-			
-			
-			
-			<item>
-			<title>Boomerang Regex</title>
-			<link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8?wowzasessionid=1222806252</link>
-			</item>
-			
-			
-			
-			<item>
-			<title>Nickelodeon SD Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=nickyyy?id=22350$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/nickyyy/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>Cartoon Network SD Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=cartooonn?id=22351$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/cartooonn/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-
-			
-			<item>
-			<title>Cartoon Network  Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/cartoonmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-						
-			<item>
-			<title>Nick Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=nick2021?id=15845$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
-			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.janjuaplayer.com/embedplayer/nick2021/1/620/382</page>
-			<referer>http://www.janjuaplayer.com/</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>Canal Disney Jr Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/juniormalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>Disney Jr Regex</title>
-			<link>rtmp://$doregex[ip]/live playpath=juniorperusalem?id=42828$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
-			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.janjuaplayer.com/embedplayer/juniorperusalem/1/620/382</page>
-			<referer>http://www.janjuaplayer.com/</referer>
-			</regex>
-			</item>
-
-<item>
-			<title>Telemundo Regex</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20931896/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item>
-			<item>
-			
-			<!--
-			<item>
-			<item>
-			<title>Telemundo op.3 Regex</title> http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php 
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item>
-			
-		
-			
-			-->
-			
-			<item>
-			<title>Telemundo opc1 Regex</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item>
-			
-			<item>
-			<title>Telemundo (funcionando) Regex</title>
-			<link>http://198.178.126.247:1935/app/telemundox1chivas_69s-channel/.m3u8</link></item>	
-			
-							
-			<item>
-			<title>Telemundo 42 Regex</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo42 live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_telemundo42$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-<item>
-<title>Univision (opc.1) Regex</title>
-<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
-<regex>
-        <name>path</name>
-        <expres>file: "(.*).flv</expres>
-        <page>https://www.streamlive.to/view/69932</page>
-</regex>
-<regex>
-        <name>tok</name>
-        <expres>token":"([^"]*)</expres>
-        <page>$doregex[tokpg]</page>
-        <referer>https://www.streamlive.to</referer>
-</regex>
-<regex>
-        <name>tokpg</name>
-        <expres>getJSON\("([^"]*)</expres>
-        <page>https://www.streamlive.to/view/69932</page>
-</regex>
-<regex>
-        <name>xs</name>
-        <expres>/(\?xs=.*?)"</expres>
-        <page>https://www.streamlive.to/view/69932</page>
-        <rawpost>captcha=$doregex[answer]</rawpost>
-        <referer>https://www.streamlive.to</referer>
-        <cookieJar></cookieJar>
-        <ignorecache/>
-</regex>
-<regex>
-        <name>answer</name>
-        <expres>$pyFunction:($doregex[captcha])</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>captcha</name>
-        <expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>xcaptcha</name>
-        <expres>Question: (.*) =</expres>
-        <page>https://www.streamlive.to/view/69932</page>
-        <referer>http://www.streamlive.to</referer>
-        <cookieJar></cookieJar>
-</regex>
-</item>
-
-
-
-
-			
-			<item>
-			<title>Univision 03 Regex</title><!-- http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html 
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item> -->
-			
-			<item>
-			<title>Univision 2 Regex</title>
-			<link>$doregex[get-link]</link>
-			<regex>
-			<name>get-link</name>
-			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20631310/streams/live/playlist.m3u8')</expres>
-			<page></page>
-			</regex> 
-			</item>
-		
-			<item>
-			<title>Univision  HD33 Regex</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd33 live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd33$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-			
-			
-			
-			<item>
-			<title>Univision 69 Regex</title>
-			<link>rtmp://$doregex[rtmpip]/live playpath=anahii?id=5286 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf pageUrl=http://www.streamify.tv live=1 timeout=20</link>
-			<regex>
-			<name>rtmpip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamify.tv:1935/loadbalancer</page>
-			<referer>http://www.streamify.tv/resources/scripts/eplayer.swf</referer>
-			</regex>
-			</item>	
-					
-			<item>
-			<title>Univision opc3 Regex</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/anahii/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-
-
------------------------------------------------
 <item>
 <title>Univision 69 rtmp</title>
 <link>rtmp://162.220.56.237/app/ playpath=turbomaxhds-channel</link>
@@ -3321,9 +2008,4 @@
 <title>South Park TV (Latino)</title>
 <link>http://tinyurl.com/o4wzm7m</link></item>   
 
-<item>
-<title>Caracol Colombia</title>
-<sportsdevil>http://www.streamlive.to/embed/52715</sportsdevil>
-<referer>http://www.streamlive.to</referer>
-</item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-		
+
