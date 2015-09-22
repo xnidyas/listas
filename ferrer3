@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>ESPN</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPNLA&amp;cm=2487&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>ESPN</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPNLA&amp;cm=301&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
 <item>
 <title>Cinemax Rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
@@ -33,8 +57,6 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item> 
-
-
 
 
 <item>
