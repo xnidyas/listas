@@ -1,2 +1,3329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>Cinemax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CinemaxLASD&amp;cm=343&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>MAX Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MAXLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MAXLASD&amp;cm=381&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
 
-#EXTM3U #EXTINF:-1 group-title="usa", CBS New York http://xtv.16mb.com/xtv/public/live_stalker/4865.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ABC Miami http://xtv.16mb.com/xtv/public/live_stalker/409.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", NBC Miami http://xtv.16mb.com/xtv/public/live_stalker/411.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", FOX Miami http://xtv.16mb.com/xtv/public/live_stalker/413.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 Long Island http://xtv.16mb.com/xtv/public/live_stalker/4034.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 Brooklyn http://xtv.16mb.com/xtv/public/live_stalker/4037.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 Bronx http://xtv.16mb.com/xtv/public/live_stalker/4040.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 Connecticut http://xtv.16mb.com/xtv/public/live_stalker/4043.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 Hudson Valley http://xtv.16mb.com/xtv/public/live_stalker/4046.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 New Jersey http://xtv.16mb.com/xtv/public/live_stalker/4049.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", News 12 Westchester http://xtv.16mb.com/xtv/public/live_stalker/4052.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ITV http://xtv.16mb.com/xtv/public/live_stalker/2447.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ITV 2 http://xtv.16mb.com/xtv/public/live_stalker/487.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ITV 3 http://xtv.16mb.com/xtv/public/live_stalker/2835.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ITV 4 http://xtv.16mb.com/xtv/public/live_stalker/2837.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", TG 4 http://xtv.16mb.com/xtv/public/live_stalker/2839.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", 4 Seven http://xtv.16mb.com/xtv/public/live_stalker/4270.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Channel 4 http://xtv.16mb.com/xtv/public/live_stalker/2841.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Channel 5 http://xtv.16mb.com/xtv/public/live_stalker/2843.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Living http://xtv.16mb.com/xtv/public/live_stalker/2845.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Watch http://xtv.16mb.com/xtv/public/live_stalker/2847.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Gold http://xtv.16mb.com/xtv/public/live_stalker/2849.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Dave http://xtv.16mb.com/xtv/public/live_stalker/2851.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY One http://xtv.16mb.com/xtv/public/live_stalker/4662.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Atlantic http://xtv.16mb.com/xtv/public/live_stalker/2855.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", E4 http://xtv.16mb.com/xtv/public/live_stalker/2857.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", More 4 http://xtv.16mb.com/xtv/public/live_stalker/2859.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Challenge http://xtv.16mb.com/xtv/public/live_stalker/4247.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Irish TV http://xtv.16mb.com/xtv/public/live_stalker/4066.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Pick http://xtv.16mb.com/xtv/public/live_stalker/2437.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", 5 Star http://xtv.16mb.com/xtv/public/live_stalker/2865.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", RTE ONE http://xtv.16mb.com/xtv/public/live_stalker/2441.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", RTE TWO http://xtv.16mb.com/xtv/public/live_stalker/2439.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BBC ONE http://xtv.16mb.com/xtv/public/live_stalker/2443.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BBC TWO http://xtv.16mb.com/xtv/public/live_stalker/2445.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BBC Three http://xtv.16mb.com/xtv/public/live_stalker/2869.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BBC Four http://xtv.16mb.com/xtv/public/live_stalker/2871.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", 5 USA http://xtv.16mb.com/xtv/public/live_stalker/2867.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", USA Network East http://xtv.16mb.com/xtv/public/live_stalker/2579.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Comedy Central East http://xtv.16mb.com/xtv/public/live_stalker/2575.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Lifetime East http://xtv.16mb.com/xtv/public/live_stalker/2581.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ITV Encore http://xtv.16mb.com/xtv/public/live_stalker/501.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Food Network East http://xtv.16mb.com/xtv/public/live_stalker/172.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", DIY Network USA http://xtv.16mb.com/xtv/public/live_stalker/174.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Good Food http://xtv.16mb.com/xtv/public/live_stalker/2587.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", E! http://xtv.16mb.com/xtv/public/live_stalker/2341.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ITV B http://xtv.16mb.com/xtv/public/live_stalker/4737.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", True Drama http://xtv.16mb.com/xtv/public/live_stalker/2873.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Drama http://xtv.16mb.com/xtv/public/live_stalker/2875.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", A&E East http://xtv.16mb.com/xtv/public/live_stalker/995.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Discovery History http://xtv.16mb.com/xtv/public/live_stalker/3397.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", History http://xtv.16mb.com/xtv/public/live_stalker/176.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", H2 USA http://xtv.16mb.com/xtv/public/live_stalker/1497.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", TLC http://xtv.16mb.com/xtv/public/live_stalker/503.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Alibi http://xtv.16mb.com/xtv/public/live_stalker/4740.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Really http://xtv.16mb.com/xtv/public/live_stalker/505.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Oxygen http://xtv.16mb.com/xtv/public/live_stalker/180.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", WE TV http://xtv.16mb.com/xtv/public/live_stalker/182.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Bravo East http://xtv.16mb.com/xtv/public/live_stalker/4890.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", AMC East http://xtv.16mb.com/xtv/public/live_stalker/1093.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", TCM US http://xtv.16mb.com/xtv/public/live_stalker/1105.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", IFC East http://xtv.16mb.com/xtv/public/live_stalker/164.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", FOX http://xtv.16mb.com/xtv/public/live_stalker/491.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BBC America http://xtv.16mb.com/xtv/public/live_stalker/184.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", FX East http://xtv.16mb.com/xtv/public/live_stalker/997.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", TNT Drama http://xtv.16mb.com/xtv/public/live_stalker/977.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", TBS East http://xtv.16mb.com/xtv/public/live_stalker/967.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ESPN US http://xtv.16mb.com/xtv/public/live_stalker/963.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ESPNU http://xtv.16mb.com/xtv/public/live_stalker/979.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ESPNews US http://xtv.16mb.com/xtv/public/live_stalker/2353.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports News http://xtv.16mb.com/xtv/public/live_stalker/2101.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ESPN 2 US http://xtv.16mb.com/xtv/public/live_stalker/2355.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Fox Sports 1 US http://xtv.16mb.com/xtv/public/live_stalker/190.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Fox Sports 2 US http://xtv.16mb.com/xtv/public/live_stalker/2381.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", MLB Network http://xtv.16mb.com/xtv/public/live_stalker/192.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", NHL Network USA http://xtv.16mb.com/xtv/public/live_stalker/194.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", NFL Network http://xtv.16mb.com/xtv/public/live_stalker/1003.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", NBA TV http://xtv.16mb.com/xtv/public/live_stalker/2347.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", UFC Network http://xtv.16mb.com/xtv/public/live_stalker/2923.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", CBS Sports Network http://xtv.16mb.com/xtv/public/live_stalker/2359.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Disney Jr http://xtv.16mb.com/xtv/public/live_stalker/4852.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Nick Jr http://xtv.16mb.com/xtv/public/live_stalker/4872.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Nickelodeon East http://xtv.16mb.com/xtv/public/live_stalker/1701.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Disney Channel East http://xtv.16mb.com/xtv/public/live_stalker/196.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Disney Channel West http://xtv.16mb.com/xtv/public/live_stalker/4862.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Disney XD http://xtv.16mb.com/xtv/public/live_stalker/4860.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Boomerang USA http://xtv.16mb.com/xtv/public/live_stalker/4905.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Baby First TV http://xtv.16mb.com/xtv/public/live_stalker/4882.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ABC Family http://xtv.16mb.com/xtv/public/live_stalker/4855.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Teen Nick http://xtv.16mb.com/xtv/public/live_stalker/4877.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Discovery Channel USA http://xtv.16mb.com/xtv/public/live_stalker/198.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Discovery Family http://xtv.16mb.com/xtv/public/live_stalker/4867.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Animal Planet http://xtv.16mb.com/xtv/public/live_stalker/4845.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", National Geographic Channel http://xtv.16mb.com/xtv/public/live_stalker/2819.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Discovery Turbo http://xtv.16mb.com/xtv/public/live_stalker/511.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Nat Geo Wild http://xtv.16mb.com/xtv/public/live_stalker/4830.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Dmax http://xtv.16mb.com/xtv/public/live_stalker/4745.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Investigation Discovery http://xtv.16mb.com/xtv/public/live_stalker/2357.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Science Channel http://xtv.16mb.com/xtv/public/live_stalker/2529.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Destination America http://xtv.16mb.com/xtv/public/live_stalker/4837.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", American Heroes Channel http://xtv.16mb.com/xtv/public/live_stalker/4910.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Travel http://xtv.16mb.com/xtv/public/live_stalker/4422.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Eden http://xtv.16mb.com/xtv/public/live_stalker/513.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Yesterday http://xtv.16mb.com/xtv/public/live_stalker/519.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", CNN US http://xtv.16mb.com/xtv/public/live_stalker/3133.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Fox News Channel http://xtv.16mb.com/xtv/public/live_stalker/208.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", CNBC US http://xtv.16mb.com/xtv/public/live_stalker/4755.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BBC News http://xtv.16mb.com/xtv/public/live_stalker/495.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", The Weather Channel http://xtv.16mb.com/xtv/public/live_stalker/212.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY News http://xtv.16mb.com/xtv/public/live_stalker/493.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", CBS Reality http://xtv.16mb.com/xtv/public/live_stalker/2435.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", CBS Drama http://xtv.16mb.com/xtv/public/live_stalker/2431.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", CBS Action http://xtv.16mb.com/xtv/public/live_stalker/2433.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", WGN America http://xtv.16mb.com/xtv/public/live_stalker/1771.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", FXX East http://xtv.16mb.com/xtv/public/live_stalker/2339.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Spike TV http://xtv.16mb.com/xtv/public/live_stalker/4410.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Tru TV East http://xtv.16mb.com/xtv/public/live_stalker/1769.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Ovation http://xtv.16mb.com/xtv/public/live_stalker/2349.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Crime + Investigation Network USA http://xtv.16mb.com/xtv/public/live_stalker/2343.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ION Television East http://xtv.16mb.com/xtv/public/live_stalker/4902.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO East http://xtv.16mb.com/xtv/public/live_stalker/4765.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO 2 East http://xtv.16mb.com/xtv/public/live_stalker/216.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO Signature East http://xtv.16mb.com/xtv/public/live_stalker/959.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO West http://xtv.16mb.com/xtv/public/live_stalker/4767.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO 2 West http://xtv.16mb.com/xtv/public/live_stalker/1095.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO Family East http://xtv.16mb.com/xtv/public/live_stalker/4415.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO Comedy East http://xtv.16mb.com/xtv/public/live_stalker/1001.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", HBO Zone http://xtv.16mb.com/xtv/public/live_stalker/965.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Cinemax East http://xtv.16mb.com/xtv/public/live_stalker/953.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Cinemax West http://xtv.16mb.com/xtv/public/live_stalker/955.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ActionMax East http://xtv.16mb.com/xtv/public/live_stalker/2337.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", 5 StarMax http://xtv.16mb.com/xtv/public/live_stalker/4895.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ThrillerMax East http://xtv.16mb.com/xtv/public/live_stalker/2533.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime East http://xtv.16mb.com/xtv/public/live_stalker/218.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime West http://xtv.16mb.com/xtv/public/live_stalker/969.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime 2 East http://xtv.16mb.com/xtv/public/live_stalker/971.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime Showcase East http://xtv.16mb.com/xtv/public/live_stalker/1085.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime Extreme East http://xtv.16mb.com/xtv/public/live_stalker/973.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime Beyond East http://xtv.16mb.com/xtv/public/live_stalker/975.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Showtime Next http://xtv.16mb.com/xtv/public/live_stalker/1097.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", The Movie Channel East http://xtv.16mb.com/xtv/public/live_stalker/220.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", The Movie Channel Xtra East http://xtv.16mb.com/xtv/public/live_stalker/1009.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Encore East http://xtv.16mb.com/xtv/public/live_stalker/222.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Encore Action East http://xtv.16mb.com/xtv/public/live_stalker/4897.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz East http://xtv.16mb.com/xtv/public/live_stalker/224.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz West http://xtv.16mb.com/xtv/public/live_stalker/981.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz Edge East http://xtv.16mb.com/xtv/public/live_stalker/983.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz Cinema East http://xtv.16mb.com/xtv/public/live_stalker/985.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz Comedy East http://xtv.16mb.com/xtv/public/live_stalker/987.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz In Black East http://xtv.16mb.com/xtv/public/live_stalker/989.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Starz Kids & Family East http://xtv.16mb.com/xtv/public/live_stalker/1099.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Premiere http://xtv.16mb.com/xtv/public/live_stalker/521.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Modern Greats http://xtv.16mb.com/xtv/public/live_stalker/3301.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Disney http://xtv.16mb.com/xtv/public/live_stalker/523.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Family http://xtv.16mb.com/xtv/public/live_stalker/525.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Action & Adventure http://xtv.16mb.com/xtv/public/live_stalker/527.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Comedy http://xtv.16mb.com/xtv/public/live_stalker/529.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Crime & Thriller http://xtv.16mb.com/xtv/public/live_stalker/531.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Movies Drama http://xtv.16mb.com/xtv/public/live_stalker/545.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Scifi & Horror http://xtv.16mb.com/xtv/public/live_stalker/533.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Select http://xtv.16mb.com/xtv/public/live_stalker/535.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", True Movies 1 http://xtv.16mb.com/xtv/public/live_stalker/2453.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", True Movies 2 http://xtv.16mb.com/xtv/public/live_stalker/2455.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Movies 24 http://xtv.16mb.com/xtv/public/live_stalker/549.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Film 4 http://xtv.16mb.com/xtv/public/live_stalker/497.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Palladia http://xtv.16mb.com/xtv/public/live_stalker/991.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Hallmark Movie Channel http://xtv.16mb.com/xtv/public/live_stalker/1005.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Sony Movie Channel USA http://xtv.16mb.com/xtv/public/live_stalker/1101.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Tennis Channel http://xtv.16mb.com/xtv/public/live_stalker/4850.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Golf Channel http://xtv.16mb.com/xtv/public/live_stalker/2345.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Setanta Sports http://xtv.16mb.com/xtv/public/live_stalker/3580.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", At The Races http://xtv.16mb.com/xtv/public/live_stalker/553.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Racing UK http://xtv.16mb.com/xtv/public/live_stalker/2477.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Eurosport 1 http://xtv.16mb.com/xtv/public/live_stalker/4317.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Eurosport 2 http://xtv.16mb.com/xtv/public/live_stalker/4322.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", MUTV http://xtv.16mb.com/xtv/public/live_stalker/555.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", MSG http://xtv.16mb.com/xtv/public/live_stalker/2351.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BOXnation http://xtv.16mb.com/xtv/public/live_stalker/2449.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports 1 http://xtv.16mb.com/xtv/public/live_stalker/2459.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports 2 http://xtv.16mb.com/xtv/public/live_stalker/2461.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports 3 http://xtv.16mb.com/xtv/public/live_stalker/2469.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports 4 http://xtv.16mb.com/xtv/public/live_stalker/2465.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports 5 http://xtv.16mb.com/xtv/public/live_stalker/2467.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", SKY Sports F1 http://xtv.16mb.com/xtv/public/live_stalker/2457.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BT Sport 1 http://xtv.16mb.com/xtv/public/live_stalker/2479.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", BT Sport 2 http://xtv.16mb.com/xtv/public/live_stalker/2481.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ASTRO SuperSport http://xtv.16mb.com/xtv/public/live_stalker/2471.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ASTRO SuperSport 2 http://xtv.16mb.com/xtv/public/live_stalker/2473.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", ASTRO SuperSport 3 http://xtv.16mb.com/xtv/public/live_stalker/2475.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Yes Network http://xtv.16mb.com/xtv/public/live_stalker/4832.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Fox Sports Florida http://xtv.16mb.com/xtv/public/live_stalker/4840.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Sport 9 http://xtv.16mb.com/xtv/public/live_stalker/3367.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="usa", Ultimate Events & Sports http://xtv.16mb.com/xtv/public/live_stalker/2905.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Nicaragua 4 http://xtv.16mb.com/xtv/public/live_stalker/2015.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Mexico 2 http://xtv.16mb.com/xtv/public/live_stalker/4547.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Dominican Republic 2 http://xtv.16mb.com/xtv/public/live_stalker/1615.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Dominican Republic 4 http://xtv.16mb.com/xtv/public/live_stalker/2935.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Dominican Republic 5 http://xtv.16mb.com/xtv/public/live_stalker/1627.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Dominican Republic 6 http://xtv.16mb.com/xtv/public/live_stalker/1629.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Az Mundo http://xtv.16mb.com/xtv/public/live_stalker/1999.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Canal De Las Estrellas http://xtv.16mb.com/xtv/public/live_stalker/4552.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Univision http://xtv.16mb.com/xtv/public/live_stalker/3800.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", UniMas http://xtv.16mb.com/xtv/public/live_stalker/3602.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", NBC Universo http://xtv.16mb.com/xtv/public/live_stalker/4825.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Caracol Internacional http://xtv.16mb.com/xtv/public/live_stalker/2051.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Teletica http://xtv.16mb.com/xtv/public/live_stalker/4817.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TeleCentro http://xtv.16mb.com/xtv/public/live_stalker/2017.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Gala TV http://xtv.16mb.com/xtv/public/live_stalker/4555.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Pasiones http://xtv.16mb.com/xtv/public/live_stalker/295.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Telemundo http://xtv.16mb.com/xtv/public/live_stalker/4417.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Telemundo Internacional http://xtv.16mb.com/xtv/public/live_stalker/419.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Tlnovelas America http://xtv.16mb.com/xtv/public/live_stalker/1461.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", RCN Novelas http://xtv.16mb.com/xtv/public/live_stalker/1493.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TVE Internacional America http://xtv.16mb.com/xtv/public/live_stalker/2123.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Galicia TV http://xtv.16mb.com/xtv/public/live_stalker/1499.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TV Globo Internacional http://xtv.16mb.com/xtv/public/live_stalker/1593.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Discovery en Español http://xtv.16mb.com/xtv/public/live_stalker/3531.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Discovery Theater http://xtv.16mb.com/xtv/public/live_stalker/3798.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Discovery World http://xtv.16mb.com/xtv/public/live_stalker/3529.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Discovery Home & Health Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/252.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", H2 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/297.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", History en Español http://xtv.16mb.com/xtv/public/live_stalker/3704.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", National Geographic Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/395.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Nat Geo Wild Latino America http://xtv.16mb.com/xtv/public/live_stalker/254.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Animal Planet Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/441.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", ESPN Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/2487.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", ESPN 2 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/301.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", ESPN 3 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/3806.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Sports Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/2505.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Sports 2 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/475.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Sports 3 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/445.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", BeinSports en Español http://xtv.16mb.com/xtv/public/live_stalker/2527.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", UFC Network Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1047.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", F1 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1695.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Planeta Futbol http://xtv.16mb.com/xtv/public/live_stalker/1477.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Planeta Futbol English Soccer http://xtv.16mb.com/xtv/public/live_stalker/3469.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TDN Mexico http://xtv.16mb.com/xtv/public/live_stalker/1059.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Univision TDN http://xtv.16mb.com/xtv/public/live_stalker/1483.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Golf Channel Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1489.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Disney Channel Norte http://xtv.16mb.com/xtv/public/live_stalker/256.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Disney XD Norte http://xtv.16mb.com/xtv/public/live_stalker/499.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Disney Junior Norte http://xtv.16mb.com/xtv/public/live_stalker/1455.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Nickelodeon Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1423.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Nick Jr Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/417.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Discovery Kids America Latina http://xtv.16mb.com/xtv/public/live_stalker/309.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Cartoon Network Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/421.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Boomerang Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/2507.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Tooncast http://xtv.16mb.com/xtv/public/live_stalker/443.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", BabyFirst TV Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1031.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Baby TV Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/317.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", CBeebies Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1029.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Canal Sony http://xtv.16mb.com/xtv/public/live_stalker/2501.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", BBC Entertainment Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1407.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Unicable http://xtv.16mb.com/xtv/public/live_stalker/3804.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Warner Channel Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/2499.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", E! Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/427.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", FX Latino http://xtv.16mb.com/xtv/public/live_stalker/431.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Universal Channel America Latina http://xtv.16mb.com/xtv/public/live_stalker/387.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/3947.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Syfy Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/447.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", A&E Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/258.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Investigation Discovery Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/455.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TLC Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/327.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", AXN Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/2493.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Eurochannel http://xtv.16mb.com/xtv/public/live_stalker/4912.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", MundoFox http://xtv.16mb.com/xtv/public/live_stalker/429.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TNT Series Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/331.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Elgourmet http://xtv.16mb.com/xtv/public/live_stalker/1033.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Casa Club TV http://xtv.16mb.com/xtv/public/live_stalker/1475.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TBS America Latina http://xtv.16mb.com/xtv/public/live_stalker/333.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Glitz Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1473.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", FOX Life http://xtv.16mb.com/xtv/public/live_stalker/425.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Distrito Comedia http://xtv.16mb.com/xtv/public/live_stalker/1491.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Comedy Central Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1037.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Tru TV America Latina http://xtv.16mb.com/xtv/public/live_stalker/337.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Efekto TV http://xtv.16mb.com/xtv/public/live_stalker/1039.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Multimedios Plus http://xtv.16mb.com/xtv/public/live_stalker/1459.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Lifetime Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/423.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", CNN en Español http://xtv.16mb.com/xtv/public/live_stalker/1855.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", El Financiero Bloomberg http://xtv.16mb.com/xtv/public/live_stalker/2823.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", NTN 24 http://xtv.16mb.com/xtv/public/live_stalker/1601.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", MTV Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/2491.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", MTV Hits Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1495.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", VH1 Classic Europe http://xtv.16mb.com/xtv/public/live_stalker/415.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", VH1 Latino Norte http://xtv.16mb.com/xtv/public/live_stalker/483.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", K Music http://xtv.16mb.com/xtv/public/live_stalker/3467.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Concert Channel http://xtv.16mb.com/xtv/public/live_stalker/479.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HTV http://xtv.16mb.com/xtv/public/live_stalker/341.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Bandamax http://xtv.16mb.com/xtv/public/live_stalker/1467.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Regional Music http://xtv.16mb.com/xtv/public/live_stalker/4805.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Cine Dinamita http://xtv.16mb.com/xtv/public/live_stalker/3465.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", MultiPremier http://xtv.16mb.com/xtv/public/live_stalker/3293.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", CineLatino http://xtv.16mb.com/xtv/public/live_stalker/477.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Golden http://xtv.16mb.com/xtv/public/live_stalker/264.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Golden Edge http://xtv.16mb.com/xtv/public/live_stalker/1465.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Golden Multiplex http://xtv.16mb.com/xtv/public/live_stalker/1035.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Paramount Channel Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/260.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Sundance Channel Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1041.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TNT America Latina http://xtv.16mb.com/xtv/public/live_stalker/262.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", CineCanal http://xtv.16mb.com/xtv/public/live_stalker/2495.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Cinemax Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/343.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", SPACE http://xtv.16mb.com/xtv/public/live_stalker/2489.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", AMC http://xtv.16mb.com/xtv/public/live_stalker/485.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Studio Universal http://xtv.16mb.com/xtv/public/live_stalker/345.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", TCM America Latina http://xtv.16mb.com/xtv/public/live_stalker/481.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", I-Sat http://xtv.16mb.com/xtv/public/live_stalker/1703.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Europa Europa http://xtv.16mb.com/xtv/public/live_stalker/1597.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Film & Arts Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/1599.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Film Zone http://xtv.16mb.com/xtv/public/live_stalker/1055.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox 1 Este http://xtv.16mb.com/xtv/public/live_stalker/433.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox 1 Oeste http://xtv.16mb.com/xtv/public/live_stalker/439.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Family http://xtv.16mb.com/xtv/public/live_stalker/467.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Comedy http://xtv.16mb.com/xtv/public/live_stalker/461.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Cinema http://xtv.16mb.com/xtv/public/live_stalker/457.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Action Este http://xtv.16mb.com/xtv/public/live_stalker/435.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Action Oeste http://xtv.16mb.com/xtv/public/live_stalker/437.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Movies Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/463.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Fox Classics Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/465.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HBO Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/385.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HBO 2 Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/365.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HBO Plus Este http://xtv.16mb.com/xtv/public/live_stalker/453.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HBO Plus Oeste http://xtv.16mb.com/xtv/public/live_stalker/369.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HBO Family Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/449.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", HBO Signature Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/451.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Max UP Latinoamerica http://xtv.16mb.com/xtv/public/live_stalker/469.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Max Prime Este http://xtv.16mb.com/xtv/public/live_stalker/377.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Max Prime Oeste http://xtv.16mb.com/xtv/public/live_stalker/379.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", MAX http://xtv.16mb.com/xtv/public/live_stalker/381.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Golden Premier 1 http://xtv.16mb.com/xtv/public/live_stalker/4777.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="latinoamerica", Golden Premier 2 http://xtv.16mb.com/xtv/public/live_stalker/4772.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Venus http://xtv.16mb.com/xtv/public/live_stalker/285.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Sextreme http://xtv.16mb.com/xtv/public/live_stalker/287.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Manhandle XXX http://xtv.16mb.com/xtv/public/live_stalker/1027.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Secrets http://xtv.16mb.com/xtv/public/live_stalker/1025.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Playboy TV Latin America http://xtv.16mb.com/xtv/public/live_stalker/289.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Real http://xtv.16mb.com/xtv/public/live_stalker/1021.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Juicy http://xtv.16mb.com/xtv/public/live_stalker/1023.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Hustler TV USA http://xtv.16mb.com/xtv/public/live_stalker/1707.m3u8?user=ues.elenilson&password=4bA8 #EXTINF:-1 group-title="xxx", Xtsy XXX http://xtv.16mb.com/xtv/public/live_stalker/1463.m3u8?user=ues.elenilson&password=4bA8 
+
+<item>
+<title>Max Prime Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrimeLASD&amp;cm=377&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>Max Prime Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrime2LASD&amp;cm=379&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Up Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxUPSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxUPSD&amp;cm=469&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Film Zone Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmZoneLASD&amp;cm=1055&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>HBO Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOLASD&amp;cm=385&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>HBO 2 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBO2SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBO2SD&amp;cm=365&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>HBO Family Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOFamilyLASD&amp;cm=449&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>HBO Plus Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPlusLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPlusLASD&amp;cm=453&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HBO Plus Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPus2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPus2LASD&amp;cm=369&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>HBO Signature Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOSignatureLASD&amp;cm=451&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+
+<item>
+<title>Cinemax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CinemaxLASD&amp;cm=343&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>MAX Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MAXLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MAXLASD&amp;cm=381&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Prime Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrimeLASD&amp;cm=377&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>Max Prime Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrime2LASD&amp;cm=379&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Up Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxUPSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxUPSD&amp;cm=469&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Film Zone Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmZoneLASD&amp;cm=1055&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>HBO Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOLASD&amp;cm=385&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>HBO 2 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBO2SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBO2SD&amp;cm=365&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>HBO Family Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOFamilyLASD&amp;cm=449&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>HBO Plus Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPlusLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPlusLASD&amp;cm=453&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HBO Plus Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPus2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPus2LASD&amp;cm=369&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>HBO Signature Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOSignatureLASD&amp;cm=451&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>Bandamax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BandamaxLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BandamaxLA&amp;cm=1467&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+
+<item>
+<title>Concert Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ConcertChannelSD&amp;cm=479&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>HTV Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HTVSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HTVSD&amp;cm=341&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>K Music Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=KMusicLA&amp;cm=3467&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>MTV Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MTVLA&amp;cm=2491&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>MTV Hits Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVHitsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MTVHitsLA&amp;cm=1495&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Regional Music Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RegionalMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=RegionalMusicLA&amp;cm=4805&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+
+<item>
+<title>VH1 Classic Europe Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1ClassicLASD&amp;cm=415&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>VH1 Latino Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1LatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1LatinoSD&amp;cm=483&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Bloomberg Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ElFinancieroBLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ElFinancieroBLA&amp;cm=2823&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>CNN Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CNNLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CNNLASD&amp;cm=1855&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>NTN 24 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NTN24LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NTN24LA&amp;cm=1601&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<!-- cartoons -->			
+
+<item>
+<title>Baby TV Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyTVLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BabyTVLASD&amp;cm=317&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>Boomerang Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BoomerangLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BoomerangLA&amp;cm=2507&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Cartoon Network Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CartoonNetworkLASD&amp;cm=421&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Cbeebies Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CbeebiesLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CbeebiesLA&amp;cm=1029&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>Discovery Kids Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryKidsSD&amp;cm=309&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Disney Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DisneyChannelNorteHD&amp;cm=256&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Disney Jr. Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyJrLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DisneyJrLASD&amp;cm=1455&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+<item>
+<title>Disney XD Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyXDSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DisneyXDSD&amp;cm=499&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+<item>
+<title>Nickelodeon Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickelodeonLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NickelodeonLA&amp;cm=1423&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+<item>
+<title>Nick Jr. Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickJrLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NickJrLASD&amp;cm=417&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+<item>
+<title>Tooncast Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TooncastSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TooncastSD&amp;cm=443&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+
+
+<item>
+<title>Cine Dinamita Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineDinamitaLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CineDinamitaLA&amp;cm=3465&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://foromedios.com/uploads/gallery/category_6/gallery_5692_6_5165.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Premier Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenPremier1LA&amp;cm=4777&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Premier 2 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenPremiere2LA&amp;cm=4772&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://imagenes.gatotv.com/logos/canales/oscuros/golden_premier_2-mediano.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Classics Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXClassicsLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXClassicsLASD&amp;cm=465&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FKC/foxclassics-colour-lightbg.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Movies Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXMoviesLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXMoviesLASD&amp;cm=463&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://41.media.tumblr.com/881e3d09170dbed70bb609ffeb1f3c1c/tumblr_inline_nn4c1zDiru1t9mz2l_400.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Action Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXActionOesteLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXActionOesteLASD&amp;cm=437&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.digihost360.co.uk/ch/images/channels/fox_action_hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Action Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXACTIONLASD&amp;cm=435&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.digihost360.co.uk/ch/images/channels/fox_action_hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Cinema Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxCinemaSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxCinemaSD&amp;cm=457&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Comedy Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXComedyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXComedyLASD&amp;cm=461&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.ipuntotv.com/IMAGES/Fox-comedy-logo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Family Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXFamilyLASD&amp;cm=467&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-family-hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox1 Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1OesteLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOX1OesteLASD&amp;cm=439&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-One-Logo-01.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+	
+	<item>
+<title>Fox1 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOX1LASD&amp;cm=433&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-One-Logo-01.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>The Film Zone Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmZoneLASD&amp;cm=1055&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://i.imgur.com/lYisQ.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+	
+	<item>
+<title>Film Arts Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmArtsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmArtsLA&amp;cm=1599&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.filmandarts.tv/img/filmandarts.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Europa Europa Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EuropaEuropaLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EuropaEuropaLA&amp;cm=1597&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://airecable.com/wp-content/uploads/2013/09/EUROPA-EUROPA.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Isat Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ISATLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ISATLA&amp;cm=1703&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fd/Isat_logo.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>TCM Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCMSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TCMSD&amp;cm=481&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20100316153430/logopedia/images/8/83/TCM_logo.svg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Studio Universal Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/StudioUniversalSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=StudioUniversalSD&amp;cm=345&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.cinepremiere.com.mx/imgsHistorico/u6/Noticia_TV_Studio_Universal.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>AMC Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AMCLASD&amp;cm=485&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Space Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SpaceLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SpaceLA&amp;cm=2489&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.tvcafenas.com.br/logos/space.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Cinemax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CinemaxLASD&amp;cm=343&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://jennierios.vpweb.com/Cinemax_logo_latin_america.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Cinecanal Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineCanalLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CineCanalLA&amp;cm=2495&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://40.media.tumblr.com/1bca12d93cf8b2274c7e9a21c5e64edd/tumblr_inline_nmlk2v8JwW1t9mz2l_1280.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>TNT Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TNTAmericaLatinaHD&amp;cm=262&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2013/03/tnt1__130321184641.jpeg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+
+<item>
+<title>Sundance Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SundanceLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SundanceLA&amp;cm=1041&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.sundancechannel.la/wp-content/themes/sundance_framework/images/sundance_logo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Paramount Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ParamountChannelLatinAmericaHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ParamountChannelLatinAmericaHD&amp;cm=260&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/sml_gallery_5617_2_255.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Multiplex Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenMPLXLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenMPLXLA&amp;cm=1035&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://img110.xooimage.com/files/b/e/8/golden-49c7251.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Edge Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenEdgeLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenEdgeLA&amp;cm=1465&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://tvnotiblog.com/wp-content/uploads/2010/03/golden-640x432.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden HD Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenHD&amp;cm=264&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://televisatvdepaga.com/wp-content/uploads/2013/11/golden-hd.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Cinelatino Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineLatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CineLatinoSD&amp;cm=477&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://1.bp.blogspot.com/-2triVu-pOis/UlMzvE6BTHI/AAAAAAAADAA/XJ0F-E8-G34/s1600/ver+cinelatino+en+vivo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Multipremier Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MultiPremierLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MultiPremierLA&amp;cm=3293&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Eurochannel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EurochannelLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EurochannelLA&amp;cm=4912&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://reggaefilmfestival.files.wordpress.com/2013/02/eurochannel.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>AXN Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AXNLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AXNLA&amp;cm=2493&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://cdn.sptdigital.com/sites/asia.axn/files/logo_white_trademark.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXHDLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXHDLA&amp;cm=3497&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.redempresariosvisa.com/Content/images/ideas/notas/T17820121130largeNote6.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Universal Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UniversalLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UniversalLASD&amp;cm=387&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/el/8/8d/Universalchannel.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>FX Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FXLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FXLASD&amp;cm=431&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://gps.pezquiza.com/wp-content/uploads/2012/01/fx-hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Warner Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/WarnerLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=WarnerLA&amp;cm=2499&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://foromedios.com/uploads/gallery/album_2/med_gallery_1163_2_22008.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>TNT Series Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/infinitoSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=infinitoSD&amp;cm=331&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.panorama.com.ve/__export/1428781314584/sites/panorama/img/facetas/2015/04/11/tnt_serie.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Sony Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SonyLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SonyLA&amp;cm=2501&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://1.bp.blogspot.com/-vi5aqvnnbb0/T6Faf6V_sLI/AAAAAAAAAHo/pUVOS2nMUPc/s1600/sony.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+
+
+<item>
+	<title>UNIMAS Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UniMasUS/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UniMasUS&amp;cm=3602&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/130px-Logo_UniM%C3%A1s.svg.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>NBC Universo Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NBCUniversoUS/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NBCUniversoUS&amp;cm=4825&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/6f/NBCUniverso_logo.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Az Mundo  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AzMundoLa/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AzMundoLa&amp;cm=1999&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_1163_2_32434.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Multimedio Plus Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MultimediosLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MultimediosLA&amp;cm=1459&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.freeetv.com/images/reydddd/multimediostv.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Comedia Central Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ComedyCentralLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ComedyCentralLA&amp;cm=2575&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/2000px-Comedy_Central_2011_Logo.svg.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Distrito Comedia  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DistritoComediaLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DistritoComediaLA&amp;cm=1491&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Distrito_Comedia.png/228px-Logo_Distrito_Comedia.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Mundo Fox  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MundoFoxSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MundoFoxSD&amp;cm=429&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://2.bp.blogspot.com/-_xxsU2o1HAk/UxlDsrN_97I/AAAAAAAAANs/i9Gt12_aaUQ/s320/305px-MUNDOFOX.svg.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	
+	<item>
+	<title>Unicable Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnicableLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UnicableLA&amp;cm=3804&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.freeetv.com/images/reydddd/multimediostv.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>RCN Novelas Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RCNnovelasLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=RCNnovelasLA&amp;cm=1493&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Caracol Internacional Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CaracolIntSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CaracolIntSD&amp;cm=2051&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://img3.wikia.nocookie.net/__cb20150408054203/logopedia/images/7/7d/Caracol_TV_Internacional.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Telecentro  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/Telecentro13LA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=Telecentro13LA&amp;cm=2017&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://www.telecentro.com.ar/images/logotc_header.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Tlnovelas Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TlnovelasLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TlnovelasLA&amp;cm=1461&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://3.bp.blogspot.com/-rjeKZqCu3q0/Uil0isFkgtI/AAAAAAAAoNo/DHefYg40TqU/s1600/Canales+de+Telenovelas.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Pasiones Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PasionesSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=PasionesSD&amp;cm=295&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://revistasenal.com/wp-content/uploads/2014/11/pasiones.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	
+	
+<item>
+	<title>Lifetime Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/LifetimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=LifetimeLASD&amp;cm=423&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://yt3.ggpht.com/-B6Ik9Cag8L8/AAAAAAAAAAI/AAAAAAAAAAA/SjhIYodiMRQ/s900-c-k-no/photo.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Fox Life Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxLifeSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxLifeSD&amp;cm=425&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Glitz  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GlitzLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GlitzLA&amp;cm=1473&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.glitztvla.com/wp-content/uploads/2011/12/logo_glitz_color.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>TBS  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TBSLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TBSLASD&amp;cm=333&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/PerfectTBS.svg/115px-PerfectTBS.svg.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Casa Club  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CasaClubLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CasaClubLA&amp;cm=1475&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/200px-Casa_Club_tv_logo.svg.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>El Gourmet  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ElgourmetLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ElgourmetLA&amp;cm=1033&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.lamac.org/res/channels/logos/_0046_el_gourmet.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>H2   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=H2LASD&amp;cm=297&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/H2_channel_logo.PNG/245px-H2_channel_logo.PNG</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Efekto TV  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EfektoTVLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EfektoTVLA&amp;cm=1039&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://187.141.34.92/portal/images/consejero/audios/logo_efektoTV.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>TLC  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCLLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TCLLASD&amp;cm=327&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/07/TLC-HD-logo.jpeg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Investigacion Discovery   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/InvDiscoverySD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=InvDiscoverySD&amp;cm=455&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://img2.wikia.nocookie.net/__cb20130224001500/logopedia/images/6/67/Investigation_discovery_us_hd.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Animal Planet  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AnimalPlanetLASD&amp;cm=441&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://4.bp.blogspot.com/_02dwWlBMhIk/SkrDL8R0gaI/AAAAAAAAEJg/X5EyKFuOVLU/s320/a.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Natgeo Wild  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NatGeoWildLAHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NatGeoWildLAHD&amp;cm=254&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Natgeo  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NatGeoLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NatGeoLASD&amp;cm=395&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://static1.squarespace.com/static/50ddd0c2e4b00220dc772ba4/50ff2415e4b0bae78fcd5f41/50ff3276e4b0bae78fcdc444/1358901878923/natgeo-logo.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>History  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HistoryLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HistoryLA&amp;cm=3704&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://i.imgur.com/MlCSW.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Discovery Home & HEalth   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryHomeHealthLAHD&amp;cm=252&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Dsicovery World   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryWorldLA&amp;cm=3529&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_world_hd_(small_globe).png/220px-Discovery_world_hd_(small_globe).png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Discovery Theater  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryenEspanolHD&amp;cm=3798&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://geek.com.mx/wp-content/uploads/2009/03/dnhd.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Discovery  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryChLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryChLA&amp;cm=3531&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.telegratis.net/img/disco.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>A&E  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AELatinoamericaHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AELatinoamericaHD&amp;cm=258&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.tvweeklynow.com/images/9073/RIcksPix/Press%20Images/A%26E%20Logo(1).png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>E!  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EentertaimentSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EentertaimentSD&amp;cm=427&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://alanisalways.zip.net/images/Logo-E.gif</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>SyFy  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SyfyLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SyfyLASD&amp;cm=447&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://happynicetimepeople.com/wp-content/uploads/2015/07/syfy-logo-484_0.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>CBeebies Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CBeebiesLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CBeebiesLA&amp;cm=1029&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/315px-CBeebies.svg.png</thumbnail>
+	<fanart>http://freephotos.atguru.in/hdphotos/hd-disney-wallpapers/wallpapers-17654-1290107.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>BabyTV  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyTVLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BabyTVLASD&amp;cm=317&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png</thumbnail>
+	<fanart>http://freephotos.atguru.in/hdphotos/hd-disney-wallpapers/wallpapers-17654-1290107.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Baby First  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyFirstLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BabyFirstLA&amp;cm=1031&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://godish.com/media/25005/baby_first_tv.png</thumbnail>
+	<fanart>http://freephotos.atguru.in/hdphotos/hd-disney-wallpapers/wallpapers-17654-1290107.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	
+<item>
+	<title>Regional Music Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RegionalMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=RegionalMusicLA&amp;cm=4805&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/regional_music_tv.jpg</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Bandamax Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BandamaxLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BandamaxLA&amp;cm=1467&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://tutelevisionenvivo.org/wp-content/uploads/2014/01/r.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>HTV Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HTVSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HTVSD&amp;cm=341&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Concert Channel  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ConcertChannelSD&amp;cm=479&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://pbs.twimg.com/profile_images/836013696/CCH_Logo_white_on_black_background.jpg</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>K Music Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=KMusicLA&amp;cm=3467&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://pbs.twimg.com/profile_images/1585183599/2.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>VH1 Latino  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1LatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1LatinoSD&amp;cm=483&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.userlogos.org/files/logos/danger83/vh1logo.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>VH1 Classics   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1ClassicLASD&amp;cm=415&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title> r MTV Hits  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVHitsLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MTVHitsLA&amp;cm=1495&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_MTV_HITS_2012.png/150px-Logo_MTV_HITS_2012.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+
+			<item>
+			<title>AMC Rosadin</title>
+			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>tok</name>
+			<expres>token=(.*?)</expres>
+			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+			<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>AMC Rosadin</title>
+			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>tok</name>
+			<expres>token="(.*?)"</expres>
+			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+			<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
+			</regex>
+			</item>
+			
+			<item><title>AMC USA Rosadin</title><link>rtmp://31.220.0.104/pull/amc36 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
+			<item>
+			<title>AMC Rosadin</title>
+			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>tok</name>
+			<expres>token="(.*?)"</expres>
+			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+			<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>AMC Rosadin</title>
+			<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+			<thumbnail></thumbnail>
+			<regex>
+			<name>tok</name>
+			<expres>token=(.*?)</expres>
+			<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+			<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+			</regex>
+			</item>
+
+											
+<item>		
+<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
+<link>http://31.220.41.102/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
+<regex>
+<name>get-token</name>
+<expres>token":"(.*?)"</expres>
+<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
+<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+</regex>
+</item>
+
+<item>		
+<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
+<link>http://portal.iptvprivateserver.tv/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
+<regex>
+<name>get-token</name>
+<expres>token":"(.*?)"</expres>
+<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
+<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+</regex>
+</item>
+						
+						
+<item>		
+<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
+<link>http://31.220.41.102/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
+<regex>
+<name>get-token</name>
+<expres>token":"(.*?)"</expres>
+<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
+<referer>http://portal.iptvprivateserver.tv/staker_portal/c/</referer>
+</regex>
+</item>	
+
+<item>		
+<title>[COLOR white]HBO 2 East 2 portal.iptvstalker[/COLOR]</title>
+<link>http://31.220.41.102:80/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[get-token]</link>
+<regex>
+<name>get-token</name>
+<expres>token":"(.*?)"</expres>
+<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&action=handshake&token=&JsHttpRequest=1-xml</page>
+<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+</regex>
+</item>
+			
+--------------------------------
+
+<item>
+<title>National Geographic iptv latino</title>
+<link>http://iptv.latino-webtv.com/nat-geo.m3u8</link></item>
+
+<item>
+<title>History HDiptv latino iptv latino</title>
+<link>http://iptv.latino-webtv.com/history.m3u8</link></item>
+
+<item>
+<title>A&E HD iptv latino</title>
+<link>http://iptv.latino-webtv.com/a-and-e.m3u8</link></item>
+
+<item>
+<title>Lifetime iptv latino</title>
+<link>http://iptv.latino-webtv.com/lifetime.m3u8</link></item>
+
+<item>
+<title>Tlnovelas iptv latino</title>
+<link>http://iptv.latino-webtv.com/tlnovelas.m3u8</link></item>
+
+<item>
+<title>SyFy iptv latino</title>
+<link>http://iptv.latino-webtv.com/syfy.m3u8</link></item>
+
+<item>
+<title>The Film Zone HD iptv latino</title>
+<link>http://iptv.latino-webtv.com/the-film-zone.m3u8</link></item>
+
+<item>
+<title>Paramount Channel iptv latino</title>
+<link>http://iptv.latino-webtv.com/paramount-channel.m3u8</link></item>
+
+<item>
+<title>Golden iptv latino</title>
+<link>http://iptv.latino-webtv.com/golden.m3u8</link></item>
+
+
+
+
+---------------
+--------------------
+
+
+<item><title>FOX   isl Manifest</title>
+<link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>FX  isl Manifest</title>
+<link>http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>SONY   isl Manifest</title>
+<link>http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>STUDIO UNIVERSAL  isl Manifest</title>
+<link>http://201.161.59.4/studio.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>WARNER  isl Manifest</title>
+<link>http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+
+
+<item><title>WOBI isl Manifest</title>
+<link>http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>LIFETIME isl Manifest</title>
+<link>http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>FOX LIFE isl Manifest</title>
+<link>http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item><title>E isl Manifest</title>
+<link>http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>Golden Edge isl Manifest</title>
+<link>http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+	
+<item>
+<title>DISNEY XD isl Manifest</title>
+<link>http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item>
+<title>NICK  isl Manifest</title>
+<link>http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item>
+<title>CARTOON NETWORK isl Manifest</title>
+<link>http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item>
+<title>cbebbies  isl Manifest</title>
+<link>http://201.161.59.6/cbeebies.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+	
+<item>
+<title>KW isl Manifest</title><link>http://201.161.59.4/kw.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>NAT GEO isl Manifest</title><link>http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>HISTORY isl Manifest</title><link>http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item>
+<title>H2 isl Manifest</title><link>http://201.161.59.3/h2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>TYC SPORTS isl Manifest</title><link>http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>CANAL DHE isl Manifest</title><link>http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>MILENIO TELEVISION isl Manifest</title><link>http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>GOLDEN isl Manifest</title><link>http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>CINE LATINO isl Manifest</title><link>http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>UNICABLE isl Manifest</title><link>http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item>
+<title>TL Novelas isl Manifest</title><link>http://201.161.59.6/tlnovelas.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+<item>
+<title>DISTRITO COMEDIA isl Manifest</title><link>http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>BANDAMAX isl Manifest</title><link>http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>RITMOSON isl Manifest</title><link>http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8</link></item>
+
+<item>
+<title>TELEHIT isl Manifest</title><link>http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8</link></item> 
+
+<item>
+<title>Canal de Musica isl Manifest</title><link>http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8</link></item>		
+
+
+<item>
+<title>Exa Tv isl Manifest</title><link>http://201.161.59.5/exatv.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+
+
+<item>
+<title>Milenio isl Manifest</title><link>http://201.161.59.4/milenio.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+
+
+<item>
+<title>BandaMax isl Manifest</title>
+<link>http://201.161.59.4/bandamax.isml/QualityLevels(1692000)/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+
+
+
+<item>
+<title>Canal de las estrellas isl Manifest</title>
+<link>http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+			
+<item>
+<title>Canal Cinco isl Manifest</title>
+<link>http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>	
+
+
+	
+<item>
+<title>Azteca 7   isl Manifest</title>
+<link>http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>		
+
+<item>
+<title>Foro TV isl Manifest</title>
+<link>http://201.161.59.3/forotv.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>	
+
+	<item>
+<title>GalaTV isl Manifest</title>
+<link>http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>	
+
+<item>
+<title>Once TV  isl Manifest</title>
+<link>http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>		
+<item>
+<title>Cadena 3   isl Manifest</title>
+<link>http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>		
+<item>
+<title>Canal 52 MX   isl Manifest</title>
+<link>http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>			
+			
+
+<item>
+<title>Multicinema isl Manifest</title>
+<link>http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link>
+</item>	
+<item>
+<title>DPelicula isl Manifest</title>
+<link>http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link>
+</item>			
+			
+			
+<item>
+<title>DHE isl Manifest</title>
+<link>http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link>
+</item>			
+						
+<item>
+<title>Warner isl manifest</title>
+<link>http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+<item>
+<title>SONY isl manifest</title>
+<link>http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+<item>
+<title>Fox isl manifest</title>
+<link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link>
+</item>
+
+-------------------------------------
+
+<item>
+<title>MTV Hits ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/75.m3u8</link></item>
+<item>
+
+<title>MTV Base ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/76.m3u8</link></item>
+<item>
+<title>MTV Rocks ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/74.m3u8</link></item>
+<item>
+<title>73 ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/73.m3u8</link></item>
+<item>
+<title>77 ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/77.m3u8</link></item>
+
+<item>
+<title>Discovery Channel ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/63.m3u8</link></item>
+<item>
+<title>Discovery +1 ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/65.m3u8</link></item>
+<item>
+<title>Discovery History ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/67.m3u8</link></item>
+<item>
+<title>Discovery Turbo ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/68.m3u8</link></item>
+<item>
+<title>Discovery Science ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/66.m3u8</link></item>
+<item>
+<title>ID ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/69.m3u8</link></item>
+<item>
+<title>Animal Planet ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/64.m3u8</link></item>
+<item>
+<title>Travel Channel ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/140.m3u8</link></item>
+<item>
+<title>Crime Investigation +1 UK ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/141.m3u8</link></item>
+<item>
+<title>Sky Movies Premiere ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/56.m3u8</link></item>
+<item>
+<title>Sky Movies Premiere +1 ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/57.m3u8</link></item>
+<item>
+<title>Sky Movies Select ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/53.m3u8</link></item>
+<item>
+<title>Sky Movies Comedy ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/51.m3u8</link></item>
+<item>
+<title>Sky Movies Greats ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/60.m3u8</link></item>
+<item>
+<title>Sky Movies Action ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/185.m3u8</link></item>
+<item>
+<title>Sky Movies Family ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/55.m3u8</link></item>
+<item>
+<title>Sky Movies Thriller ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/58.m3u8</link></item>
+<item>
+<title>Sky Movies Dramarom ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/59.m3u8</link></item>
+<item>
+<title>Sky Movies Scifi Horror ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/52.m3u8</link></item>
+<item>
+<title>Movies 4 Men ac8625bde62657dc</title>
+<link>http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/72.m3u8</link></item>
+			
+
+---------------------------------------------------------------------
+-----------------------------------------------------------
+
+	
+			<item>
+			<title>FOX op2  Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.mips.tv:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/zeyuxof1/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+			</item>
+		
+
+			<item>
+			<title>Fox op3 Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/foxperusalem/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+
+
+			<item>
+			<title>Warner Channel Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=warner2021?id=15846$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
+			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.janjuaplayer.com/embedplayer/warner2021/1/620/382</page>
+			<referer>http://www.janjuaplayer.com/</referer>
+			</regex>
+			</item>
+	
+			
+			<item>
+			<title>Warner Channel Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/warnerperusalem/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+
+					
+			<item>
+			<title>MTV Latino  Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/mtvmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+		
+			
+			<item>
+			<title>TeleMusica Regex</title>
+			<link>http://186.155.200.118:1935/live/telemusica/master.m3u8?sd=10&rebase=on</link>
+			</item>
+			 
+		 		 
+ 
+			<item>
+			<title>Telehit Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=telehit2016?id=14065$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
+			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.janjuaplayer.com/embedplayer/telehit2016/1/620/382</page>
+			<referer>http://www.janjuaplayer.com/</referer>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>TNT  Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/tntperusalem/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>AMC  Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/amcmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>SPACE Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/spaceperusalem/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Golden Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/goldenmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			
+			<item>
+			<title>Cinemax Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=cinemax2021?id=15842$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
+			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.janjuaplayer.com/embedplayer/cinemax2021/1/620/382</page>
+			<referer>http://www.janjuaplayer.com/</referer>
+			</regex>
+			</item>
+
+			
+			 
+			
+	                <item>
+			<title>Mundo Fox Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/mundofoxmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			 
+			<item>
+			<title>Canal FX Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/fxperusalem/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+
+			<item>
+			<title>FilmZone Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=filmezone2016?id=33771$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
+			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.janjuaplayer.com/embedplayer/filmezone2016/1/620/382</page>
+			<referer>http://www.janjuaplayer.com/</referer>
+			</regex>
+			</item>
+			
+
+			
+			<item>
+			<title>HBO Plus Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/hboplus-hd</page>
+			<referer>http://www.moviespremiumhd.com/2015/04/hboplus.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+						
+			
+			
+			
+			<item>
+			<title>MovieCity Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/movie-city1</page>
+			<referer>http://www.moviespremiumhd.com/2015/04/moviecity.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+
+			<item><!--tvpor-internet.com/hbo-en-vivo.html-->
+			<title>HBO SD Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/hbomalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			<item><!--tvpor-internet.com/hbo-en-vivo.html-->
+			<title>Cinemax Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/cinemaxmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+
+	
+			
+			
+			
+			<item>
+			<title>FX Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/fxtv</page>
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			<!--http://tv.televall.com.mx/fx.php?width=620&height=380
+			-->
+			
+			
+			
+			
+			<item>
+			<title>Universal Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/universal</page>
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+			<item>
+			<title>SONY Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/sony</page>
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			
+			<item>
+			<title>AXN Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/axn</page>
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<item>
+			<title>Canal 52MX Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/canal52mx.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/canal52mx.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/canal52mx.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/canal52mx</page>
+			<referer>http://tv.televallhd.com/canal52mx.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			
+			<item>
+			<title>TNT Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=7yujk7?id=22302$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/7yujk7/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>[COLOR skyblue]/-/-/-/-/-/-/-/-/-/-   [COLOR deepskyblue]INFANTILES[/COLOR]  /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-[/COLOR] Regex</title>
+			<link>http://ignora.me</link>
+						</item>
+			
+			
+			
+			
+			<item>
+			<title>Tooncast Regex</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/tooncast</page>
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+
+			
+			
+			
+			<item>
+			<title>Discovery Kids Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/kidsmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+
+
+			
+			<item>
+			<title>Disney Channel Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/disneymalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			
+			
+			<item>
+			<title>Disney Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=zeyudisneyyye?id=233435$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
+			pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.mipsplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.mipsplayer.com/embedplayer/zeyudisneyyye/1/620/382</page>
+			<referer>http://www.mipsplayer.com/</referer>
+			</regex>
+			</item>
+			
+			
+
+			
+			
+			<item>
+			<title>Boomerang (SportsDevil) Regex</title>
+			<sportsdevil>http://www.fulltelevisionhd.net/2014/09/boomerang-en-vivo-por-internet.html</sportsdevil>
+			<referer>http://www.fulltelevisionhd.net</referer>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Boomerang Regex</title>
+			<link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8?wowzasessionid=1222806252</link>
+			</item>
+			
+			
+			
+			<item>
+			<title>Nickelodeon SD Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=nickyyy?id=22350$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/nickyyy/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Cartoon Network SD Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=cartooonn?id=22351$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/cartooonn/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+
+			
+			<item>
+			<title>Cartoon Network  Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/cartoonmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+						
+			<item>
+			<title>Nick Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=nick2021?id=15845$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
+			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.janjuaplayer.com/embedplayer/nick2021/1/620/382</page>
+			<referer>http://www.janjuaplayer.com/</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Canal Disney Jr Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/juniormalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Disney Jr Regex</title>
+			<link>rtmp://$doregex[ip]/live playpath=juniorperusalem?id=42828$doregex[pk] swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf tcUrl=rtmp://janjua.tv:1935/live/
+			pageUrl=http://www.janjuaplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.janjuaplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.janjuaplayer.com/embedplayer/juniorperusalem/1/620/382</page>
+			<referer>http://www.janjuaplayer.com/</referer>
+			</regex>
+			</item>
+
+<item>
+			<title>Telemundo Regex</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20931896/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+			<item>
+			
+			<!--
+			<item>
+			<item>
+			<title>Telemundo op.3 Regex</title> http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php 
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+			
+		
+			
+			-->
+			
+			<item>
+			<title>Telemundo opc1 Regex</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+			
+			<item>
+			<title>Telemundo (funcionando) Regex</title>
+			<link>http://198.178.126.247:1935/app/telemundox1chivas_69s-channel/.m3u8</link></item>	
+			
+							
+			<item>
+			<title>Telemundo 42 Regex</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo42 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_telemundo42$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+<item>
+<title>Univision (opc.1) Regex</title>
+<link>rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<regex>
+        <name>path</name>
+        <expres>file: "(.*).flv</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+</regex>
+<regex>
+        <name>tok</name>
+        <expres>token":"([^"]*)</expres>
+        <page>$doregex[tokpg]</page>
+        <referer>https://www.streamlive.to</referer>
+</regex>
+<regex>
+        <name>tokpg</name>
+        <expres>getJSON\("([^"]*)</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+</regex>
+<regex>
+        <name>xs</name>
+        <expres>/(\?xs=.*?)"</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+        <rawpost>captcha=$doregex[answer]</rawpost>
+        <referer>https://www.streamlive.to</referer>
+        <cookieJar></cookieJar>
+        <ignorecache/>
+</regex>
+<regex>
+        <name>answer</name>
+        <expres>$pyFunction:($doregex[captcha])</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>captcha</name>
+        <expres>$pyFunction:'$doregex[xcaptcha]'.replace('x','*')</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>xcaptcha</name>
+        <expres>Question: (.*) =</expres>
+        <page>https://www.streamlive.to/view/69932</page>
+        <referer>http://www.streamlive.to</referer>
+        <cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+			
+			<item>
+			<title>Univision 03 Regex</title><!-- http://www.mirandotv.net/2014/03/univision-en-vivo-por-internet.html 
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/15379493/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item> -->
+			
+			<item>
+			<title>Univision 2 Regex</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20631310/streams/live/playlist.m3u8')</expres>
+			<page></page>
+			</regex> 
+			</item>
+		
+			<item>
+			<title>Univision  HD33 Regex</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd33 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_univision_hd33$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+			
+			
+			
+			<item>
+			<title>Univision 69 Regex</title>
+			<link>rtmp://$doregex[rtmpip]/live playpath=anahii?id=5286 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf pageUrl=http://www.streamify.tv live=1 timeout=20</link>
+			<regex>
+			<name>rtmpip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamify.tv:1935/loadbalancer</page>
+			<referer>http://www.streamify.tv/resources/scripts/eplayer.swf</referer>
+			</regex>
+			</item>	
+					
+			<item>
+			<title>Univision opc3 Regex</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/anahii/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+
+
+-----------------------------------------------
+<item>
+<title>Univision 69 rtmp</title>
+<link>rtmp://162.220.56.237/app/ playpath=turbomaxhds-channel</link>
+</item>
+<item><title>disney channel 1</title>
+<link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+<item>
+<title>TATETI (Latino)</title>
+<link>http://tinyurl.com/ouacf5h</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+<item>
+<title>ANIME TV (Latino)</title>
+<link>http://tinyurl.com/oduols2</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+<item>
+<title>South Park TV (Latino)</title>
+<link>http://tinyurl.com/o4wzm7m</link></item>   
+
+<item>
+<title>Caracol Colombia</title>
+<sportsdevil>http://www.streamlive.to/embed/52715</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+</item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+		
