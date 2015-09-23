@@ -5,6 +5,9 @@
 <title>WIN SPORTS COLOMBIA (F4MTESTER)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
 </item>	
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx no sirven por el momentoxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 <item>
 <title>Bein Sports rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
@@ -1982,6 +1985,8 @@
 	</regex>
 	</item>
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   -->
+
 
 <item><title>FOX   isl Manifest</title>
 <link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link></item>
@@ -2205,5 +2210,461 @@
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item>  
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+<item>
+			<title>Canal FOX op2   regexx</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.mips.tv:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.mips.tv/membedplayer/zeyuxof1/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.mips.tv</referer>
+			</regex>
+			</item>
+
+<item>
+			<title>Golden  regexx</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/goldenmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+	
+<item>
+<item>
+			<title>FX  regexx</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/fxtv</page>
+			<referer>http://tv.televall.com.mx/fx.php</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+			<title>Universal  regexx</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/universal</page>
+			<referer>http://tv.televallhd.com/universal.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+					
+<item>
+			<title>SONY  regexx</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/sony</page>
+			<referer>http://tv.televallhd.com/sony.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+
+<item>
+			<title>AXN  regexx</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/axn</page>
+			<referer>http://tv.televallhd.com/axn.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+
+<item>
+			<title>TNT  regexx</title>
+			<link>rtmp://$doregex[ip]/live playpath=7yujk7?id=22302$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/7yujk7/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>	
+			<item>
+<item>
+			<title>Tooncast  regexx</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/tooncast</page>
+			<referer>http://tv.televallhd.com/tooncast.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail></thumbnail>
+			</item>
+			
+<item>
+			<title>Discovery Kids  regexx</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/kidsmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+
+<item>
+			<title>Nickelodeon SD  regexx</title>
+			<link>rtmp://$doregex[ip]/live playpath=nickyyy?id=22350$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/nickyyy/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+
+<item>
+			<title>Cartoon Network SD  regexx</title>
+			<link>rtmp://$doregex[ip]/live playpath=cartooonn?id=22351$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/cartooonn/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+
+<item>
+			<title>Caracol SD Colombia  regexx</title>
+			<link>rtmp://$doregex[ip]/live playpath=grghtrhtr?id=22163$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/grghtrhtr/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+			
+<item>
+			<title>Caracol Colombia  regexx</title><sportsdevil>http://www.streamlive.to/embed/52715</sportsdevil>
+			<referer>http://www.streamlive.to</referer>
+			
+			</item>
+			
+<item>
+			<title>Nat Geo  regexx</title>
+			<link>rtmp://$doregex[ip]/live playpath=natgeooo?id=22352$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
+			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)<expres>
+			<page>http://www.embedezcast.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>pk</name>
+			<expres>ea=(.*)'</expres> 
+			<page>http://www.embedezcast.com/embedplayer/natgeooo/1/620/380</page>
+			<referer>http://www.embedezcast.com/</referer>
+			</regex>
+			</item>
+
+<item><title>RT en Español  regexx</title><link>$doregex[get-url]</link><regex><name>get-url</name><expres>file: "(.*?)"</expres><page>$doregex[get-ifr]</page><referer>http://tv.vera.com.uy</referer></regex><regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
+
+<page>http://tv.vera.com.uy/canal/6027</page><referer>http://tv.vera.com.uy</referer><cookieJar></cookieJar></regex></item>		
+
+
+<item>
+<title>Discovery Channel op2  regexx</title>
+<link>rtmp://$doregex[ip]/live playpath=clearmaster4?id=233756$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
+pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.mipsplayer.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres> 
+<page>http://www.mipsplayer.com/embedplayer/clearmaster4/1/620/382</page>
+<referer>http://www.mipsplayer.com/</referer>
+</regex>
+</item>
+
+<item>
+			<title>Tu History   regexx</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_05 live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
+			
+<item><title>Todo Anime  regexx</title><link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
+			
+
+
+<item><title>Fx  [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/fx-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+
+<item><title>TNT   [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/tnt-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+
+<item><title>Axn    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/axn-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+
+<item><title>Universal Channel    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/universal-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+
+<item><title>HBO2    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://canales.tutv-porinternet.com/hbo2.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+
+<item><title>tooncast    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://canales.tutv-porinternet.com/tooncast.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+
+<item>
+<title>Nickelodeon [COLOR pink]SportDevil/COLOR]  regexx</title> 
+<sportsdevil>http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html</sportsdevil> <referer>http://www.zandortv.com/</referer></item>
+
+
 
 
