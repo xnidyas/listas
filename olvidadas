@@ -2196,4 +2196,1987 @@ http://192.99.40.14:8000/stream.php?v=73&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gf
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1tvg-logo="c40.png",Proyecto 40
 http://192.99.40.14:8000/stream.php?v=69&s=gH789pLhFa456YgbbHymkLiOF4567902Df4gfgsbgSaW|User-agent=Lavf/55.19.104
+---------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+<!--
+ 
+<item>
+<title>Bein Sports rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BeinSportsLA&amp;cm=2527&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>ESPN rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPNLA&amp;cm=2487&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>ESPN 2 rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPN2LASD&amp;cm=301&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>ESPN 3 rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN3LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ESPN3LASD&amp;cm=3806&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>F1 Racing rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/F1LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=F1LA&amp;cm=1695&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Fox Sports rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxSportsLA&amp;cm=2505&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Fox Sports 2 rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports2SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxSports2SD&amp;cm=475&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Fox Sports 3 rosadin </title>
+<link>http://lb.iptvserver.tv:8080/redirect/FoxSports3SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxSports3SD&amp;cm=445&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Golf Channel rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GolfChannelLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GolfChannelLA&amp;cm=1489&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Planeta Futbol rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=PlanetaFutbolLA&amp;cm=1477&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+
+
+<item>
+<title>TDN Mexico rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TDNMXLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TDNMXLA&amp;cm=1059&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Univision TDN rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UnivisionTDNLA&amp;cm=1483&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+<item>
+<title>UFC Network rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UFCNetworkLA&amp;cm=1047&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+<item>
+<title>Cinemax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CinemaxLASD&amp;cm=343&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>MAX Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MAXLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MAXLASD&amp;cm=381&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Max Prime Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrimeLASD&amp;cm=377&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Prime Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrime2LASD&amp;cm=379&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Up Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxUPSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxUPSD&amp;cm=469&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Film Zone Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmZoneLASD&amp;cm=1055&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HBO Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOLASD&amp;cm=385&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>HBO 2 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBO2SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBO2SD&amp;cm=365&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>HBO Family Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOFamilyLASD&amp;cm=449&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>HBO Plus Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPlusLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPlusLASD&amp;cm=453&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HBO Plus Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPus2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPus2LASD&amp;cm=369&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+
+<item>
+<title>HBO Signature Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOSignatureLASD&amp;cm=451&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Cinemax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CinemaxLASD&amp;cm=343&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>MAX Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MAXLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MAXLASD&amp;cm=381&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Prime Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrimeLASD&amp;cm=377&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Prime Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxPrime2LASD&amp;cm=379&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Max Up Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxUPSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MaxUPSD&amp;cm=469&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Film Zone Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmZoneLASD&amp;cm=1055&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>HBO Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOLASD&amp;cm=385&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HBO 2 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBO2SD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBO2SD&amp;cm=365&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>HBO Family Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOFamilyLASD&amp;cm=449&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>HBO Plus Este Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPlusLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPlusLASD&amp;cm=453&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HBO Plus Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPus2LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOPus2LASD&amp;cm=369&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>HBO Signature Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HBOSignatureLASD&amp;cm=451&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Bandamax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BandamaxLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BandamaxLA&amp;cm=1467&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Concert Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ConcertChannelSD&amp;cm=479&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>HTV Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HTVSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HTVSD&amp;cm=341&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>K Music Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=KMusicLA&amp;cm=3467&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>MTV Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MTVLA&amp;cm=2491&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+
+<item>
+<title>MTV Hits Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVHitsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MTVHitsLA&amp;cm=1495&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Regional Music Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RegionalMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=RegionalMusicLA&amp;cm=4805&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>
+
+<item>
+<title>VH1 Classic Europe Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1ClassicLASD&amp;cm=415&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>VH1 Latino Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1LatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1LatinoSD&amp;cm=483&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Bloomberg Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ElFinancieroBLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ElFinancieroBLA&amp;cm=2823&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>CNN Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CNNLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CNNLASD&amp;cm=1855&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>NTN 24 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NTN24LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NTN24LA&amp;cm=1601&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<!-- cartoons -->			
+
+<item>
+<title>Baby TV Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyTVLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BabyTVLASD&amp;cm=317&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>Boomerang Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BoomerangLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BoomerangLA&amp;cm=2507&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Cartoon Network Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CartoonNetworkLASD&amp;cm=421&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+<item>
+<title>Cbeebies Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CbeebiesLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CbeebiesLA&amp;cm=1029&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+<item>
+<title>Discovery Kids Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryKidsSD&amp;cm=309&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Disney Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DisneyChannelNorteHD&amp;cm=256&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item> 
+
+
+<item>
+<title>Disney Jr. Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyJrLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DisneyJrLASD&amp;cm=1455&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+<item>
+<title>Disney XD Norte Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyXDSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DisneyXDSD&amp;cm=499&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+<item>
+<title>Nickelodeon Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickelodeonLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NickelodeonLA&amp;cm=1423&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+<item>
+<title>Nick Jr. Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickJrLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NickJrLASD&amp;cm=417&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+<item>
+<title>Tooncast Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TooncastSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TooncastSD&amp;cm=443&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+
+
+
+
+<item>
+<title>Cine Dinamita Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineDinamitaLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CineDinamitaLA&amp;cm=3465&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://foromedios.com/uploads/gallery/category_6/gallery_5692_6_5165.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Premier Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenPremier1LA&amp;cm=4777&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Premier 2 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenPremiere2LA&amp;cm=4772&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://imagenes.gatotv.com/logos/canales/oscuros/golden_premier_2-mediano.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Classics Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXClassicsLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXClassicsLASD&amp;cm=465&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FKC/foxclassics-colour-lightbg.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Movies Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXMoviesLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXMoviesLASD&amp;cm=463&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://41.media.tumblr.com/881e3d09170dbed70bb609ffeb1f3c1c/tumblr_inline_nn4c1zDiru1t9mz2l_400.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Action Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXActionOesteLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXActionOesteLASD&amp;cm=437&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.digihost360.co.uk/ch/images/channels/fox_action_hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Action Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXACTIONLASD&amp;cm=435&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.digihost360.co.uk/ch/images/channels/fox_action_hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Cinema Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxCinemaSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxCinemaSD&amp;cm=457&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Cinema-Logo-01.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Comedy Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXComedyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXComedyLASD&amp;cm=461&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.ipuntotv.com/IMAGES/Fox-comedy-logo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Family Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXFamilyLASD&amp;cm=467&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-family-hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox1 Oeste Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1OesteLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOX1OesteLASD&amp;cm=439&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-One-Logo-01.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+<item>
+<title>Fox1 Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1LASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOX1LASD&amp;cm=433&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-One-Logo-01.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>The Film Zone Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmZoneLASD&amp;cm=1055&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://i.imgur.com/lYisQ.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+	
+<item>
+<title>Film Arts Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmArtsLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FilmArtsLA&amp;cm=1599&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.filmandarts.tv/img/filmandarts.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Europa Europa Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EuropaEuropaLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EuropaEuropaLA&amp;cm=1597&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://airecable.com/wp-content/uploads/2013/09/EUROPA-EUROPA.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Isat Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ISATLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ISATLA&amp;cm=1703&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fd/Isat_logo.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>TCM Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCMSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TCMSD&amp;cm=481&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20100316153430/logopedia/images/8/83/TCM_logo.svg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Studio Universal Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/StudioUniversalSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=StudioUniversalSD&amp;cm=345&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.cinepremiere.com.mx/imgsHistorico/u6/Noticia_TV_Studio_Universal.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>AMC Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AMCLASD&amp;cm=485&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Space Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SpaceLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SpaceLA&amp;cm=2489&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.tvcafenas.com.br/logos/space.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Cinemax Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CinemaxLASD&amp;cm=343&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://jennierios.vpweb.com/Cinemax_logo_latin_america.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Cinecanal Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineCanalLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CineCanalLA&amp;cm=2495&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://40.media.tumblr.com/1bca12d93cf8b2274c7e9a21c5e64edd/tumblr_inline_nmlk2v8JwW1t9mz2l_1280.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>TNT Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TNTAmericaLatinaHD&amp;cm=262&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2013/03/tnt1__130321184641.jpeg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+
+<item>
+<title>Sundance Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SundanceLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SundanceLA&amp;cm=1041&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.sundancechannel.la/wp-content/themes/sundance_framework/images/sundance_logo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Paramount Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ParamountChannelLatinAmericaHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ParamountChannelLatinAmericaHD&amp;cm=260&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://foromedios.com/uploads/gallery/category_2/sml_gallery_5617_2_255.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Multiplex Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenMPLXLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenMPLXLA&amp;cm=1035&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://img110.xooimage.com/files/b/e/8/golden-49c7251.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden Edge Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenEdgeLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenEdgeLA&amp;cm=1465&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://tvnotiblog.com/wp-content/uploads/2010/03/golden-640x432.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Golden HD Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenHD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GoldenHD&amp;cm=264&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://televisatvdepaga.com/wp-content/uploads/2013/11/golden-hd.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Cinelatino Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineLatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CineLatinoSD&amp;cm=477&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://1.bp.blogspot.com/-2triVu-pOis/UlMzvE6BTHI/AAAAAAAADAA/XJ0F-E8-G34/s1600/ver+cinelatino+en+vivo.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Multipremier Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MultiPremierLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MultiPremierLA&amp;cm=3293&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Eurochannel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EurochannelLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EurochannelLA&amp;cm=4912&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://reggaefilmfestival.files.wordpress.com/2013/02/eurochannel.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>AXN Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AXNLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AXNLA&amp;cm=2493&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://cdn.sptdigital.com/sites/asia.axn/files/logo_white_trademark.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Fox Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXHDLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FOXHDLA&amp;cm=3497&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.redempresariosvisa.com/Content/images/ideas/notas/T17820121130largeNote6.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Universal Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UniversalLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UniversalLASD&amp;cm=387&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>https://upload.wikimedia.org/wikipedia/el/8/8d/Universalchannel.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>FX Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FXLASD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FXLASD&amp;cm=431&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://gps.pezquiza.com/wp-content/uploads/2012/01/fx-hd.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Warner Channel Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/WarnerLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=WarnerLA&amp;cm=2499&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://foromedios.com/uploads/gallery/album_2/med_gallery_1163_2_22008.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>TNT Series Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/infinitoSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=infinitoSD&amp;cm=331&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://www.panorama.com.ve/__export/1428781314584/sites/panorama/img/facetas/2015/04/11/tnt_serie.jpg</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>Sony Rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SonyLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SonyLA&amp;cm=2501&amp;nombre=US.m3u8</page>
+<referer>http://stoker.jdmsociety.x10.mx</referer>
+<setcookie>programa=rosadintv</setcookie>
+<thumbnail>http://1.bp.blogspot.com/-vi5aqvnnbb0/T6Faf6V_sLI/AAAAAAAAAHo/pUVOS2nMUPc/s1600/sony.png</thumbnail>
+<fanart>http://lecherialatina.com/wp-content/uploads/2013/02/la_era_de_hielo-4.jpg</fanart>
+</regex>
+</item>
+
+
+
+<item>
+	<title>UNIMAS Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UniMasUS/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UniMasUS&amp;cm=3602&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/130px-Logo_UniM%C3%A1s.svg.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>NBC Universo Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NBCUniversoUS/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NBCUniversoUS&amp;cm=4825&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/6/6f/NBCUniverso_logo.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Az Mundo  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AzMundoLa/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AzMundoLa&amp;cm=1999&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://foromedios.com/uploads/gallery/category_2/med_gallery_1163_2_32434.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Multimedio Plus Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MultimediosLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MultimediosLA&amp;cm=1459&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.freeetv.com/images/reydddd/multimediostv.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Comedia Central Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ComedyCentralLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ComedyCentralLA&amp;cm=2575&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/2000px-Comedy_Central_2011_Logo.svg.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Distrito Comedia  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DistritoComediaLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DistritoComediaLA&amp;cm=1491&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_Distrito_Comedia.png/228px-Logo_Distrito_Comedia.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Mundo Fox  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MundoFoxSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MundoFoxSD&amp;cm=429&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://2.bp.blogspot.com/-_xxsU2o1HAk/UxlDsrN_97I/AAAAAAAAANs/i9Gt12_aaUQ/s320/305px-MUNDOFOX.svg.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	
+	<item>
+	<title>Unicable Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnicableLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=UnicableLA&amp;cm=3804&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.freeetv.com/images/reydddd/multimediostv.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>RCN Novelas Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RCNnovelasLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=RCNnovelasLA&amp;cm=1493&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Caracol Internacional Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CaracolIntSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CaracolIntSD&amp;cm=2051&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://img3.wikia.nocookie.net/__cb20150408054203/logopedia/images/7/7d/Caracol_TV_Internacional.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Telecentro  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/Telecentro13LA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=Telecentro13LA&amp;cm=2017&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://www.telecentro.com.ar/images/logotc_header.png</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Tlnovelas Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TlnovelasLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TlnovelasLA&amp;cm=1461&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://3.bp.blogspot.com/-rjeKZqCu3q0/Uil0isFkgtI/AAAAAAAAoNo/DHefYg40TqU/s1600/Canales+de+Telenovelas.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Pasiones Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PasionesSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=PasionesSD&amp;cm=295&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://revistasenal.com/wp-content/uploads/2014/11/pasiones.jpg</thumbnail>
+	<fanart>http://i2.esmas.com/2013/05/30/523254/stage_miembros-al-aire_01-795x310.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	
+	
+<item>
+	<title>Lifetime Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/LifetimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=LifetimeLASD&amp;cm=423&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://yt3.ggpht.com/-B6Ik9Cag8L8/AAAAAAAAAAI/AAAAAAAAAAA/SjhIYodiMRQ/s900-c-k-no/photo.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Fox Life Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxLifeSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=FoxLifeSD&amp;cm=425&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Glitz  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GlitzLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=GlitzLA&amp;cm=1473&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.glitztvla.com/wp-content/uploads/2011/12/logo_glitz_color.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>TBS  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TBSLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TBSLASD&amp;cm=333&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/PerfectTBS.svg/115px-PerfectTBS.svg.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Casa Club  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CasaClubLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CasaClubLA&amp;cm=1475&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Club_tv_logo.svg/200px-Casa_Club_tv_logo.svg.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>El Gourmet  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ElgourmetLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ElgourmetLA&amp;cm=1033&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.lamac.org/res/channels/logos/_0046_el_gourmet.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>H2   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/H2LASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=H2LASD&amp;cm=297&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/H2_channel_logo.PNG/245px-H2_channel_logo.PNG</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Efekto TV  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EfektoTVLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EfektoTVLA&amp;cm=1039&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://187.141.34.92/portal/images/consejero/audios/logo_efektoTV.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>TLC  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCLLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=TCLLASD&amp;cm=327&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/07/TLC-HD-logo.jpeg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Investigacion Discovery   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/InvDiscoverySD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=InvDiscoverySD&amp;cm=455&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://img2.wikia.nocookie.net/__cb20130224001500/logopedia/images/6/67/Investigation_discovery_us_hd.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Animal Planet  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AnimalPlanetLASD&amp;cm=441&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://4.bp.blogspot.com/_02dwWlBMhIk/SkrDL8R0gaI/AAAAAAAAEJg/X5EyKFuOVLU/s320/a.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title>Natgeo Wild  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NatGeoWildLAHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NatGeoWildLAHD&amp;cm=254&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://img4.wikia.nocookie.net/__cb20130723131020/logopedia/images/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Natgeo  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NatGeoLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=NatGeoLASD&amp;cm=395&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://static1.squarespace.com/static/50ddd0c2e4b00220dc772ba4/50ff2415e4b0bae78fcd5f41/50ff3276e4b0bae78fcdc444/1358901878923/natgeo-logo.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>History  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HistoryLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HistoryLA&amp;cm=3704&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://i.imgur.com/MlCSW.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Discovery Home & HEalth   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryHomeHealthLAHD&amp;cm=252&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Dsicovery World   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryWorldLA&amp;cm=3529&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_world_hd_(small_globe).png/220px-Discovery_world_hd_(small_globe).png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Discovery Theater  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryenEspanolHD&amp;cm=3798&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://geek.com.mx/wp-content/uploads/2009/03/dnhd.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Discovery  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryChLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=DiscoveryChLA&amp;cm=3531&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.telegratis.net/img/disco.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>A&E  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AELatinoamericaHD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=AELatinoamericaHD&amp;cm=258&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.tvweeklynow.com/images/9073/RIcksPix/Press%20Images/A%26E%20Logo(1).png</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>E!  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EentertaimentSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=EentertaimentSD&amp;cm=427&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://alanisalways.zip.net/images/Logo-E.gif</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>SyFy  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SyfyLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=SyfyLASD&amp;cm=447&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://happynicetimepeople.com/wp-content/uploads/2015/07/syfy-logo-484_0.jpg</thumbnail>
+	<fanart>http://www.abonelik.gen.tr/wp-content/uploads/2014/03/discovery-channel.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>CBeebies Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CBeebiesLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=CBeebiesLA&amp;cm=1029&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/315px-CBeebies.svg.png</thumbnail>
+	<fanart>http://freephotos.atguru.in/hdphotos/hd-disney-wallpapers/wallpapers-17654-1290107.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>BabyTV  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyTVLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BabyTVLASD&amp;cm=317&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png</thumbnail>
+	<fanart>http://freephotos.atguru.in/hdphotos/hd-disney-wallpapers/wallpapers-17654-1290107.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Baby First  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyFirstLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BabyFirstLA&amp;cm=1031&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://godish.com/media/25005/baby_first_tv.png</thumbnail>
+	<fanart>http://freephotos.atguru.in/hdphotos/hd-disney-wallpapers/wallpapers-17654-1290107.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	
+<item>
+	<title>Regional Music Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RegionalMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=RegionalMusicLA&amp;cm=4805&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/regional_music_tv.jpg</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Bandamax Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BandamaxLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=BandamaxLA&amp;cm=1467&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://tutelevisionenvivo.org/wp-content/uploads/2014/01/r.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>HTV Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HTVSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=HTVSD&amp;cm=341&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_HTV_2009.jpg</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>Concert Channel  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=ConcertChannelSD&amp;cm=479&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://pbs.twimg.com/profile_images/836013696/CCH_Logo_white_on_black_background.jpg</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>K Music Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=KMusicLA&amp;cm=3467&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://pbs.twimg.com/profile_images/1585183599/2.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>VH1 Latino  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1LatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1LatinoSD&amp;cm=483&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.userlogos.org/files/logos/danger83/vh1logo.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	<item>
+	<title>VH1 Classics   Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=VH1ClassicLASD&amp;cm=415&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+	
+	
+	<item>
+	<title> r MTV Hits  Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVHitsLA/playlist.m3u8?token=$doregex[tok]</link>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*)</expres>
+	<page>http://stoker.jdmsociety.x10.mx/stal.php?canal=MTVHitsLA&amp;cm=1495&amp;nombre=US.m3u8</page>
+	<referer>http://stoker.jdmsociety.x10.mx</referer>
+	<setcookie>programa=rosadintv</setcookie>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Logo_MTV_HITS_2012.png/150px-Logo_MTV_HITS_2012.png</thumbnail>
+	<fanart>http://2.bp.blogspot.com/-oUifBaUi_qg/UwB_zq1WgfI/AAAAAAAAACw/Fyn9rluKTtI/s1600/bigstock-sexy-blonde-dj-girl-in-the-cl-26924120.jpg</fanart>
+	</regex>
+	</item>
+
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*?)</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
+	</regex>
+	</item>
+			
+			
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token="(.*?)"</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/</referer>
+	</regex>
+	</item>
+			
+	<item><title>AMC USA Rosadin</title><link>rtmp://31.220.0.104/pull/amc36 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token="(.*?)"</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+	</regex>
+	</item>
+			
+	<item>
+	<title>AMC Rosadin</title>
+	<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+	<thumbnail></thumbnail>
+	<regex>
+	<name>tok</name>
+	<expres>token=(.*?)</expres>
+	<page>http://portal.iptvprivateserver.tv/stalker_portal/server/load.php?type=stb&amp;action=handshake&amp;token=&amp;JsHttpRequest=1-xml</page>
+	<referer>http://portal.iptvprivateserver.tv/stalker_portal/c/</referer>
+	</regex>
+	</item>
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 
