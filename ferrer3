@@ -6,8 +6,8 @@
 <link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
 </item>	
 
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx no sirven por el momentoxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+<!--
+ 
 <item>
 <title>Bein Sports rosadin</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
@@ -1985,9 +1985,9 @@
 	</regex>
 	</item>
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   -->
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
 
-
+-->
 <item><title>FOX   isl Manifest</title>
 <link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link></item>
 
