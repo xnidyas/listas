@@ -2,6 +2,34 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
+#EXTINF:-1,snooper stalker nbc
+http://31.220.40.115:80/LiveEdge/NBCMIASD/playlist.m3u8?token=115d65b5138b2d249c00cc5f42b50a1b
+#EXTINF:-1,snooper stalker fx latino
+http://31.220.41.107:80/LiveEdge/FXLASD/playlist.m3u8?token=ab9c5efc1790d6 840eb92eb4b03fcbab
+#EXTINF:-1,snooper stalker fx latino otro token
+http://31.220.41.107:80/LiveEdge/FXLASD/playlist.m3u8?token=1c4c9612f8b7ed725fb40a238f37e5af
+#EXTINF:-1,snooper stalker fx latino chunklist
+http://31.220.41.107/LiveEdge/FXLASD/chunklist_w572657601_b1000000.m3u8?token=1c4c9612f8b7ed725fb40a238f37e5af
+
+#EXTINF:-1,snooper stalker bein sport ñ
+http://31.220.40.118:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=0e264eebdb896a8deb0a60294d829578
+#EXTINF:-1,snooper stal ker espn 
+http://31.220.40.117:80/LiveEdge/ESPNLA/playlist.m3u8?token=13224bdea66f7ede9bc281181de14e1f
+#EXTINF:-1,snooper stalker espn2
+http://31.220.41.102:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=86d74ccda6fe8912cc265b97a8c71ecb
+#EXTINF:-1,snooper stalker foxsport
+http://31.220.40.119:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=6871ad8950b63f30e716e39ad2a0cf9c
+#EXTINF:-1,snooper stalker foxsport 2
+http://31.220.40.123:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=a6246fa5afe5e6b715bd35bc0bb85a2e
+#EXTINF:-1,snooper stalker tdn univision
+http://31.220.40.100:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=757a878ae9b6d29c20fefb9a0cb591db
+#EXTINF:-1,snooper stalker tdn MX
+http://31.220.41.107:80/LiveEdge/TDNMXLA/playlist.m3u8?token=e872ce77ea169d8316967fbe7954c12e
+#EXTINF:-1,snooper stalker planeta futbol
+http://31.220.40.121:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=fbb0b84b33fa7e7bd1a13898a7d2ed1a
+
+
+
 #EXTINF:-1 group-title="DEPORTES",Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
@@ -331,27 +359,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,**GOLDEN EDGE T-K 201.161.59.3 adivinndo
 http://201.161.59.3/goldenedge.isml/manifest(format=m3u8-aapl).m3u8
-
-
-
-
-#EXTINF:-1,snooper stalker bein sport ñ
-http://31.220.40.118:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=0e264eebdb896a8deb0a60294d829578
-#EXTINF:-1,snooper stal ker espn 
-http://31.220.40.117:80/LiveEdge/ESPNLA/playlist.m3u8?token=13224bdea66f7ede9bc281181de14e1f
-#EXTINF:-1,snooper stalker espn2
-http://31.220.41.102:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=86d74ccda6fe8912cc265b97a8c71ecb
-#EXTINF:-1,snooper stalker foxsport
-http://31.220.40.119:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=6871ad8950b63f30e716e39ad2a0cf9c
-#EXTINF:-1,snooper stalker foxsport 2
-http://31.220.40.123:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=a6246fa5afe5e6b715bd35bc0bb85a2e
-#EXTINF:-1,snooper stalker tdn univision
-http://31.220.40.100:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=757a878ae9b6d29c20fefb9a0cb591db
-#EXTINF:-1,snooper stalker tdn MX
-http://31.220.41.107:80/LiveEdge/TDNMXLA/playlist.m3u8?token=e872ce77ea169d8316967fbe7954c12e
-#EXTINF:-1,snooper stalker planeta futbol
-http://31.220.40.121:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=fbb0b84b33fa7e7bd1a13898a7d2ed1a
-
 
 
 
