@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
 #EXTINF:-1,snooper stalker nbc
-http://31.220.40.115:80/LiveEdge/NBCMIASD/playlist.m3u8?token=115d65b5138b2d249c00cc5f42b50a1b
+http://31.220.40.115:80/LiveEdge/NBCMIASD/playlist.m3u8?token=00000000000000000000000000000000
 #EXTINF:-1,snooper stalker fx latino
 http://31.220.41.107:80/LiveEdge/FXLASD/playlist.m3u8?token=ab9c5efc1790d6 840eb92eb4b03fcbab
 #EXTINF:-1,snooper stalker fx latino otro token
