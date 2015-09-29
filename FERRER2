@@ -161,6 +161,17 @@
 </item>
 
 <item>
+<title>[COLOR yellow]ZonaSport 1 item ESPN[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-1.php</sportsdevil>
+<referer>http://zonasports.in/canal-1.php/</referer>
+</item>
+<item>
+<title>[COLOR yellow]ZonaSport 5 item ESPN[/COLOR]</title>
+<sportsdevil>http://zonasports.in/canal-5.php</sportsdevil>
+<referer>http://zonasports.in/canal-5.php/</referer>
+</item>
+
+<item>
 <title>[COLOR yellow]ZonaSport 2 item FOX[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
 <referer>https://streamup.com/</referer>
