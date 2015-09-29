@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>[COLOR=dodgerblue]OJO [COLOR] VIP OPCION 2[COLOR red] SportSdevil[/COLOR]</title>
+<title>[COLOR=dodgerblue]ojo [COLOR] VIPRACING OPCION 2[COLOR red] SportSdevil[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-2</sportsdevil>
 <referer>http://vipracing.tv/</referer>
 <fanart>http://www.hdwallpapers-3d.com/wp-content/uploads/2014/06/sports-pictures-hd-wallpaper-1.jpg</fanart>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>[COLOR=dodgerblue]OJO [COLOR] VIP OPCION 2[COLOR yellow] REGEX[/COLOR]</title>
+<title>[COLOR=dodgerblue]ojo [COLOR] VIPRACING OPCION 2[COLOR yellow] REGEX[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[COLOR=dodgerblue]OJO [COLOR] VIP OPCION 3[COLOR red] SportSdevil[/COLOR]</title>
+<title>[COLOR=dodgerblue]ojo [COLOR] VIPRACING OPCION 3[COLOR red] SportSdevil[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-3</sportsdevil>
 <referer>http://vipracing.tv/</referer>
 <fanart>http://www.hdwallpapers-3d.com/wp-content/uploads/2014/06/sports-pictures-hd-wallpaper-1.jpg</fanart>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR=dodgerblue]yulfiostv=>[COLOR] VIP OPCION 3[COLOR yellow] REGEX[/COLOR]</title>
+<title>[COLOR=dodgerblue]ojo[COLOR] VIPRACING OPCION 3[COLOR yellow] REGEX[/COLOR]</title>
 <link>$doregex[getVipRacing]</link>
 <regex>
 <name>getVipRacing</name>
