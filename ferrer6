@@ -54,6 +54,11 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1,America peru hd
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 
+#EXTINF:-1,TOP PREMIUM XXX ojo
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,XXX 1 ojoooooo
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
 #EXTINF:-1,Adult 1
 http://199.195.195.108:32005
 #EXTINF:-1,Adult 2
@@ -104,4 +109,166 @@ rtmp://149.3.141.210:1935/tv/ttv12
 http://localhost/ch/289
 #EXTINF:-1,Playboy TV
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ xxxxxxxxxxxxxxxxxxxx
  
+ #EXTM3U
+#EXTINF:-1,Adult Premium 1
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+#EXTINF:-1,Adult Premium 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+#EXTINF:-1,ADULTO 1 XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,ASIA 8086
+http://59.120.43.181:8086
+#EXTINF:-1,ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1,ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,ASIA rtmp ttv13
+rtmp://149.3.141.210:1935/tv/ttv13
+#EXTINF:-1,ASIA rtmp ttv14
+rtmp://149.3.141.210:1935/tv/ttv14
+#EXTINF:-1,ASIA rtmp ttv15
+rtmp://149.3.141.210:1935/tv/ttv15
+#EXTINF:-1,ASIA rtmp ttv16
+rtmp://149.3.141.210:1935/tv/ttv16
+#EXTINF:-1,BabeStation Unleashed 1
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1,BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1,Bella Luz rtsp
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1,Bizarre
+http://best-shqip-iptv.blogdns.com/stream/XXX3/ferid-012-2015/2003palas1502
+#EXT
+
+INF:-1,Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,Jazmin Channel HD 720
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Korea:韩国phd1008
+rtmp://edge2.everyon.tv/etv2/phd1008
+#EXTINF:-1,Korea:韩国phd499
+rtmp://edge2.everyon.tv/etv2sb/phd499
+#EXTINF:-1,Korea:韩国phd501
+rtmp://edge2.everyon.tv/etv2sb/phd501
+#EXTINF:-1,Korea:韩国phd511
+rtmp://edge2.everyon.tv/etv2sb/phd511
+#EXTINF:-1,Korea:韩国phd59
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Korea:韩国phd60
+rtmp://edge2.everyon.tv/etv2sb/phd60
+#EXTINF:-1,Korea:韩国phd61
+rtmp://edge2.everyon.tv/etv2sb/phd61
+#EXTINF:-1,Korea:韩国phd62
+rtmp://edge2.everyon.tv/etv2sb/phd62
+#EXTINF:-1,Korea:韩国phd63
+rtmp://edge2.everyon.tv/etv2sb/phd63
+#EXTINF:-1,Korea:韩国phd64
+rtmp://edge2.everyon.tv/etv2sb/phd64
+#EXTINF:-1,Korea:韩国phd769
+rtmp://edge2.everyon.tv/etv2sb/phd769
+#EXTINF:-1,Korea:韩国phd771
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Korea:韩国phd772
+rtmp://edge2.everyon.tv/etv2sb/phd772
+#EXTINF:-1,Korea:韩国phd968
+rtmp://edge2.everyon.tv/etv2sb/phd968
+#EXTINF:-1,Korea:韩国phd991
+rtmp://edge2.everyon.tv/etv2sb/phd991
+#EXTINF:-1,Korea:韩国phd992
+rtmp://edge2.everyon.tv/etv2sb/phd992
+#EXTINF:-1,Korea:韩国phd993
+rtmp://edge2.everyon.tv/etv2sb/phd993
+#EXTINF:-1,LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Olalá
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Playboy TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,PowerGirls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,PT HOT+18
+http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts
+#EXTINF:-1,PT PLAYBOY
+http://myplace.dnsalias.com:6262/live/pt/gratis/25.ts
+#EXTINF:-1,RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Russian Night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,Super One
+http://best-shqip-iptv.blogdns.com/stream/hustlertv/ferid-012-2015/2003palas1502
+
+#EXTINF:0,XXX
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:0,XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:0,XXX
+http://188.165.220.116:8081/live/2/chunks.m3u8
+#EXTINF:0,SUPERONE+18
+http://31.223.238.10:8001/1:0:1:409:2:1:E0831B3:0:0:0:
+#EXTINF:0,SUPER ONE HD 
+http://87.116.166.195:8103 
+#EXTINF:0,Frenchlover 
+http://95.170.186.178:7781/udp/239.255.4.4:1234
+#EXTINF:0,Private 
+http://185.38.12.20:8088/private/ 
+#EXTINF:0,Russian night 
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:0,XXL 
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:0,HQ Amateurs
+http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv 
+#EXTINF:0,Bella Club
+http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp/bellaclub-tablet.3gp-mr648k.m3u8
+#EXTINF:0,Bella Club Luz
+http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
+#EXTINF:0,Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
