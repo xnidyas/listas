@@ -23,7 +23,6 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 #EXTINF:-1,ARG TELEFE SD
 http://live-edge01.telecentro.net.ar/live/tlfhd-180/playlist.m3u8
-
 #EXTINF:-1,Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1,Canal 6 Costa Rica
@@ -50,3 +49,7 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 http://livestream-f.akamaihd.net/7895918_3314732_c8d89b89_1_446@132480?v=3.6.0&fp=WIN+17%2C0%2C0%2C169&r=POJUE&g=EEIASCPGZDJH
 #EXTINF:-1,canal 7 azteca
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1,america peru
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1,America peru hd
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
