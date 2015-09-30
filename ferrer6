@@ -54,3 +54,54 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1,America peru hd
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 
+#EXTINF:-1,Adult 1
+http://199.195.195.108:32005
+#EXTINF:-1,Adult 2
+http://iptvnation.com/porn/video.flv
+#EXTINF:-1,Adult 3  
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,Adult 4
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+#EXTINF:-1,Adult 5
+http://iptvnation.com/porn/video.flv
+#EXTINF:-1,Adult 6
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 7
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+#EXTINF:-1,Adult 8
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 9
+rtmp://edge2.everyon.tv/etv2sb/phd771
+#EXTINF:-1,Adult 10
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 11
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,Adult 12
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 13
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 14  
+http://59.120.43.181:8084
+#EXTINF:-1,Adult 15
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Adult 16
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 17
+rtmp://edge2.everyon.tv/etv2sb/phd59
+#EXTINF:-1,Adult 18
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,Adult 20  
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Adult 21
+http://188.93.18.238:1935/tv/3310/playlist.m3u8
+#EXTINF:-1,Adult 22
+http://iptvnation.com/porn/video.mp4
+#EXTINF:-1,Adult 23  
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,Adult 24
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,Playboy TV Latin America  
+http://localhost/ch/289
+#EXTINF:-1,Playboy TV
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
