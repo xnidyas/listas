@@ -40,6 +40,14 @@ XXXXXXXXXXXXXXXXx
 </item> 
 
 <item>
+<title>[COLOR hotpink]ESPN sin &amp;nombre=US.m3u8 [/COLOR]</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name><expres>token=(.*)</expres>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=ESPNLA&amp;cm=2487</page>
+<referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
+</item> 
+
+<item>
 <title>[COLOR hotpink]ESPN 2[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2LASD/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
@@ -122,8 +130,7 @@ XXXXXXXXXXXXXXXXXX
 <title>venus rosain</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VENUSSD/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-
-<page><page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=VENUSSD&amp;cm=285.m3u8</page>
+<page><page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=VENUSSD&amp;cm=285</page>
 <referer>http://tasterschoice.x10.bz</referer>
 <setcookie>programa=rosadintv</setcookie>
 </regex>
@@ -150,7 +157,6 @@ XXXXXXXXXXXXXXXXXX
 <setcookie>programa=rosadintv</setcookie>
 </regex>
 </item>  
-
 
 XXXXXXXXXXXXXXXX
 
