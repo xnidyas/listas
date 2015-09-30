@@ -117,6 +117,40 @@ XXXXXXXXXXXXXXXXx
 <page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=UFCNetworkLA&amp;cm=1047&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item>  
+XXXXXXXXXXXXXXXXXX
+<item>
+<title>venus rosain</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VENUSSD/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name><expres>token=(.*)</expres>
+
+<page><page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=VENUSSD&amp;cm=285.m3u8</page>
+<referer>http://tasterschoice.x10.bz</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+<item>
+<title>play rosain</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PlayboyTV/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name><expres>token=(.*)</expres>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=PlayboyTV&amp;cm=289.m3u8</page>
+<referer>http://tasterschoice.x10.bz</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
+<item>
+<title>hustlerLA rosadin</title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/hustlerLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>token=(.*)</expres>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=hustlerLA&amp;cm=1707</page>
+<referer>http://tasterschoice.x10.bz</referer>
+<setcookie>programa=rosadintv</setcookie>
+</regex>
+</item>  
+
 
 XXXXXXXXXXXXXXXX
 
