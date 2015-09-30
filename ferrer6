@@ -54,14 +54,3 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1,America peru hd
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 
-#EXTINF:-1, FOX SPORT rtmp 30del9
-rtmp://nl.iguide.to/iguide playpath=jrus91f8rqxhb9x swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=31738&autoplay=true
-
-#EXTINF:-1, FOX SPORT rtmp 29 de 19
-rtmp://nl.iguide.to/iguide playpath=s1kbzpbluwg3gq7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=29725&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1, FOX SPORT 2 rtmp
-rtmp://181.214.35.7:19350/live/ playpath=vKgpkwerxkBm swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=1141&vw=650&vh=400
-
-#EXTINF:-1, FOX SPORT rtmp iguide
-rtmp://nl.iguide.to/iguide playpath=s1kbzpbluwg3gq7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=29725&autoplay=true token=#ed%h0#w18623jsda6523lDGD
