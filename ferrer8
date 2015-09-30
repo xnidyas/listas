@@ -28,7 +28,7 @@ XXXXXXXXXXXXXXXXx
 <item><title>[COLOR hotpink]Bein Sports[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=BeinSportsLA&amp;cm=2527&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=BeinSportsLA&amp;cm=2527&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer>
 <setcookie>programa=rosadintv</setcookie></regex></item> 
 
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXx
 <title>[COLOR hotpink]ESPN[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=ESPNLA&amp;cm=2487&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=ESPNLA&amp;cm=2487&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item> 
 
@@ -44,13 +44,13 @@ XXXXXXXXXXXXXXXXx
 <title>[COLOR hotpink]ESPN 2[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2LASD/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=ESPN2LASD&amp;cm=301&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=ESPN2LASD&amp;cm=301&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex></item> 
 
 <item><title>[COLOR hotpink]ESPN 3[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN3LASD/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=ESPN3LASD&amp;cm=3806&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=ESPN3LASD&amp;cm=3806&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item> 
 
@@ -58,42 +58,42 @@ XXXXXXXXXXXXXXXXx
 <title>[COLOR hotpink]F1 Racing[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/F1LA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=F1LA&amp;cm=1695&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=F1LA&amp;cm=1695&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item> 
 
 <item><title>[COLOR hotpink]Fox Sports[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=FoxSportsLA&amp;cm=2505&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=FoxSportsLA&amp;cm=2505&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie>
 </regex>}</item> 
 
 <item><title>[COLOR hotpink]Fox Sports 2[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports2SD/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=FoxSports2SD&amp;cm=475&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=FoxSports2SD&amp;cm=475&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item> 
 
 <item><title>[COLOR hotpink]Fox Sports 3[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/FoxSports3SD/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=FoxSports3SD&amp;cm=445&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=FoxSports3SD&amp;cm=445&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item> 
 
 <item><title>[COLOR hotpink]Golf Channel[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GolfChannelLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=GolfChannelLA&amp;cm=1489&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=GolfChannelLA&amp;cm=1489&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item>
 
  <item><title>[COLOR hotpink]Planeta Futbol[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=PlanetaFutbolLA&amp;cm=1477&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=PlanetaFutbolLA&amp;cm=1477&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie>
 </regex>
 </item>
@@ -101,13 +101,13 @@ XXXXXXXXXXXXXXXXx
 <item><title>[COLOR hotpink]TDN Mexico[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TDNMXLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=TDNMXLA&amp;cm=1059&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=TDNMXLA&amp;cm=1059&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item> 
 <item><title>[COLOR hotpink]Univision TDN[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=UnivisionTDNLA&amp;cm=1483&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=UnivisionTDNLA&amp;cm=1483&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie>
 </regex>
 </item>
@@ -115,10 +115,9 @@ XXXXXXXXXXXXXXXXx
 <item><title>[COLOR hotpink]UFC Network[/COLOR]</title>
 <link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link>
 <regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp&amp;canal=UFCNetworkLA&amp;cm=1047&amp;nombre=US.m3u8</page>
+<page>http://tasterschoice.x10.bz/nescafe.php?contra=descafeinado&amp;canal=UFCNetworkLA&amp;cm=1047&amp;nombre=US.m3u8</page>
 <referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
 </item>  
-
 
 XXXXXXXXXXXXXXXX
 
