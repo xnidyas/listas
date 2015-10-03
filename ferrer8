@@ -87,8 +87,17 @@ XXXXXXXXXXXXXXXX
 <item><title>TDN </title>
 <link>http://iptvlatam.cf/hls/univision/playlist.m3u8</link></item>
 
+<item><title>fox</title>
+<link>http://iptvlatam.cf/hls/fox/playlist.m3u8</item>
+
+<item><title>fox sport</title>
+<link>http://iptvlatam.cf/hls/foxsport/playlist.m3u8</item>
+
+
 <item><title>TDN </title>
 <link>http://192.240.113.42:1935/live/canal001.stream/playlist.m3u8?username=.agustin&password=123</link></item>
+
+
 
 <item><title>[COLOR lime][Leton][/COLOR] Canal+ Liga HD </title>
 <link>rtmp://31.220.0.104/pull/liga258 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
