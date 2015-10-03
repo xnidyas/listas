@@ -266,6 +266,7 @@ http://31.220.41.111/LiveEdgeTesting/RegionalMusicLA/playlist.m3u8?token=
 http://31.220.41.111/LiveEdgeTesting/_definst_/HTVSD/playlist.m3u8?token=
 #EXTINF:-1,K MUSIC T-K
 http://31.220.41.111/LiveEdgeTesting/KMusicLA/playlist.m3u8?token=
+
 #EXTM3U
 #EXTINF:-1tvg-logo="max-up.png" group-title="Cine y Series",Max Up
 http://31.220.41.111:80/LiveEdgeTesting/MaxUPSD/playlist.m3u8?token=
