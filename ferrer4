@@ -30,8 +30,6 @@ rtsp://stream.tn.com.ar/live/tnhd1
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Ideman depotes
-http://149.255.152.70:80/idman/index.m3u8
 
 #EXTINF:-1,group-title="DEPORTES",ESPN FUT ING(FERRER RTMP)
 rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1432460759&st=euq1V6vH4-TOkf1Yags0LQ swfUrl=http://greatvideos.eu/flowplayer-3.2.16.swf live=1 
@@ -42,6 +40,20 @@ http://0.0.0.0:1234
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1,UNIMAS*
+http://iptv.latino-webtv.com/stalker.php?ch=UniMasUS&id=3602
+#EXTINF:-1,NBC UNIVERSO*
+http://iptv.latino-webtv.com/stalker.php?ch=NBCUniversoUS&id=4825
+#EXTINF:-1,TDN MEXICO*
+http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
+#EXTINF:-1,UFC NETWORK*
+http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
+#EXTINF:-1,VENUS*
+http://iptv.latino-webtv.com/stalker.php?ch=VENUSSD&id=285
+#EXTINF:-1,PLAYBOY*
+http://iptv.latino-webtv.com/stalker.php?ch=PlayboyTV&id=289
+#EXTINF:-1,HUSTLER*
+http://iptv.latino-webtv.com/stalker.php?ch=hustlerLA&id=1707
 
 #EXTINF:-1, [COLOR green] --LOCALHOST8899 FORMATO2- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 http://0.0.0.0
