@@ -71,9 +71,21 @@ XXXXXXXXXXXXXXXX
 			<referer>http://www.mips.tv</referer>
 			</regex>
 			</item>
-			
+<item>
+<title>[COLOR lightblue]PIRLOTV: ESPN[/COLOR]</title>
+<link>rtmp://198.144.148.30:1935/boxlivetv playpath=espn3 conn=S:OK swfUrl=http://www.boxlivetv.net/mainsite/player-hd.swf pageUrl=http://www.boxlivetv.net/player.php?chname=espn3&width=650&height=450&domain=www.pirlotv.tv
+</link>						
+				
+<item>
+<title>[COLOR lightblue]PIRLOTV: Fox Sports[/COLOR]</title>
+<link>rtmp://198.144.148.30:1935/boxlivetv playpath=foxsports3 conn=S:OK swfUrl=http://www.boxlivetv.net/mainsite/player-hd.swf pageUrl=http://www.boxlivetv.net/player.php?chname=foxsports3&width=650&height=450&domain=www.pirlotv.tv
+</link>				
+
 <item><title>[COLOR lime][Leton][/COLOR] Teledeporte </title>
 <link>http://iptvlatam.cf/hls/teledeporte/playlist.m3u8</link></item>
+
+<item><title>TDN </title>
+<link>http://iptvlatam.cf/hls/univision/playlist.m3u8</link></item>
 
 <item><title>[COLOR lime][Leton][/COLOR] Canal+ Liga HD </title>
 <link>rtmp://31.220.0.104/pull/liga258 swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
@@ -90,44 +102,6 @@ XXXXXXXXXXXXXXXX
 <item><title>[COLOR lime][Leton][/COLOR] Canal+ Futbol</title>
 <link>rtmp://31.220.0.104/pull/futbollpls swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
 
-<item><title>[COLOR lime][Leton][/COLOR] Canal+ Campeones NO ACTIVO SIEMPRE</title>
-<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8</link></item>
-
-<item><title>[COLOR lime][Leton][/COLOR] Bein Sports España NO ACTIVO SIEMPRE</title>
-<link>rtmp://31.220.0.104/pull/beinte swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/</link></item>
-
-<item>
-<title>[COLOR orange][GBS][/COLOR]  CANAL+ FUTBOL  </title>
-  <link>rtmp://185.39.11.76/live?token=$doregex[rtmp] playpath=$doregex[path] swfUrl=http://gblackstreaming.com/player.swf live=1 timeout=15 pageUrl=http://gblackstreaming.com token=$doregex[tok]</link>
-<regex>
-<name>rtmp</name>
-<expres>token=(.*?)'</expres>
-<page>http://gblackstreaming.com/embed.php?a=15969&amp;id=&amp;width=650&amp;height=400&amp;autostart=true&amp;strech=</page>
-<referer>http://gblackstreaming.com</referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>file', '(.*?)'</expres>
-<page>http://gblackstreaming.com/embed.php?a=15969&amp;id=&amp;width=650&amp;height=400&amp;autostart=true&amp;strech=</page>
-<referer>http://gblackstreaming.com</referer>
-</regex>
-<regex>
-<name>tok</name>
-<expres>token', '(.*?)'</expres>
-<page>http://gblackstreaming.com/embed.php?a=15969&amp;id=&amp;width=650&amp;height=400&amp;autostart=true&amp;strech=</page>
-<referer>http://gblackstreaming.com</referer>
-</regex>
-</item>
-	
-<item>
-<title>[COLOR lightblue]PIRLOTV: ESPN[/COLOR]</title>
-<link>rtmp://198.144.148.30:1935/boxlivetv playpath=espn3 conn=S:OK swfUrl=http://www.boxlivetv.net/mainsite/player-hd.swf pageUrl=http://www.boxlivetv.net/player.php?chname=espn3&width=650&height=450&domain=www.pirlotv.tv
-</link>						
-				
-<item>
-<title>[COLOR lightblue]PIRLOTV: Fox Sports[/COLOR]</title>
-<link>rtmp://198.144.148.30:1935/boxlivetv playpath=foxsports3 conn=S:OK swfUrl=http://www.boxlivetv.net/mainsite/player-hd.swf pageUrl=http://www.boxlivetv.net/player.php?chname=foxsports3&width=650&height=450&domain=www.pirlotv.tv
-</link>				
 
 <item>
 <title>[COLOR lightblue]adulto 1 iptv nation[/COLOR]</title>
