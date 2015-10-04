@@ -171,9 +171,9 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1tvg-logo="tg.png",Television Galicia
 http://media3.crtvg.es/live/tvga/sota.m3u8
-#EXTINF:-1tvg-logo="ts.png"Telesur
+#EXTINF:-1tvg-logo="ts.png",Telesur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-#EXTINF:-1tvg-logo="tv.png"Tv5 monde
+#EXTINF:-1tvg-logo="tv.png"Tv5, monde
 http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
 #EXTINF:-1,DRAGON BALL Z T-K
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
