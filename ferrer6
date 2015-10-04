@@ -55,8 +55,40 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/master.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 7HD X NAVI
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
 #EXTINF:-1,BEIN Ñ CAPO M3
 http://199.167.151.133:1935/app/capotv0410s-channel/playlist.m3u8
 #EXTINF:-1,America peru hd
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
+
+
+
+#EXTINF:-1,ESPN
+http://iptv.latino-webtv.com/stalker.php?ch=ESPNLA&id=2487
+
+#EXTINF:-1,ESPN 2
+http://iptv.latino-webtv.com/stalker.php?ch=ESPN2LASD&id=301
+
+#EXTINF:-1,ESPN 3
+http://iptv.latino-webtv.com/stalker.php?ch=ESPN3LASD&id=3806
+
+#EXTINF:-1,Fox Sports
+http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
+
+#EXTINF:-1,Fox Sports 2
+http://iptv.latino-webtv.com/stalker.php?ch=FoxSports2SD&id=475
+
+#EXTINF:-1,Fox Sports 3
+http://iptv.latino-webtv.com/stalker.php?ch=FoxSports3SD&id=3806
+
+#EXTINF:-1,Bein Ñ Sports
+http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
+
+#EXTINF:-1,UFC Network
+http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
+
+#EXTINF:0,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+
+#EXTINF:0,Planeta Futbol
+http://iptv.latino-webtv.com/stalker.php?ch=PlanetaFutbolLA&id=1477
+
