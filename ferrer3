@@ -652,6 +652,12 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 <title>Nickelodeon [COLOR pink]SportDevil/COLOR]  regexx</title> 
 <sportsdevil>http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html</sportsdevil> <referer>http://www.zandortv.com/</referer></item>
 
+<item>
+<title>DEPELICULA  [COLOR pink]SportDevil/COLOR]  regexx</title> 
+<sportsdevil>http://app1.vuelo-digital.org/depelicula.php</sportsdevil> <referer>http://app1.vuelo-digital.org/depelicula.php</referer></item>
 
+<item>
+<title>DEPELICULA  [COLOR pink]SportDevil/COLOR]  regexx</title> 
+<sportsdevil>http://app1.vuelo-digital.org/depelicula.php</sportsdevil> <referer>http://app1.vuelo-digital.org/depelicula.php</referer></item>
 
 
