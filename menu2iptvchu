@@ -12,13 +12,8 @@
     <externallink>https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/OfficialUrls.xml</externallink>
     </item>
  
-<item>
-<title>Los monsterrssss</title>
-<link>https://cdn.livestream.com/grid/LSPlayer.swf?channel=tvpelis1&fb_version=2.0&autoPlay=true</link>
-</item>
 
 <item>
 <title>[COLOR orange]monster[/COLOR]</title>
-<livestream>https://cdn.livestream.com/grid/LSPlayer.swf?channel=tvpelis1&fb_version=2.0&autoPlay=true</livestream>
-<referer>https://cdn.livestream.com/grid/LSPlayer.swf?channel=tvpelis1&fb_version=2.0&autoPlay=true</referer>
+<link>plugin://plugin.video.livestream/?url=https://cdn.livestream.com/grid/LSPlayer.swf?channel=tvpelis1&fb_version=2.0&autoPlay=true</livestream></link>
 </item>
