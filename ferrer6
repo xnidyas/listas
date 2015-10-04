@@ -47,8 +47,15 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:-1,GAMATV ECUADOR
 http://livestream-f.akamaihd.net/7895918_3314732_c8d89b89_1_446@132480?v=3.6.0&fp=WIN+17%2C0%2C0%2C169&r=POJUE&g=EEIASCPGZDJH
-#EXTINF:-1,canal 7 azteca
+#EXTINF:-1,azteca 7a 
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 7 mexico
+http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 7HD X MASTER
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/master.m3u8
+#EXTINF:-1 group-title="DEPORTES",azteca 7HD X NAVI
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+
 #EXTINF:-1,BEIN Ñ CAPO M3
 http://199.167.151.133:1935/app/capotv0410s-channel/playlist.m3u8
 #EXTINF:-1,America peru hd
