@@ -106,3 +106,7 @@ http://q.gs/9830047/ufctodokodi
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,CDN SPORT brasil
 http://108.168.206.90:1935/cdnsm/cdnsm/live.m3u8
+#EXTINF:-1,AZTECA HONDURAS
+http://162.212.176.68:1935/azteca/azteca/live.m3u8
+#EXTINF:-1,AZTECA HONDURAS MASTER
+http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
