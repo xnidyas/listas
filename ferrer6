@@ -104,3 +104,5 @@ http://192.240.113.42:1935/live/canal089.stream/playlist.m3u8?username=team30&pa
 http://q.gs/9830047/ufctodokodi
 #EXTINF:-1,UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
+#EXTINF:-1,CDN SPORT brasil
+http://108.168.206.90:1935/cdnsm/cdnsm/live.m3u8
