@@ -97,3 +97,6 @@ http://iptv.latino-webtv.com/stalker.php?ch=UniMasUS&id=3602
 http://iptv.latino-webtv.com/stalker.php?ch=NBCUniversoUS&id=4825
 #EXTINF:-1,TDN MEXICO*
 http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
+
+#EXTINF:0,Planeta Futbol cana1089
+http://192.240.113.42:1935/live/canal089.stream/playlist.m3u8?username=team30&password=team30
