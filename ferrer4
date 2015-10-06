@@ -30,9 +30,9 @@ rtsp://stream.tn.com.ar/live/tnhd1
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 #EXTINF:-1 group-title="DEPORTES",CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Hondured Canal 13
+rtmp://173.236.71.62/hondured/hrtv.sdp
 
-#EXTINF:-1,group-title="DEPORTES",ESPN FUT ING(FERRER RTMP)
-rtmp://185.82.215.45:3579/vod/ playpath=sacola1?e=1432460759&st=euq1V6vH4-TOkf1Yags0LQ swfUrl=http://greatvideos.eu/flowplayer-3.2.16.swf live=1 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
