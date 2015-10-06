@@ -1255,4 +1255,230 @@ http://192.240.113.42:1935/live/canal088.stream/playlist.m3u8?username=.agustin&
 #EXTINF:-1, LIVE SKY SPORT MEX
 http://192.240.113.42:1935/live/canal089.stream/playlist.m3u8?username=.agustin&password=123
 
-
+---------------------
+#EXTINF:-1, ROSADIN Mas Chic
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?CANAL=221&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=85&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN SONY
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=89&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN WARNER B
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=93&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN UNIVERSAL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=97&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FX
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=101&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN A AND E
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=105&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN AXN
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=109&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TRUTV
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=113&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN COMEDY CENTRAL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=117&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN UNICABLE
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=121&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX M
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=125&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN BBC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=129&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN E!
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=133&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN UNIVERSAL M
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=137&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX LIFE
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=139&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN SYFY
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=141&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FX M
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=145&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ID
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=153&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TNT SERIES
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=157&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN GOURMET
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=161&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN GLITZ
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=165&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISTRITO COMEDIA
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=173&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TBS
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=177&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN CASA
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=181&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TELENOVELAS
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=185&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISCOVERY KIDS
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=193&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN CBEEBIES
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=197&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISNEY JR
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=201&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN NICK JR
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=205&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISNEY CHANNEL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=209&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN WARNER B
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=209&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN NICK HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=213&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN NICK
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=217&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN CARTOON NETWORK
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=221&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISNEY XD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=225&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TIIN
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=233&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TOONCAST
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=237&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISCOVERY THEATER
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=241&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN HISTORY
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=245&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN NATGEO WILD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=249&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TLC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=253&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISCOVERY
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=257&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ANIMAL PLANET
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=261&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN HOME & HEALTH
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=265&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN NATIONAL GEOGRAPHIC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=269&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN LIFETIME (BIO)
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=273&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISCOVERY SCI
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=277&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISCOVERY CIVILIZATION
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=281&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DISCOVERY TURBO
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=285&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TLC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=289&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN WOBI
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=293&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX1 HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=297&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX ACTION
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=301&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX MOVIE
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=305&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN CINECANAL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=309&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TNT
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=313&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN GOLDEN
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=317&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FILM ZONE
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=321&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN DEPELICULA
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=325&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN AMC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=329&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN SPACE HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=333&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX PREMIERES
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=300&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX CINEMA
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=337&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX FAMILY
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=341&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN FOX CLASSIC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=345&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN CINECANAL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=349&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN CINEMAX
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=353&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TNT
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=357&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN GOLDEN EDGE
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=361&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN AMC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=365&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN SPACE
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=369&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN STUDIO UNIVERSAL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=373&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ISAT
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=377&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TCM
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=381&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ESPN+
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=389&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ESPN
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?CANAL=558&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ESPN 2
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?CANAL=561&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ESPN 3
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=393&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Fox SPORTS
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=397&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Fox SPORTS 2
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=401&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Canal M
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=417&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TVE INTERNACIONAL
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=421&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN MTV Live
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=429&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN TELEHIT
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=433&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN VH1
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=437&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN MTV
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=441&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN RITMOSON
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=445&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN BANDMAX
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=449&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN BLOOMBERG
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=457&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Lucha Libre
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=465&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN NICKTOONS
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=469&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN HMX
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=473&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN REALITY
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=474&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN PX HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=475&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN MTV HITS
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=476&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN 1 CLASSIC
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=477&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN ESTRELLA HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=478&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN AZCORAZON HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=479&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Azteca Noticias HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=2&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Azteca 7
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=6&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Trece HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=12&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Azteca HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=16&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN 40 HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=24&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Canal de las Estrellas HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=36&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Canal 5 HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=40&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Foro TV HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=48&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Canal 7 HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=56&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Gala TV HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=60&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Canal Once HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=64&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Trece HD
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=68&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN C3N Noticias
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=74&PROFILE=01&f=.m3u8
+#EXTINF:-1, ROSADIN Teleformula
+http://rtvsource.jelasticlw.com.br/TP_PUBLIC.php?ID=84&PROFILE=01&f=.m3u8
