@@ -46,6 +46,8 @@ http://iptv.latino-webtv.com/stalker.php?ch=UniMasUS&id=3602
 http://iptv.latino-webtv.com/stalker.php?ch=NBCUniversoUS&id=4825
 #EXTINF:-1,TDN MEXICO*
 http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
+#EXTINF:-1,CANAL 5 5509 stalker MEXICO
+http://iptv.latino-webtv.com/stalker.php?ch=Mexico2&id=5509
 #EXTINF:-1,UFC NETWORK*
 http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
 #EXTINF:-1,VENUS*
