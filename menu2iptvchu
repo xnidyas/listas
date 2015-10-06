@@ -13,12 +13,261 @@
     </item>
  
 
-<item>
-<title>[COLOR orange]monster[/COLOR]</title>
-<link>plugin://plugin.video.livestream/?url=https://cdn.livestream.com/grid/LSPlayer.swf?channel=tvpelis1&fb_version=2.0&autoPlay=true</livestream></link>
-</item>                    
+<info>
+<message> [COLOR lime] UK SPORTS/International [/COLOR] updated 05.07.2015</message>
+<message> [COLOR red] Please report dead links to [/COLOR] </message>
+<message> [COLOR blue] androidtv4free@gmail.com  [/COLOR] </message>
+</info>
 
 <item>
-<title>[COLOR orange]monster2[/COLOR]</title>
-<link>plugin://plugin.video.livestream/?url=http://livestre.am/kR9w</livestream></link>
-</item>                    
+<title>ESPN UK</title>
+<link>http://195.154.227.38:1935/live/espnuklsh/playlist.m3u8</link>
+<thumbnail>http://payload193.cargocollective.com/1/4/150235/6164373/prt_320x212_1376488635.jpg</thumbnail>
+</item>
+
+<item>
+<title>LFC TV</title>
+<link>rtmp://31.7.56.254:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&amp;width=600&amp;height=460&amp;st=14r3v56564k5k4q305z4n244z294u2u28424w2u2w2t223f4&amp;adx=&amp;stream=64v2e4k5d464u2u2e464w2j5u2j543n23465j4t3p294o4550535t22433y234y2x2p2t274y2z32363y3p285u5657464j455w4i2k4j4v5k474n33574a414p4h4z33456t226c4n424r2p2z294b434h5233314y2k5b4a4j5u24494j5s244v264338444d4y2z264b494m56434t2y3s2p224r2p2o2&amp;sooor=MQ==&amp;str=is&amp;ok=&amp;cat=1&amp;link=1&amp;idom=www.ifeed2all.eu token=%ZZri(nKa@#Z</link>
+<thumbnail>http://www.empireofthekop.com/anfield/wp-content/uploads/2011/02/liverpool-fc-wallpapers-ynwa.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sports Tonight Live HD</title>
+<link>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD</link>
+<thumbnail>http://fiskeharrison.files.wordpress.com/2011/11/sportstonight_03.gif</thumbnail>
+</item>
+
+<item>
+<title>Premier Sport</title>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/premier_sports.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports 1</title>
+<link>
+<sublink>http://185.56.30.127:8082/TV4284</sublink>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303035 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports 2</title>
+<link>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303018 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports2.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports 3</title>
+<link>
+<sublink>http://185.56.30.127:8082/TV4286</sublink>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303019 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports3.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports 4</title>
+<link>
+<sublink>http://185.56.30.127:8082/TV4130</sublink>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303020 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports4.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports 5</title>
+<link>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303021 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports5.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports F1</title>
+<link>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303022 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_f1_hd.png</thumbnail>
+</item>
+
+<item>
+<title>Sky sports News</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_sports_news_hq.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 1</title>
+<link>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303023 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink>rtmpe://46.246.124.14:1935/live/ playpath=btsports1lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js pageUrl=http://cdn.lshstream.com/embed.php?u=btsports1lsh&vw=640&vh=360&domain=live.drakulastream.eu token=SECURET0KEN#yw%.?()@W</sublink>
+<sublink>http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sports 2</title>
+<link>
+<sublink>rtmp://195.154.168.217:80/liverepeater playpath=303024 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink>http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2.png</thumbnail>
+</item>
+
+<item>
+<title>Boxnation</title>
+<link>rtmp://31.220.0.195:80/live playpath=bxx pageUrl=http://reytv.co token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/box_nation.png</thumbnail>
+</item>
+
+<item>
+<title>Tennis ATP Barcelona 500 SemiFinals live</title>
+<link>rtmpe://46.246.124.3:1935/liveedge playpath=llive15 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=llive15&vw=640&vh=400&domain=www.streamhd.eu live=1 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.tenisenred.com/wp-content/uploads/2014/04/cuadro-atp-500-barcelona.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Super Tennis HD</title>
+<link>http://192.118.76.203:8080/udp/232.1.1.2:50000</link>
+<thumbnail>http://s40.radikal.ru/i087/1208/90/051cd98a74e7.png</thumbnail>
+</item>
+
+<item>
+<title>Real madrid tv</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/real_madrid_tv_english.png</thumbnail>
+</item>
+
+<item>
+<title>Sevilla tv</title>
+<link>rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc</link>
+<thumbnail>http://2.bp.blogspot.com/-zd4pWoqnmKM/TnymzfDSmVI/AAAAAAAADO8/imHskMyAfBU/s320/SEVILLA_TV.gif</thumbnail>
+</item>
+
+<item>
+<title>Dolce sport 1</title>
+<link>http://109.200.20.26:8981/FHDDolce/Sports1/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dolce_sport_ro.png</thumbnail>
+</item>
+
+<item>
+<title>Dolce sport 2</title>
+<link>http://109.200.20.26:8981/FHDDolce/Sports2/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dolce_sport_ro.png</thumbnail>
+</item>
+
+<item>
+<title>Dolce sport 3</title>
+<link>http://109.200.20.26:8981/FHDDolce/Sports3/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dolce_sport_ro.png</thumbnail>
+</item>
+
+<item>
+<title>Dolce sport 4</title>
+<link>http://109.200.20.26:8981/FHDDolce/Sports4/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dolce_sport_ro.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 1</title>
+<link>http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_1_hk.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 2</title>
+<link>http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_2.png</thumbnail>
+</item>
+
+<item>
+<title>Bein 3</title>
+<link>http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_3_id.png</thumbnail>
+</item>
+
+<item>
+title>Bein 4</title>
+<link></link>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_max.png</thumbnail>
+</item>
+
+<item>
+<title>SportTime 1 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTime 2 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTime 3 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTime 4 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTime 5 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTime 6 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportTime 7 HD</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
+<thumbnail>http://i29.tinypic.com/2b7kgl.jpg</thumbnail>
+</item>
