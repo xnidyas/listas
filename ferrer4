@@ -50,6 +50,7 @@ http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
 http://iptv.latino-webtv.com/stalker.php?ch=Mexico2&id=1479
 #EXTINF:-1,CANAL 5 mexico rtmp
 rtmp://159.16.243.10/live/canal5/canal5 
+#EXTINF:-1,Mexico – Canal 5 de Mexico
 #EXTINF:-1,CANAL 7 mexico rtmp
 rtmp://159.16.243.10/live/canal7/canal7
 #EXTINF:-1,CANAL 5 mexico stream m3u
