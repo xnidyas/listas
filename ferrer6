@@ -107,8 +107,6 @@ http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
 
-#EXTINF:-1,CDN SPORT brasil
-http://108.168.206.90:1935/cdnsm/cdnsm/live.m3u8
 #EXTINF:-1,AZTECA HONDURAS
 http://162.212.176.68:1935/azteca/azteca/live.m3u8
 #EXTINF:-1,AZTECA HONDURAS MASTER
@@ -133,19 +131,5 @@ http://199.180.114.174:8000/foxs3.m3u8
 
 #EXTINF:-1, beIN Sports Ñ
 http://199.167.151.133:1935/app/capotv0410s-channel/playlist.m3u8
-#EXTINF:-1, beIN Sports7
-http://edge.ultracast.me:1935/live/7BJd47H/playlist.m3u8?Token
-#EXTINF:-1, beIN Sports6
-http://edge.ultracast.me:1935/live/6BXUSQR/playlist.m3u8?Token
-#EXTINF:-1, beIN Sports 3
-http://edge.ultracast.me:1935/live/3BZ2jS/playlist.m3u8?Token
-#EXTINF:-1, beIN Sports 2
-http://edge.ultracast.me:1935/live/2BI9n0K/playlist.m3u8?Token
-#EXTINF:-1, beIN Sports 1
-http://edge.ultracast.me:1935/live/1BxJclj/playlist.m3u8?Token
-#EXTINF:-1,BEIN SPORTS 1 HD,
-http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:-1,BEIN SPORTS 2 HD,
-http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:-1,BEIN SPORTS 3 HD,
-http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:-1, euro esport de goo.gl/Zi9JKl
+http://goo.gl/Zi9JKl
