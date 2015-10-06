@@ -48,13 +48,6 @@ http://iptv.latino-webtv.com/stalker.php?ch=NBCUniversoUS&id=4825
 http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
 #EXTINF:-1,CANAL 5 1479 stalker MEXICO
 http://iptv.latino-webtv.com/stalker.php?ch=Mexico2&id=1479
-#EXTINF:-1,CANAL 5 mexico rtmp
-rtmp://159.16.243.10/live/canal5/canal5 
-#EXTINF:-1,Mexico – Canal 5 de Mexico
-#EXTINF:-1,CANAL 7 mexico rtmp
-rtmp://159.16.243.10/live/canal7/canal7
-#EXTINF:-1,CANAL 5 mexico stream m3u
-http://162.212.176.83:8080/canal5.stream.m3u8
 #EXTINF:-1,Canal de lasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
