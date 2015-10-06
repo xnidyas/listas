@@ -56,7 +56,8 @@ rtmp://159.16.243.10/live/canal7/canal7
 http://162.212.176.83:8080/canal5.stream.m3u8
 #EXTINF:-1,Canal de lasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-
+#EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,UFC NETWORK*
 http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
 #EXTINF:-1,VENUS*
