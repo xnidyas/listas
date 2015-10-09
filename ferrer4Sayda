@@ -35,6 +35,10 @@ rtmp://173.236.71.62/hondured/hrtv.sdp
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1group-title="NUEVOS",DRAGON BALL Z T-K (SAYDA)
+rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
+#EXTINF:-1group-title="NUEVOS",Anime en Español  (SAYDA)
+http://q.gs/9830047/animeespaoltodokodim3u8
 #EXTINF:-1 group-title="NUEVOS",Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
@@ -205,10 +209,6 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 http://media3.crtvg.es/live/tvga/sota.m3u8
 #EXTINF:-1tvg-logo="ts.png",Telesur (noticias)
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-#EXTINF:-1,DRAGON BALL Z T-K (SAYDA)
-rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-#EXTINF:-1,Anime en Español  (SAYDA)
-http://q.gs/9830047/animeespaoltodokodim3u8
 #EXTINF:-1,ATV + T-K (NOTICIAS)
 rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
 
