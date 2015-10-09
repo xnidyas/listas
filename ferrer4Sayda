@@ -41,6 +41,24 @@ rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playert
 http://q.gs/9830047/animeespaoltodokodim3u8
 #EXTINF:-1group-title="NUEVOS",Animetv en Español  (SAYDA)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1group-title="NUEVOS",Animetv SUTH PARK  (SAYDA)
+http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, E STUDIO UNIVERSAL LATINO
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
+#EXTINF:-1,Películas y cine
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF :-1, TOM AND JERRY
+rtmp://208.53.180.130/ctv/tom playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+#EXTINF :-1, ANIME BOING
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chboingtele5/2011/08/29/43256274-8828-4ec3-a413-643c4524998e
+#EXTINF :-1, DEUTSCHE WELLE
+http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
+#EXTINF:-1,CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="NUEVOS",Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
