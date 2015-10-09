@@ -39,6 +39,8 @@ http://0.0.0.0:1234
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
 #EXTINF:-1group-title="NUEVOS",Anime en Español  (SAYDA)
 http://q.gs/9830047/animeespaoltodokodim3u8
+#EXTINF:-1group-title="NUEVOS",Animetv en Español  (SAYDA)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1 group-title="NUEVOS",Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
