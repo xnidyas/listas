@@ -39,26 +39,10 @@ http://0.0.0.0:1234
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
 #EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,UNIMAS*
-http://iptv.latino-webtv.com/stalker.php?ch=UniMasUS&id=3602
-#EXTINF:-1,NBC UNIVERSO*
-http://iptv.latino-webtv.com/stalker.php?ch=NBCUniversoUS&id=4825
-#EXTINF:-1,TDN MEXICO*
-http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
-#EXTINF:-1,CANAL 5 1479 stalker MEXICO
-http://iptv.latino-webtv.com/stalker.php?ch=Mexico2&id=1479
 #EXTINF:-1,Canal de lasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,UFC NETWORK*
-http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
-#EXTINF:-1,VENUS*
-http://iptv.latino-webtv.com/stalker.php?ch=VENUSSD&id=285
-#EXTINF:-1,PLAYBOY*
-http://iptv.latino-webtv.com/stalker.php?ch=PlayboyTV&id=289
-#EXTINF:-1,HUSTLER*
-http://iptv.latino-webtv.com/stalker.php?ch=hustlerLA&id=1707
 
 #EXTINF:-1, [COLOR green] --LOCALHOST8899 FORMATO2- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 http://0.0.0.0
@@ -181,35 +165,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
 
 
-#EXTINF:0,group-title="DEPORTES",[COLOR yellow][B]+++LISTA BY MARIOCS+++[/B][/COLOR]
-http://?
-
-#EXTINF:0,[COLOR red][B]----------DEPORTES-------[/B][/COLOR]
-http://?
-
-#EXTINF:-1,ESPN
-http://iptv.latino-webtv.com/stalker.php?ch=ESPNLA&id=2487
-
-#EXTINF:-1,ESPN 2
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN2LASD&id=301
-
-#EXTINF:-1,ESPN 3
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN3LASD&id=3806
-
-#EXTINF:-1,Fox Sports
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
-
-#EXTINF:-1,Fox Sports 2
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSports2SD&id=475
-
-#EXTINF:-1,Fox Sports 3
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSports3SD&id=3806
-
-#EXTINF:-1,Bein Ñ Sports
-http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
-
-#EXTINF:-1,UFC Network
-http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
 
 #EXTINF:1,Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
@@ -217,8 +172,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:1,Planeta Futbol
-http://iptv.latino-webtv.com/stalker.php?ch=PlanetaFutbolLA&id=1477
 
 #EXTINF:0,group-title="CINE/SERIES",[COLOR red][B]----------CINE/SERIES-------[/B][/COLOR]
 http://?
@@ -226,101 +179,6 @@ http://?
 #EXTINF:-1,Fox
 http://iptv.latino-webtv.com/stalker.php?ch=FOXHDLA&id=3947
 
-#EXTINF:-1,Fox 1
-http://iptv.latino-webtv.com/stalker.php?ch=FOX1LASD&id=433
-
-#EXTINF:-1,Cinecanal
-http://iptv.latino-webtv.com/stalker.php?ch=CineCanalLA&id=2495
-
-#EXTINF:-1,AXN
-http://iptv.latino-webtv.com/stalker.php?ch=AXNLA&id=2493
-
-#EXTINF:-1,Universal Channel
-http://iptv.latino-webtv.com/stalker.php?ch=UniversalLASD&id=387
-
-#EXTINF:-1,HBO
-http://iptv.latino-webtv.com/stalker.php?ch=HBOLASD&id=385
-
-#EXTINF:-1,HBO 2
-http://iptv.latino-webtv.com/stalker.php?ch=HBO2SD&id=365
-
-#EXTINF:-1,HBO Plus
-http://iptv.latino-webtv.com/stalker.php?ch=HBOPlusLASD&id=453
-
-#EXTINF:-1,HBO Plus 2
-http://iptv.latino-webtv.com/stalker.php?ch=HBOPus2LASD&id=369
-
-#EXTINF:-1,HBO Family
-http://iptv.latino-webtv.com/stalker.php?ch=HBOFamilyLASD&id=449
-
-#EXTINF:-1,HBO Signature
-http://iptv.latino-webtv.com/stalker.php?ch=HBOSignatureLASD&id=451
-
-#EXTINF:-1,MaxPrime
-http://iptv.latino-webtv.com/stalker.php?ch=MaxPrimeLASD&id=377
-
-#EXTINF:-1,MAX
-http://iptv.latino-webtv.com/stalker.php?ch=MaxLASD&id=381
-
-#EXTINF:-1,Max UP
-http://iptv.latino-webtv.com/stalker.php?ch=MaxUPSD&id=469
-
-#EXTINF:-1,TNT
-http://iptv.latino-webtv.com/stalker.php?ch=TNTAmericaLatinaHD&id=262
-
-#EXTINF:-1,TNT Series
-http://iptv.latino-webtv.com/stalker.php?ch=infinitoSD&id=331
-
-#EXTINF:-1,FX
-http://iptv.latino-webtv.com/stalker.php?ch=FXLASD&id=431
-
-#EXTINF:-1,Sony
-http://iptv.latino-webtv.com/stalker.php?ch=SonyLA&id=2501
-
-#EXTINF:-1,Space
-http://iptv.latino-webtv.com/stalker.php?ch=SpaceLA&id=2489
-
-#EXTINF:-1,Warner Channel
-http://iptv.latino-webtv.com/stalker.php?ch=WarnerLA&id=2499
-
-#EXTINF:-1,AMC
-http://iptv.latino-webtv.com/stalker.php?ch=AMCLASD&id=485
-
-#EXTINF:-1,Cinemax
-http://iptv.latino-webtv.com/stalker.php?ch=CinemaxLASD&id=343
-
-#EXTINF:-1,Fox Action
-http://iptv.latino-webtv.com/stalker.php?ch=FOXACTIONLASD&id=435
-
-#EXTINF:-1,Fox Cinèma
-http://iptv.latino-webtv.com/stalker.php?ch=FoxCinemaSD&id=457
-
-#EXTINF:-1,Fox Classics
-http://iptv.latino-webtv.com/stalker.php?ch=FOXClassicsLASD&id=465
-
-#EXTINF:-1,Fox Family
-http://iptv.latino-webtv.com/stalker.php?ch=FOXFamilyLASD&id=467
-
-#EXTINF:-1,Fox Movies
-http://iptv.latino-webtv.com/stalker.php?ch=FOXMoviesLASD&id=463
-
-#EXTINF:-1,Golden
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenHD&id=264
-
-#EXTINF:-1,Golden Edge
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenEdgeLA&id=1465
-
-#EXTINF:-1,Golden Premier 1
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremier1LA&id=4777
-
-#EXTINF:-1,Golden Premier 2
-http://iptv.latino-webtv.com/stalker.php?ch=GoldenPremiere2LA&id=4772
-
-#EXTINF:-1,Studio Universal
-http://iptv.latino-webtv.com/stalker.php?ch=StudioUniversalSD&id=345
-
-#EXTINF:-1,Paramount Channel
-http://iptv.latino-webtv.com/stalker.php?ch=ParamountChannelLatinAmericaHD&id=260
 
 #EXTINF:1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
@@ -328,126 +186,11 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 #EXTINF:1,Peliculas HD
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
-#EXTINF:-1,MTV
-http://iptv.latino-webtv.com/stalker.php?ch=MTVLA&id=2491
-
-#EXTINF:-1,MTV Hits
-http://iptv.latino-webtv.com/stalker.php?ch=MTVHitsLA&id=1495
-
-#EXTINF:-1,Cine Dinamita
-http://iptv.latino-webtv.com/stalker.php?ch=CineDinamitaLA&id=3465
-
-#EXTINF:-1,CineLatino
-http://iptv.latino-webtv.com/stalker.php?ch=CineLatinoSD&id=477
-
-#EXTINF:-1,BBC Entertainment
-http://iptv.latino-webtv.com/stalker.php?ch=BBCEntLA&id=1407
-
-#EXTINF:-1,E!
-http://iptv.latino-webtv.com/stalker.php?ch=EentertaimentSD&id=427
-
-#EXTINF:-1,Film Zone
-http://iptv.latino-webtv.com/stalker.php?ch=FilmZoneLASD&id=1055
-
-#EXTINF:-1,MundoFox
-http://iptv.latino-webtv.com/stalker.php?ch=MundoFoxSD&id=429
-
-#EXTINF:-1,MultiPremier
-http://iptv.latino-webtv.com/stalker.php?ch=MultiPremierLA&id=3293
-
 #EXTINF:0,group-title="CIENCIA/CULTURA",[COLOR red][B]------CIENCIA/CULTURA------[/B][/COLOR]
 http://?
 
-#EXTINF:-1,Discovery Channel
-http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryChLA&id=3531
-#EXTINF:-1,Investigacion Discovery
-http://iptv.latino-webtv.com/stalker.php?ch=InvDiscoverySD&id=455
-#EXTINF:-1,National Geographic
-http://iptv.latino-webtv.com/stalker.php?ch=NatGeoLASD&id=395
-#EXTINF:-1,NatGeo Wild
-http://iptv.latino-webtv.com/stalker.php?ch=NatGeoWildLAHD&id=254
-#EXTINF:-1,History
-http://iptv.latino-webtv.com/stalker.php?ch=HistoryLA&id=3704
-#EXTINF:-1,H2
-http://iptv.latino-webtv.com/stalker.php?ch=H2LASD&id=297
-#EXTINF:-1,Animal Planet
-http://iptv.latino-webtv.com/stalker.php?ch=AnimalPlanetLASD&id=441
-#EXTINF:-1,A&E HD
-http://iptv.latino-webtv.com/stalker.php?ch=AEEastUS&id=995
-#EXTINF:-1,Fox Life
-http://iptv.latino-webtv.com/stalker.php?ch=FoxLifeSD&id=425
-#EXTINF:-1,Casa Club TV
-http://iptv.latino-webtv.com/stalker.php?ch=CasaClubLA&id=1475
-#EXTINF:-1,Canal de las Estrellas
-http://iptv.latino-webtv.com/stalker.php?ch=EstrellasLA&id=981
-#EXTINF:-1,Comedy Central
-http://iptv.latino-webtv.com/stalker.php?ch=ComedyCentralLA&id=1037
-#EXTINF:-1,Discovery Theather
-http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryenEspanolHD&id=3798
-#EXTINF:-1,El Gourmet
-http://iptv.latino-webtv.com/stalker.php?ch=ElgourmetLA&id=1033
-#EXTINF:-1,Home and Health
-http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryHomeHealthLAHD&id=252
-#EXTINF:-1,TruTV
-http://iptv.latino-webtv.com/stalker.php?ch=TruTVSD&id=337
-#EXTINF:-1,Telemundo
-http://iptv.latino-webtv.com/stalker.php?ch=TMNDO&id=4417
-#EXTINF:-1,Lifetime
-http://iptv.latino-webtv.com/stalker.php?ch=LifetimeLASD&id=423
-#EXTINF:-1,Distrito Comedia
-http://iptv.latino-webtv.com/stalker.php?ch=DistritoComediaLA&id=1491
-#EXTINF:-1,Tlnovelas
-http://iptv.latino-webtv.com/stalker.php?ch=TlnovelasLA&id=981
-#EXTINF:-1,Glitz
-http://iptv.latino-webtv.com/stalker.php?ch=GlitzLA&id=1473
-#EXTINF:-1,SyFy
-http://iptv.latino-webtv.com/stalker.php?ch=SyFyLASD&id=447
-#EXTINF:-1,TLC
-http://iptv.latino-webtv.com/stalker.php?ch=TLCLASD&id=327
-
-#EXTINF:0,group-title="INFANTILES",[COLOR red][B]----------INFANTILES-------[/B][/COLOR]
-http://?
-
-#EXTINF:-1,Disney Channel
-http://iptv.latino-webtv.com/stalker.php?ch=DisneyChannelNorteHD&id=256
-#EXTINF:-1,Cartoon Network
-http://iptv.latino-webtv.com/stalker.php?ch=CartoonNetworkLASD&id=421
-#EXTINF:-1,Disney XD
-http://iptv.latino-webtv.com/stalker.php?ch=DisneyXDSD&id=499
-#EXTINF:-1,Nickelodeon
-http://iptv.latino-webtv.com/stalker.php?ch=NickelodeonLA&id=1423
-#EXTINF:-1,Boomerang
-http://iptv.latino-webtv.com/stalker.php?ch=BoomerangLA&id=2507
-#EXTINF:-1,Tooncast
-http://iptv.latino-webtv.com/stalker.php?ch=TooncastSD&id=443
-#EXTINF:-1,Discovery Kids
-http://iptv.latino-webtv.com/stalker.php?ch=DiscoveryKidsSD&id=309
-#EXTINF:-1,Disney Jr
-http://iptv.latino-webtv.com/stalker.php?ch=DisneyJrLASD&id=1455
-#EXTINF:-1,BabyTV
-http://iptv.latino-webtv.com/stalker.php?ch=BabyTVLASD&id=317
-#EXTINF:-1,Nick Jr
-http://iptv.latino-webtv.com/stalker.php?ch=NickJrLASD&id=417
-
-#EXTINF:0,group-title="OTROS",[COLOR red][B]----------OTROS-------[/B][/COLOR]
-http://?
-#EXTINF:-1,CNN En Español
-http://iptv.latino-webtv.com/stalker.php?ch=CNNLASD&id=1855
-#EXTINF:1,RCN Novelas
-http://iptv.latino-webtv.com/stalker.php?ch=RCNnovelasLA&id=1493
-#EXTINF:-1,Pasiones
-http://iptv.latino-webtv.com/stalker.php?ch=PasionesSD&id=295
-#EXTINF:0,Telemundo Internacional
+#EXTINF:1,Telemundo Internacional
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,NTN 24
-http://iptv.latino-webtv.com/stalker.php?ch=NTN24LA&id=1601
-#EXTINF:-1,TCM
-http://iptv.latino-webtv.com/stalker.php?ch=TCMSD&id=481
-#EXTINF:-1,Multimedios Mexico
-http://iptv.latino-webtv.com/stalker.php?ch=MultimediosLA&id=1459
-
-#EXTINF:-1,TVE (españa)
-http://iptv.latino-webtv.com/stalker.php?ch=TVELASD&id=981
 
 #EXTINF:-1,TVN Chile HD
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/master.m3u8
@@ -504,79 +247,55 @@ http://?
 
 #EXTINF:-1,Travel
 http://cdns840stu1010.multistream.net/mtchlive/amlst:live/playlist_b900000.m3u8
-
-#EXTINF:0,TDN Mexico
-http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
-
 #EXTINF:-1,Canal 2
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-
 #EXTINF:-1,El Trece HD
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
 #EXTINF:-1,Azteca Noticias HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
 #EXTINF:-1,Canal Mexico
 rtmp://50.7.98.234/rtv/videortv
-
 #EXTINF:-1,Multimedios
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8 Conn=S:OK
-
 #EXTINF:-1,Televisa HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
 #EXTINF:-1,OnceTV HD
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-
-#EXTINF:0,Uno TV
+#EXTINF:1,Uno TV
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
-
-#EXTINF:0,Canal 2 Obregón
+#EXTINF:1,Canal 2 Obregón
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
-
 #EXTINF:0,Canal 7 Mazatlán
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-
 #EXTINF:-1,Gala TV
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-
 #EXTINF:-1,UNOTV HD
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
-
 #EXTINF:-1,OCHO TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-
 #EXTINF:-1,Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
 #EXTINF:0,group-title="ARGENTINA",[COLOR red]----------ARGENTINA-------[/COLOR]
 http://?
 
 
 
-#EXTINF:0 tvg-logo="DeporTV.png" tvg-shift="-4",DeporTV - Argentina
+#EXTINF:1,DeporTV - Argentina
 rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
-
-#EXTINF:0 tvg-logo="VIVARA.png" tvg-shift="-4",Vivra - Argentina
+#EXTINF:1,Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="canal12.png",Canal 12 Cordoba - Argentina
+#EXTINF:-1,Canal 12 Cordoba - Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-
-#EXTINF:0 tvg-id="Argentina_719.dtv.la" tvg-name="América_24_(719)719" tvg-logo="a24.png",A24 - Argentina
+#EXTINF:1,A24 - Argentina
 http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
-
-#EXTINF:0 tvg-id="Argentina_720.dtv.la" tvg-name="Canal_26_(720)720" tvg-logo="Canal 26 HD.png",Canal 26 HD - Argentina
+#EXTINF:1,Canal 26 HD - Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:0 tvg-id="Argentina_120.dtv.la" tvg-name="América_(120)120" tvg-logo="America TV HD.png",America TV HD - Argentina
+#EXTINF:1,America TV HD - Argentina
 http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
 
-#EXTINF:0 tvg-id="Argentina_1123.dtv.la" tvg-name="Telefe_HD_(1123)1123" tvg-logo="Telefe HD.png",Telefe HD - Argentina
+#EXTINF:1,Telefe HD - Argentina
 http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
-
-#EXTINF:0 tvg-id="Argentina_1121.dtv.la" tvg-name="TV_Pública_HD_(1121)1121" tvg-logo="TV Publica HD.png",TV Publica HD - Argentina
+#EXTINF:1,TV Publica HD - Argentina
 http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
 
 #EXTINF:0 tvg-id="Argentina_124.dtv.la" tvg-name="Canal_13_(124)124" tvg-logo="Canal Trece HD.png",Canal Trece HD - Argentina
@@ -740,44 +459,30 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 
 #EXTINF:0,group-title="HONDURAS",[COLOR red]----------HONDURAS-------[/COLOR]
 http://?
-
-
 #EXTINF:0 tvg-logo="TelesistemaHn.png",Telesistema HD - Honduras
 http://162.212.176.83:8080/telesistema.stream.m3u8
-
 #EXTINF:0 tvg-id="Total_Canal 5 El Líder (Honduras)" tvg-name="Canal_5_El_Líder_(Honduras)" tvg-logo="canal5Hn.png",canal 5 HD - Honduras
 http://162.212.176.83:8080/canal5.stream.m3u8
-
 #EXTINF:0 tvg-logo="telecadenaHn.png",Telecadena HD - Honduras
 http://162.212.176.83:8080/telecadena.stream.m3u8
-
 #EXTINF:0 tvg-logo="tenHn.png",Canal TEN HD - Honduras
 http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?
-
 #EXTINF:0 tvg-id="Total_Canal 11 de Honduras" tvg-name="Canal_11_de_Honduras" tvg-logo="canal11Hn.png",Canal 11 - Honduras
 http://162.212.176.83:8080/campustv.stream.m3u8
-
 #EXTINF:0 tvg-logo="hchHn.png",HCH - Honduras
 http://162.212.176.83:8080/hchtv.m3u8
-
 #EXTINF:0 tvg-logo="globotvHn.png",Globo tv - Honduras
 http://162.212.176.83:8080/globotv.m3u8
-
 #EXTINF:0 tvg-logo="canal6Hn.png",Canal 6 - Honduras
 http://162.212.176.83:8080/canal6.stream.m3u8
-
 #EXTINF:0 tvg-logo="mayatvHn.png",Maya tv - Honduras
 http://162.212.176.83:8080/mayatv.m3u8
-
 #EXTINF:0 tvg-logo="teleceibaHn.png",Teleceiba - Honduras
 http://162.212.176.83:8080/teleceiba.m3u8
-
 #EXTINF:0 tvg-logo="teleprogresoHn.png",Teleprogreso - Honduras
 http://162.212.176.83:8080/teleprogreso.m3u8
-
 #EXTINF:0 tvg-logo="tododeportesHn.png",Todo Deportes - Honduras
 http://162.212.176.83:8080/tododeportes.stream.m3u8
-
 #EXTINF:0 tvg-logo="sulavisionHn.png",Sulavision - Honduras
 http://162.212.176.83:8080/sulavision.m3u8
 
@@ -785,10 +490,8 @@ http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:0,group-title="NICARAGUA",[COLOR red]----------NICARAGUA-------[/COLOR]
 http://?
 
-
 #EXTINF:-1,Ultra de aguascalientes
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",CANAL 13 - Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
@@ -820,184 +523,37 @@ rtmp://live.soltvperu.com/soltv/soltv
 
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",Capital TV - Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="1",UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
 #EXTINF:0,group-title="REPUBLICA DOM",[COLOR red]-------REPUBLICA DOMINICANA-----[/COLOR]
 http://?
-
 #EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" tvg-shift="-1",Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Total_Canal 9 de Color Visión (República Dominicana)" tvg-name="Color_Visión" tvg-logo="color-vision.png" tvg-shift="-1",Color Visión - República Dominicana
 http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Total_Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal_7_de_Antena_Latina_(República_Dominicana)" tvg-logo="antena-latina.png" tvg-shift="-1",Antena Latina - República Dominicana
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Total_Canal 29 de TeleUniverso (República Dominicana)" tvg-name="Canal_29_de_TeleUniverso_(República_Dominicana)" tvg-logo="teleuniverso.png" tvg-shift="-1",Teleuniverso - República Dominicana
 http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Teleradio America - República Dominicana
 http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Certv - República Dominicana
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Telefuturo - República Dominicana
 rtmp://ss7.domint.net:1950/tf_str/ playpath=futu swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=139 live=true
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Telenord - República Dominicana
 http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Romana TV - República Dominicana
 http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",Vegateve - República Dominicana
 http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",MUSA TV - República Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="guiatv-prueba.png" tvg-shift="4",DominicanYork - República Dominicana
 rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
-
 #EXTINF:0,group-title="URUGUAY",[COLOR red]----------URUGUAY-------[/COLOR]
 http://?
-
-
 #EXTINF:-1,Canal Once Punta del Este - Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
-
-#EXTINF:0,group-title="LIVE AGUSTIN",[COLOR red]----------LIVE AGUSTIN------[/COLOR]
-
-#EXTINF:-1, LIVE BEIN SPORTS (ESP)
-http://192.240.113.42:1935/live/canal001.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE 7 HD (ESP)
-http://192.240.113.42:1935/live/canal002.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE AZTECA 7 HD
-http://192.240.113.42:1935/live/canal002.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL003
-http://192.240.113.42:1935/live/canal003.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE VIVO (ESP)
-http://192.240.113.42:1935/live/canal004.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL005
-http://192.240.113.42:1935/live/canal005.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE BEIN SPORTS HD
-http://192.240.113.42:1935/live/canal006.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE TELEMUNDO 1 (ESP)
-http://192.240.113.42:1935/live/canal007.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE SKY SPORTS (ESP)
-http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE UFC HD
-http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL010
-http://192.240.113.42:1935/live/canal010.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL011
-http://192.240.113.42:1935/live/canal011.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE TELEMUNDO 2 (ESP)
-http://192.240.113.42:1935/live/canal012.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL013
-http://192.240.113.42:1935/live/canal013.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE La Ninera
-http://192.240.113.42:1935/live/canal014.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Baby Einstein
-http://192.240.113.42:1935/live/canal015.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE FOX (ESP)
-http://192.240.113.42:1935/live/canal015.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE FX (ESP)
-http://192.240.113.42:1935/live/canal016.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Canal FOX Mexico
-http://192.240.113.42:1935/live/canal016.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE FOX LIFE (ESP)
-http://192.240.113.42:1935/live/canal017.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE FX Latin
-http://192.240.113.42:1935/live/canal017.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Fox Life
-http://192.240.113.42:1935/live/canal018.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE AXN Latino America
-http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL020
-http://192.240.113.42:1935/live/canal020.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Fox Sport 2
-http://192.240.113.42:1935/live/canal021.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE ESPN America Latina
-http://192.240.113.42:1935/live/canal022.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE ESPN2 Mexico
-http://192.240.113.42:1935/live/canal023.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Derbez En Cuando
-http://192.240.113.42:1935/live/canal024.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE AXN (ESP)
-http://192.240.113.42:1935/live/canal025.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE La Familia Peluche
-http://192.240.113.42:1935/live/canal025.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Futurama
-http://192.240.113.42:1935/live/canal026.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE 2 Hombres Y Medio
-http://192.240.113.42:1935/live/canal027.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Avengers
-http://192.240.113.42:1935/live/canal028.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE South Park
-http://192.240.113.42:1935/live/canal029.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL030
-http://192.240.113.42:1935/live/canal030.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Don Gato
-http://192.240.113.42:1935/live/canal031.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE NCIS
-http://192.240.113.42:1935/live/canal032.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Los Picapiedra
-http://192.240.113.42:1935/live/canal033.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE La Pantera Rosa
-http://192.240.113.42:1935/live/canal034.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Familia Moderna
-http://192.240.113.42:1935/live/canal035.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Los Simpson Channel
-http://192.240.113.42:1935/live/canal036.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Cantinflas
-http://192.240.113.42:1935/live/canal037.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Pedro Infante
-http://192.240.113.42:1935/live/canal038.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Naturaleza Salvaje
-http://192.240.113.42:1935/live/canal039.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL040
-http://192.240.113.42:1935/live/canal040.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE HBO Latino America
-http://192.240.113.42:1935/live/canal041.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Disney Junior Norte
-http://192.240.113.42:1935/live/canal042.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Cartoon Network Norte
-http://192.240.113.42:1935/live/canal043.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE Nat Geo Wild
-http://192.240.113.42:1935/live/canal044.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE XEW Canal 2
-http://192.240.113.42:1935/live/canal045.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE XHGC Canal 5
-http://192.240.113.42:1935/live/canal046.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE XHIMT Canal 7
-http://192.240.113.42:1935/live/canal047.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL048
-http://192.240.113.42:1935/live/canal048.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE XHDF Canal 13
-http://192.240.113.42:1935/live/canal049.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL074 OK
-http://192.240.113.42:1935/live/canal074.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE CANAL E
-http://192.240.113.42:1935/live/canal075.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE BIG BROTHER 4
-http://192.240.113.42:1935/live/canal077.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE BIG BROTHER 1
-http://192.240.113.42:1935/live/canal078.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE BIG BROTHER 2
-http://192.240.113.42:1935/live/canal079.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE BIG BROTHER 3
-http://192.240.113.42:1935/live/canal080.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE OUTDOOR CHANNEL
-http://192.240.113.42:1935/live/canal086.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE NFL NETWORK
-http://192.240.113.42:1935/live/canal087.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE TDN MEX
-http://192.240.113.42:1935/live/canal088.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1, LIVE SKY SPORT MEX
-http://192.240.113.42:1935/live/canal089.stream/playlist.m3u8?username=.agustin&password=123
 
