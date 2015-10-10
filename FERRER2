@@ -653,4 +653,25 @@
 <title>WIN SPORTS COLOMBIA OPCION HD (F4MTESTER)</title>
 <link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
 <thumbnail>http://www.winsports.co/sites/all/themes/at_winsports/logo-win.png</thumbnail>
-</item>	
+</item>
+
+<item>
+<title>[COLOR cyan]CANAL 2 EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/canal-2</sportsdevil>
+<referer>referer=http://telesal.tv/canal-2</referer>
+</item>
+<item>
+<title>[COLOR cyan]CANAL 4 EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/canal-4</sportsdevil>
+<referer>referer=http://telesal.tv/canal-4</referer>
+</item>
+<item>
+<title>[COLOR cyan]CANAL 6 EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/canal-6</sportsdevil>
+<referer>referer=http://telesal.tv/canal-6</referer>
+</item>
+<item>
+<title>[COLOR cyan]CANAL 12 EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/canal-12</sportsdevil>
+<referer>referer=http://telesal.tv/canal-12</referer>
+</item>
