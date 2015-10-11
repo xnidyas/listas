@@ -6,18 +6,6 @@ http://0.0.0.0:
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-#EXTINF:-1, ESPN 8080
-http://199.180.114.174:8000/espn.m3u8
-#EXTINF:-1, ESPN 2 8080
-http://199.180.114.174:8000/espn2.m3u8
-#EXTINF:-1, ESPN 3 8080
-http://199.180.114.174:8000/espn3.m3u8 
-#EXTINF:-1, FOX SPORTS 8080
-http://199.180.114.174:8000/foxs.m3u8
-#EXTINF:-1, FOX SPORTS 2 8080
-http://199.180.114.174:8000/foxs2.m3u8
-#EXTINF:-1, FOX SPORTS 3 8080
-http://199.180.114.174:8000/foxs3.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal 6 Costa Rica
