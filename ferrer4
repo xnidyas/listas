@@ -2,6 +2,14 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
+#EXTINF:-1,discovery
+rtmp://158.85.70.81/flash playpath=12026?MTQ0MTczMDIxOTtiNWM2MzdjNmVhMmZjNTUxNDhiZjlmMjg5MmJlM2NkMw== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://www.sawlive.tv/embed/watch/UzNDY4NmEyMWIzZGQ0ZTBjN2ExYTM4MA__/dnJsamV0MTozYzE3ZjE0NTVjMWRhMTIzN2I2Y2I4ODQyYzJkOGI1NjowYmEyZjRkY2
+#EXTINF:-1,hbo
+rtmp://204.45.157.34/app playpath=17080?MTQ0MTgyMDQwNjsxNDU3NzllMmFiNzFkODc5MjM1Mzg2YTUwNDg3YjUyYw== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e6d4d324d5463304e6a6b325a545a6d4e6d51325a6a63324e6a6b324e5464684d6d51324f445930/4ed79c50e8e4
+#EXTINF:-1,abc family.
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_dng2M2EwYzdteGsyanQ4fDE0NDE3MzYwNzZ8OTkuMTAuMjM3LjE5N3w1NWVmMTc3Y2JhMGVifDQ4NDg2OGZhZWRmMzA2ZTZmZDk0MWVjZDdkYjI1NjMzODA5M2E1YTk. playpath=vx63a0c7mxk2jt8 swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf pageUrl=http://www.streamlive.to/embedplayer_new.php?width=700&height=480&channel=30303&autoplay=true
+#EXTINF:-1,ESPN 2
+rtmp://31.220.2.149:80/live playpath=espn2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedo.php?live=espn2&vw=620&vh=490
 #EXTINF:-1,UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
