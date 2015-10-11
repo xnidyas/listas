@@ -2,6 +2,15 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
+#EXTINF:-1,[COLOR skyblue]HBO Family[/COLOR]
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>h</page><referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie></regex>
+
+#EXTINF:-1,[COLOR skyblue]FX[/COLOR]
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FXLASD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://tasterschoice.x10.bz/nescafe.php?contra=cafemarino&amp;canal=FXLASD&amp;cm=431</page><referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie><thumbnail>http://gps.pezquiza.com/wp-content/uploads/2012/01/fx-hd.png</thumbnail><fanart>fanartfu</fanart></regex><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+#EXTINF:-1,[COLOR skyblue]FX SIN LINK[/COLOR]
+http://lb.iptvserver.tv:8080/redirect/LiveEdge/FXLASD/playlist.m3u8?token=$doregex[tok] <regex><name>tok</name><expres>token=(.*)</expres><page>http://tasterschoice.x10.bz/nescafe.php?contra=cafemarino&amp;canal=FXLASD&amp;cm=431</page><referer>http://tasterschoice.x10.bz</referer><setcookie>programa=rosadintv</setcookie><thumbnail>http://gps.pezquiza.com/wp-content/uploads/2012/01/fx-hd.png</thumbnail><fanart>fanartfu</fanart></regex><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+
+
 #EXTINF:-1,UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
