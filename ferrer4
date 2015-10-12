@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
 #EXTINF:-1,[COLOR skyblue] DISCOVERY [/COLOR]
-Ehttp://leton.tv/player.php?streampage=discovery1&width=600&height=450
+http://leton.tv/player.php?streampage=discovery1&width=600&height=450
 #EXTINF:-1,UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
