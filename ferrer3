@@ -477,3 +477,26 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 <sportsdevil>http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html</sportsdevil> <referer>http://www.zandortv.com/</referer></item>
 
 
+
+ordenar luego
+
+#EXTINF:-1,CINEMAX sportdevil
+devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,HBO-PLUS sportdevil
+devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,AXN sportdevil
+devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
+#EXTINF:-1,AXN Whites portdevil 
+devil:http://verlatelegratis.net/axn-white-live-stream/ referer=http://verlatelegratis.net/
+#EXTINF:-1,Canal 22 mexico sportdevil
+devil:http://canales.tutv-porinternet.com/canal22.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Multimedios Mty mexico sportdevil
+devil:http://canales.tutv-porinternet.com/multimedios.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Caracol Tv colombia sportdevil
+devil:http://canales.tutv-porinternet.com/caracol-1.html referer=http://canales.tutv-porinternet.com/
+
+
+
+
+
+
