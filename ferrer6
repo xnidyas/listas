@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTM3U tvg-shift=3
-
-#EXTM3U
-#EXTINF:-1,SOLO DEPORTES ACA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-http://0.0.0.0.0.
-#EXTINF:-1,tv publica argentina sd180 XXXXXXXXXXXXXXXXXXXXXXXX
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
-#EXTINF:-1,caracol tv colombia
-http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/master.m3u8
-#EXTINF:-1,caracol tv colombia opt 2
-http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,tvn chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,tvn chile opt 2
@@ -26,24 +15,8 @@ http://72.46.226.61/live01/canal41/playlist.m3u8
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1,RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,Caracol Colombia
-http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8
-#EXTINF:-1,Caracol Internacional
-http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Caracol 
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TVN OJO chile
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1,EL TRECE HD chile
-http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Fmaster.m3u8
 #EXTINF:-1,TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,tv publica argentina sd180
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
-#EXTINF:-1,tv publica argentina  oSD360
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1,GAMATV ECUADOR
-http://livestream-f.akamaihd.net/7895918_3314732_c8d89b89_1_446@132480?v=3.6.0&fp=WIN+17%2C0%2C0%2C169&r=POJUE&g=EEIASCPGZDJH
 #EXTINF:-1,azteca 7a 
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 7 mexico
@@ -52,16 +25,12 @@ http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/master.m3u8
 #EXTINF:-1 group-title="DEPORTES",azteca 7HD X NAVI
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1,BEIN Ñ CAPO M3
-http://199.167.151.133:1935/app/capotv0410s-channel/playlist.m3u8
 #EXTINF:-1,America peru hd
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
-
 #EXTINF:-1,UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-
 #EXTINF:-1,AZTECA HONDURAS
 http://162.212.176.68:1935/azteca/azteca/live.m3u8
 #EXTINF:-1,AZTECA HONDURAS MASTER
