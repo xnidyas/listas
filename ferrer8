@@ -234,7 +234,7 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 
 
 #EXTINF:-1,CINEMAX sportdevil
-devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
+<sportsdevil>http://television-directa.mex.tl/cinemax.html</sportsdevil> referer=http://television-directa.mex.tl/
 #EXTINF:-1,HBO-PLUS sportdevil
 devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
 #EXTINF:-1,AXN sportdevil
