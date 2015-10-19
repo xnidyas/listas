@@ -233,6 +233,20 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 <link>rtmp://edge2.everyon.tv/etv2/pld1008</link>
 
 
+#EXTINF:-1,CINEMAX sportdevil
+devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,HBO-PLUS sportdevil
+devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,AXN sportdevil
+devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
+#EXTINF:-1,AXN Whites portdevil 
+devil:http://verlatelegratis.net/axn-white-live-stream/ referer=http://verlatelegratis.net/
+#EXTINF:-1,Canal 22 mexico sportdevil
+devil:http://canales.tutv-porinternet.com/canal22.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Multimedios Mty mexico sportdevil
+devil:http://canales.tutv-porinternet.com/multimedios.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Caracol Tv colombia sportdevil
+devil:http://canales.tutv-porinternet.com/caracol-1.html referer=http://canales.tutv-porinternet.com/
 
 
 #EXTINF:-1,CINEMAX sportdevil,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png"
