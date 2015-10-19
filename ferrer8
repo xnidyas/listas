@@ -233,6 +233,20 @@ rtmp://edge2.everyon.tv/etv2/pld1008
 <link>rtmp://edge2.everyon.tv/etv2/pld1008</link>
 
 
+#EXTINF:-1,CINEMAX sportdevil,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png"
+devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,HBO-PLUS sportdevil,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/220px-HBO_Plus.png"
+devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,AXN sportdevil,tvg-logo="http://img1.wikia.nocookie.net/__cb20140520122506/logopedia/images/b/bb/AXN_2011.png"
+devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
+#EXTINF:-1,AXN Whites portdevil ,tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20120414200156"
+devil:http://verlatelegratis.net/axn-white-live-stream/ referer=http://verlatelegratis.net/
+#EXTINF:-1,Canal 22 mexico sportdevil,tvg-logo="http://www.conaculta.gob.mx/recursos/sala_prensa/comunicados/thumbs/201112/canal_22.jpg"
+devil:http://canales.tutv-porinternet.com/canal22.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Multimedios Mty mexico sportdevil ,tvg-logo="http://itzel.lag.uia.mx/publico/convenios/images/slide2/multimedios.png"
+devil:http://canales.tutv-porinternet.com/multimedios.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Caracol Tv colombia sportdevil,tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6f/Logo_Caracol_Televisi%C3%B3n_2003-2007.jpg/revision/latest?cb=20130129202307"
+devil:http://canales.tutv-porinternet.com/caracol-1.html referer=http://canales.tutv-porinternet.com/
 
 
 
