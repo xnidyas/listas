@@ -46,9 +46,6 @@ http://iphone-streaming.ustream.tv/uhls/21371849/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",CANAL 7 GAUTEVISION (GUATEMALA)
 http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1group-title="NUEVOS",DRAGON BALL Z T-K (SAYDA)
@@ -81,10 +78,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
-#EXTM3U
-
-#EXTINF:-1,#un saludo de su amigo lenny...
 
 #EXTINF:-1,AZ NOTICIAS.
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -304,6 +297,43 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1,CINEMAX sportdevil,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2000px-Cinemax.svg.png"
+devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,HBO-PLUS sportdevil,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/220px-HBO_Plus.png"
+devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
+#EXTINF:-1,AXN sportdevil,tvg-logo="http://img1.wikia.nocookie.net/__cb20140520122506/logopedia/images/b/bb/AXN_2011.png"
+devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
+#EXTINF:-1,AXN Whites portdevil ,tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest?cb=20120414200156"
+devil:http://verlatelegratis.net/axn-white-live-stream/ referer=http://verlatelegratis.net/
+#EXTINF:-1,Canal 22 mexico sportdevil,tvg-logo="http://www.conaculta.gob.mx/recursos/sala_prensa/comunicados/thumbs/201112/canal_22.jpg"
+devil:http://canales.tutv-porinternet.com/canal22.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Multimedios Mty mexico sportdevil ,tvg-logo="http://itzel.lag.uia.mx/publico/convenios/images/slide2/multimedios.png"
+devil:http://canales.tutv-porinternet.com/multimedios.html referer=http://canales.tutv-porinternet.com/
+#EXTINF:-1,Caracol Tv colombia sportdevil,tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6f/Logo_Caracol_Televisi%C3%B3n_2003-2007.jpg/revision/latest?cb=20130129202307"
+devil:http://canales.tutv-porinternet.com/caracol-1.html referer=http://canales.tutv-porinternet.com/
+
+
+#EXTINF:-1,Canal De Las Estrellas Internacional,tvg-logo="http://i2.esmas.com/2011/05/03/209649/canal-2-latinoamerica-170x128.jpg"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+#EXTINF:-1,Foro TV,tvg-logo="http://foromedios.com/uploads/gallery/category_2/med_gallery_9563_2_3938.png"
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+#EXTINF:-1,Azteca 7 ojo ,tvg-logo="http://img3.wikia.nocookie.net/__cb20140426231035/doblaje/es/images/a/a9/Azteca_7_Logo.png"
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,Canal Ochov,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_canal_8_cordoba.png"
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Azteca 13,tvg-logo="http://img1.wikia.nocookie.net/__cb20111114002656/logopedia/images/f/f3/Xhdf1998.png"
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Proyecto 40,tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/c/c8/Proyecto_40_logo.png/revision/latest?cb=20150605030124&path-prefix=es"
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,AmericaTV peru,tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2b/America_tv-1-.png/revision/latest?cb=20110807021724" 
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
+#EXTINF:-1,MegaTV chile,tvg-logo="http://megatvtelugu.com/bgfor/logo/logo.png"
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1,El Trece TV argentina,tvg-logo="http://i0.wp.com/teleame.com/wp-content/uploads/2015/04/Canal-TR3CE.png?resize=512%2C258"
+http://200.42.92.142/live13/13tv/13tv2/chunklist_w1011757340.m3u8
+
+
 
 
 
