@@ -10,184 +10,7 @@
 <link>http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link></item>
 <item><title>[COLOR hotpink]DPelicula sin qualite levels[/COLOR]</title>
 <link>http://201.161.59.7/depelicula.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<!--
-
-<item><title>FOX   isl Manifest</title>
-<link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>FX  isl Manifest</title>
-<link>http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>SONY   isl Manifest</title>
-<link>http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>STUDIO UNIVERSAL  isl Manifest</title>
-<link>http://201.161.59.4/studio.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>WARNER  isl Manifest</title>
-<link>http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>WOBI isl Manifest</title>
-<link>http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>LIFETIME isl Manifest</title>
-<link>http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>FOX LIFE isl Manifest</title>
-<link>http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item><title>E isl Manifest</title>
-<link>http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>Golden Edge isl Manifest</title>
-<link>http://201.161.59.7/goldenedge.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-	
-<item>
-<title>DISNEY XD isl Manifest</title>
-<link>http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>NICK  isl Manifest</title>
-<link>http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>CARTOON NETWORK isl Manifest</title>
-<link>http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>cbebbies  isl Manifest</title>
-<link>http://201.161.59.6/cbeebies.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>KW isl Manifest</title><link>http://201.161.59.4/kw.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>NAT GEO isl Manifest</title><link>http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>HISTORY isl Manifest</title><link>http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>H2 isl Manifest</title><link>http://201.161.59.3/h2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>TYC SPORTS isl Manifest</title><link>http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>CANAL DHE isl Manifest</title><link>http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>MILENIO TELEVISION isl Manifest</title><link>http://201.161.59.3/milenio.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>GOLDEN isl Manifest</title><link>http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>CINE LATINO isl Manifest</title><link>http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>UNICABLE isl Manifest</title><link>http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>TL Novelas isl Manifest</title><link>http://201.161.59.6/tlnovelas.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-<item>
-<title>DISTRITO COMEDIA isl Manifest</title><link>http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>BANDAMAX isl Manifest</title><link>http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>RITMOSON isl Manifest</title><link>http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-
-<item>
-<title>TELEHIT isl Manifest</title><link>http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8</link></item> 
-
-<item>
-<title>Canal de Musica isl Manifest</title><link>http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8</link></item>		
-
-
-<item>
-<title>Exa Tv isl Manifest</title><link>http://201.161.59.5/exatv.isml/manifest(format=m3u8-aapl).m3u8</link>
 </item>
-
-
-<item>
-<title>Milenio isl Manifest</title><link>http://201.161.59.4/milenio.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>
-
-
-<item>
-<title>BandaMax isl Manifest</title>
-<link>http://201.161.59.4/bandamax.isml/QualityLevels(1692000)/manifest(format=m3u8-aapl).m3u8</link>
-</item>
-
-<item>
-<title>Canal de las estrellas isl Manifest</title>
-<link>http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>
-			
-<item>
-<title>Canal Cinco isl Manifest</title>
-<link>http://201.161.59.3/canal5.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>	
-<item>
-<title>Azteca 7   isl Manifest</title>
-<link>http://201.161.59.3/azteca7.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>		
-
-<item>
-<title>Foro TV isl Manifest</title>
-<link>http://201.161.59.3/forotv.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>	
-
-<item>
-<title>GalaTV isl Manifest</title>
-<link>http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>	
-
-<item>
-<title>Once TV  isl Manifest</title>
-<link>http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>		
-<item>
-<title>Cadena 3   isl Manifest</title>
-<link>http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>		
-<item>
-<title>Canal 52 MX   isl Manifest</title>
-<link>http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>			
-			
-<item>
-<title>Multicinema isl Manifest</title>
-<link>http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link>
-</item>	
-<item>
-<title>DPelicula isl Manifest</title>
-<link>http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link>
-</item>			
-			
-<item>
-<title>DHE isl Manifest</title>
-<link>http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link>
-</item>			
-						
-<item>
-<title>Warner isl manifest</title>
-<link>http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>
-<item>
-<title>SONY isl manifest</title>
-<link>http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>
-<item>
-<title>Fox isl manifest</title>
-<link>http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8</link>
-</item>
--->
-<item>
-<title>Univision 69 rtmp</title>
-<link>rtmp://162.220.56.237/app/ playpath=turbomaxhds-channel</link>
-</item>
-<item><title>disney channel 1</title>
-<link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-<item>
 <title>TATETI (Latino)</title>
 <link>http://tinyurl.com/ouacf5h</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 <item>
@@ -198,10 +21,25 @@
 <link>http://tinyurl.com/o4wzm7m</link></item> 
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 <item>
-			<title>Canal FOX op2   regexx</title>
+			<title>Golden                         regexx</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+			<regex>
+			<name>ip</name>
+			<expres>redirect=(.*)</expres>
+			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
+			</regex>
+			<regex>
+			<name>m3u8</name>
+			<expres>ea \+ "(.*?)"</expres>
+			<page>http://www.streamifyplayer.com/membedplayer/goldenmalosolandia/1/500/400</page>
+			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+			<referer>http://www.streamifyplayer.com</referer>
+			</regex>
+			</item>
+			
+			<item>
+			<title>Canal FOX op2                      regexx</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -217,26 +55,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</regex>
 			</item>
 
+
 <item>
-			<title>Golden  regexx</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/goldenmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-	
-<item>
-<item>
-			<title>FX  regexx</title>
+			<title>FX                     regexx</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -282,7 +103,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			<thumbnail></thumbnail>
 			</item>
 			
-			<title>Universal  regexx</title>
+			<title>Universal                                   regexx</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -330,7 +151,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			
 					
 <item>
-			<title>SONY  regexx</title>
+			<title>SONY                                      regexx</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -378,7 +199,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			
 
 <item>
-			<title>AXN  regexx</title>
+			<title>AXN                                              regexx</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -426,7 +247,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			
 
 <item>
-			<title>TNT  regexx</title>
+			<title>TNT                                                   regexx</title>
 			<link>rtmp://$doregex[ip]/live playpath=7yujk7?id=22302$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -443,7 +264,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</item>	
 			<item>
 <item>
-			<title>Tooncast  regexx</title>
+			<title>Tooncast                                             regexx</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -490,7 +311,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</item>
 			
 <item>
-			<title>Discovery Kids  regexx</title>
+			<title>Discovery Kids                                        regexx</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -507,7 +328,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</item>
 
 <item>
-			<title>Nickelodeon SD  regexx</title>
+			<title>Nickelodeon SD                                         regexx</title>
 			<link>rtmp://$doregex[ip]/live playpath=nickyyy?id=22350$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -524,7 +345,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</item>
 
 <item>
-			<title>Cartoon Network SD  regexx</title>
+			<title>Cartoon Network SD                                      regexx</title>
 			<link>rtmp://$doregex[ip]/live playpath=cartooonn?id=22351$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -541,7 +362,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</item>
 
 <item>
-			<title>Caracol SD Colombia  regexx</title>
+			<title>Caracol SD Colombia                                   regexx</title>
 			<link>rtmp://$doregex[ip]/live playpath=grghtrhtr?id=22163$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -564,7 +385,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</item>
 			
 <item>
-			<title>Nat Geo  regexx</title>
+			<title>Nat Geo                                            regexx</title>
 			<link>rtmp://$doregex[ip]/live playpath=natgeooo?id=22352$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -580,13 +401,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 			</regex>
 			</item>
 
-<item><title>RT en Español  regexx</title><link>$doregex[get-url]</link><regex><name>get-url</name><expres>file: "(.*?)"</expres><page>$doregex[get-ifr]</page><referer>http://tv.vera.com.uy</referer></regex><regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
+<item><title>RT en Español                                                          regexx</title><link>$doregex[get-url]</link><regex><name>get-url</name><expres>file: "(.*?)"</expres><page>$doregex[get-ifr]</page><referer>http://tv.vera.com.uy</referer></regex><regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
 
 <page>http://tv.vera.com.uy/canal/6027</page><referer>http://tv.vera.com.uy</referer><cookieJar></cookieJar></regex></item>		
 
 
 <item>
-<title>Discovery Channel op2  regexx</title>
+<title>Discovery Channel op2                                                       regexx</title>
 <link>rtmp://$doregex[ip]/live playpath=clearmaster4?id=233756$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
 pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 <regex>
@@ -603,7 +424,7 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 </item>
 
 <item>
-			<title>Tu History   regexx</title>
+			<title>Tu History                                          regexx</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_05 live=1 timeout=20</link>
 			<regex>
 			<name>clearCode</name>
@@ -632,32 +453,27 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			</regex>
 			</item>
 			
-<item><title>Todo Anime  regexx</title><link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
+<item><title>Todo Anime                                        regexx</title><link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
 			
 
 
-<item><title>Fx  [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/fx-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Fx  [COLOR pink]SportDevil[/COLOR]  </title>
+<sportsdevil>http://www.zandortv.com/2013/04/fx-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
 
-<item><title>TNT   [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/tnt-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>TNT   [COLOR pink]SportDevil[/COLOR] </title>
+<sportsdevil>http://www.zandortv.com/2013/04/tnt-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
 
-<item><title>Axn    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/axn-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Axn    [COLOR pink]SportDevil[/COLOR] </title>
+<sportsdevil>http://www.zandortv.com/2013/04/axn-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
 
-<item><title>Universal Channel    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://www.zandortv.com/2013/04/universal-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
+<item><title>Universal Channel    [COLOR pink]SportDevil[/COLOR]</title>
+<sportsdevil>http://www.zandortv.com/2013/04/universal-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
 
-<item><title>HBO2    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://canales.tutv-porinternet.com/hbo2.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
-
-<item><title>tooncast    [COLOR pink]SportDevil[/COLOR]  regexx</title><sportsdevil>http://canales.tutv-porinternet.com/tooncast.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
+<item><title>tooncast    [COLOR pink]SportDevil[/COLOR] </title>
+<sportsdevil>http://canales.tutv-porinternet.com/tooncast.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
 
 <item>
-<title>Nickelodeon [COLOR pink]SportDevil/COLOR]  regexx</title> 
+<title>Nickelodeon [COLOR pink]SportDevil/COLOR]</title> 
 <sportsdevil>http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html</sportsdevil> <referer>http://www.zandortv.com/</referer></item>
-
-<item>
-<title>DEPELICULA  [COLOR pink]SportDevil/COLOR]  regexx</title> 
-<sportsdevil>http://app1.vuelo-digital.org/depelicula.php</sportsdevil> <referer>http://app1.vuelo-digital.org/depelicula.php</referer></item>
-
-<item>
-<title>DEPELICULA  [COLOR pink]SportDevil/COLOR]  regexx</title> 
-<sportsdevil>http://app1.vuelo-digital.org/depelicula.php</sportsdevil> <referer>http://app1.vuelo-digital.org/depelicula.php</referer></item>
 
 
