@@ -22,7 +22,7 @@
 
 
 <item>
-			<title>Golden                         regexx</title>
+			<title>Golden  [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -39,7 +39,7 @@
 			</item>
 			
 			<item>
-			<title>Canal FOX op2                      regexx</title>
+			<title>Canal FOX op2[COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -57,7 +57,7 @@
 
 
 <item>
-			<title>FX                     regexx</title>
+			<title>FX   [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -103,7 +103,7 @@
 			<thumbnail></thumbnail>
 			</item>
 			
-			<title>Universal                                   regexx</title>
+			<title>Universal    [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -151,7 +151,7 @@
 			
 					
 <item>
-			<title>SONY                                      regexx</title>
+			<title>SONY   [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -199,7 +199,7 @@
 			
 
 <item>
-			<title>AXN                                              regexx</title>
+			<title>AXN      [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -247,7 +247,7 @@
 			
 
 <item>
-			<title>TNT                                                   regexx</title>
+			<title>TNT  [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>rtmp://$doregex[ip]/live playpath=7yujk7?id=22302$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -264,7 +264,7 @@
 			</item>	
 			<item>
 <item>
-			<title>Tooncast                                             regexx</title>
+			<title>Tooncast  [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
 			<regex>
 			<name>rtmp</name>
@@ -311,7 +311,7 @@
 			</item>
 			
 <item>
-			<title>Discovery Kids                                        regexx</title>
+			<title>Discovery Kids [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>http://$doregex[ip]$doregex[m3u8]</link>
 			<regex>
 			<name>ip</name>
@@ -328,7 +328,7 @@
 			</item>
 
 <item>
-			<title>Nickelodeon SD                                         regexx</title>
+			<title>Nickelodeon SD   [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>rtmp://$doregex[ip]/live playpath=nickyyy?id=22350$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -345,7 +345,7 @@
 			</item>
 
 <item>
-			<title>Cartoon Network SD                                      regexx</title>
+			<title>Cartoon Network SD [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>rtmp://$doregex[ip]/live playpath=cartooonn?id=22351$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -362,7 +362,7 @@
 			</item>
 
 <item>
-			<title>Caracol SD Colombia                                   regexx</title>
+			<title>Caracol SD Colombia [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>rtmp://$doregex[ip]/live playpath=grghtrhtr?id=22163$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -379,13 +379,13 @@
 			</item>
 			
 <item>
-			<title>Caracol Colombia  regexx</title><sportsdevil>http://www.streamlive.to/embed/52715</sportsdevil>
+			<title>Caracol Colombia [COLOR hotpink]__REGEX__[/COLOR]</title><sportsdevil>http://www.streamlive.to/embed/52715</sportsdevil>
 			<referer>http://www.streamlive.to</referer>
 			
 			</item>
 			
 <item>
-			<title>Nat Geo                                            regexx</title>
+			<title>Nat Geo [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>rtmp://$doregex[ip]/live playpath=natgeooo?id=22352$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
 			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			<regex>
@@ -401,13 +401,13 @@
 			</regex>
 			</item>
 
-<item><title>RT en Español                                                          regexx</title><link>$doregex[get-url]</link><regex><name>get-url</name><expres>file: "(.*?)"</expres><page>$doregex[get-ifr]</page><referer>http://tv.vera.com.uy</referer></regex><regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
+<item><title>RT en Español [COLOR hotpink]__REGEX__[/COLOR]</title><link>$doregex[get-url]</link><regex><name>get-url</name><expres>file: "(.*?)"</expres><page>$doregex[get-ifr]</page><referer>http://tv.vera.com.uy</referer></regex><regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
 
 <page>http://tv.vera.com.uy/canal/6027</page><referer>http://tv.vera.com.uy</referer><cookieJar></cookieJar></regex></item>		
 
 
 <item>
-<title>Discovery Channel op2                                                       regexx</title>
+<title>Discovery Channel op2 [COLOR hotpink]__REGEX__[/COLOR]</title>
 <link>rtmp://$doregex[ip]/live playpath=clearmaster4?id=233756$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
 pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 <regex>
@@ -424,7 +424,7 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 </item>
 
 <item>
-			<title>Tu History                                          regexx</title>
+			<title>Tu History [COLOR hotpink]__REGEX__[/COLOR]</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_05 live=1 timeout=20</link>
 			<regex>
 			<name>clearCode</name>
@@ -453,9 +453,9 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 			</regex>
 			</item>
 			
-<item><title>Todo Anime                                        regexx</title><link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
+<item><title>Todo Anime</title>
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
 			
-
 
 <item><title>Fx  [COLOR pink]SportDevil[/COLOR]  </title>
 <sportsdevil>http://www.zandortv.com/2013/04/fx-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
@@ -466,7 +466,7 @@ pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
 <item><title>Axn    [COLOR pink]SportDevil[/COLOR] </title>
 <sportsdevil>http://www.zandortv.com/2013/04/axn-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
 
-<item><title>Universal Channel    [COLOR pink]SportDevil[/COLOR]</title>
+<item><title>Universal Channel  [COLOR pink]SportDevil[/COLOR]</title>
 <sportsdevil>http://www.zandortv.com/2013/04/universal-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
 
 <item><title>tooncast    [COLOR pink]SportDevil[/COLOR] </title>
