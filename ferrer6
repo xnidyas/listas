@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTM3U tvg-shift=3
 
-
-
-
 #EXTM3U
 #EXTINF:-1,SOLO DEPORTES ACA XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 http://0.0.0.0.0.
@@ -60,48 +57,6 @@ http://199.167.151.133:1935/app/capotv0410s-channel/playlist.m3u8
 #EXTINF:-1,America peru hd
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 
-
-
-#EXTINF:-1,ESPN
-http://iptv.latino-webtv.com/stalker.php?ch=ESPNLA&id=2487
-
-#EXTINF:-1,ESPN 2
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN2LASD&id=301
-
-#EXTINF:-1,ESPN 3
-http://iptv.latino-webtv.com/stalker.php?ch=ESPN3LASD&id=3806
-
-#EXTINF:-1,Fox Sports
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSportsLA&id=2505
-
-#EXTINF:-1,Fox Sports 2
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSports2SD&id=475
-
-#EXTINF:-1,Fox Sports 3
-http://iptv.latino-webtv.com/stalker.php?ch=FoxSports3SD&id=3806
-
-#EXTINF:-1,Bein Ñ Sports
-http://iptv.latino-webtv.com/stalker.php?ch=BeinSportsLA&id=2527
-
-#EXTINF:-1,UFC Network
-http://iptv.latino-webtv.com/stalker.php?ch=UFCNetworkLA&id=1047
-
-#EXTINF:0,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-
-#EXTINF:0,Planeta Futbol
-http://iptv.latino-webtv.com/stalker.php?ch=PlanetaFutbolLA&id=1477
-#EXTINF:-1,UNIMAS*
-http://iptv.latino-webtv.com/stalker.php?ch=UniMasUS&id=3602
-#EXTINF:-1,NBC UNIVERSO*
-http://iptv.latino-webtv.com/stalker.php?ch=NBCUniversoUS&id=4825
-#EXTINF:-1,TDN MEXICO*
-http://iptv.latino-webtv.com/stalker.php?ch=TDNMXLA&id=1059
-
-#EXTINF:0,Planeta Futbol cana1089
-http://192.240.113.42:1935/live/canal089.stream/playlist.m3u8?username=team30&password=team30
-#EXTINF:-1,UFC FIGH PASS
-http://q.gs/9830047/ufctodokodi
 #EXTINF:-1,UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1,COMBATE
@@ -113,23 +68,3 @@ http://162.212.176.68:1935/azteca/azteca/live.m3u8
 http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1,TATETI
 http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
-
-#EXTINF:-1, ESPN 8080
-http://199.180.114.174:8000/espn.m3u8
-#EXTINF:-1, ESPN 2 8080
-http://199.180.114.174:8000/espn2.m3u8
-#EXTINF:-1, ESPN 3 8080
-http://199.180.114.174:8000/espn3.m3u8 
-
-#EXTINF:-1, FOX SPORTS 8080
-http://199.180.114.174:8000/foxs.m3u8
-#EXTINF:-1, FOX SPORTS 2 8080
-http://199.180.114.174:8000/foxs2.m3u8
-#EXTINF:-1, FOX SPORTS 3 8080
-http://199.180.114.174:8000/foxs3.m3u8
-
-
-#EXTINF:-1, beIN Sports Ñ
-http://199.167.151.133:1935/app/capotv0410s-channel/playlist.m3u8
-#EXTINF:-1, euro esport de goo.gl/Zi9JKl
-http://goo.gl/Zi9JKl
