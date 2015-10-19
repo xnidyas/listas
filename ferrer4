@@ -298,22 +298,6 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1,ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1,CINEMAX sportdevil
-devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
-#EXTINF:-1,HBO-PLUS sportdevil
-devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
-#EXTINF:-1,AXN sportdevil
-devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
-#EXTINF:-1,AXN Whites portdevil 
-devil:http://verlatelegratis.net/axn-white-live-stream/ referer=http://verlatelegratis.net/
-#EXTINF:-1,Canal 22 mexico sportdevil
-devil:http://canales.tutv-porinternet.com/canal22.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Multimedios Mty mexico sportdevil
-devil:http://canales.tutv-porinternet.com/multimedios.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Caracol Tv colombia sportdevil
-devil:http://canales.tutv-porinternet.com/caracol-1.html referer=http://canales.tutv-porinternet.com/
-
-
 #EXTINF:-1,Canal De Las Estrellas Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
 #EXTINF:-1,Foro TV
