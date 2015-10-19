@@ -2,31 +2,37 @@
 
    <item>
     <title>[COLOR yellow]PELICULAS 1 LATINO (ALFABETICA) [/COLOR]</title>
+    <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u</externallink>
     </item>
     
     <item>
     <title>[COLOR yellow]LISTA DE PELICULAS2 [/COLOR]</title>
+    <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer4Saydapelis</externallink>
     </item>
     
  <item>
     <title>[COLOR yellow]Lista 4 Sayda CANALES DE TV M3U[/COLOR]</title>
+    <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer4Sayda</externallink>
     </item>
     
  <item>
     <title>[COLOR yellow]Lista PLATALIST [/COLOR]</title>
+    <link>http://Ignoreme</link>
     <externallink>http://platalist.com/PLATATV.XML</externallink>
     </item>
     
     <item>
     <title>[COLOR red]Noooooo [/COLOR]</title>
+    <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/XXX_LINKS</externallink>
     </item>
   
   <item>
     <title>[COLOR red]llamdo a palco rojadirecta[/COLOR]</title>
+    <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/llamado%20a%20devilsport%20palco</externallink>
     </item>
  
