@@ -2,11 +2,7 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR]UFC brasil
-http://37.203.209.34:443/mobile/bob10/live.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR]COMBATE
-http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR] Canal 4 Nicaragua
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR] Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Canal 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
@@ -38,18 +34,16 @@ rtmp://173.236.71.62/hondured/hrtv.sdp
 http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1group-title="NUEVOS",DRAGON BALL Z T-K (SAYDA)
+#EXTINF:-1group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]DRAGON BALL Z T-K (SAYDA)
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-#EXTINF:-1group-title="NUEVOS",Anime en Español  (SAYDA)
+#EXTINF:-1group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Anime en Español  (SAYDA)
 http://q.gs/9830047/animeespaoltodokodim3u8
-#EXTINF:-1group-title="NUEVOS",Animetv en Español  (SAYDA)
+#EXTINF:-1group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Animetv en Español  (SAYDA)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1group-title="NUEVOS",Animetv SUTH PARK  (SAYDA)
+#EXTINF:-1group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Animetv SUTH PARK  (SAYDA)
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1, E STUDIO UNIVERSAL LATINO
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
 #EXTINF:-1,Películas y cine
@@ -67,6 +61,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,Canal 2 Canal DE LAS ESTRELLAS
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
 
 #EXTINF:-1,AZ NOTICIAS.
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
