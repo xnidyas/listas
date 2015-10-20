@@ -6,7 +6,7 @@ http://0.0.0.0:
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR],COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",Canal 4 Nicaragua
+#EXTINF:-1,[COLOR blue] Deportes [/COLOR] group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR] Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",Canal 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
