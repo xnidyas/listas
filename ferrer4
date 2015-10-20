@@ -22,8 +22,6 @@ http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]tv publica argentina sd180
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Canal 7 Guatevision
@@ -62,8 +60,18 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CanadelasestrellasHD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:0,HBO Family
+http://192.99.4.70/hls/HBO_FAMILY.m3u8?
+#EXTINF:0,HBO Plus
+http://192.99.4.70/hls/HBO_PLUS.m3u8?
+#EXTINF:0,HBO 2
+http://192.99.4.70/hls/HBO2.m3u8?
+#EXTINF:0,HBO Signature
+http://192.99.4.70/hls/hbo_signature.m3u8?
 
 
+#EXTINF:-1,AYM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,AZ NOTICIAS.
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,AZTECA 7.
