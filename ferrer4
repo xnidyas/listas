@@ -26,51 +26,41 @@ rtsp://stream.tn.com.ar/live/tnhd1
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]CANAL 7 GAUTEVISION (GUATEMALA)
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Canal 7 Guatevision
 http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
-
-
-
-
-#EXTINF:1,Win Sports
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-#EXTINF:-1,Real Madrid TV T-K (Deportes)
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Real Madrid TV T-K (Deportes)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,SEVILLAFC T-K      (Deportes) 
-http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
-
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]DRAGON BALL Z T-K (SAYDA)
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Dragon Ball Z (Sayda)
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Anime en Español  (SAYDA)
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Anime en Español(Sayda)
 http://q.gs/9830047/animeespaoltodokodim3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Animetv en Español  (SAYDA)
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Animetv SUTH PARK  (SAYDA)
+#EXTINF:-1group-title="NUEVOS",[COLOR red]New [/COLOR]Animetv Suth Park (Sayda)
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR] E STUDIO UNIVERSAL LATINO
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Películas y cine
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Películasycine borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF :-1, group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]DEUTSCHE WELLE
+#EXTINF :-1, group-title="NUEVOS",[COLOR red]New [/COLOR]DUCHEWELL
 http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]CDN 37 Republica Dominicana
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CDN 37 Republica Dominicana
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]CDN-SportsMax
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Tele Sur
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Telemundo (Opcion 3)
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Canal de lasEstrellas 518
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CanaldelasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Canal DE LAS ESTRELLAS 1048
+#EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CanadelasestrellasHD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 
@@ -298,7 +288,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
 
 #EXTINF:-1,group-title="MEXICO",[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas 640
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1,group-title="MEXICO",[COLOR red]MEXICO [/COLOR]TCanal De Las Estrellas HD 1048
+#EXTINF:-1,group-title="MEXICO",[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas HD 1048
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 #EXTINF:-1,group-title="MEXICO",[COLOR red]MEXICO [/COLOR]Azteca 7 Mexico
@@ -638,51 +628,40 @@ rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http:
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 
 
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Telecinco - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Telecinco - España
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]ETB - - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]ETB - - España
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Nova - España
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Galicia - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]TV - España
-http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Libertad Digital TV - España
-http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]13 TV - España (Emisión Web)
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]13 TV - España (Emisión Web)
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Canal 24 Horas - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Canal 10 - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Canal 10 - España
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Canal Costa - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Canal Costa - España
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Enlace Deportes 1 - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Enlace Deportes 1 - España
 http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Euronews - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR greeen]ESPAÑA  [/COLOR]Euronews - España
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Granada 7 TV - España
-http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8#EXTINF:-1,group-title="ESPAÑA",[COLOR red] ESPAÑA  [/COLOR]Huelva TV - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Granada 7 TV - España
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green] ESPAÑA  [/COLOR]Huelva TV - España
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Huesca TV - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Huesca TV - España
 rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Información TV - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Información TV - España
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Kiss TV - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Travel TV - España
+#EXTINF:-1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Travel TV - España
 rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Antena 3 Internacional - España
-http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
-#EXTINF:1,group-title="ESPAÑA",[COLOR green]ESPAÑA  [/COLOR]Antena 3 - España
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,group-title=“ESPAÑA”, [COLOR green]ESPAÑA  [/COLOR]Antena Latina Canal 7 T-K
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]LA sexta (ESPAÑA) T-K
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]LaSexta - España
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Tve 24h HD T-K
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
