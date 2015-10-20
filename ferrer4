@@ -2,39 +2,39 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR],UFC brasil
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR]UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR],COMBATE
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR]COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-#EXTINF:-1,[COLOR blue] Deportes [/COLOR] group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR] Canal 4 Nicaragua
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportesxx [/COLOR] Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",Canal 6 Costa Rica
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Canal 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",RPC Panama DEPORTES<===
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",TVN Chile
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",tvn chile opt 2
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]tvn chile opt 2
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",Caracol Internacional MALACALIDAD
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Caracol Internacional MALACALIDAD
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",azteca 7a
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",azteca 7 mexico
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]azteca 7 mexico
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",azteca 7HD X NAVI
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]azteca 7HD X NAVI
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",azteca 13 
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",TN Argentina BUENOOOO
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",tv publica argentina sd180
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]tv publica argentina sd180
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-180/playlist.m3u8?
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",CDN Sports
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]CDN Sports
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",Hondured Canal 13
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR] [COLOR blue] Deportes [/COLOR] group-title="DEPORTES",CANAL 7 GAUTEVISION (GUATEMALA)
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]CANAL 7 GAUTEVISION (GUATEMALA)
 http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 
 
