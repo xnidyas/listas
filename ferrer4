@@ -54,7 +54,7 @@ http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1 group-title="NUEVOS",Telemundo (Opcion 3)
+#EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,group-title="NUEVOS",[COLOR red] Nuevos [/COLOR]Canal de lasEstrellas Mex.
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
