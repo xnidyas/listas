@@ -37,3 +37,855 @@ http://162.212.176.68:1935/azteca/azteca/live.m3u8
 http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1,TATETI
 http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
+
+#EXTM3U
+#EXTINF:-1,CBS New York
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4865&F=.m3u8
+#EXTINF:-1,ABC Miami
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6114&F=.m3u8
+#EXTINF:-1,NBC Miami
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=411&F=.m3u8
+#EXTINF:-1,FOX Miami
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=413&F=.m3u8
+#EXTINF:-1,News 12 Long Island
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4034&F=.m3u8
+#EXTINF:-1,News 12 Brooklyn
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4037&F=.m3u8
+#EXTINF:-1,News 12 Bronx
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4040&F=.m3u8
+#EXTINF:-1,News 12 Connecticut
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4043&F=.m3u8
+#EXTINF:-1,News 12 Hudson Valley
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4046&F=.m3u8
+#EXTINF:-1,News 12 New Jersey
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4049&F=.m3u8
+#EXTINF:-1,News 12 Westchester
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4052&F=.m3u8
+#EXTINF:-1,ITV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2447&F=.m3u8
+#EXTINF:-1,ITV 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=487&F=.m3u8
+#EXTINF:-1,ITV 3
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2835&F=.m3u8
+#EXTINF:-1,ITV 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2837&F=.m3u8
+#EXTINF:-1,TG 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2839&F=.m3u8
+#EXTINF:-1,4 Seven
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4270&F=.m3u8
+#EXTINF:-1,Channel 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2841&F=.m3u8
+#EXTINF:-1,Channel 5
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2843&F=.m3u8
+#EXTINF:-1,SKY Living
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2845&F=.m3u8
+#EXTINF:-1,Watch
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2847&F=.m3u8
+#EXTINF:-1,Gold
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2849&F=.m3u8
+#EXTINF:-1,Dave
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2851&F=.m3u8
+#EXTINF:-1,SKY One
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4662&F=.m3u8
+#EXTINF:-1,SKY Atlantic
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2855&F=.m3u8
+#EXTINF:-1,E4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2857&F=.m3u8
+#EXTINF:-1,More 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2859&F=.m3u8
+#EXTINF:-1,Challenge
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4247&F=.m3u8
+#EXTINF:-1,Irish TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4066&F=.m3u8
+#EXTINF:-1,Pick
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2437&F=.m3u8
+#EXTINF:-1,5 Star
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2865&F=.m3u8
+#EXTINF:-1,RTE ONE
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2441&F=.m3u8
+#EXTINF:-1,RTE TWO
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2439&F=.m3u8
+#EXTINF:-1,BBC ONE
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2443&F=.m3u8
+#EXTINF:-1,BBC TWO
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2445&F=.m3u8
+#EXTINF:-1,BBC Three
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2869&F=.m3u8
+#EXTINF:-1,BBC Four
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2871&F=.m3u8
+#EXTINF:-1,5 USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2867&F=.m3u8
+#EXTINF:-1,USA Network East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2579&F=.m3u8
+#EXTINF:-1,Comedy Central East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2575&F=.m3u8
+#EXTINF:-1,Lifetime East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2581&F=.m3u8
+#EXTINF:-1,ITV Encore
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=501&F=.m3u8
+#EXTINF:-1,Food Network East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=172&F=.m3u8
+#EXTINF:-1,DIY Network USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=174&F=.m3u8
+#EXTINF:-1,HGTV East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6307&F=.m3u8
+#EXTINF:-1,Good Food
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2587&F=.m3u8
+#EXTINF:-1,E!
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2341&F=.m3u8
+#EXTINF:-1,ITV B
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4737&F=.m3u8
+#EXTINF:-1,True Drama
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2873&F=.m3u8
+#EXTINF:-1,Drama
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2875&F=.m3u8
+#EXTINF:-1,A&E East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=995&F=.m3u8
+#EXTINF:-1,Discovery History
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3397&F=.m3u8
+#EXTINF:-1,History
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=176&F=.m3u8
+#EXTINF:-1,H2 USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1497&F=.m3u8
+#EXTINF:-1,TLC
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=503&F=.m3u8
+#EXTINF:-1,Alibi
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4740&F=.m3u8
+#EXTINF:-1,Really
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=505&F=.m3u8
+#EXTINF:-1,Oxygen
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=180&F=.m3u8
+#EXTINF:-1,WE TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=182&F=.m3u8
+#EXTINF:-1,Bravo East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4890&F=.m3u8
+#EXTINF:-1,AMC East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5629&F=.m3u8
+#EXTINF:-1,TCM US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1105&F=.m3u8
+#EXTINF:-1,IFC East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=164&F=.m3u8
+#EXTINF:-1,FOX
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=491&F=.m3u8
+#EXTINF:-1,BBC America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=184&F=.m3u8
+#EXTINF:-1,FX East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=997&F=.m3u8
+#EXTINF:-1,TNT Drama
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=977&F=.m3u8
+#EXTINF:-1,TBS East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=967&F=.m3u8
+#EXTINF:-1,ESPN US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=963&F=.m3u8
+#EXTINF:-1,ESPNU
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=979&F=.m3u8
+#EXTINF:-1,ESPNews US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2353&F=.m3u8
+#EXTINF:-1,SKY Sports News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2101&F=.m3u8
+#EXTINF:-1,Fox Sports 1 US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=190&F=.m3u8
+#EXTINF:-1,Fox Sports 2 US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5634&F=.m3u8
+#EXTINF:-1,MLB Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=192&F=.m3u8
+#EXTINF:-1,NHL Network USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=194&F=.m3u8
+#EXTINF:-1,NFL Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1003&F=.m3u8
+#EXTINF:-1,NBA TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2347&F=.m3u8
+#EXTINF:-1,UFC Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2923&F=.m3u8
+#EXTINF:-1,CBS Sports Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2359&F=.m3u8
+#EXTINF:-1,NBC Sport Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6302&F=.m3u8
+#EXTINF:-1,Disney Jr
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4852&F=.m3u8
+#EXTINF:-1,Nick Jr
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4872&F=.m3u8
+#EXTINF:-1,Nickelodeon East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1701&F=.m3u8
+#EXTINF:-1,Disney Channel East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=196&F=.m3u8
+#EXTINF:-1,Disney Channel West
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4862&F=.m3u8
+#EXTINF:-1,Disney XD
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4860&F=.m3u8
+#EXTINF:-1,Cartoon Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6397&F=.m3u8
+#EXTINF:-1,Baby First TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4882&F=.m3u8
+#EXTINF:-1,ABC Family
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4855&F=.m3u8
+#EXTINF:-1,Teen Nick
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4877&F=.m3u8
+#EXTINF:-1,Discovery Channel USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=198&F=.m3u8
+#EXTINF:-1,Discovery Family
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4867&F=.m3u8
+#EXTINF:-1,Animal Planet
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4845&F=.m3u8
+#EXTINF:-1,National Geographic Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2819&F=.m3u8
+#EXTINF:-1,Discovery Turbo
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=511&F=.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4830&F=.m3u8
+#EXTINF:-1,Dmax
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4745&F=.m3u8
+#EXTINF:-1,Investigation Discovery
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2357&F=.m3u8
+#EXTINF:-1,Science Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2529&F=.m3u8
+#EXTINF:-1,Destination America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4837&F=.m3u8
+#EXTINF:-1,American Heroes Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4910&F=.m3u8
+#EXTINF:-1,Travel Channel UK
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4422&F=.m3u8
+#EXTINF:-1,Eden
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=513&F=.m3u8
+#EXTINF:-1,Yesterday
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=519&F=.m3u8
+#EXTINF:-1,CNN US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3133&F=.m3u8
+#EXTINF:-1,Fox News Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=208&F=.m3u8
+#EXTINF:-1,CNBC US
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4755&F=.m3u8
+#EXTINF:-1,MSNBC
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4760&F=.m3u8
+#EXTINF:-1,BBC News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=495&F=.m3u8
+#EXTINF:-1,The Weather Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5289&F=.m3u8
+#EXTINF:-1,SKY News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=493&F=.m3u8
+#EXTINF:-1,CBS Reality
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2435&F=.m3u8
+#EXTINF:-1,CBS Drama
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2431&F=.m3u8
+#EXTINF:-1,CBS Action
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2433&F=.m3u8
+#EXTINF:-1,WGN America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1771&F=.m3u8
+#EXTINF:-1,FXX East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2339&F=.m3u8
+#EXTINF:-1,Spike TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4410&F=.m3u8
+#EXTINF:-1,Ovation
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2349&F=.m3u8
+#EXTINF:-1,Crime + Investigation Network USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2343&F=.m3u8
+#EXTINF:-1,ION Television East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4902&F=.m3u8
+#EXTINF:-1,HBO East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4765&F=.m3u8
+#EXTINF:-1,HBO 2 East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=216&F=.m3u8
+#EXTINF:-1,HBO Signature East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=959&F=.m3u8
+#EXTINF:-1,HBO West
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4767&F=.m3u8
+#EXTINF:-1,HBO 2 West
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1095&F=.m3u8
+#EXTINF:-1,HBO Family East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4415&F=.m3u8
+#EXTINF:-1,HBO Comedy East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1001&F=.m3u8
+#EXTINF:-1,Cinemax East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=953&F=.m3u8
+#EXTINF:-1,Cinemax West
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=955&F=.m3u8
+#EXTINF:-1,ActionMax East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2337&F=.m3u8
+#EXTINF:-1,5 StarMax
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4895&F=.m3u8
+#EXTINF:-1,Showtime East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=218&F=.m3u8
+#EXTINF:-1,Showtime 2 East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=971&F=.m3u8
+#EXTINF:-1,Showtime Showcase East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1085&F=.m3u8
+#EXTINF:-1,Showtime Extreme East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=973&F=.m3u8
+#EXTINF:-1,Showtime Beyond East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=975&F=.m3u8
+#EXTINF:-1,Showtime Next
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1097&F=.m3u8
+#EXTINF:-1,The Movie Channel East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=220&F=.m3u8
+#EXTINF:-1,The Movie Channel Xtra East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1009&F=.m3u8
+#EXTINF:-1,Encore East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=222&F=.m3u8
+#EXTINF:-1,Encore Action East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4897&F=.m3u8
+#EXTINF:-1,Starz East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=224&F=.m3u8
+#EXTINF:-1,Starz West
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=981&F=.m3u8
+#EXTINF:-1,Starz Edge East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=983&F=.m3u8
+#EXTINF:-1,Starz Cinema East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=985&F=.m3u8
+#EXTINF:-1,Starz Comedy East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=987&F=.m3u8
+#EXTINF:-1,Starz In Black East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=989&F=.m3u8
+#EXTINF:-1,Starz Kids & Family East
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1099&F=.m3u8
+#EXTINF:-1,SKY Premiere
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=521&F=.m3u8
+#EXTINF:-1,SKY Modern Greats
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3301&F=.m3u8
+#EXTINF:-1,SKY Disney
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=523&F=.m3u8
+#EXTINF:-1,SKY Family
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=525&F=.m3u8
+#EXTINF:-1,SKY Action & Adventure
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=527&F=.m3u8
+#EXTINF:-1,SKY Comedy
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=529&F=.m3u8
+#EXTINF:-1,SKY Crime & Thriller
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=531&F=.m3u8
+#EXTINF:-1,SKY Movies Drama
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=545&F=.m3u8
+#EXTINF:-1,SKY Scifi & Horror
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=533&F=.m3u8
+#EXTINF:-1,SKY Select
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=535&F=.m3u8
+#EXTINF:-1,True Movies 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2453&F=.m3u8
+#EXTINF:-1,True Movies 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2455&F=.m3u8
+#EXTINF:-1,Movies 24
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=549&F=.m3u8
+#EXTINF:-1,Film 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=497&F=.m3u8
+#EXTINF:-1,Palladia
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=991&F=.m3u8
+#EXTINF:-1,Hallmark Movie Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1005&F=.m3u8
+#EXTINF:-1,Sony Movie Channel USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1101&F=.m3u8
+#EXTINF:-1,Tennis Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4850&F=.m3u8
+#EXTINF:-1,Golf Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2345&F=.m3u8
+#EXTINF:-1,Setanta Sports
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3580&F=.m3u8
+#EXTINF:-1,At The Races
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=553&F=.m3u8
+#EXTINF:-1,Racing UK
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2477&F=.m3u8
+#EXTINF:-1,Eurosport 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4317&F=.m3u8
+#EXTINF:-1,Eurosport 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4322&F=.m3u8
+#EXTINF:-1,MUTV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=555&F=.m3u8
+#EXTINF:-1,BOXnation
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2449&F=.m3u8
+#EXTINF:-1,SKY Sports 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2459&F=.m3u8
+#EXTINF:-1,SKY Sports 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2461&F=.m3u8
+#EXTINF:-1,SKY Sports 3
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2469&F=.m3u8
+#EXTINF:-1,SKY Sports 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2465&F=.m3u8
+#EXTINF:-1,SKY Sports 5
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2467&F=.m3u8
+#EXTINF:-1,SKY Sports F1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2457&F=.m3u8
+#EXTINF:-1,BT Sport 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2479&F=.m3u8
+#EXTINF:-1,BT Sport 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2481&F=.m3u8
+#EXTINF:-1,ASTRO SuperSport
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2471&F=.m3u8
+#EXTINF:-1,ASTRO SuperSport 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2473&F=.m3u8
+#EXTINF:-1,ASTRO SuperSport 3
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2475&F=.m3u8
+#EXTINF:-1,Yes Network
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4832&F=.m3u8
+#EXTINF:-1,Fox Sports Florida
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4840&F=.m3u8
+#EXTINF:-1,Ultimate Events & Sports
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6394&F=.m3u8
+#EXTINF:-1,Nicaragua 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2015&F=.m3u8
+#EXTINF:-1,Mexico 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5509&F=.m3u8
+#EXTINF:-1,Dominican Republic 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1615&F=.m3u8
+#EXTINF:-1,Dominican Republic 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2935&F=.m3u8
+#EXTINF:-1,Dominican Republic 5
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1627&F=.m3u8
+#EXTINF:-1,Dominican Republic 6
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1629&F=.m3u8
+#EXTINF:-1,Az Mundo
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1999&F=.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6354&F=.m3u8
+#EXTINF:-1,Univision
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6299&F=.m3u8
+#EXTINF:-1,UniMas
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3602&F=.m3u8
+#EXTINF:-1,NBC Universo
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4825&F=.m3u8
+#EXTINF:-1,Caracol Internacional
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2051&F=.m3u8
+#EXTINF:-1,Teletica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4817&F=.m3u8
+#EXTINF:-1,TeleCentro
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2017&F=.m3u8
+#EXTINF:-1,Pasiones
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=295&F=.m3u8
+#EXTINF:-1,Telemundo
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4417&F=.m3u8
+#EXTINF:-1,Tlnovelas America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1461&F=.m3u8
+#EXTINF:-1,RCN Novelas
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1493&F=.m3u8
+#EXTINF:-1,TVE Internacional America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2123&F=.m3u8
+#EXTINF:-1,Galicia TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1499&F=.m3u8
+#EXTINF:-1,TV Globo Internacional
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1593&F=.m3u8
+#EXTINF:-1,Discovery en Español
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3531&F=.m3u8
+#EXTINF:-1,Discovery Theater
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3798&F=.m3u8
+#EXTINF:-1,Discovery World
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3529&F=.m3u8
+#EXTINF:-1,Discovery Home & Health Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=252&F=.m3u8
+#EXTINF:-1,H2 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=297&F=.m3u8
+#EXTINF:-1,History en Español
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3704&F=.m3u8
+#EXTINF:-1,National Geographic Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=395&F=.m3u8
+#EXTINF:-1,Nat Geo Wild Latino America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=254&F=.m3u8
+#EXTINF:-1,Animal Planet Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=441&F=.m3u8
+#EXTINF:-1,ESPN Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2487&F=.m3u8
+#EXTINF:-1,ESPN 2 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=301&F=.m3u8
+#EXTINF:-1,ESPN 3 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3806&F=.m3u8
+#EXTINF:-1,Fox Sports Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2505&F=.m3u8
+#EXTINF:-1,Fox Sports 2 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=475&F=.m3u8
+#EXTINF:-1,Fox Sports 3 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=445&F=.m3u8
+#EXTINF:-1,BeinSports en Español
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2527&F=.m3u8
+#EXTINF:-1,UFC Network Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1047&F=.m3u8
+#EXTINF:-1,F1 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1695&F=.m3u8
+#EXTINF:-1,Planeta Futbol
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1477&F=.m3u8
+#EXTINF:-1,TDN Mexico
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1059&F=.m3u8
+#EXTINF:-1,Univision TDN
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1483&F=.m3u8
+#EXTINF:-1,Golf Channel Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1489&F=.m3u8
+#EXTINF:-1,Disney Channel Norte
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=256&F=.m3u8
+#EXTINF:-1,Disney XD Norte
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=499&F=.m3u8
+#EXTINF:-1,Disney Junior Norte
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1455&F=.m3u8
+#EXTINF:-1,Nickelodeon Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1423&F=.m3u8
+#EXTINF:-1,Nick Jr Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=417&F=.m3u8
+#EXTINF:-1,Discovery Kids America Latina
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=309&F=.m3u8
+#EXTINF:-1,Cartoon Network Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=421&F=.m3u8
+#EXTINF:-1,Boomerang Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2507&F=.m3u8
+#EXTINF:-1,Tooncast
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=443&F=.m3u8
+#EXTINF:-1,Baby TV Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=317&F=.m3u8
+#EXTINF:-1,CBeebies Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1029&F=.m3u8
+#EXTINF:-1,Canal Sony
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2501&F=.m3u8
+#EXTINF:-1,BBC Entertainment Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1407&F=.m3u8
+#EXTINF:-1,Unicable
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3804&F=.m3u8
+#EXTINF:-1,Warner Channel Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2499&F=.m3u8
+#EXTINF:-1,E! Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=427&F=.m3u8
+#EXTINF:-1,FX Latino
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=431&F=.m3u8
+#EXTINF:-1,Universal Channel America Latina
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=387&F=.m3u8
+#EXTINF:-1,Fox Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3947&F=.m3u8
+#EXTINF:-1,Syfy Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=447&F=.m3u8
+#EXTINF:-1,A&E Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=258&F=.m3u8
+#EXTINF:-1,Investigation Discovery Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=455&F=.m3u8
+#EXTINF:-1,TLC Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=327&F=.m3u8
+#EXTINF:-1,AXN Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2493&F=.m3u8
+#EXTINF:-1,Eurochannel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4912&F=.m3u8
+#EXTINF:-1,MundoFox
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=429&F=.m3u8
+#EXTINF:-1,TNT Series Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=331&F=.m3u8
+#EXTINF:-1,Elgourmet
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1033&F=.m3u8
+#EXTINF:-1,Casa Club TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1475&F=.m3u8
+#EXTINF:-1,TBS America Latina
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=333&F=.m3u8
+#EXTINF:-1,Glitz Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1473&F=.m3u8
+#EXTINF:-1,FOX Life
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=425&F=.m3u8
+#EXTINF:-1,Distrito Comedia
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1491&F=.m3u8
+#EXTINF:-1,Comedy Central Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1037&F=.m3u8
+#EXTINF:-1,Tru TV America Latina
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=337&F=.m3u8
+#EXTINF:-1,Efekto TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1039&F=.m3u8
+#EXTINF:-1,Multimedios Plus
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1459&F=.m3u8
+#EXTINF:-1,Lifetime Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=423&F=.m3u8
+#EXTINF:-1,CNN en Español
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1855&F=.m3u8
+#EXTINF:-1,El Financiero Bloomberg
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2823&F=.m3u8
+#EXTINF:-1,NTN 24
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1601&F=.m3u8
+#EXTINF:-1,MTV Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2491&F=.m3u8
+#EXTINF:-1,MTV Hits Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1495&F=.m3u8
+#EXTINF:-1,VH1 Classic Europe
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=415&F=.m3u8
+#EXTINF:-1,VH1 Latino Norte
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=483&F=.m3u8
+#EXTINF:-1,K Music
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3467&F=.m3u8
+#EXTINF:-1,Concert Channel
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=479&F=.m3u8
+#EXTINF:-1,HTV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=341&F=.m3u8
+#EXTINF:-1,Bandamax
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1467&F=.m3u8
+#EXTINF:-1,Regional Music
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4805&F=.m3u8
+#EXTINF:-1,Cine Dinamita
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3465&F=.m3u8
+#EXTINF:-1,MultiPremier
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=3293&F=.m3u8
+#EXTINF:-1,CineLatino
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=477&F=.m3u8
+#EXTINF:-1,Golden
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=264&F=.m3u8
+#EXTINF:-1,Golden Edge
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1465&F=.m3u8
+#EXTINF:-1,Golden Multiplex
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1035&F=.m3u8
+#EXTINF:-1,Paramount Channel Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=260&F=.m3u8
+#EXTINF:-1,Sundance Channel Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1041&F=.m3u8
+#EXTINF:-1,TNT America Latina
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=262&F=.m3u8
+#EXTINF:-1,CineCanal
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2495&F=.m3u8
+#EXTINF:-1,Cinemax Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=343&F=.m3u8
+#EXTINF:-1,SPACE
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=2489&F=.m3u8
+#EXTINF:-1,AMC
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=485&F=.m3u8
+#EXTINF:-1,Studio Universal
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=345&F=.m3u8
+#EXTINF:-1,TCM America Latina
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=481&F=.m3u8
+#EXTINF:-1,I-Sat
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1703&F=.m3u8
+#EXTINF:-1,Europa Europa
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1597&F=.m3u8
+#EXTINF:-1,Film & Arts Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1599&F=.m3u8
+#EXTINF:-1,Film Zone
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1055&F=.m3u8
+#EXTINF:-1,Fox 1 Este
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=433&F=.m3u8
+#EXTINF:-1,Fox 1 Oeste
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=439&F=.m3u8
+#EXTINF:-1,Fox Family
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=467&F=.m3u8
+#EXTINF:-1,Fox Comedy
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=461&F=.m3u8
+#EXTINF:-1,Fox Cinema
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=457&F=.m3u8
+#EXTINF:-1,Fox Action Este
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=435&F=.m3u8
+#EXTINF:-1,Fox Action Oeste
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=437&F=.m3u8
+#EXTINF:-1,Fox Movies Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=463&F=.m3u8
+#EXTINF:-1,Fox Classics Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=465&F=.m3u8
+#EXTINF:-1,HBO Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=385&F=.m3u8
+#EXTINF:-1,HBO 2 Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=365&F=.m3u8
+#EXTINF:-1,HBO Plus Este
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=453&F=.m3u8
+#EXTINF:-1,HBO Plus Oeste
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=369&F=.m3u8
+#EXTINF:-1,HBO Family Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=449&F=.m3u8
+#EXTINF:-1,HBO Signature Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=451&F=.m3u8
+#EXTINF:-1,Max UP Latinoamerica
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=469&F=.m3u8
+#EXTINF:-1,Max Prime Este
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=377&F=.m3u8
+#EXTINF:-1,Max Prime Oeste
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=379&F=.m3u8
+#EXTINF:-1,MAX
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=381&F=.m3u8
+#EXTINF:-1,Golden Premier 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4777&F=.m3u8
+#EXTINF:-1,Golden Premier 2
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4772&F=.m3u8
+#EXTINF:-1,Star Plus
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5784&F=.m3u8
+#EXTINF:-1,MH 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6642&F=.m3u8
+#EXTINF:-1,Colors
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5792&F=.m3u8
+#EXTINF:-1,Zee TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5797&F=.m3u8
+#EXTINF:-1,PlayMax
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6647&F=.m3u8
+#EXTINF:-1,Sony TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5804&F=.m3u8
+#EXTINF:-1,Sony Sab TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5809&F=.m3u8
+#EXTINF:-1,Rishty
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5812&F=.m3u8
+#EXTINF:-1,Aaj Tak
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5817&F=.m3u8
+#EXTINF:-1,Rishtey
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6649&F=.m3u8
+#EXTINF:-1,Star Plus India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5822&F=.m3u8
+#EXTINF:-1,Zee TV India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5824&F=.m3u8
+#EXTINF:-1,Sony TV India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5829&F=.m3u8
+#EXTINF:-1,Peace TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5832&F=.m3u8
+#EXTINF:-1,And TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5837&F=.m3u8
+#EXTINF:-1,Star Gold
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5842&F=.m3u8
+#EXTINF:-1,Paigam Pushto
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5844&F=.m3u8
+#EXTINF:-1,Paigam
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5849&F=.m3u8
+#EXTINF:-1,Zoom
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5852&F=.m3u8
+#EXTINF:-1,Dekho
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5854&F=.m3u8
+#EXTINF:-1,Ary Zauq
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5859&F=.m3u8
+#EXTINF:-1,Brit TV Asia
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5864&F=.m3u8
+#EXTINF:-1,Zoom.
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6652&F=.m3u8
+#EXTINF:-1,Jaag TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5872&F=.m3u8
+#EXTINF:-1,Noor TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5874&F=.m3u8
+#EXTINF:-1,Such TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5879&F=.m3u8
+#EXTINF:-1,Geo Tez
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5882&F=.m3u8
+#EXTINF:-1,ARY Digital 
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5887&F=.m3u8
+#EXTINF:-1,Animal Planet India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5889&F=.m3u8
+#EXTINF:-1,Jus Punjabi TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5892&F=.m3u8
+#EXTINF:-1,Jus One TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5897&F=.m3u8
+#EXTINF:-1,UTV Bindass
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5902&F=.m3u8
+#EXTINF:-1,Tez TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5904&F=.m3u8
+#EXTINF:-1,Sanskar TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5909&F=.m3u8
+#EXTINF:-1,Jus 24X7
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5914&F=.m3u8
+#EXTINF:-1,PTV Global
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5919&F=.m3u8
+#EXTINF:-1,Divya TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5924&F=.m3u8
+#EXTINF:-1,Bindass Play
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5929&F=.m3u8
+#EXTINF:-1,Hadi
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5932&F=.m3u8
+#EXTINF:-1,Arihant
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5937&F=.m3u8
+#EXTINF:-1,Aastha TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5939&F=.m3u8
+#EXTINF:-1,Aastha Bhajan
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5942&F=.m3u8
+#EXTINF:-1,Geo International
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5947&F=.m3u8
+#EXTINF:-1,Set Max
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5949&F=.m3u8
+#EXTINF:-1,Samay
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6657&F=.m3u8
+#EXTINF:-1,PTC News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5954&F=.m3u8
+#EXTINF:-1,Geo News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5959&F=.m3u8
+#EXTINF:-1,4TV News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5962&F=.m3u8
+#EXTINF:-1,Zee News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5967&F=.m3u8
+#EXTINF:-1,ABP News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5969&F=.m3u8
+#EXTINF:-1,Aaj News
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5974&F=.m3u8
+#EXTINF:-1,Hum TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5979&F=.m3u8
+#EXTINF:-1,Aplus
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5984&F=.m3u8
+#EXTINF:-1,Hum Masala
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5989&F=.m3u8
+#EXTINF:-1,ARY QTV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5994&F=.m3u8
+#EXTINF:-1,9x Jalwa
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=5997&F=.m3u8
+#EXTINF:-1,9xm
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6002&F=.m3u8
+#EXTINF:-1,Music India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6004&F=.m3u8
+#EXTINF:-1,Music Express
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6009&F=.m3u8
+#EXTINF:-1,M Tune
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6012&F=.m3u8
+#EXTINF:-1,Manoranjan
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6014&F=.m3u8
+#EXTINF:-1,Zing
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6017&F=.m3u8
+#EXTINF:-1,ARY Music
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6019&F=.m3u8
+#EXTINF:-1,Sony India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6659&F=.m3u8
+#EXTINF:-1,Ten Cricket
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6029&F=.m3u8
+#EXTINF:-1,Ten Action
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6034&F=.m3u8
+#EXTINF:-1,Sony Six
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6039&F=.m3u8
+#EXTINF:-1,Star Sports 1
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6042&F=.m3u8
+#EXTINF:-1,Sony Max
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6664&F=.m3u8
+#EXTINF:-1,Star Sports 4
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6052&F=.m3u8
+#EXTINF:-1,Ten Sports
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6057&F=.m3u8
+#EXTINF:-1,Wb India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6059&F=.m3u8
+#EXTINF:-1,Zee Cinema
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6062&F=.m3u8
+#EXTINF:-1,Movies Ok India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6064&F=.m3u8
+#EXTINF:-1,HBO India
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6069&F=.m3u8
+#EXTINF:-1,WOW Cinema
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6074&F=.m3u8
+#EXTINF:-1,Maha Movie
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6077&F=.m3u8
+#EXTINF:-1,PTC Punjabi
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6079&F=.m3u8
+#EXTINF:-1,PTC Chakde
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6082&F=.m3u8
+#EXTINF:-1,Cinema TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6087&F=.m3u8
+#EXTINF:-1,Star Movies
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6092&F=.m3u8
+#EXTINF:-1,B4u Movies
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6094&F=.m3u8
+#EXTINF:-1,9x Tashan
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6612&F=.m3u8
+#EXTINF:-1,Aag TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6617&F=.m3u8
+#EXTINF:-1,Dunya
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6619&F=.m3u8
+#EXTINF:-1,Geo TV
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6624&F=.m3u8
+#EXTINF:-1,B4U Music
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6627&F=.m3u8
+#EXTINF:-1,India Today
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6629&F=.m3u8
+#EXTINF:-1,JUS 24 x 7
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6632&F=.m3u8
+#EXTINF:-1,Jus Punjabi
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6634&F=.m3u8
+#EXTINF:-1,Life OK
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6637&F=.m3u8
+#EXTINF:-1,TV Asia
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6669&F=.m3u8
+#EXTINF:-1,TV One
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6672&F=.m3u8
+#EXTINF:-1,Willow
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=6674&F=.m3u8
+#EXTINF:-1,Venus
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=285&F=.m3u8
+#EXTINF:-1,Sextreme
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=287&F=.m3u8
+#EXTINF:-1,Manhandle XXX
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1027&F=.m3u8
+#EXTINF:-1,Secrets
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1025&F=.m3u8
+#EXTINF:-1,Playboy TV Latin America
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=289&F=.m3u8
+#EXTINF:-1,Real
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1021&F=.m3u8
+#EXTINF:-1,Juicy
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1023&F=.m3u8
+#EXTINF:-1,Hustler TV USA
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1707&F=.m3u8
+#EXTINF:-1,Xtsy XXX
+http://rtvsource.j.layershift.co.uk/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=1463&F=.m3u8
