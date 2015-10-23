@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<item>
 <link>http://menu peliculas</link>
 <title>[COLOR red]Peliculas HD[/COLOR]</title>
 <externallink>https://googledrive.com/host/0B6Vak_tKZdofbEMyOEdnZ3phMEE/addon/menu/menur/Peliculas.m3u</externallink>
 </item>
 
+<item>
 <link>http://Ignoreme</link>
 <title>[COLOR red]Peliculas HD 2 modificar[/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer7</externallink>
