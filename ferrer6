@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CANAL 4 STREAMI
+rtmp://109.123.116.138/live playpath=Canal4Es02?id=19293&pk=c431cdb704bfc013e90a7001e04bab5a0106992a96b09daaa73260fb6f0ad609 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamifyplayer.com/embedplayer/Canal4Es02/1/885/550 conn=S:OK --live
 #EXTINF:-1,tvn chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,tvn chile opt 2
