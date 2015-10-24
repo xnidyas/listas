@@ -35,20 +35,28 @@ http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Real Madrid TV T-K (Deportes)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0103 
-http://tedilive-aka-pub.telecable.es/akamai/01/03.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable futbol 0102 st
+http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable programacion 0202 st
+http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable futbol 0402st
+http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable futbol 0502st
+http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 0602st
+http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 0702st
+http://tedilive-aka-pub.telecable.es/akamai/07/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 0802st
+http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 0902st
+http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 1002st
+http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 1102st
+http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
 
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable nose 0203 
-http://tedilive-aka-pub.telecable.es/akamai/02/03.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable nose 0303 
-http://tedilive-aka-pub.telecable.es/akamai/03/03.m3u8
 
-
-
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0403 
-http://tedilive-aka-pub.telecable.es/akamai/04/03.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0503 
-http://tedilive-aka-pub.telecable.es/akamai/05/03.m3u8
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
