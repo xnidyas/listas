@@ -31,6 +31,12 @@ rtsp://stream.tn.com.ar/live/tnhd1
 rtmp://173.236.71.62/hondured/hrtv.sdp
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Canal 7 Guatevision
 http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]DEPORTES XD
+http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
+
+
+
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Real Madrid TV T-K (Deportes)
