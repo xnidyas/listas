@@ -4,6 +4,21 @@
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=21</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=21</referer>
 </item>
+
+<item>
+<title>[COLOR cyan]BEIN Ñ STREAM CH7 [/COLOR]</title>
+<sportsdevil>http://www.stream-foot.tv/stream/ch7v.php</sportsdevil>
+<referer>http://www.stream-foot.tv/stream/ch7v.php</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]BEIN Ñ STREAM CH7 file=104823 [/COLOR]</title>
+<sportsdevil>http://www.hdmyt.info/channel.php?file=104823&width=640&height=360&autostart=true</sportsdevil>
+<referer>http://www.hdmyt.info/channel.php?file=104823&width=640&height=360&autostart=true</referer>
+</item>
+
+
+
 <item>
 <title>[COLOR=dodgerblue]ojo [COLOR] VIPRACING OPCION 1[COLOR red] SportSdevil[/COLOR]</title>
 <sportsdevil>http://vipracing.tv/channel/opcion-1</sportsdevil>
