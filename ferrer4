@@ -55,8 +55,10 @@ http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
 http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 1102st
 http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
-
-
+#EXTINF:0,IT - Sky S
+http://185.63.255.107/live/max15a5/playlist.m3u8
+#EXTINF:0,IT - Sky C
+http://185.63.255.112/live/max13/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
