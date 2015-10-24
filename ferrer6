@@ -53,25 +53,23 @@ http://tedilive-aka-pub.telecable.es/akamai/05/03.m3u8
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0102 st
 http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0202 st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable programacion 0202 st
 http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0302st
-http://tedilive-aka-pub.telecable.es/akamai/03/02.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0402st
 http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0502st
 http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0602st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable beinsport 0602st
 http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0702st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable beinsport 0702st
 http://tedilive-aka-pub.telecable.es/akamai/07/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0802st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable beinsport 0802st
 http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0902st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable beinsport 0902st
 http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose1002st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable beinsport 1002st
 http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose1102st
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable beinsport 1102st
 http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
 
 
