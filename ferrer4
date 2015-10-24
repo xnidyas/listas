@@ -60,6 +60,12 @@ http://185.63.255.107/live/max15a5/playlist.m3u8
 #EXTINF:0,IT - Sky C
 http://185.63.255.112/live/max13/playlist.m3u8
 
+#EXTINF:-1,beinsport francia prueba pagina directa
+http://www.stream-foot.tv/stream/ch7v.php
+
+#EXTINF:-1,beinsport francia prueba pagina directa2
+http://www.hdmyt.info/channel.php?file=104823&width=640&height=360&autostart=true
+
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
