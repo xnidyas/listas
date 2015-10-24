@@ -51,30 +51,56 @@ http://tedilive-aka-pub.telecable.es/akamai/04/03.m3u8
 http://tedilive-aka-pub.telecable.es/akamai/05/03.m3u8
 
 
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0102 
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0102 st
 http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0203 
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0203 st
 http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0303 
 http://tedilive-aka-pub.telecable.es/akamai/03/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0403 
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0403 st
 http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0503 
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0503 st
 http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
 
 
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0101 
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]R telecable futbol 0101 lq
 http://tedilive-aka-pub.telecable.es/akamai/01/01.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0201
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]R telecable nose 0201 lq
 http://tedilive-aka-pub.telecable.es/akamai/02/01.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0301 
-http://tedilive-aka-pub.telecable.es/akamai/03/01.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0401 
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]R telecable nose 0301 lq
 http://tedilive-aka-pub.telecable.es/akamai/04/01.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0501 
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]R telecable futbol 0501 lq
 http://tedilive-aka-pub.telecable.es/akamai/05/01.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0602st
+http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0702st
+http://tedilive-aka-pub.telecable.es/akamai/07/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0802st
+http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0902st
+http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose1002st
+http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose1102st
+http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
 
 
+
+
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0602st
+http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0702st
+http://tedilive-aka-pub.telecable.es/akamai/07/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0802st
+http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose0902st
+http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose1002st
+http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose1102st
+http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
 
 
 #EXTINF:-1,CBS New York XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
