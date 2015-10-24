@@ -38,6 +38,45 @@ http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1,TATETI
 http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
 
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0103 720
+http://tedilive-aka-pub.telecable.es/akamai/01/03.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable nose 0203 720
+http://tedilive-aka-pub.telecable.es/akamai/02/03.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable nose 0303 720
+http://tedilive-aka-pub.telecable.es/akamai/03/03.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0403 720
+http://tedilive-aka-pub.telecable.es/akamai/04/03.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0503 720
+http://tedilive-aka-pub.telecable.es/akamai/05/03.m3u8
+
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0102 
+http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0203 
+http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0303 
+http://tedilive-aka-pub.telecable.es/akamai/03/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0403 
+http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0503 
+http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
+
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0101 
+http://tedilive-aka-pub.telecable.es/akamai/01/01.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0201
+http://tedilive-aka-pub.telecable.es/akamai/02/01.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable nose 0301 
+http://tedilive-aka-pub.telecable.es/akamai/03/01.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0401 
+http://tedilive-aka-pub.telecable.es/akamai/04/01.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]R telecable futbol 0501 
+http://tedilive-aka-pub.telecable.es/akamai/05/01.m3u8
+
+
+
+
 #EXTINF:-1,CBS New York XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 http://rtvmotel.mycloud.by/STALKER_PUBLIC.php?AUTH=NORMAN_BATES&ID=4865&F=.m3u8
 #EXTINF:-1,ABC Miami
