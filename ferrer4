@@ -34,6 +34,8 @@ http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]DEPORTES XD
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]DEPORTES XD HD
+http://iphone-streaming.ustream.tv/uhls/21428867/streams/live?v=720p/playlist.m3u8
 
 
 
