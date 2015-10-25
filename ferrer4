@@ -29,14 +29,16 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]Canal 7 Guatevision
+
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]Canal 7 Guatevision ustream
 http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
-
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]DEPORTES XD
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]DEPORTES XD ustream
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]DEPORTES XD HD
-http://iphone-streaming.ustream.tv/uhls/21428867/streams/live?v=720p/playlist.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]univision turbomax streamup
+rtmp://217.147.90.26/app/turbomax-hds-channel
 
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]foxsport  streamup
+rtmp://217.147.90.26/app/rovaldimix-channel
 
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]AmericaTV peru 
@@ -68,11 +70,6 @@ http://185.63.255.107/live/max15a5/playlist.m3u8
 #EXTINF:0,IT - Sky C
 http://185.63.255.112/live/max13/playlist.m3u8
 
-#EXTINF:-1,beinsport francia prueba pagina directa
-http://www.stream-foot.tv/stream/ch7v.php
-
-#EXTINF:-1,beinsport francia prueba pagina directa2
-http://www.hdmyt.info/channel.php?file=104823&width=640&height=360&autostart=true
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
