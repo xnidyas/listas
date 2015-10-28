@@ -46,8 +46,10 @@ http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-
-
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]Antena 3 index2
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
@@ -73,11 +75,6 @@ http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
 http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]telecable beinsport 1102st
 http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
-#EXTINF:0,IT - Sky S
-http://185.63.255.107/live/max15a5/playlist.m3u8
-#EXTINF:0,IT - Sky C
-http://185.63.255.112/live/max13/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
@@ -718,4 +715,8 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Tve 24h HD T-K
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]MEGA  Iindex 2
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-p.m3u8?sd=10&rebase=on
 
