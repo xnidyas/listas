@@ -2,6 +2,8 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
+#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion 1
+rtmp://104.200.159.74/app/turbomax-hds-channel
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
@@ -36,8 +38,6 @@ http://iphone-streaming.ustream.tv/uhls/21331101/streams/live/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/21399332/streams/live/playlist.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]DEPORTES XD ustream
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
-#EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]univision turbomax streamup
-rtmp://217.147.90.26/app/turbomax-hds-channel
 #EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR yellow] Deportes [/COLOR]bein castalba eng
