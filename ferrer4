@@ -3,15 +3,8 @@
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
 
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]opcion 1  univision 
-rtmp://69.46.21.170/app/ playpath=turbomax-hd-channel swfUrl=https://streamup.com/assets/StreamupVideoPlayer.swf live=1 pageUrl=https://streamup.com/rooms/turbomax-hd-Channel/plugins/video/show?startMuted=true
-
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]opcion 2  univision
-rtmp://98.142.209.122/app/ playpath=turbomax-hd-channel swfUrl=https://streamup.com/assets/StreamupVideoPlayer.swf live=1 pageUrl=https://streamup.com/rooms/turbomax-hd-Channel/plugins/video/show?startMuted=true
-
-#EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]opcion3 univision
-rtmp://98.142.209.122/app/turbomax-hd-channel
-
+#EXTINF:-1,group-title="DEPORTES", [COLOR blue] LUPE [/COLOR]UNIVISION opcion 1
+rtmp://104.200.159.74/app/turbomax-hds-channel
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
