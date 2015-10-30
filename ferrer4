@@ -8,6 +8,12 @@ rtmp://104.200.159.74/app/turbomax-hds-channel
 rtmp://104.200.159.62/app/univision1xchivas_69s-channel
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR]Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR]Telemundo (Opcion 4)
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR] MIAMI TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w1311550709_b1550000.m3u8
+
+
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow]LUPE [/COLOR]CanaldelasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow]LUPE [/COLOR]azteca 7a
