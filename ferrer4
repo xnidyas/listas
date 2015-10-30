@@ -203,8 +203,10 @@ http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
 http://k3.usastreams.com:1935/tv13/tv13/playlist.m3u8
 #EXTINF:-1,CANAL 33 EL SALVADOR
 http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
-#EXTINF:-1,TVO EL SALVADOR
+#EXTINF:-1,CANAL 23 TVO EL SALVADOR
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 6 EL SALVADOR
+http://xesmitvonlinex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,CANAL 42 CR
 http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
 #EXTINF:-1,COLOSALTV CR
