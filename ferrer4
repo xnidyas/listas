@@ -168,15 +168,6 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]BTN U SPORT
 rtmp://192.252.216.242/app/newpigss-channel
 
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]bt sport1
-http://185.63.255.10:1935/liveedge/btsports1_93bmm8fu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSA5OjM3OjA4IFBNJmhhc2hfdmFsdWU9L2Fhc2hxRkY4U0dpcEd3WUprYzlFQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]bt sport2
-http://185.63.252.131:1935/liveedge/btsports2_bb8gxfm8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSA5OjQ3OjQ3IFBNJmhhc2hfdmFsdWU9dFVlUGl0Uml6bC80WlM4Rld4RXBHQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]bt sport ESPN
-http://178.18.31.55:8081/liverepeater/224731/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSAxMDowMjoxNiBQTSZoYXNoX3ZhbHVlPUlDcWJjVm5neDl0cTlHV2pVVlVwVVE9PSZ2YWxpZG1pbnV0ZXM9MQ==
-
-#EXTINF:-1, Marca TV 
-http://universalhdlive.marca.com/i/dr21_1@100203/index_4_av-p.m3u8
 #EXTINF:-1,Sky Sport 1 
 rtmp://89.248.174.38/live/dskys1
 #EXTINF:-1,Sky Sport 2 
@@ -224,6 +215,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CanadelasestrellasHD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1, Pura salsa RADIO
+http://streaming.radionomy.com/100-purasalsa
 
 #EXTINF:-1,TV MIAMI LIFE ESPAÑA
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
