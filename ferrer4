@@ -15,6 +15,11 @@ rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR]Telemundo (Opcion 4)
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR]UNIMAS (Opcion 1)
+http://iphone-streaming.ustream.tv/ustreamVideo/21428867/streams/live/playlist.m3u8
+#EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]MUNNDO MAX
+rtmp://107.181.182.162/app/ana69s-channel
+
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR] MIAMI TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w1311550709_b1550000.m3u8
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR] CNN USA INGLES
@@ -154,6 +159,10 @@ http://xrxs.net/video/live-p12baya-2328.m3u8
 http://xrxs.net/video/live-p12losa-2328.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]USA PAC-12 HD SPORT3
 http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]FORMULA 1 ESPN
+rtmp://104.200.159.54/app/alexis1_hds-channel
+#EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]BTN U SPORT
+rtmp://192.252.216.242/app/newpigss-channel
 
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
