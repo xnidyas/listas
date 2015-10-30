@@ -12,7 +12,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR] MIAMI TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w1311550709_b1550000.m3u8
-
+#EXTINF:-1,group-title="FAVORITOS",[COLOR yellow] LUPE[/COLOR] CNN USA INGLES
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 
 #EXTINF:-1,group-title="FAVORITOS",[COLOR yellow]LUPE [/COLOR]CanaldelasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
