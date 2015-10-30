@@ -188,6 +188,39 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]CanadelasestrellasHD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
+#EXTINF:-1,TV MIAMI LIFE ESPAÑA
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1,CANAL 2 CR
+http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
+#EXTINF:-1,HBTV CR
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,CANAL 3 CR
+http://k3.usastreams.com:1935/canal3/canal3/playlist.m3u8
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1,CANAL 7 CR
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1,Canal 9 Costa Rica
+http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
+#EXTINF:-1,CANAL 13 CR
+http://k3.usastreams.com:1935/tv13/tv13/playlist.m3u8
+#EXTINF:-1,CANAL 33 EL SALVADOR
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:-1,TVO EL SALVADOR
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 42 CR
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,COLOSALTV CR
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,HBTV CR
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,TV SUR CR
+http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
+#EXTINF:-1,CONDAVISION
+http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
+
+
+
 
 #EXTINF:-1,AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
