@@ -5,10 +5,6 @@ http://0.0.0.0:
 #EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 
-#EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNImas
-http://iptvlatam.cf/hls/unimas/playlist.m3u8
-#EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion1
-http://iptvlatam.cf/hls/univision/playlist.m3u8?
 
 #EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion 2
 rtmp://104.200.159.62/app/univision1xchivas_69s-channel
