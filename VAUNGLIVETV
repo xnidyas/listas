@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-			<item><title>[COLOR=green]-----[/COLOR][COLOR=pink]P E L I C U L A S  - 24/7  (AUDIO LATINO)[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
+<item><title>[COLOR=green]-----[/COLOR][COLOR=pink]P E L I C U L A S  - 24/7  (AUDIO LATINO)[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
 			
 <item>
 <title>[COLOR orange]CINE CANAL LATNOSCANALES[/COLOR]</title>
@@ -289,6 +289,35 @@
 			</regex>
 			</item>
 			
+			<item>
+			<title>CremeCartoon </title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_cremecartoon live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_cremecartoon$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			</item>
 			
 			
 			<item>
