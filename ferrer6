@@ -1,17 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1,CSN 2
-http/83.58.159.83:4022/udp/239.0.0.1:8208
-#EXTINF:-1,La 2
-http/83.58.159.83:4022/udp/239.0.0.2:8208
-#EXTINF:-1,Antena 3
-http/83.58.159.83:4022/udp/239.0.0.3:8208
-#EXTINF:-1,Cuatro
-http/83.58.159.83:4022/udp/239.0.0.4:8208
-#EXTINF:-1,Telecinco
-http/83.58.159.83:4022/udp/239.0.0.5:8208
-
 #EXTINF:-1,tvn chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,tvn chile opt 2
