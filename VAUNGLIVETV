@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channel>
-    <name>[COLOR=green]-----[/COLOR][COLOR=orange]► P E L I C U L A S  -  24/7 - TODO EL DIA [/COLOR][COLOR gray]Audio Latino: Canales con Peliculas de Todos Los generos.. Estrenos mas recientes !!!  [/COLOR][COLOR=green]-----[/COLOR]</name>
-        <items>
 			<item><title>[COLOR=green]-----[/COLOR][COLOR=orange]P E L I C U L A S  - 24/7  (AUDIO LATINO)[/COLOR][COLOR=green]-----[/COLOR]</title><link>http://about.me/adryan</link></item>
 			
 <item>
@@ -38,14 +35,7 @@
 <referer>http://www.sasshamoviez.com/2014/04/moviecity.html</referer>
 </item>
 
-<item>
-<title>[COLOR orange]UNIVISION TDN[/COLOR]</title>
-<sportsdevil>http://www.latinocanaleshd.com/2014/03/univision.html</sportsdevil>
-<referer>http://www.latinocanaleshd.com/2014/03/univision.html</referer>
-</item>
 
-			
-			
 			<item>
 			<title>Mega Kids</title>
 			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mega_kids live=1 timeout=20</link>
@@ -899,6 +889,3 @@
 			<sportsdevil>http://www.streamlive.to/embed/72045</sportsdevil>
 			<referer>http://www.streamlive.to</referer>
 			</item>
-			
-		
-    </channel>
