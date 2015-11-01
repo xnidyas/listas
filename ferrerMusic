@@ -1,0 +1,116 @@
+#EXTM3U
+
+#EXTINF:-1 ,50'S
+http://buecrplb01.cienradios.com.ar/50_32000.aac
+#EXTINF:-1 ,60'S
+http://buecrplb01.cienradios.com.ar/60_32000.aac
+#EXTINF:-1 ,70'S
+http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
+#EXTINF:-1 ,70'S EE.UU.
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
+#EXTINF:-1 ,Beatles
+http://108.61.73.119:8062/;stream.nsv
+#EXTINF:-1 ,80S
+http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
+#EXTINF:-1 ,80'S Argentina
+http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
+#EXTINF:-1 ,80'S EE.UU.
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1 ,90'S Internacional
+http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+#EXTINF:-1 ,90'S Europa
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
+#EXTINF:-1 ,Adulto Contemporáneo
+http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
+#EXTINF:-1 ,Baladas
+http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+#EXTINF:-1 ,Bossa Nova
+http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
+#EXTINF:-1 ,Brasil
+http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
+#EXTINF:-1 ,BritPop
+http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
+#EXTINF:-1 ,Chillout
+http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+#EXTINF:-1 ,JPop
+http://pub1.radiotunes.com:80/radiotunes_jpop?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 ,Country
+http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 ,Cuarteto
+http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
+#EXTINF:-1 ,Estrenos
+http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+#EXTINF:-1 ,Electronica
+http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+#EXTINF:-1 ,Electro Tango
+http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
+#EXTINF:-1 ,Dance
+http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+#EXTINF:-1 ,Lentos
+http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+#EXTINF:-1 ,Música en vivo
+http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+#EXTINF:-1 ,Raggae
+http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
+#EXTINF:-1 ,Reggaeton
+http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
+#EXTINF:-1 ,Rock Hits
+http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
+#EXTINF:-1 ,Rock latino
+http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
+#EXTINF:-1 ,Salsa
+http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
+#EXTINF:-1 ,Jazz suave
+http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
+#EXTINF:-1 ,Jazz Mellow
+http://pub6.radiotunes.com:80/radiotunes_mellowjazz?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 ,Top 40
+http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+#EXTINF:-1 ,Top Europa
+http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+#EXTINF:-1 ,Top EE.UU.
+http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
+#EXTINF:-1 ,Salón
+http://pub3.radiotunes.com:80/radiotunes_smoothlounge?
+#EXTINF:-1 ,Musica del Mundo
+http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 ,Yoga
+http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
+#EXTINF:-1 ,Reiki
+http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
+#EXTINF:-1 ,Relajación
+http://pub7.radiotunes.com:80/radiotunes_relaxation?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 ,Nueva era
+http://pub7.radiotunes.com:80/radiotunes_newage?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 ,Clásico
+http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+#EXTINF:-1 ,Cine Clásico
+http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+#EXTINF:-1 ,Clasica Meditacion
+http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+#EXTINF:-1 ,Tango
+http://buecrplb01.cienradios.com.ar/All_About_Tango_32000.aac
+#EXTINF:-1 ,Bachata
+http://buecrplb01.cienradios.com.ar/Bachata_32000.aac
+#EXTINF:-1 ,Latino
+http://buecrplb01.cienradios.com.ar/Bailando_Latino_32000.aac
+#EXTINF:-1 ,Boleros
+http://buecrplb01.cienradios.com.ar/Boleros_32000.aac
+#EXTINF:-1 ,Cristiana
+http://buecrplb01.cienradios.com.ar/Cristiana_32000.aac
+#EXTINF:-1 ,Cumbia
+http://buecrplb01.cienradios.com.ar/Cumbia_32000.aac
+#EXTINF:-1 ,Lentos
+http://buecrplb01.cienradios.com.ar/Enamorados_32000.aac
+#EXTINF:-1 ,Folklore
+http://buecrplb01.cienradios.com.ar/Folklore_64000.aac
+#EXTINF:-1 ,Heavy Metal
+http://buecrplb01.cienradios.com.ar/Heavy_Metal_64000.aac
+
+
+
+
+
+
+
+
