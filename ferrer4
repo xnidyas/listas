@@ -168,25 +168,6 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,group-title="DEPORTES", [COLOR red] Deportes [/COLOR]BTN U SPORT
 rtmp://192.252.216.242/app/newpigss-channel
 
-#EXTINF:-1,Sky Sport 1 
-rtmp://89.248.174.38/live/dskys1
-#EXTINF:-1,Sky Sport 2 
-rtmp://89.248.174.38/live/dskys2
-#EXTINF:-1,Sky Sport 3 
-rtmp://89.248.174.38/live/dskys3
-#EXTINF:-1,Sky Sport 4 
-rtmp://89.248.174.38/live/dskys4
-#EXTINF:-1,Sky Sport 5
-rtmp://89.248.174.38/live/dskys5
-#EXTINF:-1,Sky f1 
-rtmp://89.248.174.38/live/dskysf1
-#EXTINF:-1,BT Sport 1 
-rtmp://89.248.174.38/live/dbt1
-#EXTINF:-1,BT Sport 2
-rtmp://89.248.174.38/live/dbt2
-#EXTINF:-1,British Eurosport 
-rtmp://89.248.174.38/live/deuro1
-
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“NUEVOS”,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,group-title="NUEVOS",[COLOR red]New [/COLOR]Dragon Ball Z (Sayda)
