@@ -2,10 +2,11 @@
 #EXTINF:-1, [COLOR green] --menus ferrer- http://pastebin.com/raw.php?i=DiZt5B0T- http://bit.ly/1FXVUuJ-[/COLOR]  
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“DEPORTES”,[COLOR yellow]» »DEPORTES« «[/COLOR]
 http://0.0.0.0:
-#EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion 1
-rtmp://104.200.159.74/app/turbomax-hds-channel
-#EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion 1a
-rtmp://104.200.159.62/app/turbomax-hds-channel
+
+
+#EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]RCN CARACOL COLOMBIA
+http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
+
 #EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion 2
 rtmp://104.200.159.62/app/univision1xchivas_69s-channel
 #EXTINF:-1,group-title="FAVORITOS", [COLOR yellow] LUPE [/COLOR]UNIVISION opcion 3
