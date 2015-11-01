@@ -39,9 +39,11 @@ http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1,TATETI
 http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
 
-#EXTINF:-1, NTV SPORT
+#EXTINF:-1, NTV SPORT GEORGIA
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
 
+#EXTINF:-1, FUTBOL BRASIL
+http://62.210.82.241:1935/liverepeat/fut02/live.m3u8
 
 #EXTINF:-1,group-title="DEPORTES", [COLOR blue] Deportes [/COLOR]R telecable futbol 0103 720
 http://tedilive-aka-pub.telecable.es/akamai/01/03.m3u8
