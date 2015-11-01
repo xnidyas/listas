@@ -1078,3 +1078,92 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,group-title="ESPAÑA",[COLOR red]ESPAÑA  [/COLOR]Tve 24h HD T-K
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+
+
+#EXTINF:0,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:0,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:0,prueba
+
+#EXTINF:0,Cinema latino HD 1
+rtmp://edge1.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_cinemalatinohd playpath=live_cinemalatinohd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/cinemalatinohd?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 2
+rtmp://edge1.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_hellgate_ba playpath=live_hellgate_ba swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/universal_movies?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 3
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_lcreme playpath=live_lcreme swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/lcreme?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 4
+rtmp://edge1.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_alx_nxtv playpath=live_alx_nxtv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/alx_nxtv?viewers=true&watermark=right&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 5
+rtmp://edge2.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_mega_extremo playpath=live_mega_extremo swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 6
+rtmp://edge2.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_katyhd playpath=live_katyhd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/katyhd?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 7
+rtmp://edge4.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_sony_movie_channel playpath=live_sony_movie_channel swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/sony_movie_channel?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 8
+rtmp://edge4.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_zombiechannel playpath=live_zombiechannel swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/zombiechannel?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 9
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_mega_movieshd playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_movieshd?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 10
+rtmp://edge2.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_andrespc playpath=live_andrespc swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/andrespc?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 11
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_zonafilmshd playpath=live_zonafilmshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/zonafilmshd?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 12
+rtmp://edge4.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_cinecanal playpath=live_cinecanal swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/cinecanal?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 13
+rtmp://edge4.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_cine_familiar playpath=live_cine_familiar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/cinecanal?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 14
+rtmp://edge3.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_cybercine playpath=live_cybercine swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/cybercine?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 15
+rtmp://edge1.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_mega_kids playpath=live_mega_kids swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_kids?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 16
+rtmp://edge1.video.vaughnsoft.net:443/live?30dabc4871922a1314192e925ab7961d/live_hbostarztv playpath=live_hbostarztv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/hbostarztv?viewers=true&watermark=left&autoplay=true token=30dabc4871922a1314192e925ab7961dtsg3 live=true timeout=15
+#EXTINF:0,Cinema latino HD 17
+rtmp://204.45.157.74/app playpath=16414 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/
+#EXTINF:0,Cinema latino HD 18
+rtmp://204.45.157.226/app playpath=16457 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/
+#EXTINF:0,Cinema latino Infantil HD 19
+rtmp://204.45.157.234/app playpath=16091 swfUrl=http://udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324d545a6c4e7a51324f545a6c4e6a5932597a59784e7a4d3d/49f79823dff6 conn=S:OK –live
+#EXTINF:0,Cinema latino HD 20
+rtmp://edge2.video.vaughnsoft.net:443/live?undefined playpath=live_elias_films swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/elias_films token=30dabc4871922a1314192e925ab7961dtsg3
+#EXTINF:0,Cinema latino HD 21
+rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_miasma49 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/miasma49 token=30dabc4871922a1314192e925ab7961dtsg3
+#EXTINF:0,Cinema latino HD 22
+rtmp://edge1.video.vaughnsoft.net:443/live?undefined playpath=live_richenginner swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/richenginner token=30dabc4871922a1314192e925ab7961dtsg3
+#EXTINF:0,Cinema latino HD 23
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_discomar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/discomar token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 24
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mfv_01 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mfv_01 token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 25
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mega_movieshd token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 26
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_cinemalatinohd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/cinemalatinohd token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 27
+rtmp://edge1.video.vaughnsoft.net:443/live? playpath=live_lcreme swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 28
+rtmp://edge1.video.vaughnsoft.net:443/live? playpath=live_hbostarztv swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 29
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_sony_movie_channel swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/sony_movie_channel token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 30
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_katyhd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/katyhd token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 31
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_universal_movies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/universal_movies token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 32
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_hbostarztv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/hbostarztv token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 33
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_elias_films swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/elias_films token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 34
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_sebastiann24 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/sebastian24 token=30dabc4871922a1314192e925ab7961d
+#EXTINF:0,Cinema latino HD 35
+rtmp://50.7.28.114/app playpath=16457 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6a4d324f545a6c4e6a55325a4459784e7a67325a673d3d/7fad6b8c9f16
+#EXTINF:0,Cinema latino HD 36
+rtmp://50.7.28.130/app playpath=16199 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a55325a5459354e7a59324e5463794e7a4d324d545a6a4d7a453d/c3c8fb8f6207
+#EXTINF:0,Cinema latino HD 37
+rtmp://50.7.28.162/app playpath=16456 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6d4d324d5463304e6a6b325a5459784e7a4d325a673d3d/128bd92a9501
+#‎EXTINF‬:-1,WIN SPORTS
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1,WIN SPORTS
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1,WIN SPORTS
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0003/tu1_1.m3u8
+#EXTINF:-1,WIN SPORTS
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0003/tu1_1.m3u8
