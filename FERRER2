@@ -662,8 +662,28 @@
 <sportsdevil>http://telesal.tv/canal-6</sportsdevil>
 <referer>referer=http://telesal.tv/canal-6</referer>
 </item>
+
+
+<item>
+<title>[COLOR cyan]CANAL 10 EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/canal-12</sportsdevil>
+<referer>referer=http://telesal.tv/canal-10</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]CANAL ORBITA TV EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/orbitatv/</sportsdevil>
+<referer>referer=http://telesal.tv/canal-10</referer>
+</item>
+
 <item>
 <title>[COLOR cyan]CANAL 12 EL SALVADOR [/COLOR]</title>
 <sportsdevil>http://telesal.tv/canal-12</sportsdevil>
 <referer>referer=http://telesal.tv/canal-12</referer>
+</item>
+
+<item>
+<title>[COLOR cyan]CANAL 21 EL SALVADOR [/COLOR]</title>
+<sportsdevil>http://telesal.tv/canal-21</sportsdevil>
+<referer>referer=http://telesal.tv/canal-21</referer>
 </item>
