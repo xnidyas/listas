@@ -113,47 +113,47 @@ rtsp://stream.tn.com.ar/live/tnhd1
 rtmp://173.236.71.62/hondured/hrtv.sdp
 #EXTINF:-1, [COLOR yellow]Deportes [/COLOR]DEPORTES XD ustream
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]bein castalba eng
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba eng
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]bein castalba Español
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba Español
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]La sexta Castalba
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Antena 3 index2
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Antena 3 index2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Real Madrid TV T-K (Deportes)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]telecable futbol 0102 st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Futbol ABONO 0102 st
 http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]programacion futbol 0202 st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]program ABONO futbol 0202 st
 http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]telecable futbol 0502st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 0502st
 http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]telecable beinsport 0802st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 0802st
 http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]telecable beinsport 0902st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 0902st
 http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]telecable beinsport 1002st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 1002st
 http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]telecable beinsport 1102st
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 1102st
 http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
 
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]EUROSPORT
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]USA PAC-12 HD SPORT1
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]USA PAC-12 HD SPORT1
 http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]USA PAC-12 HD SPORT2
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]USA PAC-12 HD SPORT2
 http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]USA PAC-12 HD SPORT3
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]USA PAC-12 HD SPORT3
 http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1, [COLOR red]Deportes [/COLOR]BTN U SPORT
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]BTN U SPORT
 rtmp://192.252.216.242/app/newpigss-channel
 
 #EXTINF:-1 ,[COLOR yellow]» »NUEVOS« «[/COLOR]
