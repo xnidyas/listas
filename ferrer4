@@ -187,39 +187,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1, Pura salsa RADIO
 http://streaming.radionomy.com/100-purasalsa
 
-#EXTINF:-1,TV MIAMI LIFE ESPAÑA
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1,CANAL 2 CR
-http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
-#EXTINF:-1,HBTV CR
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,CANAL 3 CR
-http://k3.usastreams.com:1935/canal3/canal3/playlist.m3u8
-#EXTINF:-1,Canal 6 Costa Rica
-http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:-1,CANAL 7 CR
-http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
-#EXTINF:-1,Canal 9 Costa Rica
-http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
-#EXTINF:-1,CANAL 13 CR
-http://k3.usastreams.com:1935/tv13/tv13/playlist.m3u8
-#EXTINF:-1,CANAL 33 EL SALVADOR
-http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
-#EXTINF:-1,CANAL 23 TVO EL SALVADOR
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,CANAL 6 EL SALVADOR
-http://xesmitvonlinex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,CANAL 42 CR
-http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
-#EXTINF:-1,COLOSALTV CR
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1,HBTV CR
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,TV SUR CR
-http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1,CONDAVISION
-http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
-
 
 
 #EXTINF:-1,AYM Sports
@@ -887,6 +854,38 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1,XPERTS 33 TV - Costa Rica
 rtmp://k3.usastreams.com:1935/tv33/tv33
 
+#EXTINF:-1,TV MIAMI LIFE ESPAÑA
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1,CANAL 2 CR
+http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
+#EXTINF:-1,HBTV CR
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,CANAL 3 CR
+http://k3.usastreams.com:1935/canal3/canal3/playlist.m3u8
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1,CANAL 7 CR
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1,Canal 9 Costa Rica
+http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
+#EXTINF:-1,CANAL 13 CR
+http://k3.usastreams.com:1935/tv13/tv13/playlist.m3u8
+#EXTINF:-1,CANAL 33 EL SALVADOR
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:-1,CANAL 23 TVO EL SALVADOR
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 6 EL SALVADOR
+http://xesmitvonlinex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 42 CR
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,COLOSALTV CR
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,HBTV CR
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,TV SUR CR
+http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
+#EXTINF:-1,CONDAVISION
+http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
 
 #EXTINF:-1,RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
@@ -923,8 +922,6 @@ http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b15000
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
 
-
-
 #EXTINF:1,DeporTV - Argentina
 rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
 #EXTINF:1,Vivra - Argentina
@@ -947,7 +944,6 @@ rtmp://c5n.stweb.tv:1935/c5n/live
 http://200.42.92.142/live13/13tv/13tv2/chunklist_w1011757340.m3u8
 
 
-
 #EXTINF:-1,RBC HD - Perú
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 #EXTINF:-1,RBC Canal 11 - Perú
@@ -968,12 +964,10 @@ http://38.96.148.216:1935/live/canelatv/playlist.m3u8
 #EXTINF:1,Cañar - Ecuador
 rtmp://ecuastreamhd.com:1935/canartv/canartv
 
-
 #EXTINF:-1,CTNL - Puerto Rico
 rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
 #EXTINF:-1,WAPA - Puerto Rico
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
-
 
 #EXTINF:-1,Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
