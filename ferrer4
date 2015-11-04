@@ -1063,7 +1063,7 @@ http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]De Película[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
-#EXTINF:-1,Canal Sony[/COLOR]
+#EXTINF:-1,[COLOR yellow]Canal Sony[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Canal 5 de México (XHGC)[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
@@ -1076,4 +1076,7 @@ http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Mega[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="MEGA.png",Mega
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+
 
