@@ -130,17 +130,17 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Real Madrid TV T-K (Deportes)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Futbol ABONOhd 0103 st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Futbol ABONOhd 0103 st
 http://tedilive-aka-pub.telecable.es/akamai/01/03.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Futbol ABONO 0102 st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Futbol ABONO 0102 st
 http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]program ABONO futbol 0202 st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]program ABONO futbol 0202 st
 http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0302st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0302st
 http://tedilive-aka-pub.telecable.es/akamai/03/02.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0402st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0402st
 http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0502st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0502st
 http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0602st
 http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
