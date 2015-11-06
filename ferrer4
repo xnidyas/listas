@@ -922,44 +922,26 @@ http://162.212.176.83:8080/mayatv.m3u8
 http://162.212.176.83:8080/teleceiba.m3u8
 #EXTINF:0,Teleprogreso - Honduras
 http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:0,Todo Deportes - Honduras
-http://162.212.176.83:8080/tododeportes.stream.m3u8
 #EXTINF:0,Sulavision - Honduras
 http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1,Ultra de aguascalientes Nicaragua
-http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
 #EXTINF:-1,CANAL 13 - Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
 
-#EXTINF:1,DeporTV - Argentina
-rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
 #EXTINF:1,Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Canal 12 Cordoba - Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:1,A24 - Argentina
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
 #EXTINF:1,Canal 26 HD - Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:1,America TV HD - Argentina
-http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
-#EXTINF:1,Telefe HD - Argentina
-http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
 #EXTINF:0,Q Musica - Argentina
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0,C5N - Argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,El Trece TV argentina
-http://200.42.92.142/live13/13tv/13tv2/chunklist_w1011757340.m3u8
 
 
-#EXTINF:-1,RBC HD - Perú
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 #EXTINF:-1,RBC Canal 11 - Perú
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
-#EXTINF:0 ,ATV - Perú
-http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
 #EXTINF:0,Willax - Perú
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 #EXTINF:0,América TV - Perú
@@ -969,10 +951,6 @@ http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 #EXTINF:1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 
-#EXTINF:1,Canela TV - Ecuador
-http://38.96.148.216:1935/live/canelatv/playlist.m3u8
-#EXTINF:1,Cañar - Ecuador
-rtmp://ecuastreamhd.com:1935/canartv/canartv
 
 #EXTINF:-1,CTNL - Puerto Rico
 rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
@@ -988,8 +966,6 @@ http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
 #EXTINF:-1 ,Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Color Visión - República Dominicana
-http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
 #EXTINF:-1,Antena Latina - República Dominicana
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Teleuniverso - República Dominicana
@@ -1008,16 +984,10 @@ http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
 http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 #EXTINF:-1,MUSA TV - República Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-#EXTINF:-1,DominicanYork - República Dominicana
-rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
 #EXTINF:-1,Canal Once Punta del Este - Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 
 
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Telecinco - España
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]ETB - - España
-http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]13 TV - España (Emisión Web)
@@ -1028,8 +998,6 @@ http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
 rtmp://87.106.220.67/live/myStream_2
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Canal Costa - España
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Enlace Deportes 1 - España
-http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
 #EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Euronews - España
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Granada 7 TV - España
@@ -1082,9 +1050,6 @@ http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Canal De Las Estrellas[/COLOR]
 #EXTINF:-1,[COLOR yellow]Teletica 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Mega[/COLOR]
-http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="MEGA.png",Mega
-http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+
 
 
