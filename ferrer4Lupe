@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION opcion 2
-rtmp://104.200.159.62/app/univision1xchivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION opcion 3
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
@@ -115,9 +113,9 @@ rtmp://173.236.71.62/hondured/hrtv.sdp
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba eng
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba Español
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
@@ -130,19 +128,29 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=o
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Real Madrid TV T-K (Deportes)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Futbol ABONO 0102 st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Futbol ABONOhd 0103 st
+http://tedilive-aka-pub.telecable.es/akamai/01/03.m3u8
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Futbol ABONO 0102 st
 http://tedilive-aka-pub.telecable.es/akamai/01/02.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]program ABONO futbol 0202 st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]program ABONO futbol 0202 st
 http://tedilive-aka-pub.telecable.es/akamai/02/02.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 0502st
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0302st
+http://tedilive-aka-pub.telecable.es/akamai/03/02.m3u8
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0402st
+http://tedilive-aka-pub.telecable.es/akamai/04/02.m3u8
+EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0502st
 http://tedilive-aka-pub.telecable.es/akamai/05/02.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 0802st
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0602st
+http://tedilive-aka-pub.telecable.es/akamai/06/02.m3u8
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0702st
+http://tedilive-aka-pub.telecable.es/akamai/07/02.m3u8
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0802st
 http://tedilive-aka-pub.telecable.es/akamai/08/02.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 0902st
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 0902st
 http://tedilive-aka-pub.telecable.es/akamai/09/02.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 1002st
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 1002st
 http://tedilive-aka-pub.telecable.es/akamai/10/02.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Bein sport 1102st
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]Bein sport 1102st
 http://tedilive-aka-pub.telecable.es/akamai/11/02.m3u8
 
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]EUROSPORT
@@ -186,39 +194,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1, Pura salsa RADIO
 http://streaming.radionomy.com/100-purasalsa
-
-#EXTINF:-1,TV MIAMI LIFE ESPAÑA
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1,CANAL 2 CR
-http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
-#EXTINF:-1,HBTV CR
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,CANAL 3 CR
-http://k3.usastreams.com:1935/canal3/canal3/playlist.m3u8
-#EXTINF:-1,Canal 6 Costa Rica
-http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:-1,CANAL 7 CR
-http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
-#EXTINF:-1,Canal 9 Costa Rica
-http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
-#EXTINF:-1,CANAL 13 CR
-http://k3.usastreams.com:1935/tv13/tv13/playlist.m3u8
-#EXTINF:-1,CANAL 33 EL SALVADOR
-http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
-#EXTINF:-1,CANAL 23 TVO EL SALVADOR
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,CANAL 6 EL SALVADOR
-http://xesmitvonlinex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,CANAL 42 CR
-http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
-#EXTINF:-1,COLOSALTV CR
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1,HBTV CR
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1,TV SUR CR
-http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
-#EXTINF:-1,CONDAVISION
-http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
 
 
 
@@ -887,6 +862,38 @@ rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1,XPERTS 33 TV - Costa Rica
 rtmp://k3.usastreams.com:1935/tv33/tv33
 
+#EXTINF:-1,TV MIAMI LIFE ESPAÑA
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1,CANAL 2 CR
+http://k3.usastreams.com:1935/extra/extra/playlist.m3u8
+#EXTINF:-1,HBTV CR
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,CANAL 3 CR
+http://k3.usastreams.com:1935/canal3/canal3/playlist.m3u8
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1,CANAL 7 CR
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1,Canal 9 Costa Rica
+http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
+#EXTINF:-1,CANAL 13 CR
+http://k3.usastreams.com:1935/tv13/tv13/playlist.m3u8
+#EXTINF:-1,CANAL 33 EL SALVADOR
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:-1,CANAL 23 TVO EL SALVADOR
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 6 EL SALVADOR
+http://xesmitvonlinex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 42 CR
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,COLOSALTV CR
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,HBTV CR
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,TV SUR CR
+http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
+#EXTINF:-1,CONDAVISION
+http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
 
 #EXTINF:-1,RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
@@ -913,47 +920,26 @@ http://162.212.176.83:8080/mayatv.m3u8
 http://162.212.176.83:8080/teleceiba.m3u8
 #EXTINF:0,Teleprogreso - Honduras
 http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:0,Todo Deportes - Honduras
-http://162.212.176.83:8080/tododeportes.stream.m3u8
 #EXTINF:0,Sulavision - Honduras
 http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1,Ultra de aguascalientes Nicaragua
-http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
 #EXTINF:-1,CANAL 13 - Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
 
-
-
-#EXTINF:1,DeporTV - Argentina
-rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
 #EXTINF:1,Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Canal 12 Cordoba - Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:1,A24 - Argentina
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
 #EXTINF:1,Canal 26 HD - Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:1,America TV HD - Argentina
-http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
-#EXTINF:1,Telefe HD - Argentina
-http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
 #EXTINF:0,Q Musica - Argentina
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0,C5N - Argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,El Trece TV argentina
-http://200.42.92.142/live13/13tv/13tv2/chunklist_w1011757340.m3u8
 
 
-
-#EXTINF:-1,RBC HD - Perú
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 #EXTINF:-1,RBC Canal 11 - Perú
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
-#EXTINF:0 ,ATV - Perú
-http://edge-21-us.edge.mdstrm.com/live-stream/_definst_/smil:c23b8a0a21d215482b4c2703e47f675a/chunklist_b1500000.m3u8
 #EXTINF:0,Willax - Perú
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
 #EXTINF:0,América TV - Perú
@@ -963,17 +949,11 @@ http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fe
 #EXTINF:1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 
-#EXTINF:1,Canela TV - Ecuador
-http://38.96.148.216:1935/live/canelatv/playlist.m3u8
-#EXTINF:1,Cañar - Ecuador
-rtmp://ecuastreamhd.com:1935/canartv/canartv
-
 
 #EXTINF:-1,CTNL - Puerto Rico
 rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
 #EXTINF:-1,WAPA - Puerto Rico
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
-
 
 #EXTINF:-1,Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
@@ -984,8 +964,6 @@ http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
 #EXTINF:-1 ,Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Color Visión - República Dominicana
-http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
 #EXTINF:-1,Antena Latina - República Dominicana
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Teleuniverso - República Dominicana
@@ -1004,16 +982,10 @@ http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
 http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 #EXTINF:-1,MUSA TV - República Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-#EXTINF:-1,DominicanYork - República Dominicana
-rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
 #EXTINF:-1,Canal Once Punta del Este - Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 
 
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Telecinco - España
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]ETB - - España
-http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]13 TV - España (Emisión Web)
@@ -1024,8 +996,6 @@ http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
 rtmp://87.106.220.67/live/myStream_2
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Canal Costa - España
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Enlace Deportes 1 - España
-http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
 #EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Euronews - España
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Granada 7 TV - España
@@ -1050,4 +1020,34 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]MEGA  Iindex 2
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR yellow]Fox Sports Latinoamerica[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]ESPN Latinoamerica[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]ESPN 2 Latinoamerica[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]ESPN 3 Latinoamerica[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]BeinSports en Español[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]BeinSports USA[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]NFL Network[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]De Película[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Canal Sony[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Canal 5 de México (XHGC)[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Azteca 7[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Canal Azteca 13 (México)[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Canal De Las Estrellas[/COLOR]
+#EXTINF:-1,[COLOR yellow]Teletica 7[/COLOR]
+http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+
+
 
