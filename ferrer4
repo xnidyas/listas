@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION opcion 2
-rtmp://104.200.159.62/app/univision1xchivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION opcion 3
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
