@@ -124,10 +124,25 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=o
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Antena 3 index2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1,bein ñ Latino SD
+http://q.gs/11042797/whasa-604270509-iptv1-m3u8
+#EXTINF:-1,bein ñ Latino HD
+http://q.gs/11042797/whasa-604270509-iptv2-m3u8
+#EXTINF:-1,Bein ñ 720 Espana 
+rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ LIGA
+rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ LIGA 2
+rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ FUTBOL
+rtmp://31.220.2.53/pull playpath=futbolsala?keys=5U6rLsKDdkGo1qBYF0ZZmw&keyt=1444987977 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1,C+ DEPORTE
+rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ DEPORTES 2
+rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Real Madrid TV T-K (Deportes)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -996,6 +1011,35 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]MEGA  Iindex 2
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Telecinco
+rtmp://31.220.0.139/pull/telecincoin?keys=PVIVrGKFxbvBF7lXVXsR7w&keyt=1443471107 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
+#EXTINF:-1,TELECINCO
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,C+
+rtmp://31.220.0.60/pull playpath=canaplu1?keys=T-4YPN4_pfFeyQiT9M7E9A&keyt=1445309152 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1,C+ XTRA
+rtmp://31.220.0.82/pull playpath=xxtras?keys=rXuO2-EECsp3tDIcoep2Hg&keyt=1446595126 swfUrl=http://files.leton.tv/jwplayer.flash.swf
+#EXTINF:-1,C+ Estrenos
+rtmp://31.220.2.57/pull/estrenos258?keys=lw1SchAIVqWfWLYRDCGFeg&keyt=1443749048 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ DCine
+rtmp://31.220.0.194/pull/159dcine?keys=VSyEFKByNYpANXptg0bn0g&keyt=1443270924 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ Accion
+rtmp://31.220.0.204/pull/accpls?keys=OwGk5mEbLJujLJKZ3L2MFA&keyt=1443277151 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ Comedia
+rtmp://31.220.0.82/pull/comed236?keys=J114g05QrtZkGXgzhu-ivQ&keyt=1443277086 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,C+ Series Xtra
+rtmp://31.220.0.72/pull/seriesxtra76?keys=wpz2tJqtWKHWfQEQfbJRlA&keyt=1443273424 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,DCine Espanol
+rtmp://31.220.0.196/pull/dcinees?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,Sundance Channel
+rtmp://31.220.2.54/pull/sundance14?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,Fox
+rtmp://31.220.2.56/pull/fox623?keys=U3YU2tmRp5UhkSvfZSF9Hg&keyt=1443273510 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1,Fox life
+rtmp://31.220.40.62/pull/foxlife20?keys=rZNiLcEkz_-1I0HJZYJMmg&keyt=1443273561 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+ 
+ 
 
 #EXTINF:-1,[COLOR yellow]Fox Sports Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
