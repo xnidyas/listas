@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION opcion 3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", UNIVISION opcion 3
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
@@ -83,15 +83,15 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]UFC brasil
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]COMBATE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR] Canal 4 Nicaragua
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Canal 6 Costa Rica
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]RPC Panama DEPORTES<===
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
