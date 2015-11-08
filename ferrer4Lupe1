@@ -69,7 +69,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS.   
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS 2.
@@ -122,8 +121,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Antena 3 index2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-
-
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein ñ Latino SD
 http://q.gs/11042797/whasa-604270509-iptv1-m3u8
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein ñ Latino HD
@@ -142,10 +139,8 @@ rtmp://31.220.2.53/pull playpath=futbolsala?keys=5U6rLsKDdkGo1qBYF0ZZmw&keyt=144
 rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ DEPORTES 2
 rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", USA PAC-12 HD SPORT1
@@ -156,7 +151,6 @@ http://xrxs.net/video/live-p12losa-2328.m3u8
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BTN U SPORT
 rtmp://192.252.216.242/app/newpigss-channel
-
 #EXTINF:-1 ,[COLOR yellow]» »NUEVOS« «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR red]New [/COLOR]Dragon Ball Z (Sayda)
@@ -187,9 +181,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1, Pura salsa RADIO
 http://streaming.radionomy.com/100-purasalsa
-
-
-
 #EXTINF:-1,AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,Tlenovelas
@@ -416,9 +407,7 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
-
-#EXTINF:-1,FOX
+#EXTINF:-1,FOX acaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,FOX1
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -656,39 +645,30 @@ http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1,CANAL5 HD
 http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas  Mexico
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas 640
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Canal De Las Estrellas HD 1048
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 7 Mexico
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 7 (Mexico Deportes)
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 7 Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 13 (Mexico Deportes)
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca Noticias HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Foro TV MExico
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Telemar Mexico T-K
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Telemax Mexico T-K
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]TDT Tlaxcala T-K
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Quince TV Zacatecas México T-K
@@ -699,7 +679,6 @@ http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u
 http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]TV Independencia Hidalgo México T-K
 http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Unimas Telemundo T-K
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]MULTIMEDIOS TV T-K
@@ -726,10 +705,8 @@ http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]OnceTV HD
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-
 #EXTINF:-1,UNE TV Manizales T-K
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-
 #EXTINF:-1,Kiss tv T-K (musica)
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,A-ONE T-K  (Musica)
@@ -746,7 +723,6 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 http://media3.crtvg.es/live/tvga/sota.m3u8
 #EXTINF:-1,ATV + T-K (NOTICIAS)
 rtmp://d91.iblups.com/atvmas playpath=hseZYl4d9H swfUrl=http://atv.iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3Datvmas&autostart=true live=1 pageUrl=http://atv.iblups.com/atvmas.php?w=630&h=360
-
 #EXTINF:-1,Telecafe T-K (COLOMBIA)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1,TELEANTIOQUIA HD T-K (COLOMBIA)
@@ -779,7 +755,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1,Antena 3 T-K (Españ)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
-
 #EXTINF:1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:1,Peliculas HD
@@ -830,8 +805,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 EXTINF:-1,VMas+
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-
 #EXTINF:-1,27 TV - Costa Rica
 http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
 #EXTINF:-1,Canal 6 - Costa Rica
@@ -854,7 +827,6 @@ rtmp://199.217.118.90:1935/smotv/stream
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1,XPERTS 33 TV - Costa Rica
 rtmp://k3.usastreams.com:1935/tv33/tv33
-
 #EXTINF:-1,TV MIAMI LIFE ESPAÑA
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1,CANAL 2 CR
@@ -887,10 +859,8 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
 #EXTINF:-1,CONDAVISION
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
-
 #EXTINF:-1,RPC Panamá
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-
 #EXTINF:0,Telesistema HD - Honduras
 http://162.212.176.83:8080/telesistema.stream.m3u8
 #EXTINF:0,canal 5 HD - Honduras
@@ -917,8 +887,6 @@ http://162.212.176.83:8080/teleprogreso.m3u8
 http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:-1,CANAL 13 - Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-
-
 #EXTINF:1,Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Canal 12 Cordoba - Argentina
@@ -929,8 +897,6 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0,C5N - Argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
-
-
 #EXTINF:-1,RBC Canal 11 - Perú
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
 #EXTINF:0,Willax - Perú
@@ -941,20 +907,16 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:1,TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-
-
 #EXTINF:-1,CTNL - Puerto Rico
 rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
 #EXTINF:-1,WAPA - Puerto Rico
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
-
 #EXTINF:-1,Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
 #EXTINF:-1,Capital TV - Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
 #EXTINF:-1,UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-
 #EXTINF:-1 ,Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1,Antena Latina - República Dominicana
@@ -977,7 +939,6 @@ http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 #EXTINF:-1,Canal Once Punta del Este - Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", 13 TV - España (Emisión Web)
@@ -1012,7 +973,6 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", MEGA  Iindex 2
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Telecinco
 rtmp://31.220.0.139/pull/telecincoin?keys=PVIVrGKFxbvBF7lXVXsR7w&keyt=1443471107 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", TELECINCO
@@ -1083,10 +1043,6 @@ rtmp://31.220.0.12/pull/nick78?keys=01pCIusovf5l00beGT6-Jw&keyt=1443276167 swfUr
 rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ LIGA mmmm
 rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-
- 
- 
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Fox Sports Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN Latinoamerica
@@ -1113,5 +1069,3 @@ http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Teletica 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-
-
