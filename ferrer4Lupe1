@@ -70,17 +70,17 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=o
 #EXTINF:-1,[COLOR red]LUPE [/COLOR]Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
 
-#EXTINF:-1,group-title="DEPORTES",FOX SPORTS.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS.   
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1,group-title="DEPORTES",FOX SPORTS 2.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS 2.
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]ESPN HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN HD.
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]ESPN.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN.
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]ESPN2.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN2.
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR]ESPN3.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]UFC brasil
