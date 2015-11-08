@@ -37,11 +37,10 @@ plugin://plugin.video.youtube/play/?video_id=aTE2VvPYHBI
 #EXTINF:-1,[COLOR green]ferrer [/COLOR]La Bestia y Bella (creditos Elenilson Ferrer)
 plugin://plugin.video.youtube/play/?video_id=kHvxVyHC_0g
 
-#EXTINF:-1,[COLOR green]ferrer [/COLOR]la boca del lobo (creditos Elenilson Ferrer)
-plugin://plugin.video.youtube/play/?list=PL9Xm8EeL7Iejwqs9XHSXye6u44c1cMAwg
-
-#EXTINF:-1,[COLOR green]ferrer [/COLOR]La Boca del lobo opcion2 (creditos Elenilson Ferrer)
-plugin://plugin.video.youtube/play/?video_id=PL9Xm8EeL7Iejwqs9XHSXye6u44c1cMAwg
+#EXTINF:-1,[COLOR green]ferrer [/COLOR]la boca del lobo listado(creditos Elenilson Ferrer)
+plugin://plugin.video.youtube/playlist/PL9Xm8EeL7Iejwqs9XHSXye6u44c1cMAwg/
+#EXTINF:-1,[COLOR green]ferrer [/COLOR]La Boca del lobo opcion2 playlist (creditos Elenilson Ferrer)
+plugin://plugin.video.youtube/play/?playlist_id=PL9Xm8EeL7Iejwqs9XHSXye6u44c1cMAwg
 
 #EXTINF:-1,[COLOR red] peliculas stream.to[/COLOR][COLOR green] peliculas stream.to[/COLOR]
 http://00.0.0.
