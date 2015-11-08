@@ -82,12 +82,11 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",UFC brasil
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",COMBATE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", COMBATE
 http://bit.ly:80/IPTVGlobal-combate?live.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",Canal 4 Nicaragua
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", 6 Costa Rica
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
