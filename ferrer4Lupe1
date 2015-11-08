@@ -155,32 +155,40 @@ rtmp://192.252.216.242/app/newpigss-channel
 http://0.0.0.0:1234
 #EXTINF:-1,[COLOR red]New [/COLOR]Dragon Ball Z (Sayda)
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
-#EXTINF:-1,[COLOR red]New [/COLOR]Anime en Español(Sayda)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Anime en Español(Sayda)
 http://q.gs/9830047/animeespaoltodokodim3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Animetv en Español(Sayda)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv en Español(Sayda)
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Animetv Suth Park (Sayda)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Animetv Suth Park (Sayda)
 http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Universa Estudio borrar
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Películasycine borrar
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Películasycine borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF :-1, group-title="NUEVOS",[COLOR red]New [/COLOR]DUCHEWELL
 http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
-#EXTINF:-1,[COLOR red]New [/COLOR]CDN 37 Republica Dominicana
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", CDN 37 Republica Dominicana
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]CDN-SportsMax
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", CDN-SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Tele Sur
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Tele Sur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]Telemundo (Opcion 3)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]CanaldelasEstrellas
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", CanaldelasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,[COLOR red]New [/COLOR]CanadelasestrellasHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", CanadelasestrellasHD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1, Pura salsa RADIO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Pura salsa RADIO
 http://streaming.radionomy.com/100-purasalsa
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Peliculas HD
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Telemundo Internacional
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", TV MIAMI LIFE ESPAÑA
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", Tlenovelas
@@ -645,7 +653,6 @@ http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", CANAL5 HD
 http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal De Las Estrellas  Mexico
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICO", Canal De Las Estrellas 640
@@ -794,7 +801,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COLOMBIA",VMas+
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HONDURAS", Telesistema HD - Honduras
 http://162.212.176.83:8080/telesistema.stream.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HONDURAS", canal 5 HD - Honduras
@@ -819,7 +825,6 @@ http://162.212.176.83:8080/teleceiba.m3u8
 http://162.212.176.83:8080/teleprogreso.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HONDURAS", Sulavision - Honduras
 http://162.212.176.83:8080/sulavision.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", 27 TV - Costa Rica
 http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", Canal 6 - Costa Rica
@@ -866,7 +871,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 http://k3.usastreams.com:1935/tvsur1/tvsur1/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="COSTARICA", CONDAVISION
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CENTROAMERICA", CANAL 33 EL SALVADOR
 http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CENTROAMERICA", CANAL 23 TVO EL SALVADOR
@@ -877,7 +881,6 @@ http://xesmitvonlinex.api.channel.livestream.com/3.0/playlist.m3u8
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="CENTROAMERICA", CANAL 13 - Nicaragua
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="R.DOMINICANA",  Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="R.DOMINICANA", Antena Latina - República Dominicana
@@ -898,54 +901,39 @@ http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
 http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="R.DOMINICANA", MUSA TV - República Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-
-
-
-
-
-#EXTINF:1,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:1,Peliculas HD
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:1,Telemundo Internacional
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,TV MIAMI LIFE ESPAÑA
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-
-#EXTINF:-1,TVN Chile HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", TVN Chile HD
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/master.m3u8
-#EXTINF:1,Vivra - Argentina
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Vivra - Argentina
 http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Canal 12 Cordoba - Argentina
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 12 Cordoba - Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
-#EXTINF:1,Canal 26 HD - Argentina
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal 26 HD - Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0,Q Musica - Argentina
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Q Musica - Argentina
 mms://streamqm.uigc.net/qmusica
-#EXTINF:0,C5N - Argentina
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA", CN5
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,RBC Canal 11 - Perú
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", RBC Canal 11 - Perú
 rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
-#EXTINF:0,Willax - Perú
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA",Willax - Perú
 rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
-#EXTINF:0,América TV - Perú
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="SURAMERICA", América TV - Perú
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:1,TVN - Chile
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA",TVN - Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:1,TV Chile
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1,CTNL - Puerto Rico
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", CTNL - Puerto Rico
 rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
-#EXTINF:-1,WAPA - Puerto Rico
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", WAPA - Puerto Rico
 rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
-#EXTINF:-1,Sol TV - Perú
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Sol TV - Perú
 rtmp://live.soltvperu.com/soltv/soltv
-#EXTINF:-1,Capital TV - Perú
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Capital TV - Perú
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
-#EXTINF:-1,UCV Satelital - Perú
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-
-#EXTINF:-1,Canal Once Punta del Este - Uruguay
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="SURAMERICA", Canal Once Punta del Este - Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
