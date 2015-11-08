@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", UNIVISION opcion 3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", UNIVISION opcion 3
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 4)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Telemundo (Opcion 4)
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]UNIMAS (Opcion 1)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", UNIMAS (Opcion 1)
 http://iphone-streaming.ustream.tv/ustreamVideo/21428867/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]MUNNDO MAX
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE",MUNNDO MAX
 rtmp://107.181.182.162/app/ana69s-channel
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR] MIAMI TV
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", MIAMI TV
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w1311550709_b1550000.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE[/COLOR] MIAMI TV 1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", MIAMI TV 1
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR] CNN USA INGLES
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", CNN USA INGLES
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]CanaldelasEstrellas
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", CanaldelasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]azteca 7a
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR],AZTECA 7.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", AZTECA 7.
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Azteca 7 57
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Azteca 7 57
 http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]azteca 13 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR],Tlenovelas
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Tlenovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]CANAL 5 HD.
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
