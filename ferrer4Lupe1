@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", UNIVISION opcion 3
@@ -29,45 +28,45 @@ http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332/1499-20150816T153535.
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Tlenovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]CANAL 5 HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE",CANAL 5 HD.
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR],DE PELICULA HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE",,DE PELICULA HD.
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",NICK.
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",NICK HD.
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",NICK.
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]CARTOON NETWORK.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",CARTOON NETWORK.
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]DISNEY XD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",DISNEY XD.
 http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]BOOMERANG.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",BOOMERANG.
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]TIIN.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",TIIN.
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]TOONCAST.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",TOONCAST.
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]CBEEBIES.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",CBEEBIES.
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK TOONS.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",NICK TOONS.
 http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",NICK.
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR],DISCOVERY KIDS.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",,DISCOVERY KIDS.
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]DISNEY JR.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",DISNEY JR.
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]NICK JR.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",NICK JR.
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]BRYAN [/COLOR]DISNEY CHANNEL.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN",DISNEY CHANNEL.
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]La sexta Castalba
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]Antena 3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR red]LUPE [/COLOR]Universa Estudio borrar
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS.   
@@ -92,68 +91,69 @@ http://72.46.226.61/live01/canal41/playlist.m3u8
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]TVN Chile
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]tvn chile opt 2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",tvn chile opt 2
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]azteca 7a
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]azteca 7 mexico
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", azteca 7 mexico
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]azteca 7HD X NAVI
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", azteca 7HD X NAVI
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]azteca 13 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]TN Argentina BUENOOOO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Hondured Canal 13
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]DEPORTES XD ustream
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", DEPORTES XD ustream
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Guate en Vivo
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein castalba eng
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein castalba Español
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]La sexta Castalba
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Antena 3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Antena 3 index2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Antena 3 index2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-0,bein ñ Latino SD
+
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein ñ Latino SD
 http://q.gs/11042797/whasa-604270509-iptv1-m3u8
-#EXTINF:-0,bein ñ Latino HD
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein ñ Latino HD
 http://q.gs/11042797/whasa-604270509-iptv2-m3u8
-#EXTINF:-0,Bein ñ 720 Espana 
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", Bein ñ 720 Espana 
 rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,LA 1 ( LA LIGA)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", LA 1 ( LA LIGA)
 rtmp://31.220.0.196/pull/laprimera6?keys=uUs_REKMuSneTrx_IQFpIA&keyt=1443470984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ LIGA
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ LIGA
 rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ LIGA 2
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ LIGA 2
 rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ FUTBOL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ FUTBOL
 rtmp://31.220.2.53/pull playpath=futbolsala?keys=5U6rLsKDdkGo1qBYF0ZZmw&keyt=1444987977 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1,C+ DEPORTE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ DEPORTE
 rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ DEPORTES 2
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ DEPORTES 2
 rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]AmericaTV peru 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]EUROSPORT
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]USA PAC-12 HD SPORT1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", USA PAC-12 HD SPORT1
 http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]USA PAC-12 HD SPORT2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", USA PAC-12 HD SPORT2
 http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]USA PAC-12 HD SPORT3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", USA PAC-12 HD SPORT3
 http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]BTN U SPORT
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BTN U SPORT
 rtmp://192.252.216.242/app/newpigss-channel
 
 #EXTINF:-1 ,[COLOR yellow]» »NUEVOS« «[/COLOR]
@@ -975,143 +975,142 @@ http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 #EXTINF:-1,MUSA TV - República Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
 #EXTINF:-1,Canal Once Punta del Este - Uruguay
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 
-
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Galicia - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]13 TV - España (Emisión Web)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", 13 TV - España (Emisión Web)
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 #EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Canal 24 Horas - España
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Canal 10 - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal 10 - España
 rtmp://87.106.220.67/live/myStream_2
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Canal Costa - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Canal Costa - España
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
 #EXTINF:-1,[COLOR greeen]ESPAÑA  [/COLOR]Euronews - España
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Granada 7 TV - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Granada 7 TV - España
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
 #EXTINF:-1,[COLOR green] ESPAÑA  [/COLOR]Huelva TV - España
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Huesca TV - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Huesca TV - España
 rtmp://streaming2.radiohuesca.com/live/huescatv
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Información TV - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Información TV - España
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Kiss TV - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1,[COLOR green]ESPAÑA  [/COLOR]Travel TV - España
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Travel TV - España
 rtmp://87.106.219.140/live/myStream_2
 #EXTINF:-1,group-title=“ESPAÑA”, [COLOR green]ESPAÑA  [/COLOR]Antena Latina Canal 7 T-K
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]LA sexta (ESPAÑA) T-K
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", LA sexta (ESPAÑA) T-K
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]Tve 24h HD T-K
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Tve 24h HD T-K
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]Antena 3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,[COLOR red]ESPAÑA  [/COLOR]MEGA  Iindex 2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ESPAÑA", MEGA  Iindex 2
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_2_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Telecinco
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Telecinco
 rtmp://31.220.0.139/pull/telecincoin?keys=PVIVrGKFxbvBF7lXVXsR7w&keyt=1443471107 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,TELECINCO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", TELECINCO
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1,C+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+
 rtmp://31.220.0.60/pull playpath=canaplu1?keys=T-4YPN4_pfFeyQiT9M7E9A&keyt=1445309152 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1,C+ XTRA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ XTRA
 rtmp://31.220.0.82/pull playpath=xxtras?keys=rXuO2-EECsp3tDIcoep2Hg&keyt=1446595126 swfUrl=http://files.leton.tv/jwplayer.flash.swf
-#EXTINF:-1,C+ Estrenos
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ Estrenos
 rtmp://31.220.2.57/pull/estrenos258?keys=lw1SchAIVqWfWLYRDCGFeg&keyt=1443749048 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ DCine
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ DCine
 rtmp://31.220.0.194/pull/159dcine?keys=VSyEFKByNYpANXptg0bn0g&keyt=1443270924 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ Accion
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ Accion
 rtmp://31.220.0.204/pull/accpls?keys=OwGk5mEbLJujLJKZ3L2MFA&keyt=1443277151 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ Comedia
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ Comedia
 rtmp://31.220.0.82/pull/comed236?keys=J114g05QrtZkGXgzhu-ivQ&keyt=1443277086 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,C+ Series Xtra
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ Series Xtra
 rtmp://31.220.0.72/pull/seriesxtra76?keys=wpz2tJqtWKHWfQEQfbJRlA&keyt=1443273424 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,DCine Espanol
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", DCine Espanol
 rtmp://31.220.0.196/pull/dcinees?keys=yYInylptb2_w3ouIcIa-9g&keyt=1443272274 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Sundance Channel
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Sundance Channel
 rtmp://31.220.2.54/pull/sundance14?keys=7U98UyIDZdzNCQweSaxpXA&keyt=1443272364 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Fox
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Fox
 rtmp://31.220.2.56/pull/fox623?keys=U3YU2tmRp5UhkSvfZSF9Hg&keyt=1443273510 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Fox life
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Fox life
 rtmp://31.220.40.62/pull/foxlife20?keys=rZNiLcEkz_-1I0HJZYJMmg&keyt=1443273561 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0, AXN White
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA",  AXN White
 rtmp://31.220.0.60/pull/axnw6?keys=cbXbK3jEJP_74qx2gGg3vw&keyt=1443273711 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0, SYFY
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA",  SYFY
 rtmp://149.255.39.10/pull/syfy258?keys=t_Hjn7PrSaEcPjO7dxidCQ&keyt=1443273841 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Cosmopolitan
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Cosmopolitan
 rtmp://31.220.2.52/pull/cosmo78?keys=niyqfA0AExZVgLjSJimarQ&keyt=1443273904 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Calle 13
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Calle 13
 rtmp://31.220.40.61/pull/calle1396?keys=cgvGsfBRjWIWG4Iktvh8IA&keyt=1443276951 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Paramount Comedy
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Paramount Comedy
 rtmp://31.220.0.12/pull/comedycentral3?keys=2P0dnLcUj7m1duZheJEdsA&keyt=1443273949 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,MTV ESPANA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", MTV ESPANA
 rtmp://31.220.40.41/pull/mtv125?keys=xO5xPN5EXp6PIG7HiobYHA&keyt=1443274118 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Discovery Channel (f1)
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Discovery Channel (f1)
 rtmp://31.220.0.72/pull/discovery1?keys=UpzcvgzQkK4hKxE2bG4hpg&keyt=1443276407 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/ 
-#EXTINF:-1,Discovery Channel  (f1)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Discovery Channel  (f1)
 rtmp://31.220.40.61/pull playpath=discovery1?keys=3YWUhshwrnXGVg3VS54mXQ&keyt=1444728610 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/ 
-#EXTINF:-1,Nat Geographic
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Nat Geographic
 rtmp://31.220.2.56/pull/natgeo36?keys=hycHX2TkFjXvIkPin-OBfw&keyt=1443276529 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Nat Geo Wild
 rtmp://31.220.0.139/pull/natgeowilde?keys=q0_Lrhaw2emq11zj0BEl9A&keyt=1443276608 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/ 
-#EXTINF:-1,Historia
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Historia
 rtmp://31.220.40.59/pull/historia45?keys=R5pF6_3vyWNC4NjQnEgCaQ&keyt=1443276633 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Viajar
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Viajar
 rtmp://31.220.0.139/pull/viajando?keys=SgJ1fhTw4OCiIakrc2P4ZQ&keyt=1443276660 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,IBERALIA HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", IBERALIA HD
 rtmp://31.220.2.53/pull/iberalias?keys=hv7wHG2MMNq2OII1R2UKhw&keyt=1443276773 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1,CAZA Y PESCA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", CAZA Y PESCA
 rtmp://31.220.40.62/pull/iberalias?keys=0_JhiusUyr5k9omnOAPRog&keyt=1443470275 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Discovery Max
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Discovery Max
 rtmp://31.220.2.54/pull/discomax7?keys=erDZHTkdpzYnFV9lp1KFxA&keyt=1443470397 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,AyE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", AyE
 rtmp://31.220.2.52/pull/aanden?keys=uV6rXMEYI50WiTP7-eq0oQ&keyt=1443470586 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Crimen y Investigacion
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Crimen y Investigacion
 rtmp://31.220.2.56/pull/ci5?keys=iqdmtsVCDkx2ktP7IqpKCA&keyt=1443470653 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-1,Sol Musica
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Sol Musica
 rtmp://31.220.0.134/pull/solmusica7?keys=Myv6FEw6MpuMX9VNf7hFXg&keyt=1443472240 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1pageUrl=http://leton.tv/
-#EXTINF:-0,Disney Junior
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Disney Junior
 rtmp://93.174.93.68/pull/disneyju78?keys=-hIlPXhYVNsxSAoAuksl7g&keyt=1443276089 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Nickelodeon
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Nickelodeon
 rtmp://31.220.0.12/pull/nick78?keys=01pCIusovf5l00beGT6-Jw&keyt=1443276167 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,Canal Panda
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", Canal Panda
 rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0,C+ LIGA mmmm
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="CABLE ESPAÑA", C+ LIGA mmmm
 rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
  
  
 
-#EXTINF:-1,[COLOR yellow]Fox Sports Latinoamerica[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Fox Sports Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]ESPN Latinoamerica[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]ESPN 2 Latinoamerica[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN 2 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]ESPN 3 Latinoamerica[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN 3 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]BeinSports en Español[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BeinSports en Español
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]BeinSports USA[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]NFL Network[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]De Película[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", De Película
 http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Canal Sony[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Canal Sony[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Canal 5 de México (XHGC)[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Canal 5 de México (XHGC)[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Azteca 7[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Azteca 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Canal Azteca 13 (México)[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Canal Azteca 13 (México)[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Canal De Las Estrellas[/COLOR]
-#EXTINF:-1,[COLOR yellow]Teletica 7[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Teletica 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
 
 
