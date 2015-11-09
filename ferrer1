@@ -4,13 +4,13 @@
 <sportsdevil>http://www.actiweb.es/ferrertv/canal4.html</sportsdevil>
 <referer>http://www.actiweb.es/ferrertv/</referer>
 </item>
-<item>
+***item>
 <title>[COLOR orange]BEIN Ñ LECTOUR 21 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=21</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=21</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]BEIN FRANCIA FERRER PRINCIPAL[/COLOR]</title>
 <sportsdevil>http://www.dinozap.info/?id=116</sportsdevil>
 <referer>http://www.actiweb.es/ferrertv/</referer>
@@ -39,19 +39,19 @@
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=8</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=8</referer>
 </item>
-<item>
+**item>
 <title>[COLOR orange]BEIN 1HD ITALIA [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=12</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=8</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]BEIN 1HD ITALIA45 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=45</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=45</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]CANAL + LIGA 23 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=23</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=23</referer>
@@ -63,93 +63,91 @@
 <referer>http://www.foot-live.info/lecteur.php?id=24</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]EUROSPORT 25 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=25</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=25</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]EUROSPORT 48 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=48</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=48</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]EUROSPORT2 33 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=33</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=33</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]EUROSPORT2 49 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=49</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=49</referer>
 </item>
 
 <item>
-<title>[COLOR orange]EUROSPORT2 70 [/COLOR]</title>
+<title>[COLOR orange]EUROSPORT2 70 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=70</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=70</referer>
 </item>
 
 <item>
-<title>[COLOR orange]BT SPORT EUROPA 69[/COLOR]</title>
+<title>[COLOR orange]BT SPORT EUROPA 69 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=69</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=69</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]BT SPORT1 52[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=52</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=52</referer>
 </item>
 
 <item>
-<title>[COLOR orange]BT SPORT1 66[/COLOR]</title>
+<title>[COLOR orange]BT SPORT1 66 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=66</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=66</referer>
 </item>
 
 <item>
-<title>[COLOR orange]FFUT 59[/COLOR]</title>
+<title>[COLOR orange]FFUT 59 24/7 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=59</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=59</referer>
 </item>
 
 <item>
-<title>[COLOR orange]SKY1 61[/COLOR]</title>
+<title>[COLOR orange]SKY1 61 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=61</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=61</referer>
 </item>
 
 <item>
-<title>[COLOR orange]SKY2 62[/COLOR]</title>
+<title>[COLOR orange]SKY2 62 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=62</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=62</referer>
 </item>
 
 <item>
-<title>[COLOR orange]SKY3 63[/COLOR]</title>
+<title>[COLOR orange]SKY3 63 24/7 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=63</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=63</referer>
 </item>
 
 <item>
-<title>[COLOR orange]SKY4 64[/COLOR]</title>
+<title>[COLOR orange]SKY4 64 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=64</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=64</referer>
 </item>
 
 <item>
-<title>[COLOR orange]SKY CALCIO 68[/COLOR]</title>
+<title>[COLOR orange]SKY CALCIO 68 24/7[/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=68</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=68</referer>
 </item>
 
-
-
-<item>
+**item>
 <title>[COLOR orange]FUTBOL  42 [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=42</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=42</referer>
@@ -191,29 +189,29 @@
 </item>
 
 <item>
-<title>[COLOR orange]UNIVISION TDN[/COLOR]</title>
+<title>[COLOR orange]UNIVISION TDN 24/7 ojo[/COLOR]</title>
 <sportsdevil>http://www.latinocanaleshd.com/2014/03/univision.html</sportsdevil>
 <referer>http://www.latinocanaleshd.com/2014/03/univision.html</referer>
 </item>
 
-<item>
+**item>
 <title>[COLOR orange]UNI DEPORTES TDN[/COLOR]</title>
 <sportsdevil>http://www.latinocanaleshd.com/2015/01/Uni-deportes.html</sportsdevil>
 <referer>http://www.latinocanaleshd.com/2015/01/Uni-deportes.html</referer>
 </item>
 
 <item>
-<title>[COLOR yellow]ZonaSport 2 item FOX[/COLOR]</title>
+<title>[COLOR yellow]ZonaSport 2 item FOX CHAMPIONS[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-2.php</sportsdevil>
 <referer>https://streamup.com/</referer>
 </item>
 <item>
-<title>[COLOR yellow]ZonaSport 3 item  [/COLOR]</title>
+<title>[COLOR yellow]ZonaSport 3 item  CHAMPIONS[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-3.php</sportsdevil>
 <referer>https://streamup.com/</referer>
 </item>
 <item>
-<title>[COLOR yellow]ZonaSport 4 BEIN SPORT Ñ[/COLOR]</title>
+<title>[COLOR yellow]ZonaSport 4 BEINSPORT Ñ CHAMPIONS [/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-4.php</sportsdevil>
 <referer>http://zonasports.in/</referer>
 </item>
@@ -229,12 +227,12 @@
 </item>
 
 <item>
-<title>[COLOR yellow]ZonaSport 7 U TDN EZCAST[/COLOR]</title>
+<title>[COLOR yellow]ZonaSport 7 U TDN CHAMPIONS[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-7.php</sportsdevil>
 <referer>http://zonasports.in/</referer>
 </item>
 <item>
-<title>[COLOR yellow]ZonaSport 8 BEIN ESPAÑOL EZCAST[/COLOR]</title>
+<title>[COLOR yellow]ZonaSport 8 BEIN ESPAÑOL CHAMPIONS[/COLOR]</title>
 <sportsdevil>http://zonasports.in/canal-8.php</sportsdevil>
 <referer>http://zonasports.in/</referer>
 </item>
