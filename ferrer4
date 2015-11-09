@@ -1134,7 +1134,3 @@ rtmp://89.248.162.148/live playpath=bcskys4 swfUrl=http://www.yocast.tv/myplayer
 rtmp://80.82.78.29/live playpath=bcskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf pageUrl=http://www.yocast.tv/embed.php?live=bcskys5&vw=650&vh=470
 #EXTINF:-1, tvg-logo="SkySportsF1.png",Sky Sports F1
 rtmp://149.202.75.55:80/live playpath=f1new swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.yotv.co/embed.php?live=f1new&vw=620&vh=490
-#EXTINF:-1, tvg-logo="SkySportsF1.png",dinozap prueba
-rtmp://185.39.11.10:1735/vod/?token=play@144708212904388 playpath=tvb118 swfUrl=http://www.hdmytv.com/jwplayer5/addplayer/jwplayer.flash.swf live=1 pageUrl=http://www.dinozap.info/redirect/embedredi.php 
-#EXTINF:-1, tvg-logo="SkySportsF1.png",dinozap prueba2
-http://www.dinozap.info/redirect/channel.php?id=121&width=640&height=390&autostart=true
