@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", AAA BRUCE LEE OPERACION DRAGON 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", BRUCE LEE OPERACION DRAGON 
 http://vk.com/video_ext.php?oid=213767042&id=165739140&hash=ba9aaa51753f2980
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", EL PUÑO LEE OPERACION DRAGON 
+https://www.youtube.com/watch?v=RFTYfzwwlzE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", COMBATE FINAL
+https://www.youtube.com/watch?v=n3MJ6E1iAHs
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", EL JUEGO DE LA MUERTE
+https://www.youtube.com/watch?v=SiVLXnyVgoQ
