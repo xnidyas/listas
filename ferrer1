@@ -4,18 +4,16 @@
 <sportsdevil>http://www.actiweb.es/ferrertv/canal4.html</sportsdevil>
 <referer>http://www.actiweb.es/ferrertv/</referer>
 </item>
-***item>
-<title>[COLOR orange]BEIN Ñ LECTOUR 21 [/COLOR]</title>
-<sportsdevil>http://www.foot-live.info/lecteur.php?id=21</sportsdevil>
-<referer>http://www.foot-live.info/lecteur.php?id=21</referer>
+<item>
+<title>BEIN 1 FRANCIA</title>
+<sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
 </item>
-
-**item>
-<title>[COLOR orange]BEIN FRANCIA FERRER PRINCIPAL[/COLOR]</title>
-<sportsdevil>http://www.dinozap.info/?id=116</sportsdevil>
-<referer>http://www.actiweb.es/ferrertv/</referer>
+<item>
+<title>BEIN 2 FRANCIA</title>
+<sportsdevil>http://hdfree.tv/live/bein2fr.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
 </item>
-
 <item>
 <title>[COLOR orange]CANAL +SPORT [/COLOR]</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=6</sportsdevil>
@@ -322,22 +320,6 @@
 <sportsdevil>http://max-deportv.co.in/?canal=7</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
-**item>
-<title>Max-Deportes 8 Nbc universo letgo</title>
-<sportsdevil>http://max-deportv.co.in/?canal=8</sportsdevil>
-<referer>referer=http://www.letgo.tv/</referer>
-</item>
-**item>
-<title>Max-Deportes 10  Nbc universo NEW</title>
-<sportsdevil>http://max-deportv.co.in/?canal=10</sportsdevil>
-<referer>referer=http://max-deportv.co.in</referer>
-</item>
-
-**item>
-<title>Max-Deportes 29 Eventos TDN OK</title>
-<sportsdevil>http://max-deportv.co.in/?canal=29</sportsdevil>
-<referer>referer=http://www.Streamlive.to/</referer>
-</item>
 <item>
 title>Max-Deportes 30 CARACOL OK</title>
 <sportsdevil>http://max-deportv.co.in/?canal=30</sportsdevil>
@@ -522,9 +504,23 @@ title>Max-Deportes 30 CARACOL OK</title>
 <sportsdevil>http://hdfree.tv/live/bt2.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-
 <item>
-<title>NBC SPORT </title>
+<title>BT SPORT ESPN </title>
+<sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>EUROESPORT1</title>
+<sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>EUROESPORT2</title>
+<sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>NBC SPORT yeeeaaah baby</title>
 <sportsdevil>http://hdfree.tv/live/nbcsn.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
@@ -556,36 +552,7 @@ title>Max-Deportes 30 CARACOL OK</title>
 <sportsdevil>http://hdfree.tv/live/ss5.php</sportsdevil>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
-<item>
-<title>BT SPORT ESPN </title>
-<sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-<item>
-<title>BEIN 1 FRANCIA</title>
-<sportsdevil>http://hdfree.tv/live/bein1fr.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-<item>
-<title>BEIN 2 FRANCIA</title>
-<sportsdevil>http://hdfree.tv/live/bein2fr.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-<item>
-<title>EUROESPORT1</title>
-<sportsdevil>http://hdfree.tv/live/euro1.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-<item>
-<title>EUROESPORT2</title>
-<sportsdevil>http://hdfree.tv/live/euro2.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-<item>
-<title>ESPN USA</title>
-<sportsdevil>http://hdfree.tv/live/espnusa.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
+***************************************
 
 <item>
 <title>PREMIERE SPORT</title>
@@ -594,7 +561,7 @@ title>Max-Deportes 30 CARACOL OK</title>
 </item>
 
 <item>
-<title>ESPN SAAA X</title>
+<title>ESPN usa </title>
 <sportsdevil>http://cricfree.sx/update/espnusa.php</sportsdevil>
 <referer>referer=http://yotv.co/</referer>
 </item>
@@ -641,104 +608,4 @@ title>Max-Deportes 30 CARACOL OK</title>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
-<item>
-<title>BEIN SPORT ITALIA LENTTO</title>
-<sportsdevil>http://cricfree.sx/update/sky3ita.php</sportsdevil>
-<referer>referer=http://www.yocast.tv/</referer>
-</item>
-
-
-<item>
-<title>FOX </title>
-<sportsdevil>http://teveonline.net/fox-en-vivo-por-internet/</sportsdevil>
-<referer>referer=http://www.streamify.tv/</referer>
-</item>
-
-<item>
-<title>DISCOVERY CHANEL </title>
-<sportsdevil>http://teveonline.net/discovery-channel-en-vivo-en-espanol/</sportsdevil>
-<referer>referer=http://www.streamify.tv/</referer>
-</item>
-
-<item>
-<title>CARTOON NET </title>
-<sportsdevil>http://teveonline.net/cartoon-network-en-vivo-online/</sportsdevil>
-<referer>referer=http://www.ezcast.tv/</referer>
-</item>
-<item>
-<title>NICKELODEON SUR </title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/nick-en-vivo-por-internet.html</sportsdevil>
-<referer>referer=http://www.ezcast.tv/</referer>
-</item>
-
-<item>
-<title>DISNEY CHANEL </title>
-<sportsdevil>http://teveonline.net/disney-channel-en-vivo-online/</sportsdevil>
-<referer>referer=http://www.mips.tv/</referer>
-</item>
-
-<item>
-<title>TNT </title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/tnt-latinoamerica-en-vivo.html</sportsdevil>
-<referer>referer=http://www.ezcast.tv/</referer>
-</item>
-
-
-<item>
-<title>ESPN TVXINTER </title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-en-vivo-por-internet.html</sportsdevil>
-<referer>referer=http://www.liveflash.tv/</referer>
-</item>
-
-<item>
-<title>ESPN SUR </title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/espn-latinoamerica-en-vivo.html</sportsdevil>
-<referer>referer=http://www.liveflash.tv/</referer>
-</item>
-
-<item>
-<title>FOX SPORT SUR </title>
-<sportsdevil>http://www.tv-porinternet.com/2013/03/fox-sports-en-vivo-por-internet.html</sportsdevil>
-<referer>referer=http://www.streamify.tv/</referer>
-</item>
-
-<item>
-<title>DIRECTV SUR</title>
-<sportsdevil>http://www.tv-porinternet.com/2014/07/directv-sports-en-vivo-por-internet.html</sportsdevil>
-<referer>referer=http://www.liveflash.tv/</referer>
-</item>
-
-<item>
-<title>WIN WIN WIN SPORT</title>
-<sportsdevil>http://latino-webtv.com/Win-Sport-en-vivo/</sportsdevil>
-<referer>referer=http://www.liveflash.tv/</referer>
-</item>
-
-<item>
-<title>[COLOR magenta]sky1 [/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/sky1.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
-<item>
-<title>[COLOR magenta]planeta[/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/planeta.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
-<item>
-<title>[COLOR magenta]Claro [/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/claro.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
-
-<item>
-<title>[COLOR magenta]espn [/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/espn.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
-
-<item>
-<title>[COLOR magenta]los monster [/COLOR]</title>
-<sportsdevil>http://tv.televallhd.com/los-monsters.html</sportsdevil>
-<referer>referer=http://tv.televallhd.com/</referer>
-</item>
 
