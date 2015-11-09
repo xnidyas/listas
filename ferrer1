@@ -193,6 +193,22 @@
 <sportsdevil>http://www.latinocanaleshd.com/2014/03/univision.html</sportsdevil>
 <referer>http://www.latinocanaleshd.com/2014/03/univision.html</referer>
 </item>
+<item>
+<title>[COLOR green]UNIVISION TDN TUTV[/COLOR]</title>
+<sportsdevil>http://canales.tutv-porinternet.com/unitdn.html</sportsdevil>
+<referer>referer=http://canales.tutv-porinternet.com/</referer>
+</item>
+<item>
+<title>univision TDN</title>
+<sportsdevil>http://www.ligatvlive.com/unitdn.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+<item>
+<title>TDN</title>
+<sportsdevil>http://www.ligatvlive.com/tdn.html</sportsdevil>
+<referer>referer=http://shidurlive.com</referer>
+</item>
+
 
 **item>
 <title>[COLOR orange]UNI DEPORTES TDN[/COLOR]</title>
@@ -237,13 +253,6 @@
 <referer>http://zonasports.in/</referer>
 </item>
 
-
-
-<item>
-<title>UNIVISION TDN TUTV</title>
-<sportsdevil>http://canales.tutv-porinternet.com/unitdn.html</sportsdevil>
-<referer>referer=http://canales.tutv-porinternet.com/</referer>
-</item>
 <item>
 <title>ESPN  TUTV</title>
 <sportsdevil>http://canales.tutv-porinternet.com/espn.html</sportsdevil>
@@ -261,7 +270,7 @@
 <referer>referer=http://canales.tutv-porinternet.com/</referer>
 </item>
 <item>
-<title>PLANETA2 FUT  TUTV</title>
+<title>PLANETA2 FUTbol (sky)  TUTV</title>
 <sportsdevil>http://www.futligatv.com/planeta2.html</sportsdevil>
 <referer>referer=http://canales.tutv-porinternet.com/</referer>
 </item>
@@ -273,192 +282,186 @@
 </item>
 
 
-<item>
+**item>
 <title>MAX DEPORTES2</title>
 <sportsdevil>http://max-deportv.co.in/?canal=2</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
-<item>
+**item>
 <title>MAX DEPORTES3</title>
 <sportsdevil>http://max-deportv.co.in/?canal=3</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>MAX DEPORTES4</title>
+<title>MAX DEPORTES4 DIRECTV</title>
 <sportsdevil>http://max-deportv.co.in/?canal=4</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>MAX DEPORTES 5a</title>
+<title>MAX DEPORTES5a ESPN+ </title>
 <sportsdevil>http://max-deportv.co.in/?canal=5a</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>MAX DEPORTES 5b</title>
+<title>MAX DEPORTES5b DIRECTV</title>
 <sportsdevil>http://max-deportv.co.in/?canal=5b</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>MAX DEPORTES5</title>
+<title>MAX DEPORTES5 FOX SPORT 3 </title>
 <sportsdevil>http://max-deportv.co.in/?canal=5</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
-<item>
+**item>
 <title>MAX DEPORTES 6</title>
 <sportsdevil>http://max-deportv.co.in/?canal=6</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
 <item>
-<title>MAX DEPORTES7</title>
+<title>MAX DEPORTES7 ESPN+ </title>
 <sportsdevil>http://max-deportv.co.in/?canal=7</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
-<item>
+**item>
 <title>Max-Deportes 8 Nbc universo letgo</title>
 <sportsdevil>http://max-deportv.co.in/?canal=8</sportsdevil>
 <referer>referer=http://www.letgo.tv/</referer>
 </item>
-<item>
+**item>
 <title>Max-Deportes 10  Nbc universo NEW</title>
 <sportsdevil>http://max-deportv.co.in/?canal=10</sportsdevil>
 <referer>referer=http://max-deportv.co.in</referer>
 </item>
 
-<item>
+**item>
 <title>Max-Deportes 29 Eventos TDN OK</title>
 <sportsdevil>http://max-deportv.co.in/?canal=29</sportsdevil>
 <referer>referer=http://www.Streamlive.to/</referer>
 </item>
 <item>
-<title>Max-Deportes 30 Eventos  U-TDN OK</title>
+title>Max-Deportes 30 CARACOL OK</title>
 <sportsdevil>http://max-deportv.co.in/?canal=30</sportsdevil>
 <referer>referer=http://www.Streamlive.to/</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL 30 NBC SPORT NEW</title>
+<title>PIRLOTV CANAL 30 NBC SPORT/ SKY</title>
 <sportsdevil>http://www.pirlotvlive.com/ch30.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL FOXSPORT NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/foxsports.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL BEINSPORT NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/bein.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL BEINSPORT NEW</title>
+<title>PIRLOTV CANAL BEINSPORT/LA LIGA</title>
 <sportsdevil>http://www.pirlotvlive.com/bein-Sports-Espana.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL2 BEIN NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-2.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL5 beinhd NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-5.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL10  NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-10.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL15 foxsporp3 ing  NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-15.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV CANAL15 foxsporp1 ing NEW</title>
 <sportsdevil>http://www.pirlotvlive.com/canal-16.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL21 la liga ing NEW</title>
+<title>CANAL21 la liga/TODO DEPORTE</title>
 <sportsdevil>http://www.pirlotvlive.com/ch21.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL24 la liga ing NEW</title>
+<title>CANAL24 la liga/BEIN</title>
 <sportsdevil>http://www.pirlotvlive.com/ch24.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL26 beinNEW</title>
+<title>CANAL26 beinNEW</title>
 <sportsdevil>http://www.pirlotvlive.com/ch26.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
 <item>
-<title>PIRLOTV CANAL27 BT SPORT NEW OK</title>
+<title>CANAL27 BT SPORT /SKY1</title>
 <sportsdevil>http://www.pirlotvlive.com/ch27.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
-<item>
-<title>PIRLOTV CANAL28 BEIN2HD FRANCIA NEW OK</title>
+**item>
+<title>CANAL28 BEIN2HD FRANCIA</title>
 <sportsdevil>http://www.pirlotvlive.com/ch28.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 <item>
-<title>PIRLOTV CANAL31 LALIGA NEW OK</title>
+<title>CANAL31 LALIGA/FOX NFL</title>
 <sportsdevil>http://www.pirlotvlive.com/ch31.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
-
-<item>
-<title>PIRLOTV CANAL33 BEIN DIRECTO NEW OK</title>
+**item>
+<title>CANAL33 BEIN DIRECTO</title>
 <sportsdevil>http://www.pirlotvlive.com/ch33.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
-<item>
-<title>PIRLOTV CANAL34 SKY5 NEW OK</title>
+**item>
+<title>CANAL34 SKY5 NEW OK</title>
 <sportsdevil>http://www.pirlotvlive.com/ch34.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV MEX1 TDN NEW OK</title>
 <sportsdevil>http://www.pirlotvlive.com/mex1.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
+**item>
 <title>PIRLOTV MEX3 TDN NEW OK</title>
 <sportsdevil>http://www.pirlotvlive.com/mex3.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
-<item>
+**item>
 <title>PIRLOTV MEX5 TDN NEW OK</title>
 <sportsdevil>http://www.pirlotvlive.com/mex5.php</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
 
-<item>
-<title>psntv59 VAUNLIVE</title>
-<sportsdevil>http://vaughnlive.tv/psntv59</sportsdevil>
-<referer>http://www.pirlotvlive.com</referer>
-</item>
 
 <item>
-<title>BRUJITA VAUNLIVE</title>
+<title>tyc BRUJITA VAUNLIVE</title>
 <sportsdevil>http://vaughnlive.tv/brujitadeprimera18</sportsdevil>
 <referer>http://www.pirlotvlive.com</referer>
 </item>
@@ -475,113 +478,38 @@
 <title>ANIMETV </title>
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link>
 </item>
-
-<item>
-<title>canal+Deportes RTM</title>
-<link>rtmp://31.220.0.72/pull/deportes1114?keys=eOAM0R7npl-HtfufLJIwNg&keyt=1441496210 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv
-</link>
-</item>	
-<item>
-<title>PARTIDAZOS PLUS  RTM</title>
-<link>rtmp://31.220.0.187/pull/ playpath=partidazo6352?keys=LRuznweXaQDRxYy4LpZ82A&keyt;=1440333673 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/player.php?streampage=partidazo6352&width;=600&height;=450
-</link>
-</item>	
-<item>
-<title>CANAL + FUTBOL RTM</title>
-<link>rtmp://149.255.39.10/pull/futbol932?keys=6rPSxWsO8KNh2XR9jvNWAQ&keyt=1441494538 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-</link>
-</item>	
-
-<item>
-<title>Canal plus!!!</title>
-<sportsdevil>http://verdirectotv.net/ver-canal-plus-online-y-gratis-las-24-horas-canal-plus-hd/</sportsdevil>
-<referer>referer=http://verdirectotv.net/</referer>
-</item>
 <item>
 <title>Canal + PARTIDAZO</title>
 <sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
 <referer>referer=http://cinestrenostv.tv/</referer>
 </item>
-< OCULTO
-<item>
-<title>Bein ñ sport</title>
-<sportsdevil>http://revolucionariostv.com/MultiTV/beinsports.php</sportsdevil>
-<referer>referer=http://revolucionariostv.com/</referer>
-</item>                  />
-
 
 <item>
-<title>ESPN CLARO SPORT SHIDURLE</title>
-<sportsdevil>http://www.ligatvlive.com/espn.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
-</item>
-
-<item>
-<title>ESPN LA LIVEFLASH</title>
+<title>ESPN2 LA *LIVEFLASH</title>
 <sportsdevil>http://www.ligatvlive.com/espnla.html</sportsdevil>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
 
 <item>
-<title>ESPN2 SUR LATINOAMERICA</title>
+<title>ESPN2 SUR  </title>
 <sportsdevil>http://www.ligatvlive.com/espn2la.html</sportsdevil>
 <referer>referer=http://www.liveflash.tv/</referer>
 </item>
 
 <item>
-<title>FOXSPORT LATINOAMERICA</title>
-<sportsdevil>http://www.ligatvlive.com/foxsportla.html</sportsdevil>
-<referer>referer=http://www.streamify.tv/</referer>
-</item>
-
-<item>
-<title>FOXSPORT 2 LATINOAMERICAN</title>
-<sportsdevil>http://www.ligatvlive.com/foxsport2la.html</sportsdevil>
-<referer>referer=http://www.liveflash.tv/</referer>
-</item>
-
-<item>
-<title>DIRECTV</title>
-<sportsdevil>http://www.ligatvlive.com/directv.html</sportsdevil>
-<referer>referer=http://www.liveflash.tv/</referer>
-</item>
-
-<item>
-<title>PLANETA FUTBO TDNL</title>
+<title>PLANETA FUTBOl/TDNL/nbc</title>
 <sportsdevil>http://www.ligatvlive.com/planeta.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
 
 <item>
-<title>SKY</title>
+<title>SKY ingles</title>
 <sportsdevil>http://www.ligatvlive.com/sky1.html</sportsdevil>
 <referer>referer=http://shidurlive.com</referer>
 </item>
 
-<item>
-<title>TDN</title>
-<sportsdevil>http://www.ligatvlive.com/tdn.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
-</item>
 
-<item>
-<title>univision TDN</title>
-<sportsdevil>http://www.ligatvlive.com/unitdn.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
-</item>
-
-
-<item>
-<title>BEIN Ñ SPORT SUR</title>
-<sportsdevil>http://www.boxlivetv.net/player.php?chname=Pirlobein2&amp;width=620&amp;height=400" frameborder="0" height="400" width="620"</sportsdevil>
-<referer>referer=http://www.boxlivetv.net/</referer>
-</item>
-
-<item>
-<title>azteca 7</title>
-<sportsdevil>http://www.ligatvlive.com/azteca.html</sportsdevil>
-<referer>referer=http://shidurlive.com</referer>
-</item>
+---------------------------------
 
 <item>
 <title>BT1</title>
