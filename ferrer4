@@ -109,10 +109,16 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]DEPORTES XD ustream
-http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Guate en Vivo
+#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]UNIVISION CHIVAS69 21490774
+http://iphone-streaming.ustream.tv/uhls/21490774/streams/live/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Te AMoGuatelinda
+http://iphone-streaming.ustream.tv/ustreamVideo/21485709/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]NICARAGA 13
+http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
+
+
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español
