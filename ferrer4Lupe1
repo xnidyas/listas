@@ -1065,169 +1065,169 @@ http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Teletica 7
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  A&E
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  A&E **
 http://get.iptv.oneplay.tv:8080/localts/5.ts 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  AMC
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  AMC **
 http://get.iptv.oneplay.tv:8080/localts/6.ts 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ANIMALPLANET
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ANIMALPLANET **
 http://get.iptv.oneplay.tv:8080/localts/7.ts 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  AXN
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  AXN **
 http://get.iptv.oneplay.tv:8080/localts/8.ts 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  VH1ONECLASSIC
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  VH1ONECLASSIC **
 http://get.iptv.oneplay.tv:8080/localts/9.ts 
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  BANDAMAX
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  BANDAMAX **
 http://get.iptv.oneplay.tv:8080/localts/10.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  BBC
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  BBC **
 http://get.iptv.oneplay.tv:8080/localts/11.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  BOOMERANG
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  BOOMERANG **
 http://get.iptv.oneplay.tv:8080/localts/12.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CANAL5
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CANAL5 **
 http://get.iptv.oneplay.tv:8080/localts/13.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CANAL2DELASESTRELLA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CANAL2DELASESTRELLA **
 http://get.iptv.oneplay.tv:8080/localts/14.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CARTOONNETWORK
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CARTOONNETWORK **
 http://get.iptv.oneplay.tv:8080/localts/15.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CBEEBIES
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CBEEBIES **
 http://get.iptv.oneplay.tv:8080/localts/17.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CINECANALPLUS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CINECANALPLUS **
 http://get.iptv.oneplay.tv:8080/localts/18.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CINECANAL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CINECANAL **
 http://get.iptv.oneplay.tv:8080/localts/19.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CINEMAX
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  CINEMAX **
 http://get.iptv.oneplay.tv:8080/localts/20.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  COMEDYCENTRAL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  COMEDYCENTRAL **
 http://get.iptv.oneplay.tv:8080/localts/21.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DEPELICULAHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DEPELICULAHD **
 http://get.iptv.oneplay.tv:8080/localts/22.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERY
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERY **
 http://get.iptv.oneplay.tv:8080/localts/23.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYCIVILIZACI
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYCIVILIZACI **
 http://get.iptv.oneplay.tv:8080/localts/24.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYKIDS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYKIDS **
 http://get.iptv.oneplay.tv:8080/localts/25.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYCIENCIA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYCIENCIA **
 http://get.iptv.oneplay.tv:8080/localts/26.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYTURBO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYTURBO **
 http://get.iptv.oneplay.tv:8080/localts/27.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYWORLDHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYWORLDHD **
 http://get.iptv.oneplay.tv:8080/localts/28.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISNEYCHANNEL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISNEYCHANNEL **
 http://get.iptv.oneplay.tv:8080/localts/29.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISNEYJUNIOR
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISNEYJUNIOR **
 http://get.iptv.oneplay.tv:8080/localts/30.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISNEYXD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISNEYXD **
 http://get.iptv.oneplay.tv:8080/localts/31.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISTRITOCOMEDIA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISTRITOCOMEDIA **
 http://get.iptv.oneplay.tv:8080/localts/32.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ELFINANCIERO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ELFINANCIERO **
 http://get.iptv.oneplay.tv:8080/localts/33.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ELGARAJE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ELGARAJE **
 http://get.iptv.oneplay.tv:8080/localts/34.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ELGOURMET
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ELGOURMET **
 http://get.iptv.oneplay.tv:8080/localts/35.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  E
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  E   **
 http://get.iptv.oneplay.tv:8080/localts/36.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN **
 http://get.iptv.oneplay.tv:8080/localts/37.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN2 **
 http://get.iptv.oneplay.tv:8080/localts/38.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN3 **
 http://get.iptv.oneplay.tv:8080/localts/39.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPNPLUS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPNPLUS **
 http://get.iptv.oneplay.tv:8080/localts/40.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOROTV
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOROTV **
 http://get.iptv.oneplay.tv:8080/localts/41.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXMOVIESHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXMOVIESHD **
 http://get.iptv.oneplay.tv:8080/localts/42.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXACTIONHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXACTIONHD **
 http://get.iptv.oneplay.tv:8080/localts/43.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXCLASSICS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXCLASSICS **
 http://get.iptv.oneplay.tv:8080/localts/45.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOX1HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOX1HD **
 http://get.iptv.oneplay.tv:8080/localts/47.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXLIFE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXLIFE **
 http://get.iptv.oneplay.tv:8080/localts/48.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXMOVIESHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXMOVIESHD **
 http://get.iptv.oneplay.tv:8080/localts/49.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXSPORTS2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXSPORTS2 **
 http://get.iptv.oneplay.tv:8080/localts/50.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXSPORTS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXSPORTS **
 http://get.iptv.oneplay.tv:8080/localts/51.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FX
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FX  **
 http://get.iptv.oneplay.tv:8080/localts/52.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  GOLDENHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  GOLDENHD **
 http://get.iptv.oneplay.tv:8080/localts/56.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  HISTORY
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  HISTORY **
 http://get.iptv.oneplay.tv:8080/localts/58.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOROTV
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOROTV **
 http://get.iptv.oneplay.tv:8080/localts/59.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYH&h
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYH&h **
 http://get.iptv.oneplay.tv:8080/localts/60.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYINVESTIGAC
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYINVESTIGAC **
 http://get.iptv.oneplay.tv:8080/localts/61.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYTLC
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  DISCOVERYTLC **
 http://get.iptv.oneplay.tv:8080/localts/62.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  LIFETIME
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  LIFETIME **
 http://get.iptv.oneplay.tv:8080/localts/63.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MILENIO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MILENIO **
 http://get.iptv.oneplay.tv:8080/localts/64.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MTV
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MTV **
 http://get.iptv.oneplay.tv:8080/localts/65.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MTVHITS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MTVHITS **
 http://get.iptv.oneplay.tv:8080/localts/66.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MTVLIVEHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MTVLIVEHD **
 http://get.iptv.oneplay.tv:8080/localts/67.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MULTIMEDIOSMTYHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  MULTIMEDIOSMTYHD **
 http://get.iptv.oneplay.tv:8080/localts/68.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NATGEOWILD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NATGEOWILD **
 http://get.iptv.oneplay.tv:8080/localts/69.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NATGEO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NATGEO **
 http://get.iptv.oneplay.tv:8080/localts/70.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NICKHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NICKHD **
 http://get.iptv.oneplay.tv:8080/localts/71.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NICKJR
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NICKJR **
 http://get.iptv.oneplay.tv:8080/localts/72.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NICKTOONS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  NICKTOONS **
 http://get.iptv.oneplay.tv:8080/localts/73.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  RITMOSON
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  RITMOSON **
 http://get.iptv.oneplay.tv:8080/localts/74.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  SPACE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  SPACE **
 http://get.iptv.oneplay.tv:8080/localts/76.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  STUDIOUNIVERSAL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  STUDIOUNIVERSAL **
 http://get.iptv.oneplay.tv:8080/localts/77.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  SYFY
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  SYFY **
 http://get.iptv.oneplay.tv:8080/localts/78.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TBSVERYFUNNY
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TBSVERYFUNNY **
 http://get.iptv.oneplay.tv:8080/localts/79.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TCM
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TCM **
 http://get.iptv.oneplay.tv:8080/localts/80.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TELEFORMULA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TELEFORMULA **
 http://get.iptv.oneplay.tv:8080/localts/81.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TELEHITHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TELEHITHD **
 http://get.iptv.oneplay.tv:8080/localts/82.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TIIN
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TIIN **
 http://get.iptv.oneplay.tv:8080/localts/84.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TELENOVELAS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TELENOVELAS **
 http://get.iptv.oneplay.tv:8080/localts/85.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TNT
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TNT **
 http://get.iptv.oneplay.tv:8080/localts/86.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TNTSERIES
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TNTSERIES **
 http://get.iptv.oneplay.tv:8080/localts/87.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TOONCAST
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TOONCAST **
 http://get.iptv.oneplay.tv:8080/localts/88.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TRUTVHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TRUTVHD **
 http://get.iptv.oneplay.tv:8080/localts/89.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TVE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  TVE **
 http://get.iptv.oneplay.tv:8080/localts/90.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  UNICABLE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  UNICABLE **
 http://get.iptv.oneplay.tv:8080/localts/91.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  UNIVERSALHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  UNIVERSALHD **
 http://get.iptv.oneplay.tv:8080/localts/92.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  UNOMASUNO
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  UNOMASUNO **
 http://get.iptv.oneplay.tv:8080/localts/93.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  VH1HD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  VH1HD **
 http://get.iptv.oneplay.tv:8080/localts/94.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  WARNERBROSHD
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  WARNERBROSHD **
 http://get.iptv.oneplay.tv:8080/localts/95.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  WOBI
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  WOBI **
 http://get.iptv.oneplay.tv:8080/localts/96.ts
