@@ -61,25 +61,26 @@ http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN", DISNEY CHANNEL.
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 5 HD.
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 5 HD.+
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", AZTECA 7.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", AZTECA 7.+
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Azteca 7 57
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Azteca 7 57+
 http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 +
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS.   
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS.+   
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS 2.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS 2.+
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN HD.+
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN.+
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN2.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN2.+
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN3.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN3.+
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", bein castalba eng
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
@@ -121,11 +122,11 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX 2 SPORTS
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7a
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7a++
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7 mexico
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7 mexico+
 http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",azteca 13 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",azteca 13+
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
