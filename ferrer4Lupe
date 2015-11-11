@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION opcion 3
+#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup1
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
+#EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup2
+rtmp://104.200.159.74/app/turbomax-hds-channel
+#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 21490774
+http://iphone-streaming.ustream.tv/uhls/21490774/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 4)
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup
+rtmp://104.200.159.50/app/telemundox1chivas_69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]UNIMAS (Opcion 1)
 http://iphone-streaming.ustream.tv/ustreamVideo/21428867/streams/live/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]MUNNDO MAX
@@ -109,10 +115,17 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]DEPORTES XD ustream
-http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Guate en Vivo
+#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]Te AMoGuatelinda
+http://iphone-streaming.ustream.tv/ustreamVideo/21485709/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]NICARAGA 13
+http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]AMERICA SPORT ARGENTINA
+http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]ANTIGUA SPORT GUATE
+http://iphone-streaming.ustream.tv/ustreamVideo/20670056/streams/live/playlist.m3u8
+
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español
@@ -187,9 +200,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1, Pura salsa RADIO
 http://streaming.radionomy.com/100-purasalsa
-
-
-
 #EXTINF:-1,AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,Tlenovelas
@@ -416,7 +426,6 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1,ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
 
 #EXTINF:-1,FOX
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
@@ -672,23 +681,18 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 7 Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca 13 (Mexico Deportes)
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Azteca Noticias HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Foro TV MExico
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Proyecto 40 Mexico
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Telemar Mexico T-K
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Telemax Mexico T-K
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]TDT Tlaxcala T-K
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8?
 #EXTINF:-1,[COLOR red]MEXICO [/COLOR]Quince TV Zacatecas México T-K
@@ -1084,9 +1088,6 @@ rtmp://31.220.0.12/pull/nick78?keys=01pCIusovf5l00beGT6-Jw&keyt=1443276167 swfUr
 rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-0,C+ LIGA mmmm
 rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
- 
- 
-
 #EXTINF:-1,[COLOR yellow]Fox Sports Latinoamerica[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]ESPN Latinoamerica[/COLOR]
@@ -1114,6 +1115,3 @@ http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Canal De Las Estrellas[/COLOR]
 #EXTINF:-1,[COLOR yellow]Teletica 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-
-
-
