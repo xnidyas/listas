@@ -21,15 +21,15 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", AZTECA 7.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", AZTECA 7.
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Azteca 7 57
 http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", azteca 13 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Tlenovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", CANAL 5 HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 5 HD.
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", DE PELICULA HD.
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
@@ -69,18 +69,65 @@ http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRYAN", DISNEY CHANNEL.
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS.   
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS.   
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", FOX SPORTS 2.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS 2.
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN HD.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN HD.
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN.
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN2.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN2.
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN3.
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", bein castalba eng
+http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", bein castalba Español
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3 index2
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="DEPORTES", bein ñ Latino SD
+http://q.gs/11042797/whasa-604270509-iptv1-m3u8
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="DEPORTES", bein ñ Latino HD
+http://q.gs/11042797/whasa-604270509-iptv2-m3u8
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="DEPORTES", Bein ñ 720 Espana 
+rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", LA 1 ( LA LIGA)
+rtmp://31.220.0.196/pull/laprimera6?keys=uUs_REKMuSneTrx_IQFpIA&keyt=1443470984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="DEPORTES", C+ LIGA
+rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="DEPORTES", C+ LIGA 2
+rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", C+ FUTBOL
+rtmp://31.220.2.53/pull playpath=futbolsala?keys=5U6rLsKDdkGo1qBYF0ZZmw&keyt=1444987977 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", C+ DEPORTE
+rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-0 tvg-logo="samplelogo.png" group-title="DEPORTES", C+ DEPORTES 2
+rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7a
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7 mexico
+http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", COMBATE
@@ -95,14 +142,6 @@ http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",tvn chile opt 2
 http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", azteca 7a
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", azteca 7 mexico
-http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", azteca 7HD X NAVI
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",azteca 13 
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", TN Argentina BUENOOOO
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Hondured Canal 13
@@ -111,34 +150,6 @@ rtmp://173.236.71.62/hondured/hrtv.sdp
 http://iphone-streaming.ustream.tv/uhls/21428867/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS",Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein castalba eng
-http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein castalba Español
-http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", La sexta Castalba
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Antena 3 index2
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein ñ Latino SD
-http://q.gs/11042797/whasa-604270509-iptv1-m3u8
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", bein ñ Latino HD
-http://q.gs/11042797/whasa-604270509-iptv2-m3u8
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", Bein ñ 720 Espana 
-rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", LA 1 ( LA LIGA)
-rtmp://31.220.0.196/pull/laprimera6?keys=uUs_REKMuSneTrx_IQFpIA&keyt=1443470984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ LIGA
-rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ LIGA 2
-rtmp://31.220.0.134/pull/liga258?keys=fcYcc1wKKoFf-1GwxzkD9w&keyt=1443747981 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ FUTBOL
-rtmp://31.220.2.53/pull playpath=futbolsala?keys=5U6rLsKDdkGo1qBYF0ZZmw&keyt=1444987977 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ DEPORTE
-rtmp://31.220.40.40/pull/deportes16?keys=9DemzM-fHBveK3_PFeYbuw&keyt=1443272732 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
-#EXTINF:-0 tvg-logo="samplelogo.png" group-title="HD SPORTS", C+ DEPORTES 2
-rtmp://31.220.40.61/pull/deportes26?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", AmericaTV peru 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", EUROSPORT
@@ -151,9 +162,7 @@ http://xrxs.net/video/live-p12losa-2328.m3u8
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BTN U SPORT
 rtmp://192.252.216.242/app/newpigss-channel
-#EXTINF:-1 ,[COLOR yellow]» »NUEVOS« «[/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[COLOR red]New [/COLOR]Dragon Ball Z (Sayda)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Dragon Ball Z (Sayda)
 rtmp://demo.iblups.com/demo playpath=buvRTQMUNQ swfUrl=http://iblups.com/playertvlive123456789.swf?autostart=true&config=configplayer%2Ephp%3Fid%3D8341 live=1 pageUrl=http://iblups.com/e_richenginner-570-330
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Anime en Español(Sayda)
 http://q.gs/9830047/animeespaoltodokodim3u8
@@ -165,7 +174,7 @@ http://iphone-streaming.ustream.tv/uhls/11064122/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", Películasycine borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF :-1, group-title="NUEVOS",[COLOR red]New [/COLOR]DUCHEWELL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS",DUCHEWELL
 http://dwschiene3-i.akamaihd.net/hls/live/221760/dwschiene3/x6x/playlist6x.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="NUEVOS", CDN 37 Republica Dominicana
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
@@ -1041,29 +1050,29 @@ rtmp://31.220.40.61/pull/panda51?keys=dfE8J-bE1Qyyr5tAHFJBmg&keyt=1443276254 swf
 rtmp://31.220.40.61/pull/ligaplus?keys=QnYfTXZ96_vNEHg2BAHaZA&keyt=1443272623 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Fox Sports Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN Latinoamerica
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN 2 Latinoamerica
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 2 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", ESPN 3 Latinoamerica
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 3 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BeinSports en Español
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", BeinSports en Español
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", BeinSports USA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", NFL Network
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", De Película
 http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Canal Sony
 http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Canal 5 de México 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal 5 de México 
 http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Azteca 7[/COLOR]
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Azteca 7[/COLOR]
 http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Canal Azteca 13 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Canal Azteca 13 
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Teletica 7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Teletica 7
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  A&E **
 http://get.iptv.oneplay.tv:8080/localts/5.ts 
@@ -1129,13 +1138,17 @@ http://get.iptv.oneplay.tv:8080/localts/35.ts
 http://get.iptv.oneplay.tv:8080/localts/36.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN **
 http://get.iptv.oneplay.tv:8080/localts/37.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN2 **
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",  ESPN2 **
 http://get.iptv.oneplay.tv:8080/localts/38.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPN3 **
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",  ESPN3 **
 http://get.iptv.oneplay.tv:8080/localts/39.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  ESPNPLUS **
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",  ESPNPLUS **
 http://get.iptv.oneplay.tv:8080/localts/40.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOROTV **
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",  FOXSPORTS2 **
+http://get.iptv.oneplay.tv:8080/localts/50.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",  FOXSPORTS **
+http://get.iptv.oneplay.tv:8080/localts/51.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",  FOROTV **
 http://get.iptv.oneplay.tv:8080/localts/41.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXMOVIESHD **
 http://get.iptv.oneplay.tv:8080/localts/42.ts
@@ -1149,10 +1162,6 @@ http://get.iptv.oneplay.tv:8080/localts/47.ts
 http://get.iptv.oneplay.tv:8080/localts/48.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXMOVIESHD **
 http://get.iptv.oneplay.tv:8080/localts/49.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXSPORTS2 **
-http://get.iptv.oneplay.tv:8080/localts/50.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FOXSPORTS **
-http://get.iptv.oneplay.tv:8080/localts/51.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  FX  **
 http://get.iptv.oneplay.tv:8080/localts/52.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="GET IPTV",  GOLDENHD **
