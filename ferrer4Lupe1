@@ -17,7 +17,7 @@ http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w1311550709_b155000
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", CNN USA INGLES
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", CanaldelasEstrellas
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", Canal 2 delasEstrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_518_av-p.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", azteca 7a
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
