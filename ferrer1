@@ -608,4 +608,78 @@ title>Max-Deportes 30 CARACOL OK</title>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
+ <item>
+<title>Caracol Colombia [COLOR dodgerblue] [ELIMINATORIAS][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/cknalhd/1/680/380</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>logo.logo.logo</thumbnail></item>
+
+<item>
+<title>Caracol [COLOR dodgerblue] [ELIMINATORIAS][/COLOR]</title>
+<link>$doregex[getVipRacing]</link>
+			<regex>
+			<name>getVipRacing</name>
+			<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.mitierratvco2.com/canales/canal205.html')</expres>
+			<page></page>
+			</regex><thumbnail>logo.logo.logo</thumbnail></item>
+
+
+			<item>
+			<title>[COLOR deepskyblue]MEGA  [/COLOR]  [COLOR blue]CHILE[/COLOR]</title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
+			<regex>
+			<name>rtmp</name>
+			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://chilenextnewscom.ipage.com/tvonline/megash.html</referer>
+			</regex>
+			<regex>
+			<name>path</name>
+			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+			<page>$doregex[get-page]</page>	
+			<referer>http://chilenextnewscom.ipage.com/tvonline/megash.html</referer>
+			</regex>
+			<regex>
+			<name>do-ping</name>
+			<expres></expres>
+			<page>$doregex[pagewait]$doregex[get-ping]</page>
+			<referer>http://shidurlive.com</referer>
+			<ignorecache/>
+			</regex>
+			<regex>
+			<name>pagewait</name>
+			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+			<page></page>
+			<referer>http://shidurlive.com</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<regex>
+			<name>get-ping</name>
+			<expres>"pingsts" src="(.*?)"</expres>
+			<page>$doregex[get-page]</page>
+			<cookieJar></cookieJar>
+			<referer>http://chilenextnewscom.ipage.com/tvonline/megash.html</referer>
+			</regex>
+			<regex>
+			<name>get-page</name>
+			<expres>src="(.*?)"</expres>
+			<page>http://shidurlive.com/embed/chilenextmega</page>
+			<referer>http://chilenextnewscom.ipage.com/tvonline/megash.html</referer>
+			<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>logo.logo.logo</thumbnail>
+			<thumbnail>logo.logo.logo</thumbnail></item>
+
 
