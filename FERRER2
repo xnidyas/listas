@@ -687,3 +687,22 @@
 <sportsdevil>http://telesal.tv/canal-21</sportsdevil>
 <referer>referer=http://telesal.tv/canal-21</referer>
 </item>
+
+
+<item>
+<title>[COLOR cyan]CANAL 21 EL SALVADOR M3U8 [/COLOR]</title>
+<link>http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR cyan]CANAL 23 EL SALVADOR [/COLOR]</title>
+<link>http://panel.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8</link>
+</item>
+
+
+
+
+#EXTINF:-1,Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#GerardoLoyolaIPTV
+#EXTINF:-1,Canal 23 El Salvador
+http://panel.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8#GerardoLoyolaIPTV
