@@ -5,11 +5,11 @@ http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup2
 rtmp://104.200.159.74/app/turbomax-hds-channel
-#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 21490774
-http://iphone-streaming.ustream.tv/uhls/21490774/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
+#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 ustream21546127
+http://iphone-streaming.ustream.tv/uhls/21546127/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream1
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 4)
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream2
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup
 rtmp://104.200.159.50/app/telemundox1chivas_69s-channel
