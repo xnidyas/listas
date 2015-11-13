@@ -320,8 +320,9 @@
 <sportsdevil>http://max-deportv.co.in/?canal=7</sportsdevil>
 <referer>referer=http://www.iguide.to/</referer>
 </item>
+
 <item>
-title>Max-Deportes 30 CARACOL OK</title>
+<title>Max-Deportes 30 CARACOL OK</title>
 <sportsdevil>http://max-deportv.co.in/?canal=30</sportsdevil>
 <referer>referer=http://www.Streamlive.to/</referer>
 </item>
@@ -608,7 +609,7 @@ title>Max-Deportes 30 CARACOL OK</title>
 <referer>referer=http://www.yocast.tv/</referer>
 </item>
 
- <item>
+<item>
 <title>Caracol Colombia [COLOR dodgerblue] [ELIMINATORIAS][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
@@ -623,7 +624,8 @@ title>Max-Deportes 30 CARACOL OK</title>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.embeducaster.com</referer>
 </regex>
-<thumbnail>logo.logo.logo</thumbnail></item>
+<thumbnail>logo.logo.logo</thumbnail>
+</item>
 
 <item>
 <title>Caracol [COLOR dodgerblue] [ELIMINATORIAS][/COLOR]</title>
