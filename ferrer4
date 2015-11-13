@@ -959,6 +959,10 @@ rtmp://live.soltvperu.com/soltv/soltv
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
 #EXTINF:-1,UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:0, ATV HD DEPORTES*
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
+#EXTINF:0, ATV DEPORTES`*
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 
 #EXTINF:-1 ,Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
