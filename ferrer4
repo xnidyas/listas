@@ -107,6 +107,8 @@ http://72.46.226.61/live01/canal41/playlist.m3u8
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Telemetro panama<===
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]tvn chile opt 2
