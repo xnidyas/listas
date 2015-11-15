@@ -40,8 +40,6 @@
 <fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
 </item>
 		
-		
-		
 <item>
 <title>[COLOR orange]Lista Ferrer[/COLOR] ***FerrerList****</title>
 <sportsdevil>http://www.actiweb.es</sportsdevil>
@@ -157,6 +155,24 @@
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=66</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=66</referer>
 </item>
+
+<item>
+<title>BT1 FerrerList</title>
+<sportsdevil>http://hdfree.tv/live/bt1.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>BT2  FerrerList</title>
+<sportsdevil>http://hdfree.tv/live/bt2.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+<item>
+<title>BT SPORT ESPN  FerrerList</title>
+<sportsdevil>http://hdfree.tv/live/bte.php</sportsdevil>
+<referer>referer=http://www.yocast.tv/</referer>
+</item>
+
+
 
 <item>
 <title>[COLOR orange]FFUT 59 24/7 [/COLOR] FerrerList</title>
