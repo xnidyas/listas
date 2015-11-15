@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
+<item>
+<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR] [UFC Network Latino] </title>
+<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link>
+<regex><name>tok</name><expres>token=(.*)</expres>
+<page>http://adryanlist.host.sk/nescafe.php?canal=UFCNetworkLA&amp;cm=1047</page>
+<referer>http://adrian.kodistream.info/adryan</referer><setcookie>programa=rosadintv</setcookie></regex>
+<thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR] [Latino] </title>
+<link>$doregex[getVipRacing]</link>
+			<regex>
+			<name>getVipRacing</name>
+			<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-4')</expres>
+			<page></page>
+			</regex><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart></item>	
+				
+
+		<item>
+		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Fox Sports 1]  [Sportsdevil]</title>
+		<sportsdevil>http://cricfree.sx/update/fox1.php</sportsdevil>
+		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
+		</item>
+		
+		<item>
+		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [BT Sports 2]  [Sportsdevil]</title>
+		<sportsdevil>http://cricfree.sx/update/bt2.php</sportsdevil>
+		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
+		</item>
+		
+		<item>
+		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Preeliminares]  [Sportsdevil]</title>
+		<sportsdevil>http://cricfree.sx/watch/live/ufc-193-preliminairies-live-streaming</sportsdevil>
+		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
+		</item>
+		
+		
+		<item>
+		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Stars Sports]  [Sportsdevil]</title>
+		<sportsdevil>http://cricfree.sx/update/starsports.php</sportsdevil>
+		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
+		</item>
+		
+		
 
   <item>
   <link>http://Ignoreme</link>
