@@ -12,42 +12,34 @@
 <item>
 <title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR] [Latino] </title>
 <link>$doregex[getVipRacing]</link>
-			<regex>
-			<name>getVipRacing</name>
-			<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-4')</expres>
-			<page></page>
-			</regex><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<regex>
+<name>getVipRacing</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-4')</expres>
+<page></page>
+</regex><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart></item>	
 				
-
-		<item>
-		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Fox Sports 1]  [Sportsdevil]</title>
-		<sportsdevil>http://cricfree.sx/update/fox1.php</sportsdevil>
-		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<item>
+<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Fox Sports 1]  [Sportsdevil]</title>
+<sportsdevil>http://cricfree.sx/update/fox1.php</sportsdevil>
+<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-		</item>
+</item>
 		
-		<item>
-		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [BT Sports 2]  [Sportsdevil]</title>
-		<sportsdevil>http://cricfree.sx/update/bt2.php</sportsdevil>
-		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<item>
+<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [BT Sports 2]  [Sportsdevil]</title>
+<sportsdevil>http://cricfree.sx/update/bt2.php</sportsdevil>
+<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-		</item>
+</item>
 		
-		<item>
-		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Preeliminares]  [Sportsdevil]</title>
-		<sportsdevil>http://cricfree.sx/watch/live/ufc-193-preliminairies-live-streaming</sportsdevil>
-		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
+<item>
+<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Preeliminares]  [Sportsdevil]</title>
+<sportsdevil>http://cricfree.sx/watch/live/ufc-193-preliminairies-live-streaming</sportsdevil>
+<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-		</item>
+</item>
 		
-		
-		<item>
-		<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Stars Sports]  [Sportsdevil]</title>
-		<sportsdevil>http://cricfree.sx/update/starsports.php</sportsdevil>
-		<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-		</item>
 		
 		
 <item>
@@ -136,7 +128,7 @@
 <referer>http://www.foot-live.info/lecteur.php?id=33</referer>
 </item>
 
-**item>
+<item>
 <title>[COLOR orange]EUROSPORT2 49 [/COLOR] FerrerList</title>
 <sportsdevil>http://www.foot-live.info/lecteur.php?id=49</sportsdevil>
 <referer>http://www.foot-live.info/lecteur.php?id=49</referer>
