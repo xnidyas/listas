@@ -1,65 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
 
-<item>
-<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR] [UFC Network Latino] </title>
-<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link>
-<regex><name>tok</name><expres>token=(.*)</expres>
-<page>http://adryanlist.host.sk/nescafe.php?canal=UFCNetworkLA&amp;cm=1047</page>
-<referer>http://adrian.kodistream.info/adryan</referer><setcookie>programa=rosadintv</setcookie></regex>
-<thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-</item>
-<item>
-<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR] [Latino] </title>
-<link>$doregex[getVipRacing]</link>
-<regex>
-<name>getVipRacing</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('http://vipracing.info/channel/opcion-4')</expres>
-<page></page>
-</regex><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart></item>	
-<item>
-<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Fox Sports 1]  [Sportsdevil]</title>
-<sportsdevil>http://cricfree.sx/update/fox1.php</sportsdevil>
-<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-</item>
-<item>
-<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [BT Sports 2]  [Sportsdevil]</title>
-<sportsdevil>http://cricfree.sx/update/bt2.php</sportsdevil>
-<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-</item>
-<item>
-<title>[COLOR hotpink]UFC 193 • Sat. Nov. 14, 2015  • Rousey vs Holm[/COLOR]  [Preeliminares]  [Sportsdevil]</title>
-<sportsdevil>http://cricfree.sx/watch/live/ufc-193-preliminairies-live-streaming</sportsdevil>
-<referer>http://cricfree.sx</referer><thumbnail>http://cheerleadersnj.com/sites/cheerleadersnj.com/files/homepagefeatures/2015/10/HPB_Rousey-Holm.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/wl83FarWu34/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR orange]BT2  137[/COLOR] FerrerList UFC NUEVO</title>
-<sportsdevil>http://www.foot-live.info/lecteur.php?id=137</sportsdevil>
-<referer>http://www.foot-live.info/lecteur.php?id=137</referer>
-</item>
-
-<item>
-<title>[COLOR orange]BT2  67[/COLOR] FerrerList UFC NUEO</title>
-<sportsdevil>http://www.foot-live.info/lecteur.php?id=67</sportsdevil>
-<referer>http://www.foot-live.info/lecteur.php?id=67</referer>
-</item>
-<item>
-<title>[COLOR orange]BT1  136[/COLOR] FerrerList NUEEEEVOOO</title>
-<sportsdevil>http://www.foot-live.info/lecteur.php?id=136</sportsdevil>
-<referer>http://www.foot-live.info/lecteur.php?id=66</referer>
-</item>
-
-<item>
-<title>[COLOR orange]BT1  66[/COLOR] FerrerList NUEVOOO</title>
-<sportsdevil>http://www.foot-live.info/lecteur.php?id=66</sportsdevil>
-<referer>http://www.foot-live.info/lecteur.php?id=66</referer>
-</item>
-	
 
   <item>
   <link>http://Ignoreme</link>
@@ -111,8 +51,13 @@
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer9</externallink>
     </item>
-    
      <item>
+    <title>[COLOR yellow]Lista de Peliculas 3 LATINO xml ferrer3[/COLOR]</title>
+    <link>http://Ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer3</externallink>
+    </item>
+   
+    <item>
     <title>[COLOR yellow]Lista de Peliculas 4 LATINO ferrer7[/COLOR]</title>
     <link>http://Ignoreme</link>
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer7</externallink>
@@ -131,11 +76,6 @@
     <externallink>https://raw.githubusercontent.com/fgsalva/listas/master/ferrer6</externallink>
  <thumbnail>http://storage.stgbssint.com/MarketPlace/07/5b8/07725b5d-7eca-4241-8fb4-a23f5eb315b8/Screenshot/634985146227819513.png<thumbnail>
     </item>
-
-
-https://raw.githubusercontent.com/fgsalva/listas/master/ferrer9
-
-
 
 <item>
     <title>[COLOR deepskyblue]Lista Ferrer4Sayda "tv"[/COLOR]</title>
@@ -159,5 +99,3 @@ https://raw.githubusercontent.com/fgsalva/listas/master/ferrer9
     </item>
 
 
-
-https://raw.githubusercontent.com/fgsalva/listas/master/ferrer4Sayda
