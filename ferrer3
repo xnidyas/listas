@@ -1,502 +1,59 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<item>
-<title>WIN SPORTS COLOMBIA (F4MTESTER)</title>
-<link>plugin://plugin.video.f4mTester/?url=http://winsportshds-lh.akamaihd.net/z/winsHDS_1@323475/manifest.f4m?hdcore=3.6.0</link>
-</item>	
-
-<item><title>[COLOR hotpink]DPelicula qualite 1928000[/COLOR]</title>
-<link>http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8</link></item>
-<item><title>[COLOR hotpink]DPelicula sin qualite levels[/COLOR]</title>
-<link>http://201.161.59.7/depelicula.isml/manifest(format=m3u8-aapl).m3u8</link></item>
-</item>
-<title>TATETI (Latino)</title>
-<link>http://tinyurl.com/ouacf5h</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-<item>
-<title>ANIME TV (Latino)</title>
-<link>http://tinyurl.com/oduols2</link></item>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-<item>
-<title>South Park TV (Latino)</title>
-<link>http://tinyurl.com/o4wzm7m</link></item> 
-
-
-<item>
-			<title>Golden  [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/goldenmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-			
-			<item>
-			<title>Canal FOX op2[COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.mips.tv:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.mips.tv/membedplayer/zeyuxof1/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.mips.tv</referer>
-			</regex>
-			</item>
-
-
-<item>
-			<title>FX   [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/fxtv</page>
-			<referer>http://tv.televall.com.mx/fx.php</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-			<title>Universal    [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/universal</page>
-			<referer>http://tv.televallhd.com/universal.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-					
-<item>
-			<title>SONY   [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/sony</page>
-			<referer>http://tv.televallhd.com/sony.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-
-<item>
-			<title>AXN      [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/axn</page>
-			<referer>http://tv.televallhd.com/axn.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-
-<item>
-			<title>TNT  [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>rtmp://$doregex[ip]/live playpath=7yujk7?id=22302$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/7yujk7/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>	
-			<item>
-<item>
-			<title>Tooncast  [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=15</link>
-			<regex>
-			<name>rtmp</name>
-			<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			</regex>
-			<regex>
-			<name>path</name>
-			<expres>ova.php.*\n.*unescape..(.*?)'</expres>
-			<page>$doregex[get-page]</page>	
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			</regex>
-			<regex>
-			<name>do-ping</name>
-			<expres></expres>
-			<page>$doregex[pagewait]$doregex[get-ping]</page>
-			<referer>http://shidurlive.com</referer>
-			<ignorecache/>
-			</regex>
-			<regex>
-			<name>pagewait</name>
-			<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
-			<page></page>
-			<referer>http://shidurlive.com</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<regex>
-			<name>get-ping</name>
-			<expres>"pingsts" src="(.*?)"</expres>
-			<page>$doregex[get-page]</page>
-			<cookieJar></cookieJar>
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			</regex>
-			<regex>
-			<name>get-page</name>
-			<expres>src="(.*?)"</expres>
-			<page>http://shidurlive.com/embed/tooncast</page>
-			<referer>http://tv.televallhd.com/tooncast.html</referer>
-			<cookieJar></cookieJar>
-			</regex>
-			<thumbnail></thumbnail>
-			</item>
-			
-<item>
-			<title>Discovery Kids [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>http://$doregex[ip]$doregex[m3u8]</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)</expres>
-			<page>http://www.streamifyplayer.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>m3u8</name>
-			<expres>ea \+ "(.*?)"</expres>
-			<page>http://www.streamifyplayer.com/membedplayer/kidsmalosolandia/1/500/400</page>
-			<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-			<referer>http://www.streamifyplayer.com</referer>
-			</regex>
-			</item>
-
-<item>
-			<title>Nickelodeon SD   [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>rtmp://$doregex[ip]/live playpath=nickyyy?id=22350$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/nickyyy/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-
-<item>
-			<title>Cartoon Network SD [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>rtmp://$doregex[ip]/live playpath=cartooonn?id=22351$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/cartooonn/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-
-<item>
-			<title>Caracol SD Colombia [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>rtmp://$doregex[ip]/live playpath=grghtrhtr?id=22163$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/grghtrhtr/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-			
-<item>
-			<title>Caracol Colombia [COLOR hotpink]REGEXXX[/COLOR]</title><sportsdevil>http://www.streamlive.to/embed/52715</sportsdevil>
-			<referer>http://www.streamlive.to</referer>
-			
-			</item>
-			
-<item>
-			<title>Nat Geo [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>rtmp://$doregex[ip]/live playpath=natgeooo?id=22352$doregex[pk] swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf tcUrl=rtmp://ezcast.tv:1935/live/
-			pageUrl=http://www.embedezcast.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-			<regex>
-			<name>ip</name>
-			<expres>redirect=(.*)<expres>
-			<page>http://www.embedezcast.com:1935/loadbalancer</page>
-			</regex>
-			<regex>
-			<name>pk</name>
-			<expres>ea=(.*)'</expres> 
-			<page>http://www.embedezcast.com/embedplayer/natgeooo/1/620/380</page>
-			<referer>http://www.embedezcast.com/</referer>
-			</regex>
-			</item>
-
-<item><title>RT en Español [COLOR hotpink]REGEXXX[/COLOR]</title><link>$doregex[get-url]</link><regex><name>get-url</name><expres>file: "(.*?)"</expres><page>$doregex[get-ifr]</page><referer>http://tv.vera.com.uy</referer></regex><regex><name>get-ifr</name><expres>'src', '(.*extras.*?)'</expres>
-
-<page>http://tv.vera.com.uy/canal/6027</page><referer>http://tv.vera.com.uy</referer><cookieJar></cookieJar></regex></item>		
-
-
-<item>
-<title>Discovery Channel op2 [COLOR hotpink]REGEXXX[/COLOR]</title>
-<link>rtmp://$doregex[ip]/live playpath=clearmaster4?id=233756$doregex[pk] swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf tcUrl=rtmp://mips.tv:1935/live/
-pageUrl=http://www.mipsplayer.com swfVfy=1 timeout=15 live=1 conn=S:OK</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)<expres>
-<page>http://www.mipsplayer.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres> 
-<page>http://www.mipsplayer.com/embedplayer/clearmaster4/1/620/382</page>
-<referer>http://www.mipsplayer.com/</referer>
-</regex>
-</item>
-
-<item>
-			<title>Tu History [COLOR hotpink]REGEXXX[/COLOR]</title>
-			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_05 live=1 timeout=20</link>
-			<regex>
-			<name>clearCode</name>
-			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
-			<page></page>
-			</regex>
-			<regex>
-			<name>getencoded</name>
-			<expres>:mvnkey-(.*)</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getserver</name>
-			<expres>(.*?);</expres>
-			<page>$doregex[getUrl]</page>
-			</regex>
-			<regex>
-			<name>getUrl</name>
-			<expres>(.*)</expres>
-			<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05$doregex[gettime]-$doregex[gettime].33434</page>
-			</regex>
-			<regex>
-			<name>gettime</name>
-			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
-			<page></page>
-			</regex>
-			</item>
-			
-<item><title>Todo Anime</title>
-<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8</link></item>
-			
-
-<item><title>Fx  [COLOR pink]SportDevil[/COLOR]  </title>
-<sportsdevil>http://www.zandortv.com/2013/04/fx-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
-
-<item><title>TNT   [COLOR pink]SportDevil[/COLOR] </title>
-<sportsdevil>http://www.zandortv.com/2013/04/tnt-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
-
-<item><title>Axn    [COLOR pink]SportDevil[/COLOR] </title>
-<sportsdevil>http://www.zandortv.com/2013/04/axn-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
-
-<item><title>Universal Channel  [COLOR pink]SportDevil[/COLOR]</title>
-<sportsdevil>http://www.zandortv.com/2013/04/universal-channel-en-vivo-por-internet.html</sportsdevil><referer>http://www.zandortv.com/</referer></item>
-
-<item><title>tooncast    [COLOR pink]SportDevil[/COLOR] </title>
-<sportsdevil>http://canales.tutv-porinternet.com/tooncast.html</sportsdevil><referer>http://canales.tutv-porinternet.com/</referer></item>
-
-<item>
-<title>Nickelodeon [COLOR pink]SportDevil/COLOR]</title> 
-<sportsdevil>http://www.zandortv.com/2013/04/nick-en-vivo-por-internet.html</sportsdevil> <referer>http://www.zandortv.com/</referer></item>
-
-
-
-ordenar luego
-
-#EXTINF:-1,CINEMAX sportdevil
-devil:http://television-directa.mex.tl/cinemax.html referer=http://television-directa.mex.tl/
-#EXTINF:-1,HBO-PLUS sportdevil
-devil:http://television-directa.mex.tl/hbo-plus.html referer=http://television-directa.mex.tl/
-#EXTINF:-1,AXN sportdevil
-devil:http://www.elchoyerotv.tv/2013/09/axn-en-vivo-por-internet.html referer=http://www.elchoyerotv.tv/
-#EXTINF:-1,AXN Whites portdevil 
-devil:http://verlatelegratis.net/axn-white-live-stream/ referer=http://verlatelegratis.net/
-#EXTINF:-1,Canal 22 mexico sportdevil
-devil:http://canales.tutv-porinternet.com/canal22.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Multimedios Mty mexico sportdevil
-devil:http://canales.tutv-porinternet.com/multimedios.html referer=http://canales.tutv-porinternet.com/
-#EXTINF:-1,Caracol Tv colombia sportdevil
-devil:http://canales.tutv-porinternet.com/caracol-1.html referer=http://canales.tutv-porinternet.com/
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", BRUCE LEE OPERACION DRAGON 
+http://vk.com/video_ext.php?oid=213767042&id=165739140&hash=ba9aaa51753f2980
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", BRUCE LEE OPERACION DRAGON 
+http://vk.com/video_ext.php?oid=170808307&id=163584736&hash=3af1e4c31d811f3a
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", EL PUÑO LEE OPERACION DRAGON 
+plugin://plugin.video.youtube/play/?video_id=RFTYfzwwlzE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", COMBATE FINAL
+plugin://plugin.video.youtube/play/?video_id=n3MJ6E1iAHs
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", EL JUEGO DE LA MUERTE
+plugin://plugin.video.youtube/play/?video_id=SiVLXnyVgoQ
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", PUÑO CIEGO
+plugin://plugin.video.youtube/play/?video_id=HMekfdfgUcE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", DANZA DE LA PANTERA BORRACHA
+plugin://plugin.video.youtube/play/?video_id=et1YULEHeAA
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", EL MAGNIFICO CARNICERO
+plugin://plugin.video.youtube/play/?video_id=-lXK82rQeHk
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", GOLPE DE LA MUERTE
+plugin://plugin.video.youtube/play/?video_id=ixWGp9FR-Qg
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", BRUCE LEE EL PASO DEL DRAGON
+http://vk.com/video_ext.php?oid=275648338&id=170888352&hash=de406998e13870d9
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", SILVER
+http://vk.com/video_ext.php?oid=275648338&id=170950724&hash=c393fcfa75f9103c
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="BRUCE LEE", EL FUROR DE DRAGON
+http://vk.com/video_ext.php?oid=275648338&id=170888352&hash=de406998e13870d9&hd=2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", De tal palo tal Astilla
+plugin://plugin.video.youtube/play/?video_id=ODcicD7wlIg
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Yo no me caso Compadre
+plugin://plugin.video.youtube/play/?video_id=STeEGH5PXvE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Un par De Sinvernguenzas
+plugin://plugin.video.youtube/play/?video_id=cqe5N34Wffc
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Ando Volando Bajo
+plugin://plugin.video.youtube/play/?video_id=40NyzD8RZ0E
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", AL diablo las Mujeres
+plugin://plugin.video.youtube/play/?video_id=6S65sv9v5BY
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", El Gallo Giro
+plugin://plugin.video.youtube/play/?video_id=4OP1_EJHQQQ
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Me Gustan Valentones
+plugin://plugin.video.youtube/play/?video_id=rB43s0XZsZI
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", GAvilanes NEgros
+plugin://plugin.video.youtube/play/?video_id=rXlFnG1kLRg
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Soterones
+plugin://plugin.video.youtube/play/?video_id=v7i8MTnaG0A
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Bendito entre la Mujeres
+plugin://plugin.video.youtube/play/?video_id=jVm8XszLEQc
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Tres DesGraciados con Suerte
+plugin://plugin.video.youtube/play/?video_id=VytYK-diGaE
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", EL padre Pistola Piporro
+plugin://plugin.video.youtube/play/?video_id=kbfau-tlR7s
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", EL TragaBalas (piporro)
+plugin://plugin.video.youtube/play/?video_id=Bv1bedNjXUY
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Calibre 44 (piporro)
+plugin://plugin.video.youtube/play/?video_id=aT_n2sh2xyk
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", El Terror de La Frontera (piporro)
+plugin://plugin.video.youtube/play/?video_id=Qxm6TSKiXUc
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", El Rey del Tomate (piporro)
+plugin://plugin.video.youtube/play/?video_id=Qa59tcJVSP8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="MEXICANAS", Los Mujeriegos (piporro)
+plugin://plugin.video.youtube/play/?video_id=REpE2lC0LBk
