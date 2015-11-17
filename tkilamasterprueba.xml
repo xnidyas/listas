@@ -24,7 +24,15 @@
 <action>getfile_http</action>
 <url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/estrenos.m3u</url>
 </subchannel>
-		
+<subchannel>
+<name>Catalogo2</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-catalogo.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/catalogo.m3u</url>
+</subchannel>
+
+	
 <subchannel>
 <name>Peliculas 3D</name>
 <thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-3d.png</thumbnail>
@@ -32,7 +40,7 @@
 <action>getfile_http</action>
 <url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/3D.m3u</url>
 </subchannel>
-		
+	
 <subchannel>
 <name>Torrents</name>
 <thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
@@ -40,14 +48,15 @@
 <action>getfile_http</action>
 <url>https://dl.dropboxusercontent.com/u/25649203/addon/list/torrents/torrents.m3u</url>
 </subchannel>
-		
+
 <subchannel>
 <name>Infantil</name>
 <thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-infantil.png</thumbnail>
 <fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-infantil.jpg</fanart>
 <action>getfile_http</action>
 <url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/infantil.m3u</url>
-		</subchannel>
+</subchannel>
+
 <subchannel>
 <name>Catalogo</name>
 <thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-catalogo.png</thumbnail>
@@ -63,16 +72,16 @@
 <action>getfile_http</action>
 <url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/ultimas.m3u</url>
 </subchannel>
-		
-		<!-- XXX -->
-		<subchannel>
-			<name>XXX - Adutlos - +18</name>
-			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-xxx-mov.png</thumbnail>
-			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv-xxx.jpg</fanart>
-			<action>getfile_http</action>
-			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/xxx_adultos.m3u</url>
-		</subchannel>
-	</channel>
+	
+<!-- XXX -->
+<subchannel>
+<name>XXX - Adutlos - +18</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-xxx-mov.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv-xxx.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/xxx_adultos.m3u</url>
+</subchannel>
+</channel>
 	
 	<channel> <!-- Series -->
 		<name>[COLOR orange]Series[/COLOR]</name>
