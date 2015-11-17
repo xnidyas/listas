@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <main_menu>
     <menu_info>
 	<title>[I][COLOR green][B]T-KILLA[/B][/COLOR][I] - </title>
@@ -25,19 +26,19 @@
 		</subchannel>
 		
 		<subchannel>
-			<name>Peliculas 3D pruebaaa</name>
+			<name>Peliculas 3D</name>
 			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-3d.png</thumbnail>
 			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
 			<action>getfile_http</action>
-			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba.m3u</url>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/3D.m3u</url>
 		</subchannel>
 		
 		<subchannel>
-			<name>Torrents pruebaa</name>
+			<name>Torrents</name>
 			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
 			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-torrent.jpg</fanart>
 			<action>getfile_http</action>
-			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba.m3u</url>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/torrents/torrents.m3u</url>
 		</subchannel>
 		
 		<subchannel>
