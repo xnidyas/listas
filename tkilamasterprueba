@@ -15,7 +15,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://dl.dropboxusercontent.com/u/25649203/addon/master_menu_2_0.xml</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
 		
 		<subchannel>
 			<name>Estrenos</name>
@@ -81,7 +81,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://dl.dropboxusercontent.com/u/25649203/addon/master_menu_2_0.xml</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
 		
 		<subchannel>
 			<name>Series en latino</name>
@@ -140,7 +140,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://dl.dropboxusercontent.com/u/25649203/addon/master_menu_2_0.xml</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
 		
 		<!-- Mexico -->
 		<subchannel>
@@ -276,7 +276,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>23.08.2015</last_update>
-		<url>https://dl.dropboxusercontent.com/u/25649203/addon/master_menu_2_0.xml</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
 		
 		<!-- Peliculas -->
 		<subchannel>
@@ -330,7 +330,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/fanart-radio.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://dl.dropboxusercontent.com/u/25649203/addon/master_menu_2_0.xml</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
 		
 		<!-- todo el mundo -->
 		<subchannel>
@@ -357,7 +357,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fitness/fanart.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://dl.dropboxusercontent.com/u/25649203/addon/master_menu_2_0.xml</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
 		
 		<subchannel>
 			<name>Fitness</name>
