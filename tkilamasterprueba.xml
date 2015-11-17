@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <main_menu>
     <menu_info>
 	<title>[I][COLOR green][B]T-KILLA[/B][/COLOR][I] - </title>
@@ -15,7 +14,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
 		
 		<subchannel>
 			<name>Estrenos</name>
@@ -81,7 +80,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
 		
 		<subchannel>
 			<name>Series en latino</name>
@@ -140,7 +139,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
 		
 		<!-- Mexico -->
 		<subchannel>
@@ -276,7 +275,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>23.08.2015</last_update>
-		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
 		
 		<!-- Peliculas -->
 		<subchannel>
@@ -330,7 +329,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/fanart-radio.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
 		
 		<!-- todo el mundo -->
 		<subchannel>
@@ -357,7 +356,7 @@
 		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fitness/fanart.jpg</fanart>
 		<action>xml_lists</action>
 		<last_update>11.07.2015</last_update>
-		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
 		
 		<subchannel>
 			<name>Fitness</name>
