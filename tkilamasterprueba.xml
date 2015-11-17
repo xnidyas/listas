@@ -1,1 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<main_menu>
+    <menu_info>
+	<title>[I][COLOR green][B]T-KILLA[/B][/COLOR][I] - </title>
+	<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/icon.png</thumbnail>
+	<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fanart.jpg</fanart>	
+	<date>[I][COLOR blue]no la jalaaaa[/COLOR][/I]</date>
+	<credits>Moctezuma Team</credits>
+    </menu_info>
+	
+<channel> <!-- Peliculas -->
+<name>[COLOR yellow]Peliculas[/COLOR]</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icono-mov.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
+<action>xml_lists</action>
+<last_update>11.07.2015</last_update>
+<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
+
+<subchannel>
+<name>Estrenos</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-estrenos.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov-estrenos.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/estrenos.m3u</url>
+</subchannel>
+<subchannel>
+<name>Catalogo2</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-catalogo.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/catalogo.m3u</url>
+</subchannel>
+
+<subchannel>
+<name>Peliculas 3D</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-3d.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/3D.m3u</url>
+</subchannel>
+	
+<subchannel>
+<name>Torrents</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-torrent.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/torrents/torrents.m3u</url>
+</subchannel>
+
+<subchannel>
+<name>Infantil</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-infantil.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-infantil.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/infantil.m3u</url>
+</subchannel>
+
+<subchannel>
+<name>Catalogo</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-catalogo.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/catalogo.m3u</url>
+</subchannel>
+
+<subchannel>
+<name>Añadidas recientemente</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-ultimas.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/ultimas.m3u</url>
+</subchannel>
+	
+<!-- XXX -->
+<subchannel>
+<name>XXX - Adutlos - +18</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-xxx-mov.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv-xxx.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/xxx_adultos.m3u</url>
+</subchannel>
+</channel>
+	
+	<channel> <!-- Series -->
+		<name>[COLOR orange]Series[/COLOR]</name>
+		<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-series.png</thumbnail>
+		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+		<action>xml_lists</action>
+		<last_update>11.07.2015</last_update>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
+		
+		<subchannel>
+			<name>Series en latino</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-series-latino.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>Series subtituladas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-all-series-subtituladas.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series-subs.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>Caricaturas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-all-series-caricaturas.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/caricaturas/caricaturas.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>Series retro</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-series-retro.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series_retro.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>En Transmision</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-series-transmision.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series_favoritas.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>Favoritas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/icon-fav-series.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/series/fanart-series.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/series/series_favoritas.m3u</url>
+		</subchannel>
+		
+		
+	</channel>
+	
+	<channel> <!-- TV Online -->
+		<name>[COLOR orangered]TV Online[/COLOR]</name>
+		<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv.png</thumbnail>
+		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+		<action>xml_lists</action>
+		<last_update>11.07.2015</last_update>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
+		
+		<!-- Mexico -->
+		<subchannel>
+			<name>Canales de Mexico</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-mx.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/canales_mex.m3u</url>
+		</subchannel>
+
+		<!-- Entretenimiento -->
+		<subchannel>
+			<name>Entretenimiento</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/selectos.m3u</url>
+		</subchannel>
+		
+		<!-- Cable T-KILLA -->
+		<subchannel>
+			<name>Cable T-KILLA</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-cable.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/cablet.kila.m3u</url>
+		</subchannel>
+		
+		<!-- Canales hd -->
+		<subchannel>
+			<name>Canales HD</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon_tv_hd.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/tv_hd.m3u</url>
+		</subchannel>
+		
+		<!-- Acestreams -->
+		<subchannel>
+			<name>Canales de Acestream</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-acestream.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/acestream/acestream.m3u</url>
+		</subchannel>
+		
+		<!-- Deportes -->
+		<subchannel>
+			<name>Canales de Deportes</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-dep.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/deportes.m3u</url>
+		</subchannel>
+		
+		<!-- Especiales -->
+		<subchannel>
+			<name>Canales de Eventos especiales</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-especial.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/eventos_especiales.m3u</url>
+		</subchannel>
+		
+		<!-- Infantiles -->
+		<subchannel>
+			<name>Canales Infantiles</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-infantil.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/infantiles_tv.m3u</url>
+		</subchannel>
+		
+		<!-- Latinoamerica -->
+		<subchannel>
+			<name>Canales Latinoamerica</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-la.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/latinoamerica.m3u</url>
+		</subchannel>
+		
+		<!-- Mundo -->
+		<subchannel>
+			<name>Canales del Mundo</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-mundo.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/mundo.m3u</url>
+		</subchannel>
+		
+		<!-- Peliculas -->
+		<subchannel>
+			<name>Canales de Peliculas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-mov.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/peliculas_tv.m3u</url>
+		</subchannel>
+		
+		<!-- Musica -->
+		<subchannel>
+			<name>Canales de Musica</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-musica.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/musica_tv.m3u</url>
+		</subchannel>
+		
+		<!-- Noticias -->
+		<subchannel>
+			<name>Canales de Noticias</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-noticias.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/noticias.m3u</url>
+		</subchannel>		
+				
+		<!-- XXX -->
+		<subchannel>
+			<name>XXX - Adutlos - +18</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/icon-tv-xxx.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/tv%20online/fanart-tv-xxx.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/tv/xxx_tv.m3u</url>
+		</subchannel>
+			
+	</channel>
+
+	<channel> <!-- Anime -->
+		<name>[COLOR blue]Anime[/COLOR]</name>
+		<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/icon-anime.png</thumbnail>
+		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
+		<action>xml_lists</action>
+		<last_update>23.08.2015</last_update>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
+		
+		<!-- Peliculas -->
+		<subchannel>
+			<name>Peliculas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/anime-peliculas.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/peliculas/peliculas.m3u</url>
+		</subchannel>
+		
+		<!-- Series -->
+		<subchannel>
+			<name>Series</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/anime-series.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/Series/series.m3u</url>
+		</subchannel>
+		
+		<!-- Ovas -->
+		<subchannel>
+			<name>Ovas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/anime-ovas.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/ovas/ovas.m3u</url>
+		</subchannel>
+		
+		<!-- Doramas -->
+		<subchannel>
+			<name>Doramas</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/icon-doramas.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-doramas.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/doramas/doramas.m3u</url>
+		</subchannel>
+		
+		<!-- Especiales -->
+		<subchannel>
+			<name>Especiales</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/anime-especiales.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/anime/fanart-anime.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/otakuzone/ovas/ovas.m3u</url>
+		</subchannel>
+	</channel>	
+	
+	<channel> <!-- Radio Online -->
+		<name>[COLOR lightblue]Radio Online[/COLOR]</name>
+		<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/icon-radio.png</thumbnail>
+		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/fanart-radio.jpg</fanart>
+		<action>xml_lists</action>
+		<last_update>11.07.2015</last_update>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
+		
+		<!-- todo el mundo -->
+		<subchannel>
+			<name>T-KILLA Sound - Todo el mundo</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/icon-radio.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/fanart-radio.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/radio/radio_mundo.m3u</url>
+		</subchannel>
+		
+		<!-- radio nacional-->
+		<subchannel>
+			<name>T-KILLA Sound - Nacional</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/icon-radio.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/radio/fanart-radio.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/radio/radio_nacional.m3u</url>
+		</subchannel>
+	</channel>	
+
+	<channel> <!-- Fitness -->
+		<name>[COLOR lightgreen]T-KILLA Fitness[/COLOR]</name>
+		<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fitness/icon-fitness.png</thumbnail>
+		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fitness/fanart.jpg</fanart>
+		<action>xml_lists</action>
+		<last_update>11.07.2015</last_update>
+		<url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba.xml</url>
+		
+		<subchannel>
+			<name>Fitness</name>
+			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fitness/icon-fitness.png</thumbnail>
+			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fitness/fanart.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/fitness/fitness.m3u</url>
+		</subchannel>
+	</channel>		
+
+	<channel> <!-- Configuracion -->
+		<name>[COLOR red]Configuración[/COLOR]</name>
+		<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/icon-config.png</thumbnail>
+		<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/fanart.jpg</fanart>
+		<action>open_settings</action>
+		<last_update>17.02.2015</last_update>
+		<url>.</url>	
+	</channel>
+	
+</main_menu>
 
