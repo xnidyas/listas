@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
- <item>
- <title>[COLOR yellow]prueba serie mmmmm [/COLOR]</title>
- <link>http://Ignoreme</link>
-<externallinkhttps://dl.dropboxusercontent.com/u/25649203/addon/list/series/ashvs_evil%20_dead/temp_1.m3u</externallink>
-<thumbnail>http://i1072.photobucket.com/albums/w365/TuroMexico/meditation_Buddhism_monk_religion_robe_zen__1920x1200111_zpslzviumcx.jpg<thumbnail>
- <fanart>http://cdn.desktopwallpapers4.me/wallpapers/photography/1920x1080/2/14507-monk-meditating-1920x1080-photography-wallpaper.jpg</fanart>
- </item>  
-
+#EXTM3U
+#EXTINF:-1,THE WALKING DEAD (Serie completa)
+serie:http://www.seriesadicto.com/the-walking-dead.html
