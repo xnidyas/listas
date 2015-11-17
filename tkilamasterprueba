@@ -30,7 +30,7 @@
 			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-3d.png</thumbnail>
 			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
 			<action>getfile_http</action>
-			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba</url>
+			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba.m3u</url>
 		</subchannel>
 		
 		<subchannel>
@@ -38,7 +38,7 @@
 			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
 			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-torrent.jpg</fanart>
 			<action>getfile_http</action>
-			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba</url>
+			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba.m3u</url>
 		</subchannel>
 		
 		<subchannel>
