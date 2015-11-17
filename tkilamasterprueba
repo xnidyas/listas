@@ -26,11 +26,11 @@
                 </subchannel>
                
                 <subchannel>
-                        <name>Peliculas 3D</name>
+                        <name>pruebasssss</name>
                         <thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-3d.png</thumbnail>
                         <fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-mov.jpg</fanart>
                         <action>getfile_http</action>
-                        <url>https://dl.dropboxusercontent.com/u/25649203/addon/list/peliculas/3D.m3u</url>
+                        <url>https://raw.githubusercontent.com/fgsalva/listas/master/tkilamasterprueba</url>
                 </subchannel>
                
                 <subchannel>
