@@ -41,7 +41,14 @@
 </subchannel>
 	
 <subchannel>
-<name>Torrents</name>
+<name>Torrentotes</name>
+<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
+<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-torrent.jpg</fanart>
+<action>getfile_http</action>
+<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/torrents/torrents.m3u</url>
+</subchannel>
+<subchannel>
+<name>Torrentotes2</name>
 <thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
 <fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-torrent.jpg</fanart>
 <action>getfile_http</action>
