@@ -34,11 +34,11 @@
 		</subchannel>
 		
 		<subchannel>
-			<name>Torrents</name>
+			<name>Torrents pruebaa</name>
 			<thumbnail>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/icon-torrents.png</thumbnail>
 			<fanart>https://dl.dropboxusercontent.com/u/25649203/t-killa%2B/ui/peliculas/fanart-torrent.jpg</fanart>
 			<action>getfile_http</action>
-			<url>https://dl.dropboxusercontent.com/u/25649203/addon/list/torrents/torrents.m3u</url>
+			<url>https://raw.githubusercontent.com/fgsalva/listas/master/prueba</url>
 		</subchannel>
 		
 		<subchannel>
