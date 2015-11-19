@@ -7,14 +7,8 @@ rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 rtmp://104.200.159.74/app/turbomax-hds-channel
 #EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 ustream21568726 (www.ustream.tv/channel/kksddjJt429)
 http://iphone-streaming.ustream.tv/uhls/21568726/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream1
-http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream2 
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream3 (www.ustream.tv/channel/6NqwTU9Jt3n)
 http://iphone-streaming.ustream.tv/uhls/21571202/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup1
-rtmp://104.200.159.50/app/telemundox1chivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]MUNNDO MAX
 rtmp://107.181.182.162/app/ana69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR] MIAMI TV
