@@ -103,7 +103,7 @@ http://72.46.226.61/live01/canal41/playlist.m3u8
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Telemetro panama<===
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Telemetro panama Deportes<===
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
@@ -123,12 +123,8 @@ rtsp://stream.tn.com.ar/live/tnhd1
 rtmp://173.236.71.62/hondured/hrtv.sdp
 #EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]Te AMoGuatelinda
-http://iphone-streaming.ustream.tv/ustreamVideo/21485709/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TILOVISION GUATEMALA ustream(www.ustream.tv/channel/Txwn4fBSjcb)
 http://iphone-streaming.ustream.tv/ustreamVideo/21551032/streams/live/playlist.m3u8
-
-
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]NICARAGA 13
 http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]AMERICA SPORT ARGENTINA
