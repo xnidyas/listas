@@ -16,14 +16,8 @@ rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 rtmp://104.200.159.74/app/turbomax-hds-channel
 #EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 ustream21568726 (www.ustream.tv/channel/kksddjJt429)
 http://iphone-streaming.ustream.tv/uhls/21568726/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream1
-http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream2 
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream3 (www.ustream.tv/channel/6NqwTU9Jt3n)
 http://iphone-streaming.ustream.tv/uhls/21571202/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup1
-rtmp://104.200.159.50/app/telemundox1chivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]MUNNDO MAX
 rtmp://107.181.182.162/app/ana69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR] MIAMI TV
@@ -96,12 +90,6 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue] Deportes [/COLOR]ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR]TDN NUEVOOOOO.
-http://200.76.77.237/LIVE/H01/CANAL503/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR]UTDN NUEVOOOOO.
-http://200.76.77.237/LIVE/H01/CANAL530/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR blue] Deportes [/COLOR]FOX SPORT 3 NUEVOOOOO.
-http://200.76.77.237/LIVE/H01/CANAL569/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]COMBATE
@@ -134,6 +122,8 @@ rtmp://173.236.71.62/hondured/hrtv.sdp
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TILOVISION GUATEMALA ustream(www.ustream.tv/channel/Txwn4fBSjcb)
 http://iphone-streaming.ustream.tv/ustreamVideo/21551032/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TeamoGUATEMALA ustream(http://www.ustream.tv/channel/qsanKNYaBpP)
+http://iphone-streaming.ustream.tv/ustreamVideo/21485776/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]NICARAGA 13
 http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]AMERICA SPORT ARGENTINA
