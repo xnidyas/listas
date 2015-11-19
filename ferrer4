@@ -5,17 +5,16 @@ http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup2
 rtmp://104.200.159.74/app/turbomax-hds-channel
-#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 ustream21546127
-http://iphone-streaming.ustream.tv/uhls/21546127/streams/live/playlist.m3u8
+#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 ustream21568726 (www.ustream.tv/channel/kksddjJt429)
+http://iphone-streaming.ustream.tv/uhls/21568726/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream1
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream2
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream2 
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream3 (www.ustream.tv/channel/6NqwTU9Jt3n)
+http://iphone-streaming.ustream.tv/uhls/21571202/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup1
 rtmp://104.200.159.50/app/telemundox1chivas_69s-channel
-
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]UNIMAS (Opcion 1)
-http://iphone-streaming.ustream.tv/ustreamVideo/21428867/streams/live/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]MUNNDO MAX
 rtmp://107.181.182.162/app/ana69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR] MIAMI TV
@@ -76,7 +75,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red]LUPE [/COLOR]Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
-
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]FOX SPORTS.
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]FOX SPORTS 2.
@@ -127,23 +125,23 @@ rtmp://173.236.71.62/hondured/hrtv.sdp
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]Te AMoGuatelinda
 http://iphone-streaming.ustream.tv/ustreamVideo/21485709/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TILOVISION GUATEMALA ustream(www.ustream.tv/channel/Txwn4fBSjcb)
+http://iphone-streaming.ustream.tv/ustreamVideo/21551032/streams/live/playlist.m3u8
+
+
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]NICARAGA 13
 http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]AMERICA SPORT ARGENTINA
 http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]ANTIGUA SPORT GUATE
 http://iphone-streaming.ustream.tv/ustreamVideo/20670056/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]bein castalba02 eng hd
-http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/02.m3u8
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]bein castalba03 eng hd
-http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/03.m3u8
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng ok
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
 #EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español ok
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba02 Español hd
-http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/02.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba03 Español hd
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba03eng hd
+http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/03.m3u8
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba03Español hd
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
