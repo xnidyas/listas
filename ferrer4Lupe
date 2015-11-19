@@ -8,23 +8,22 @@ http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]AZTECA 7.
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]RPC Panama DEPORTES<===
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup1
 rtmp://107.152.104.26/app/univision1xchivas_69s-channel
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup2
 rtmp://104.200.159.74/app/turbomax-hds-channel
-#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 21490774
-http://iphone-streaming.ustream.tv/uhls/21490774/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 3)
+#EXTINF:-1, [COLOR yellow]Lupe [/COLOR]UNIVISION CHIVAS69 ustream21568726 (www.ustream.tv/channel/kksddjJt429)
+http://iphone-streaming.ustream.tv/uhls/21568726/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream1
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo (Opcion 4)
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream2 
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo ustream3 (www.ustream.tv/channel/6NqwTU9Jt3n)
+http://iphone-streaming.ustream.tv/uhls/21571202/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]Telemundo streamup1
 rtmp://104.200.159.50/app/telemundox1chivas_69s-channel
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]UNIMAS (Opcion 1)
-http://iphone-streaming.ustream.tv/ustreamVideo/21428867/streams/live/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]MUNNDO MAX
 rtmp://107.181.182.162/app/ana69s-channel
 #EXTINF:-1,[COLOR yellow]LUPE [/COLOR] MIAMI TV
@@ -85,7 +84,6 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=o
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR red]LUPE [/COLOR]Universa Estudio borrar
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/playlist.m3u8
-
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]FOX SPORTS.
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]FOX SPORTS 2.
@@ -98,7 +96,12 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue] Deportes [/COLOR]ESPN3.
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-
+#EXTINF:-1, [COLOR blue] Deportes [/COLOR]TDN NUEVOOOOO.
+http://200.76.77.237/LIVE/H01/CANAL503/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1, [COLOR blue] Deportes [/COLOR]UTDN NUEVOOOOO.
+http://200.76.77.237/LIVE/H01/CANAL530/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1, [COLOR blue] Deportes [/COLOR]FOX SPORT 3 NUEVOOOOO.
+http://200.76.77.237/LIVE/H01/CANAL569/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]UFC brasil
 http://37.203.209.34:443/mobile/bob10/live.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]COMBATE
@@ -109,6 +112,8 @@ http://72.46.226.61/live01/canal41/playlist.m3u8
 http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]RPC Panama DEPORTES<===
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]Telemetro panama Deportes<===
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]TVN Chile
 http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]tvn chile opt 2
@@ -127,31 +132,37 @@ rtsp://stream.tn.com.ar/live/tnhd1
 rtmp://173.236.71.62/hondured/hrtv.sdp
 #EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
 http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]Te AMoGuatelinda
-http://iphone-streaming.ustream.tv/ustreamVideo/21485709/streams/live/playlist.m3u8
+#EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TILOVISION GUATEMALA ustream(www.ustream.tv/channel/Txwn4fBSjcb)
+http://iphone-streaming.ustream.tv/ustreamVideo/21551032/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]NICARAGA 13
 http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]AMERICA SPORT ARGENTINA
 http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]ANTIGUA SPORT GUATE
 http://iphone-streaming.ustream.tv/ustreamVideo/20670056/streams/live/playlist.m3u8
-
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba eng ok
 http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
-#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español
+#EXTINF:-1, [COLOR skyblue]Deportes [/COLOR]bein castalba Español ok
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba03eng hd
+http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/03.m3u8
+#EXTINF:-1, [COLOR blue]Deportes [/COLOR]bein castalba03Español hd
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]La sexta Castalba
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Antena 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Antena 3 index2
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-0,bein ñ Latino SD
+#EXTINF:0, [COLOR yellow]Deportes [/COLOR]beIN_SPORTS3 francia
+http://195.154.226.186:1935/livepp7/bein3frlsh/playlist.m3u8
+#EXTINF:0,  [COLOR yellow]Deportes [/COLOR] beIN_SPORTS2 francia
+http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
+#EXTINF:-0, [COLOR yellow]Deportes [/COLOR] bein ñ Latino SD
 http://q.gs/11042797/whasa-604270509-iptv1-m3u8
-#EXTINF:-0,bein ñ Latino HD
+#EXTINF:-0, [COLOR yellow]Deportes [/COLOR] bein ñ Latino HD
 http://q.gs/11042797/whasa-604270509-iptv2-m3u8
-#EXTINF:-0,Bein ñ 720 Espana 
+#EXTINF:-0,  [COLOR yellow]Deportes [/COLOR]Bein ñ 720 Espana 
 rtmp://31.220.40.61/pull/tvbein12?keys=CQ3UnfJWSbEv0gBtIkghiA&keyt=1443272822 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
 #EXTINF:-1,LA 1 ( LA LIGA)
 rtmp://31.220.0.196/pull/laprimera6?keys=uUs_REKMuSneTrx_IQFpIA&keyt=1443470984 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://leton.tv/
@@ -968,6 +979,10 @@ rtmp://live.soltvperu.com/soltv/soltv
 rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
 #EXTINF:-1,UCV Satelital - Perú
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:0, ATV HD DEPORTES*
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
+#EXTINF:0, ATV DEPORTES`*
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 
 #EXTINF:-1 ,Tele Antillas - República Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
