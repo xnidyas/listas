@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<items_info> <!-- this is optional -->
+      <title>deadpool addon</title> 
+      <genre>All In One</genre>
+      <description>: Menu para deadpool addon :</description>
+      <thumbnail>http://i.imgur.com/XOfeeu1.png</thumbnail>
+      <fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+      <date>21.10.2015</date>
+      <credits>deadpool and lady death</credits>
+    </items_info>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Peliculas [/COLOR] </title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/koqY6x8.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/peliculas/peliculas.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Series [/COLOR]</title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/PwyNmpO.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/series/series.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Conciertos [/COLOR]</title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/moLkHZf.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/conciertos/conciertos.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Anime [/COLOR]</title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/iorW0UJ.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/anime/anime.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Tv Online  [/COLOR]</title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/wqpGe28.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/tv%20online/tv.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Radio Online [/COLOR]</title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/yoKGhjv.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/radio%20online/radio.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR red] Gym & Fitness [/COLOR]</title>
+<link>http://deadpool.hostingvm.com/deadpool/list.xml</link>
+<thumbnail>http://i.imgur.com/vLgout6.png</thumbnail>
+<fanart>http://deadpool.hostingvm.com/tapiz/evento.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/fitness/fitness.xml</externallink>
+</item>
