@@ -7,7 +7,7 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]AZTECA 7.
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]RPC Panama DEPORTES<===
+#EXTM3U
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup1
@@ -118,8 +118,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
-http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TILOVISION GUATEMALA ustream(www.ustream.tv/channel/Txwn4fBSjcb)
 http://iphone-streaming.ustream.tv/ustreamVideo/21551032/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TeamoGUATEMALA ustream(http://www.ustream.tv/channel/qsanKNYaBpP)
