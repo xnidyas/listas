@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<title>[COLOR lime]HBO Family[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=449&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Plus Este[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPlusLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=453&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Plus Oeste[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPus2LASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=369&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Signature[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=451&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cinemax[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=343&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]MAX[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MAXLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=381&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Max Prime Este[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=377&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Max Prime Oeste[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=379&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Max Up[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MaxUPSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=469&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Film Zone[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmZoneLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1055&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=385&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO 2[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBO2SD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=365&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Family[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=449&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Plus Este[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPlusLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=453&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Plus Oeste[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOPus2LASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=369&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HBO Signature[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=451&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Bandamax[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BandamaxLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1467&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Concert Channel[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ConcertChannelSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=479&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]HTV[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/HTVSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=341&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]K Music[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/KMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=3467&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]MTV[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2491&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]MTV Hits[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MTVHitsLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1495&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Regional Music[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/RegionalMusicLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=4805&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]VH1 Classic Europe[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=415&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]VH1 Latino Norte[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/VH1LatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=483&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Bloomberg[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ElFinancieroBLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2823&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]CNN[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CNNLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1855&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]NTN 24[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NTN24LA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1601&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Baby TV[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BabyTVLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=317&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Boomerang[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BoomerangLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2507&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cartoon Network[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=421&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cbeebies[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CbeebiesLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1029&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Discovery Kids[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=309&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Disney Norte[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=256&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Disney Jr. Norte[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyJrLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1455&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Disney XD Norte[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyXDSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=499&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Nickelodeon[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickelodeonLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1423&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Nick Jr.[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickJrLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=417&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Tooncast[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TooncastSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=443&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cine Dinamita[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineDinamitaLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=3465&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Golden Premier[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=4777&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Golden Premier 2[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=4772&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Classics[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXClassicsLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=465&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Movies[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXMoviesLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=463&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Action Oeste[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXActionOesteLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=437&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Action[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=435&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Cinema[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxCinemaSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=457&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Comedy[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXComedyLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=461&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox Family[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=467&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox1 Oeste[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1OesteLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=439&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox1[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOX1LASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=433&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Film Arts[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FilmArtsLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1599&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Europa Europa[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EuropaEuropaLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1597&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Isat[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ISATLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1703&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]TCM[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TCMSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=481&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Studio Universal[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/StudioUniversalSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=345&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]AMC[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AMCLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=485&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Space[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SpaceLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2489&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cinemax[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CinemaxLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=343&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cinecanal[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineCanalLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2495&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]TNT[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=262&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Sundance[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SundanceLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1041&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Paramount Channel[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ParamountChannelLatinAmericaHD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=260&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Golden Multiplex[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenMPLXLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1035&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Golden Edge[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenEdgeLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1465&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Golden HD[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GoldenHD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=264&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Cinelatino[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/CineLatinoSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=l477&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Multipremier[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/MultiPremierLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=3293&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Eurochannel[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/EurochannelLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=4912&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]AXN[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/AXNLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2493&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Fox[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FOXHDLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=3497&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Universal Channel[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UniversalLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=387&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]FX[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FXLASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=431&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Warner Channel[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/WarnerLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2499&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]TNT Series[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/infinitoSD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=331&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR lime]Sony[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/SonyLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2501&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Bein Sports[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/BeinSportsLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2527&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]ESPN[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPNLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2487&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]ESPN 2[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN2LASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=301&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]ESPN 3[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/ESPN3LASD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=3806&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]F1 Racing[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/F1LA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1695&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Fox Sports[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSportsLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=2505&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Fox Sports 2[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/FoxSports2SD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=475&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Fox Sports 3[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/FoxSports3SD/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=445&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Golf Channel[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/GolfChannelLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1489&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Planeta Futbol[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1477&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]TDN Mexico[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TDNMXLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1059&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]Univision TDN[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1483&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+	<item>
+		<title>[COLOR hotpink]UFC Network[/COLOR]</title>
+		<link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/UFCNetworkLA/playlist.m3u8?token=$doregex[tok]</link>
+		<regex>
+			<name>tok</name>
+			<expres>token=(.*)</expres>
+			<page>http://vortech-tv.net/Vtech32.php?IDE=1047&amp;user=vortech&amp;pass=team&amp;f=.m3u8</page>
+			<referer>http://vortech-tv.net</referer>
+		</regex>
+	</item>
+</items>
