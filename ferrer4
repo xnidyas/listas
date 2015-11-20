@@ -109,8 +109,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1, [COLOR blue]Deportes [/COLOR]Hondured Canal 13
 rtmp://173.236.71.62/hondured/hrtv.sdp
-#EXTINF:-1, [COLOR yellow]Deportes [/COLOR]Guate en Vivo
-http://server.audiogt.net:1930/GuateEnVivo/GuateEnVivo/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TILOVISION GUATEMALA ustream(www.ustream.tv/channel/Txwn4fBSjcb)
 http://iphone-streaming.ustream.tv/ustreamVideo/21551032/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Deportes [/COLOR]TeamoGUATEMALA ustream(http://www.ustream.tv/channel/qsanKNYaBpP)
