@@ -23,3 +23,56 @@ http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b
 http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=241&PROFILE=03&F=.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP DOCUMENTALES",HISTORY
 http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=245&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", TLC DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY SCIENCE
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY CIVILIZAZION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY WORLD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", DISCOVERY H&H
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", I.D
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Vicio Dual
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Howl
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Atrapado en los 90s
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Los Minions
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Dragon Ball Z: La Resurrección de Freezer
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",AREA 51
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",The Contract
+https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Vacaciones
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Exorcismo En El Vaticano
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",The Exorcism of Molly Hartley
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Knock Knock
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="PELICULAS 3",Escupire Sobre Tu Tumba 3 [Sub]
