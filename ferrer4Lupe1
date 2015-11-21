@@ -5,12 +5,14 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",AZTECA 7.
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",AZTECA 7.
+http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",AZTECA 7.
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=6&PROFILE=03&F=.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA", azteca 7a++
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",RPC Panama DEPORTES<=
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", RADIO
-http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER",,TDN (Real Madrid vs FCB: 21 Noviembre 11:15AM Hora de México)
 http://public.tuiptv.biz/public/PlayList.php?id=df26315a-6a32-4e78-b396-81f7d9fc34dc&channel=15
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER",Real Madrid TV (Real Madrid vs FCB: 21 Noviembre)
@@ -19,7 +21,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", CLASICO REAL MADRID VS FCB",Sky Sports 2 (Real Madrid vs FCB: 21 Noviembre)
 http://iptv.electro-clair.net:8000/live/zizo/zizo/1757.m3u8
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", UNIVISION opcion 3
