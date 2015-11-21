@@ -1086,3 +1086,379 @@ http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Teletica 7
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Baby First TV
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Investigation Discovery
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SKY Sports News
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",NFL Network
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Canal De Las Estrellas
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=5
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=6
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Telemundo
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Tlnovelas America
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery en Español
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=9
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery Home & Health Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=10
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",H2 Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=11
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",National Geographic Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=12
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Animal Planet Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=13
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",ESPN Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=14
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TDN Mexico
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=15
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision TDN
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=16
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Channel Norte
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=17
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney XD Norte
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=18
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Junior Norte
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=19
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Nickelodeon Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=20
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Nick Jr Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=21
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery Kids America Latina
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=22
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Cartoon Network Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=23
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Boomerang Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=24
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Venus
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=25
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Sextreme
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=26
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Manhandle XXX
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=27
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Playboy TV Latin America
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=28
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Real
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=29
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Juicy
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=30
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Xtsy XXX
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=31
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Tooncast
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=32
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Baby TV Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=33
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Unicable
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=34
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Warner Channel Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=35
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",FX Latino
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",A&E Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=37
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TLC Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=38
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",MundoFox
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=39
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TNT Series Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=40
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Distrito Comedia
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=41
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Azteca Noticias
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=42
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HTV
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=43
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Bandamax
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=44
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=45
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Edge
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=46
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TNT America Latina
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=47
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",CineCanal
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=48
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Cinemax Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=49
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SPACE
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=50
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",AMC
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=51
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Studio Universal
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=52
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Film Zone
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=53
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Fox 1 Este
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=54
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HBO Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=55
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",MAX
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=56
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Premier 1
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=57
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Premier 2
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=58
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HBO 2 East
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=59
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Showtime Beyond East
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=60
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SKY Sports 1
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=61
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Los Simpsons (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=62
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",South Park (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=63
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Modern Family (ES)?
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=64
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Grimm (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=65
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Arrow (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=66
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",CSI: Las Vegas (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=67
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",NHL Network USA
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=68
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Ultimate Events & Sports
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=69
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Playboy TV
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=70
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Encore Action East
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=71
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",BOXnation
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=72
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Syfy Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=73
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Planeta Futbol
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=74
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Mas Chic
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&CANAL=221&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=85&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",SONY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=89&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",WARNER B
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=93&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",UNIVERSAL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=97&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FX
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=101&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",A AND E
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=105&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",AXN
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=109&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TRUTV
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=113&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",COMEDY CENTRAL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=117&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",UNICABLE
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=121&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX M
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=125&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",BBC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=129&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",E!
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=133&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",UNIVERSAL M
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=137&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX LIFE
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=139&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",SYFY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=141&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FX M
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=145&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ID
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=153&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TNT SERIES
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=157&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",GOURMET
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=161&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",GLITZ
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=165&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISTRITO COMEDIA
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=173&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TBS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=177&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",CASA
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=181&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TELENOVELAS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=185&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISCOVERY KIDS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=193&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",CBEEBIES
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=197&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISNEY JR
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=201&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",NICK JR
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=205&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISNEY CHANNEL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=209&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",WARNER B
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=209&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",NICK HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=213&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",NICK
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=217&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",CARTOON NETWORK
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=221&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISNEY XD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=225&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TIIN
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=233&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TOONCAST
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=237&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISCOVERY THEATER
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=241&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",HISTORY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=245&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",NATGEO WILD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=249&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TLC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=253&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISCOVERY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=257&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ANIMAL PLANET
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=261&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",HOME & HEALTH
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=265&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",NATIONAL GEOGRAPHIC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=269&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",LIFETIME (BIO)
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=273&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISCOVERY SCI
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=277&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISCOVERY CIVILIZATION
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=281&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DISCOVERY TURBO
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=285&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TLC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=289&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",WOBI
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=293&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX1 HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=297&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX ACTION
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=301&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX MOVIE
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=305&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",CINECANAL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=309&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TNT
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=313&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",GOLDEN
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=317&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FILM ZONE
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=321&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",DEPELICULA
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=325&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",AMC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=329&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",SPACE HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=333&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX PREMIERES
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=300&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX CINEMA
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=337&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX FAMILY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=341&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX CLASSIC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=345&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",CINECANAL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=349&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",CINEMAX
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=353&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TNT
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=357&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",GOLDEN EDGE
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=361&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",AMC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=365&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",SPACE
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=369&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",STUDIO UNIVERSAL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=373&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ISAT
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=377&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TCM
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=381&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN+
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=389&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&CANAL=558&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN 2
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&CANAL=561&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN 3
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=393&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Fox SPORTS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=397&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Fox SPORTS 2
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=401&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Canal M
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=417&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TVE INTERNACIONAL
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=421&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",MTV Live
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=429&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",TELEHIT
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=433&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",VH1
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=437&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",MTV
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=441&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",RITMOSON
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=445&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",BANDMAX
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=449&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",BLOOMBERG
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=457&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Lucha Libre
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=465&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",NICKTOONS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=469&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",HMX
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=473&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",REALITY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=474&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",PX HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=475&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",MTV HITS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=476&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",1 CLASSIC
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=477&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESTRELLA HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=478&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",AZCORAZON HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=479&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Azteca Noticias HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=2&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Azteca 7
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=6&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Trece HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=12&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Azteca HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=16&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",40 HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=24&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Canal de las Estrellas HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=36&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Canal 5 HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=40&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Foro TV HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=48&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Canal 7 HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=56&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Gala TV HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=60&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Canal Once HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=64&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Trece HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=68&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",C3N Noticias
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=74&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Teleformula
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=84&PROFILE=03&F=.m3u8
