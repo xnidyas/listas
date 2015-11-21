@@ -1,1 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 5 HD..
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", AZTECA 7..
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Azteca 7 57..
+http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 13..
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS..  
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS 2..
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN HD..
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN..
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN2..
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN3..
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN HD-
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN-
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 2-
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX SPORTS-
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", FOX 2 SPORTS-
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", FOX SPORTS.
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", FOX SPORTS 2.
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ESPN HD.
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ESPN.
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ESPN 2.
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER1 TP", ESPN 3.
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", FOX 
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", FOX1
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER2 TP", FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", bein castalba eng
+http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/04.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", bein castalba Español
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", La sexta Castalba
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Tyc
+http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Fox Sports Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 2 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", ESPN 3 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", BeinSports en Español
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", BeinSports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",ESPN Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=14
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TDN Mexico
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=15
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision TDN
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=16
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Channel Norte
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=17
+
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN+
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=389&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&CANAL=558&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN 2
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&CANAL=561&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",ESPN 3
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=393&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Fox SPORTS
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=397&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Fox SPORTS 2
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=401&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Azteca 7
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=6&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Trece HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=12&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Azteca HD
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=16&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7a++
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", azteca 7 mexico+
+http://aztecalive-lh.akamaihd.net/i/0t3vkxp3t_1@175670/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES",azteca 13+
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", UFC brasil
+http://37.203.209.34:443/mobile/bob10/live.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", COMBATE
+http://bit.ly:80/IPTVGlobal-combate?live.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", Canal 4 Nicaragua
+http://72.46.226.61/live01/canal41/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="HD SPORTS", 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", RPC Panama DEPORTES<===
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 
