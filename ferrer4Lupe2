@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", TDN LUZ
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", RADIO
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER",,TDN (Real Madrid vs FCB: 21 Noviembre 11:15AM Hora de México)
 http://public.tuiptv.biz/public/PlayList.php?id=df26315a-6a32-4e78-b396-81f7d9fc34dc&channel=15
-#EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="TDN" group-title="CLASICO REAL MADRID VS FCB",TDN (Real Madrid vs FCB: 21 Noviembre 11:15AM Hora de México)
-http://public.tuiptv.biz/public/PlayList.php?id=df26315a-6a32-4e78-b396-81f7d9fc34dc&channel=15
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Real Madrid TV" group-title="CLASICO REAL MADRID VS FCB",Real Madrid TV (Real Madrid vs FCB: 21 Noviembre)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER",Real Madrid TV (Real Madrid vs FCB: 21 Noviembre)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Sport TV 1 Portugal" group-title="CLASICO REAL MADRID VS FCB",Sport TV 1 Portugal (Real Madrid vs FCB: 21 Noviembre)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER",Sport TV 1 Portugal (Real Madrid vs FCB: 21 Noviembre)
 rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 tvg-id="UK Sky Sports 2" tvg-name="UK Sky Sports 2" tvg-logo="Sky Sports 2 UK" group-title="CLASICO REAL MADRID VS FCB",Sky Sports 2 (Real Madrid vs FCB: 21 Noviembre)
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", CLASICO REAL MADRID VS FCB",Sky Sports 2 (Real Madrid vs FCB: 21 Noviembre)
 http://iptv.electro-clair.net:8000/live/zizo/zizo/1757.m3u8
 
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", CANAL 5 HD..
