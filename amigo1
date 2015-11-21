@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", AZTECA 7..
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", FOX SPORTS..  
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", FOX SPORTS 2..
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", ESPN HD..
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", ESPN..
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", ESPN2..
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER", ESPN3..
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Planeta Futbol
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=74
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TDN Mexico
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=15
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision TDN
+http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=16
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP DOCUMENTALES",DISCOVERY THEATER
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=241&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP DOCUMENTALES",HISTORY
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=245&PROFILE=03&F=.m3u8
