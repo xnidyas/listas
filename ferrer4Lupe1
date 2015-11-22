@@ -5,7 +5,6 @@ http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=369&PROFILE=03&F=.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA", azteca 7a++
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", UNIVISION opcion 3
