@@ -1,20 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",SPACE 1.
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",SPACE 2.
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",AZTECA 7.
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",AZTECA 7.
-http://200.76.77.237/LIVE/H01/CANAL57/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",AZTECA 7.
-http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=6&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",SPACE 2 rosadin.
+http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=369&PROFILE=03&F=.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA", azteca 7a++
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8?
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="ACA PASARAN LA PELEA",RPC Panama DEPORTES<=
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES FERRER",Real Madrid TV (Real Madrid vs FCB: 21 Noviembre)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="LUPE", UNIVISION opcion 3
