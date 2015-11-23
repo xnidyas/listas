@@ -1097,156 +1097,6 @@ http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="DEPORTES", Teletica 7
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Baby First TV
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=1
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Investigation Discovery
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=2
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SKY Sports News
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=3
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",NFL Network
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=4
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Canal De Las Estrellas
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=5
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=6
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Telemundo
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=7
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Tlnovelas America
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery en Español
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=9
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery Home & Health Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=10
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",H2 Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=11
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",National Geographic Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=12
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Animal Planet Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=13
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",ESPN Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=14
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TDN Mexico
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=15
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision TDN
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=16
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Channel Norte
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=17
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney XD Norte
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=18
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Junior Norte
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=19
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Nickelodeon Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=20
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Nick Jr Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=21
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery Kids America Latina
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=22
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Cartoon Network Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=23
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Boomerang Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=24
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Venus
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=25
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Sextreme
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=26
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Manhandle XXX
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=27
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Playboy TV Latin America
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=28
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Real
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=29
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Juicy
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=30
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Xtsy XXX
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=31
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Tooncast
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=32
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Baby TV Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=33
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Unicable
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=34
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Warner Channel Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=35
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",FX Latino
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=36
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",A&E Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=37
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TLC Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=38
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",MundoFox
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=39
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TNT Series Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=40
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Distrito Comedia
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=41
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Azteca Noticias
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=42
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HTV
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=43
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Bandamax
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=44
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=45
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Edge
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=46
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TNT America Latina
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=47
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",CineCanal
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=48
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Cinemax Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=49
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SPACE
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=50
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",AMC
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=51
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Studio Universal
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=52
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Film Zone
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=53
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Fox 1 Este
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=54
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HBO Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=55
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",MAX
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=56
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Premier 1
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=57
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Premier 2
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=58
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HBO 2 East
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=59
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Showtime Beyond East
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=60
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SKY Sports 1
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=61
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Los Simpsons (ES)
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=62
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",South Park (ES)
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=63
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Modern Family (ES)?
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=64
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Grimm (ES)
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=65
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Arrow (ES)
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=66
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",CSI: Las Vegas (ES)
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=67
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",NHL Network USA
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=68
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Ultimate Events & Sports
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=69
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Playboy TV
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=70
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Encore Action East
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=71
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",BOXnation
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=72
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Syfy Latinoamerica
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=73
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Planeta Futbol
-http://public.tuiptv.biz/public/PlayList.php?id=b0042fb8-7a1b-4453-9467-41c4803b9d70&channel=74
-
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Mas Chic
 http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&CANAL=221&PROFILE=03&F=.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",FOX
@@ -1473,3 +1323,151 @@ http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=68&PROFILE=0
 http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=74&PROFILE=03&F=.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP Rosadin",Teleformula
 http://rtvsource.webcindario.com/TP_PUBLIC.php?AUTH=NORMAN_BATES&ID=84&PROFILE=03&F=.m3u8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Baby First TV
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=1 
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Investigation Discovery
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SKY Sports News
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",NFL Network
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Canal De Las Estrellas
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=5
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=6
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Telemundo
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=7
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Tlnovelas America
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=8
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery en Español
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=9
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery Home & Health Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=10
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",H2 Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=11
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",National Geographic Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=12
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Animal Planet Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=13
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",ESPN Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=14
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TDN Mexico
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=15
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Univision TDN
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=16
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Channel Norte
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=17
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney XD Norte
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=18
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Disney Junior Norte
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=19
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Nickelodeon Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=20
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Nick Jr Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=21
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Discovery Kids America Latina
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=22
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Cartoon Network Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=23
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Boomerang Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=24
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Venus
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=25
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Sextreme
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=26
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Manhandle XXX
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=27
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Playboy TV Latin America
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=28
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Real
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=29
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Juicy
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=30
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Xtsy XXX
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=31
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Tooncast
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=32
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Baby TV Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=33
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Unicable
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=34
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Warner Channel Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=35
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",FX Latino
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=36
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",A&E Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=37
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TLC Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=38
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",MundoFox
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=39
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TNT Series Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=40
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Distrito Comedia
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=41
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Azteca Noticias
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=42
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HTV
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=43
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Bandamax
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=44
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=45
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Edge
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=46
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",TNT America Latina
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=47
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",CineCanal
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=48
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Cinemax Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=49
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SPACE
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=50
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",AMC
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=51
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Studio Universal
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=52
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Film Zone
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=53
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Fox 1 Este
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=54
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HBO Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=55
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",MAX
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=56
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Premier 1
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=57
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Golden Premier 2
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=58
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",HBO 2 East
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=59
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Showtime Beyond East
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=60
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",SKY Sports 1
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=61
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Los Simpsons (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=62
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",South Park (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=63
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Modern Family (ES)?
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=64
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Grimm (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=65
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Arrow (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=66
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",CSI: Las Vegas (ES)
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=67
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",NHL Network USA
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=68
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Ultimate Events & Sports
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=69
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Playboy TV
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=70
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Encore Action East
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=71
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",BOXnation
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=72
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Syfy Latinoamerica
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=73
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="FERRER3TP tuiptv",Planeta Futbol
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=74
