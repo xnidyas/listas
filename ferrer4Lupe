@@ -1,13 +1,18 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]LUPE [/COLOR]EL SALVADOR VRS CANADA
-http://iphone-streaming.ustream.tv/ustreamVideo/14372419/streams/live/playlist.m3u8
-#EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]SPACE 1.
-http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]SPACE 2.
-http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1, [COLOR deepskyblue]ACA PASARAN LA PELEA [/COLOR]AZTECA 7.
-http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTM3U
+#EXTINF:-1, Canal 2 EL SALVADOR [COLOR lime][B] - Nuevo[/COLOR][/B]
+http://streamup.global.ssl.fastly.net/app/c3r000s3iss-channel/playlist.m3u8
+#EXTINF:-1, Canal 6 EL SALVADOR [COLOR lime][B] - Nuevo[/COLOR][/B]
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u8
+#EXTINF:-1, Canal 12 EL SALVADOR [COLOR lime][B] - Nuevo[/COLOR][/B]
+http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u8
+#EXTINF:-1, Canal 21 EL SALVADOR [COLOR lime][B] - Nuevo[/COLOR][/B]
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1, Canal 33 EL SALVADOR [COLOR lime][B] - Nuevo[/COLOR][/B]
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TRV EL SALVADOR [COLOR lime][B] - Nuevo[/COLOR][/B]
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u
+#EXTINF:-1,Win Sports[COLOR green][B] - Corregido[/COLOR][/B]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]RCN CARACOL COLOMBIA
 http://185.63.255.26/live/LCrivqEAys9C/playlist.m3u8
 #EXTINF:-1, [COLOR yellow]LUPE [/COLOR]UNIVISION streamup1
